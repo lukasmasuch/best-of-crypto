@@ -4,6 +4,8 @@
 ## Related Resources
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**CoinGecko**](https://coingecko.com): World’s largest independent crypto data aggregator.
+- [**CoinMarketCap**](https://coinmarketcap.com): World's most-referenced price-tracking website for cryptoassets.
 
 ## Contribution
 
