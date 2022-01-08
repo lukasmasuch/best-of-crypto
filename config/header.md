@@ -1,11 +1,11 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    best-of-crypto
+    Best-of Crypto
     <br>
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome projects. Updated weekly.</strong>
+    <strong>🏆&nbsp; A ranked list of open-source digial currency and blockchain projects. Updated weekly.</strong>
 </p>
 
 <p align="center">
