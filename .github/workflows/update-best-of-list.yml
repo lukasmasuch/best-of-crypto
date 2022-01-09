@@ -43,18 +43,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - if: ${{ secrets.GH_API_KEY != null && secrets.GH_API_KEY != '' }}
-        name: update-best-of-list-with-custom-token
+      - name: update-best-of-list
         uses: best-of-lists/best-of-update-action@v0.8.4
         with:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
           github_key: ${{ secrets.GH_API_KEY }}
-      - if: ${{ ! (secrets.GITHUB_TOKEN != null && secrets.GITHUB_TOKEN != '')  }}
-        name: update-best-of-list
-        uses: best-of-lists/best-of-update-action@v0.8.4
-        with:
-          libraries_key: ${{ secrets.LIBRARIES_KEY }}
-          github_key: ${{ secrets.GITHUB_TOKEN}}
       - name: push-update
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
