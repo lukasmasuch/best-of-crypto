@@ -4,7 +4,7 @@ configuration:
   allowed_licenses: ["all"]
   require_license: False
   min_description_length: 0
-  min_stars: 100
+  min_stars: 150
   min_projectrank: 10
   hide_license_risk: True
 
