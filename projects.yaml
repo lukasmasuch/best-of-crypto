@@ -81,7 +81,7 @@ projects:
   - group: true
     group_id: eth
     name: ETH - Ethereum
-    homepage: https://github.com/ethereumjs
+    homepage: https://github.com/ethereum
     description: Decentralized platform for applications. Applications build on it can
       use smart contracts - computer algorithms which execute themselves when data is
       supplied to the platform. There is no need for any human operators.
