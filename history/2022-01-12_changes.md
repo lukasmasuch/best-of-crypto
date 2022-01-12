@@ -2,47 +2,15 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/symbol">XYM - Symbol</a></b> (🥇31 ·  ⭐ 470 · 📈) - Trusted and secure enterprise blockchain that smooths business..
-- <b><a href="https://github.com/bananocoin">BAN - Banano</a></b> (🥈23 ·  ⭐ 470 · 📈) - Dont let your memes be dreams! Banano is a fourth-generation.. <code><img src="https://git.io/J9cOx" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/factomproject">WFCT - Wrapped FCT</a></b> (🥈23 ·  ⭐ 380 · 📈) - Wrapped FCT (WFCT) is community led, 100% backed and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/nemproject">LYL - LoyalCoin</a></b> (🥈21 ·  ⭐ 620 · 📈) - Customer loyalty-oriented digital asset that is replacing and..
-- <b><a href="https://github.com/tronprotocol/tronweb">tronweb</a></b> (🥇29 ·  ⭐ 160 · 📈) - Javascript API Library for interacting with the TRON Network. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ethereum/populus">populus</a></b> (🥇24 ·  ⭐ 320 · 💀) - The Ethereum development framework with the most cute animal pictures. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ethereum/eth-abi">eth-abi</a></b> (🥈23 ·  ⭐ 120 · 📈) - Ethereum ABI utilities for python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/dusk-network/rusk">rusk</a></b> (🥈16 ·  ⭐ 45 · 📈) - Dusks Smart Contract Platform. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
+- <b><a href="https://github.com/airalab/hs-web3">hs-web3</a></b> (🥉14 ·  ⭐ 150 · 📈) - Web3 API for Haskell. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/brave-intl/bat-ledger">bat-ledger</a></b> (🥉13 ·  ⭐ 49 · 📈) - A BAT-based micropayments system for users and publishers. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/firmachain">FCT - Factom</a></b> (🥉16 ·  ⭐ 100 · 📉) - A General Purpose Data Layer for the Blockchain.
-- <b><a href="https://github.com/nearprotocol">NEAR - Near</a></b> (🥉13 ·  ⭐ 110 · 💀) - Sharded, developer-friendly, proof-of-stake public blockchain, built..
-- <b><a href="https://github.com/Onther-Tech">TON - Tokamak Network</a></b> (🥉5 ·  ⭐ 33 · 💀) - Platform that assures decentralized and secure.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/cryptonative-ch">DXD - DXdao</a></b> (🥉1 · 📉) - DXdao describes itself as a decentralized community that develops, governs,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/moon-migration">MOON - Mooncoin</a></b> (🥉1 · 📉) - For every millimetre of distance between Earth and Moon, there will be one..
-
-## ➕ Added Projects
-
-_Projects that were recently added to this best-of list._
-
-- <b><a href="https://github.com/centrifuge">CFG - Centrifuge</a></b> (🥇25 ·  ⭐ 400 · ➕) - The centrifuge token model powers centrifuge, providing the..
-- <b><a href="https://github.com/unlock-protocol">UDT - Unlock Protocol</a></b> (🥈23 ·  ⭐ 530 · ➕) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/diviproject">DIVX - Divi Exchange Token</a></b> (🥉19 ·  ⭐ 67 · ➕) - The Divi Project is built on a new custom blockchain..
-- <b><a href="https://github.com/ton-blockchain">GRAM - OpenGram</a></b> (🥉12 ·  ⭐ 1.3K · 💤) - The GRAM team is not the telegram official team. The goal of the..
-- <b><a href="https://github.com/SwarmMarkets">SMT - SmartMesh</a></b> (🥉11 ·  ⭐ 89 · ➕) - The Internet We Deserve If the Internet was conceived today,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/tombfinance">TSHARE - Tomb Shares</a></b> (🥉6 ·  ⭐ 32 · ➕) - No description. <code><img src="https://git.io/J9cOi" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/AngleProtocol">ANGLE - ANGLE</a></b> (🥉5 ·  ⭐ 32 · 🐣) - Governance token of the Angle Protocol. The Angle Protocol is a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/cherrynetwork">CHER - Cherry Network</a></b> (🥉4 ·  ⭐ 42 · 🐣) - Decentralized Autonomous Organization developing a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/mochi-lab">MOMA - Mochi Market</a></b> (🥉1 · ➕) - First product of Mochilab.org. Mochi.Market initially aims to.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/futurafinance">FFT - Futura Finance</a></b> (🥉1 · ➕) - No description. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/scrtlabs/catalyst">scrtlabs/catalyst</a></b> (🥈21 ·  ⭐ 2.3K · ➕) - An Algorithmic Trading Library for Crypto-Assets in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/BananoCoin/bananojs">bananojs</a></b> (🥈20 ·  ⭐ 31 · ➕) - JavaScript utilities for the banano cryptocurrency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/MultiChain/multichain">MultiChain/multichain</a></b> (🥉15 ·  ⭐ 510 · ➕) - Source code for multichaind, multichain-cli and.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code>
-- <b><a href="https://github.com/OmniLayer/spec">OmniLayer/spec</a></b> (🥉15 ·  ⭐ 310 · 💀) - Omni Protocol Specification (formerly Mastercoin). <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
-- <b><a href="https://github.com/SmartMeshFoundation/Spectrum">Spectrum</a></b> (🥉13 ·  ⭐ 89 · ➕) - SmartMesh Chain. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code>
-- <b><a href="https://github.com/JSEcoin/platform">JSEcoin/platform</a></b> (🥉13 ·  ⭐ 47 · 💀) - Platform agnostic core - Web, Desktop, Mobile. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code>
-- <b><a href="https://github.com/ton-blockchain/ton">ton-blockchain/ton</a></b> (🥉12 ·  ⭐ 1.3K · 💤) -  <code>Unlicensed</code>
-- <b><a href="https://github.com/dfinity/nns-dapp">nns-dapp</a></b> (🥉11 ·  ⭐ 31 · ➕) - The Dapp of the Internet Computers Network Nervous System. <code>Unlicensed</code>
-- <b><a href="https://github.com/AppStoreFoundation/asf-sdk">AppStoreFoundation/asf-sdk</a></b> (🥉9 ·  ⭐ 83 · 💀) - The ASF SDK lets you sell in-app items for AppCoins.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code>
-- <b><a href="https://github.com/tombfinance/tombfinance-frontend">tombfinance-frontend</a></b> (🥉9 ·  ⭐ 32 · ➕) - Official Tomb Finance Website. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/trustwallet/wallet-connect-kotlin">wallet-connect-kotlin</a></b> (🥉9 ·  ⭐ 31 · ➕) -  <code>Unlicensed</code>
-- <b><a href="https://github.com/AngleProtocol/angle-core">angle-core</a></b> (🥉7 ·  ⭐ 32 · 🐣) - Core Smart Contracts of the Angle Protocol. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code>
-- <b><a href="https://github.com/CherryNetwork/Cherry-Node">Cherry-Node</a></b> (🥉6 ·  ⭐ 42 · 🐣) - Cherry Networks node implemented in Rust. <code>Unlicensed</code>
+- <b><a href="https://github.com/filecoin-project/cpp-filecoin">cpp-filecoin</a></b> (🥉12 ·  ⭐ 110 · 📉) - C++17 implementation of Filecoin. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code>
 
