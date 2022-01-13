@@ -94,6 +94,49 @@ projects:
       digital currency, as the system works without a central bank or single administrator.
     category: cryptocurrency
   - group: true
+    group_id: etc
+    name: ETC - Ethereum Classic
+    homepage: https://github.com/ethereumclassic
+    description: Open source distributed computing platform based on blockchain that
+      offers a smart contract (scripting) functionality. It supports a modified version
+      of the Nakamoto consensus through stateful transactions based on transitions executed
+      on an..
+    category: smart-contract-platform
+  - group: true
+    group_id: neo
+    name: NEO - NEO
+    homepage: https://github.com/neo-project
+    description: Non-profit community-based blockchain project that utilizes blockchain
+      technology and digital identity to digitize assets, to automate the management
+      of digital assets using smart contracts, and to realize a smart economy with a
+      distributed network.
+    category: smart-contract-platform
+  - group: true
+    group_id: near
+    name: NEAR - Near
+    homepage: https://github.com/near
+    description: Sharded, developer-friendly, proof-of-stake public blockchain, built
+      by a world-class team that has built some of the worlds only sharded databases
+      at scale.
+    category: smart-contract-platform
+  - group: true
+    group_id: sc
+    name: SC - Siacoin
+    homepage: https://github.com/siafoundation
+    description: First decentralized storage platform secured by blockchain technology.
+      The Sia Storage Platform leverages underutilized hard drive capacity around the
+      world to create a data storage marketplace that is more reliable and lower cost
+      than traditional..
+    category: web3
+  - group: true
+    group_id: nmr
+    name: NMR - Numeraire
+    homepage: https://github.com/numerai
+    description: 'Numeraire: A Cryptographic Token for Coordinating Machine Intelligence
+      and Preventing Overfitting.'
+    category: defi
+    labels: ["eth"]
+  - group: true
     group_id: sol
     name: SOL - Solana
     homepage: https://github.com/solana-labs
@@ -242,14 +285,6 @@ projects:
       payments to anyone in the world. Litecoin is an open source, global payment network
       that is fully decentralized without any central authorities.
     category: cryptocurrency
-  - group: true
-    group_id: near
-    name: NEAR - Near
-    homepage: https://github.com/nearprotocol
-    description: Sharded, developer-friendly, proof-of-stake public blockchain, built
-      by a world-class team that has built some of the worlds only sharded databases
-      at scale.
-    category: smart-contract-platform
   - group: true
     group_id: ctsi
     name: CTSI - Cartesi
@@ -512,15 +547,6 @@ projects:
       DeFi and IoT. Elronds money & DeFi app Maiar offers an intuitive first-time experience..
     category: smart-contract-platform
   - group: true
-    group_id: etc
-    name: ETC - Ethereum Classic
-    homepage: https://github.com/ethereumclassic
-    description: Open source distributed computing platform based on blockchain that
-      offers a smart contract (scripting) functionality. It supports a modified version
-      of the Nakamoto consensus through stateful transactions based on transitions executed
-      on an..
-    category: smart-contract-platform
-  - group: true
     group_id: mana
     name: MANA - Decentraland
     homepage: https://github.com/decentraland
@@ -705,15 +731,6 @@ projects:
     category: defi
     labels: ["eth"]
   - group: true
-    group_id: neo
-    name: NEO - NEO
-    homepage: https://github.com/neo-project
-    description: Non-profit community-based blockchain project that utilizes blockchain
-      technology and digital identity to digitize assets, to automate the management
-      of digital assets using smart contracts, and to realize a smart economy with a
-      distributed network.
-    category: smart-contract-platform
-  - group: true
     group_id: kda
     name: KDA - Kadena
     homepage: https://github.com/kadena-io
@@ -822,9 +839,12 @@ projects:
     labels: ["one"]
   - group: true
     group_id: pokt
-    name: POKT
+    name: POKT - Pocket Network
     homepage: https://github.com/pokt-network
-    description: No description.
+    description: Blockchain data platform built for applications that uses cost-efficient
+      economics to coordinate and distribute data at scale, enabling seamless interactions
+      between blockchains and applications. With Pocket, the use of blockchains can
+      be simply..
     category: others
   - group: true
     group_id: nodl
@@ -992,15 +1012,6 @@ projects:
     category: metaverse
     labels: ["eth"]
   - group: true
-    group_id: sc
-    name: SC - Siacoin
-    homepage: https://github.com/NebulousLabs
-    description: First decentralized storage platform secured by blockchain technology.
-      The Sia Storage Platform leverages underutilized hard drive capacity around the
-      world to create a data storage marketplace that is more reliable and lower cost
-      than traditional..
-    category: web3
-  - group: true
     group_id: okt
     name: OKT - OEC Token
     homepage: https://github.com/okex
@@ -1108,7 +1119,9 @@ projects:
     group_id: anc
     name: ANC - Anchor Protocol
     homepage: https://github.com/Anchor-Protocol
-    description: No description.
+    description: Unique decentralized peer to peer internet cryptocurrency that provides
+      for its users. I2P and Tor compatible, it is resistant to crackdowns from hostile
+      authorities.
     category: defi
     labels: ["luna"]
   - group: true
@@ -1124,6 +1137,16 @@ projects:
     description: No description.
     category: others
     labels: ["ftm"]
+  - group: true
+    group_id: dydx
+    name: DYDX - dYdX
+    homepage: https://github.com/dydxfoundation
+    description: With an industry-leading product and a strong trajectory of organic
+      growth, the dYdX Layer 2 protocol is ready for the next phase of its evolution
+      handing over control to the community through the launch of DYDX. DYDX is a governance
+      token that..
+    category: exchange-tokens
+    labels: ["eth"]
   - group: true
     group_id: chsb
     name: CHSB - SwissBorg
@@ -1318,7 +1341,7 @@ projects:
   - group: true
     group_id: cspr
     name: CSPR - Casper Network
-    homepage: https://github.com/casper-network
+    homepage: https://github.com/casper-ecosystem
     description: First live proof-of-stake blockchain built off the Casper CBC specification.
       Casper is designed to accelerate enterprise and developer adoption of blockchain
       technology today and evolve to meet user needs in the future.
@@ -1706,10 +1729,7 @@ projects:
     group_id: ldo
     name: LDO - Lido DAO
     homepage: https://github.com/lidofinance
-    description: Launched on 15/01/2019 by Currency.com team based in Gibraltar and
-      Belarus, represents a tokenised version of traditional financial market -Leonardo
-      SPA shares on Ethereum blockchain, price of underlined assets is tailored to Leonardo
-      SPA market..
+    description: No description.
     category: web3
     labels: ["eth"]
   - group: true
@@ -1774,14 +1794,6 @@ projects:
     category: web3
     labels: ["eth"]
   - group: true
-    group_id: nmr
-    name: NMR - Numeraire
-    homepage: https://github.com/numerai
-    description: 'Numeraire: A Cryptographic Token for Coordinating Machine Intelligence
-      and Preventing Overfitting.'
-    category: defi
-    labels: ["eth"]
-  - group: true
     group_id: bzz
     name: BZZ - Swarm
     homepage: https://github.com/ethersphere
@@ -1823,7 +1835,7 @@ projects:
     description: Blockchain based storage solutions that store a data identifier (e.g.
       hash) in a blockchain, but store the data somewhere else do not improve the security
       of our data. That somewhere else still needs to be secured, and if this data can
-      be..
+      be deleted,..
     category: web3
   - group: true
     group_id: steem
@@ -1977,6 +1989,16 @@ projects:
     homepage: https://github.com/handshake-org
     description: Decentralized naming and certificate authority
     category: web3
+  - group: true
+    group_id: noia
+    name: NOIA - Syntropy
+    homepage: https://github.com/SyntropyNet
+    description: Next-generation, Content Delivery Network, designed to utilize the
+      vast available bandwidth (and storage) from households and data centers located
+      throughout the world, creating a widely distributed and decentralized layer of
+      the internets..
+    category: iot
+    labels: ["eth"]
   - group: true
     group_id: clv
     name: CLV - Clover Finance
@@ -2607,7 +2629,7 @@ projects:
   - group: true
     group_id: blt
     name: BLT - Blocto Token
-    homepage: https://github.com/portto
+    homepage: https://github.com/hellobloom
     description: Cross-chain, integrated smart contract wallet service designed for
       both developers and users. In the vision we would like to be the Steam for dApps,
       A cross-chain dApp ecosystem for dApps to grow exponentially. Blocto token (BLT)
@@ -2860,14 +2882,6 @@ projects:
     category: others
     labels: ["eth"]
   - group: true
-    group_id: go
-    name: GO - GoChain
-    homepage: https://github.com/gochain-io
-    description: Scalable, Ethereum based smart contract blockchain that is fast, secure
-      and green. It enables DApp and smart contract developers to lift and shift from
-      Ethereum to GoChain for 100x increased performance.
-    category: smart-contract-platform
-  - group: true
     group_id: cvp
     name: CVP - PowerPool Concentrated Voting Power
     homepage: https://github.com/powerpool-finance
@@ -2974,16 +2988,6 @@ projects:
     description: Trade and Communicate with Absolute Freedom.
     category: privacy-coins
   - group: true
-    group_id: dxd
-    name: DXD - DXdao
-    homepage: https://github.com/cryptonative-ch
-    description: DXdao describes itself as a decentralized community that develops,
-      governs, and grows DeFi protocols and products. Its initial members were seeded
-      through a 1-month process where over $20M in ETH and other tokens were staked
-      and 400+ addresses..
-    category: web3
-    labels: ["eth"]
-  - group: true
     group_id: nex
     name: NEX - Nash
     homepage: https://github.com/nash-io
@@ -3053,7 +3057,7 @@ projects:
   - group: true
     group_id: vtc
     name: VTC - Vertcoin
-    homepage: https://github.com/vertcoin
+    homepage: https://github.com/vertcoin-project
     description: Open source peer to peer digital currency focused heavily on decentralization.
       Mining Vertcoin is easy & our algorithm is ASIC resistant.
     category: privacy-coins
@@ -3173,7 +3177,7 @@ projects:
   - group: true
     group_id: grin
     name: GRIN - Grin
-    homepage: https://github.com/mimblewimble
+    homepage: https://github.com/grinplusplus
     description: Grin empowers anyone to transact or save modern money without the fear
       of external control or oppression. Grin is designed for the decades to come, not
       just tomorrow. Grin wants to be usable by everyone, regardless of borders, culture,
@@ -3326,15 +3330,6 @@ projects:
       learning.
     category: web3
     labels: ["eth"]
-  - group: true
-    group_id: safe
-    name: SAFE - SafeCoin
-    homepage: https://github.com/bankledger
-    description: 'Technology platform at the bottom layer of the block chain with six
-      major application scenarios: SafePay(prompt payment, secure payment), SafeAsset
-      (asset management and distribution), SafeVote (secure voting), SafeSecurity (Blockchain
-      Ecosystem..'
-    category: others
   - group: true
     group_id: cws
     name: CWS - Seascape Crowns
@@ -3558,6 +3553,16 @@ projects:
     category: smart-contract-platform
     labels: ["bsc"]
   - group: true
+    group_id: note
+    name: NOTE - Notional Finance
+    homepage: https://github.com/notional-finance
+    description: Shared stake concept, placing a large percentage of the coins in the
+      hands of many, increasing personal stake and personal interest in the coin in
+      promoting the long term value of the currency. A rapid acceptance by a very large
+      number of..
+    category: others
+    labels: ["eth"]
+  - group: true
     group_id: snm
     name: SNM - SONM
     homepage: https://github.com/sonm-io
@@ -3688,7 +3693,7 @@ projects:
   - group: true
     group_id: tnt
     name: TNT - Tierion
-    homepage: https://github.com/chainpoint
+    homepage: https://github.com/tierion
     description: Use the blockchain as a global platform to verify any data, file, or
       business process. Developer tools & API to anchor data in the blockchain.
     category: others
@@ -3701,6 +3706,16 @@ projects:
       staking rewards as sETH2 (deposit token) and rETH2 (reward token). All tokens
       are mapped 1:1 to ETH in the Pool and can be used as a representation of staked
       Ether in the DeFi..
+    category: others
+    labels: ["eth"]
+  - group: true
+    group_id: giv
+    name: GIV - Giveth
+    homepage: https://github.com/giveth
+    description: Community focused on Building the Future of Giving using blockchain
+      technology. Our intention is to support and reward the funding of public goods
+      by creating open, transparent and free access to the revolutionary funding opportunities
+      available..
     category: others
     labels: ["eth"]
   - group: true
@@ -3820,16 +3835,6 @@ projects:
     category: web3
     labels: ["eth"]
   - group: true
-    group_id: clam
-    name: CLAM - OtterClam
-    homepage: https://github.com/OtterClam
-    description: CLAMs are a form of digital value, or currency, that is transferred,
-      created, and verified by the collective effort of the computers running the CLAMs
-      software. Similar to Bitcoin, the original technology on top of which CLAMs was
-      created, this..
-    category: defi
-    labels: ["matic"]
-  - group: true
     group_id: cmt
     name: CMT - CyberMiles
     homepage: https://github.com/cybermiles
@@ -3852,16 +3857,6 @@ projects:
       amazing blockchain applications. Based on QTUM (fork of QTUM codebase).
     category: metaverse
   - group: true
-    group_id: smt
-    name: SMT - SmartMesh
-    homepage: https://github.com/SwarmMarkets
-    description: The Internet We Deserve If the Internet was conceived today, it would
-      have been a P2P network that connects smartphones, and it would have been safer,
-      cheaper, faster. SmartMesh Ecosystem Structure SmartMesh is a Token-based next
-      generation..
-    category: iot
-    labels: ["eth"]
-  - group: true
     group_id: 'true'
     name: TRUE - TrueChain
     homepage: https://github.com/truechain
@@ -3882,10 +3877,8 @@ projects:
     group_id: node
     name: NODE - DAppNode
     homepage: https://github.com/dappnode
-    description: The DAppNode DAO will be an inclusive hub in which DAppNodes community
-      will carry on its mission to keep the web decentralized, uncensored and resilient.
-      Active DAO members will have the opportunity to vote on DAppNodes future projects
-      and on how..
+    description: Smart nodes on the chain where Acute angle blockchain smartphones deliver
+      behavioral value benefit everyone from behavioral value.
     category: others
     labels: ["eth"]
   - group: true
@@ -3997,13 +3990,6 @@ projects:
     description: Fun, fast, and easy way to send money to friends and businesses.
     category: privacy-coins
   - group: true
-    group_id: moon
-    name: MOON - Mooncoin
-    homepage: https://github.com/moon-migration
-    description: For every millimetre of distance between Earth and Moon, there will
-      be one Mooncoin. There is no premine for this coin.
-    category: defi
-  - group: true
     group_id: ftc
     name: FTC - Feathercoin
     homepage: https://github.com/FeatherCoin
@@ -4042,10 +4028,8 @@ projects:
     group_id: emc
     name: EMC - EmerCoin
     homepage: https://github.com/emercoin
-    description: Open-source cryptocurrency which originated from Bitcoin, Peercoin
-      and Namecoin. Other than being a cryptocurrency, it is also a platform for secure
-      distributed blockchain business services. The EMC coin is used for accessing the
-      blockchain-based..
+    description: Emercoin - Distributed blockchain services for business and personal
+      use.
     category: others
   - group: true
     group_id: bis
@@ -4531,7 +4515,7 @@ projects:
     description: The overarching goal of DeVault is to simply be social digital economy
       for everyone, with the spirit of decentralization at the very core and a complete
       community governance system that everyone has a voice in. To accomplish these
-      goals we will..
+      goals we will be..
     category: cryptocurrency
   - group: true
     group_id: dfi
@@ -4658,9 +4642,10 @@ projects:
     group_id: lbtc
     name: LBTC - Lightning Bitcoin
     homepage: https://github.com/lbtcio
-    description: 'LiteBitcoin uses peer-to-peer technology to operate with no central
-      authority: managing transactions and issuing money are carried out collectively
-      by the network.'
+    description: Fully decentralized Internet-of-value protocol for global payments.
+      The specific applications include peer-to-peer transactions and exchange platforms.
+      Any users that operate on the LBTC protocol can enjoy instant, secure and nearly
+      free global..
     category: others
   - group: true
     group_id: jbx
@@ -4673,7 +4658,7 @@ projects:
   - group: true
     group_id: bch
     name: BCH - Bitcoin Cash
-    homepage: https://github.com/k-nuth
+    homepage: https://github.com/gcash
     description: Cryptocurrency. It is a fork (a copy in a way) of Bitcoin (BTC). It
       was created in August 2017 as a result of a disagreement on bitcoin scalability
       problems. Influential miners, developers and investors not content with the Segregated
@@ -4959,16 +4944,6 @@ projects:
     category: web3
     labels: ["eth"]
   - group: true
-    group_id: moma
-    name: MOMA - Mochi Market
-    homepage: https://github.com/mochi-lab
-    description: 'First product of Mochilab.org. Mochi.Market initially aims to solve
-      three important current challenges: lack of liquidity in the NFT market, lack
-      of monetization strategy for NFT holders during their holding period, and lack
-      of crosschain usage..'
-    category: metaverse
-    labels: ["eth"]
-  - group: true
     group_id: dvp
     name: DVP - Decentralized Vulnerability Platform
     homepage: https://github.com/dvpnet
@@ -5039,7 +5014,7 @@ projects:
   - group: true
     group_id: bos
     name: BOS - BOScoin
-    homepage: https://github.com/boscore
+    homepage: https://github.com/owlchain
     description: BOScoin - self-evolving cryptocurrency platform. The Modified Federated
       Byzantine Agreement algorithm will allow for low latency transactions while being
       more energy efficient. BOScoin aims to overcome the technical and operational
@@ -5211,10 +5186,9 @@ projects:
     group_id: aph
     name: APH - APHolding Coin
     homepage: https://github.com/aphtoken
-    description: Launched on 15/01/2019 by Currency.com team based in Gibraltar and
-      Belarus, represents a tokenised version of traditional financial market -Amphenol
-      shares on Ethereum blockchain, price of underlined assets is tailored to Amphenol
-      market price...
+    description: Aphelion is supposed to be P2P trading platform (DEX) built on the
+      NEO blockchain that brings a wallet based peer-to-peer trading experience to cryptocurrency
+      traders worldwide. In development.
     category: others
   - group: true
     group_id: divx
@@ -5315,7 +5289,7 @@ projects:
   - group: true
     group_id: lyra
     name: LYRA - Lyra Finance
-    homepage: https://github.com/lyra-finance
+    homepage: https://github.com/scryptachain
     description: Distributed platform aiming to redefine business models and relationships
       between citizens, businesses and governments, making data unique, immutable, traceable
       and non-falsifiable.
@@ -5378,13 +5352,6 @@ projects:
       and future-safe platform, with low transaction costs for their users.
     category: others
     labels: ["eth"]
-  - group: true
-    group_id: fft
-    name: FFT - Futura Finance
-    homepage: https://github.com/futurafinance
-    description: No description.
-    category: others
-    labels: ["bsc"]
   - group: true
     group_id: gst2
     name: GST2 - GasToken
@@ -5473,7 +5440,7 @@ projects:
     description: Open-source platform to create decentralized solutions. Libonomy offers
       the industrys fastest blockchain to provide developers and business owners with
       a scalable, efficient and interoperable environment with many new key features
-      that improve..
+      that improve user..
     category: others
   - group: true
     group_id: sff
@@ -5517,16 +5484,6 @@ projects:
       needs. QURAS DApp currently in development will serve as use-case models and promotion
       for QURAS protocol. This DApp will grant crypto currencies just by taking a walk.
       You..
-    category: others
-    labels: ["eth"]
-  - group: true
-    group_id: vsn
-    name: VSN - Vision Network
-    homepage: https://github.com/voken100g
-    description: Set of infrastructure for building a decentralized Internet. It is
-      a distributed extensible virtual network, based on the physical network layer
-      and the ISP network layer. Vision Network uses blockchain technology, distributed
-      networks, and..
     category: others
     labels: ["eth"]
   - group: true
@@ -5941,80 +5898,105 @@ projects:
       enables people to apply crypto currency simply to every aspect of their lives.
       Marks work as a..
     category: others
+  - group: true
+    group_id: mx
+    name: MX - MX Token
+    homepage: https://github.com/mxcdevelop
+    description: Proof of rights and interests of MXC trading platform itself. Its total
+      circulation is 3 billion constantly and never be added. MX holders can enjoy a
+      series of rights and interests including asset appreciation, rebates on platform
+      revenue,..
+    category: exchange-tokens
+    labels: ["eth"]
+  - group: true
+    group_id: blz
+    name: BLZ - Bluzelle
+    homepage: https://github.com/bluzelle
+    description: Bluzelle combines the sharing economy with the token economy - renting
+      individuals computer storage space to earn tokens while dApp developers use tokens
+      to have their dApps data stored and managed.
+    category: web3
+    labels: ["eth"]
+  - group: true
+    group_id: stc
+    name: STC - Starcoin
+    homepage: https://github.com/starcoinorg
+    description: Student Coin aims to change the future of the digital economy. Student
+      Coin is the first platform that allows users to easily design, create, and manage
+      personal, corporate, NFT, and DeFi tokens. Similar to Facebook at the beginning
+      of its journey,..
+    category: others
+  - group: true
+    group_id: lthn
+    name: LTHN - Lethean
+    homepage: https://github.com/letheanvpn
+    description: Fuel and operating currency for our peer-to-peer (P2P) decentralized
+      VPN. It is based on the CryptoNote technology and uses the exclusive CryptoNight
+      algorithm. Following development and integration of VPN capabilities into the
+      wallet (see roadmap..
+    category: privacy-coins
+  - group: true
+    group_id: face
+    name: FACE - Faceter
+    homepage: https://github.com/faceterteam
+    description: Core of the decentralized network, both as a Proof of Recognition and
+      a flexible, transparent, closed-loop cross-border settlement mechanism for all
+      participants.
+    category: web3
+    labels: ["eth"]
+  - group: true
+    group_id: aolb
+    name: AOLB - Argentum Online Libre Token B
+    homepage: https://github.com/ao-libre
+    description: Collaborative project using open-source as a banner. Everyone is invited
+      to participate by making modifications to the code, graphics, sounds, adding items,
+      spells, mapping or being part of the organization of the game within the server.
+      All our..
+    category: others
+  - group: true
+    group_id: ixo
+    name: IXO - IXO
+    homepage: https://github.com/ixofoundation
+    description: The ixo protocol defines a new open standard for producing verifiable
+      claims about changes in the state of the world. Which are the basis for impact
+      creators to mint non-fungible (NFT) Impact Tokens.Sustainable Decentralised Finance
+      (Sustainable..
+    category: others
+  - group: true
+    group_id: joystream
+    name: JOYSTREAM
+    homepage: https://github.com/joystream
+    description: No description.
+    category: others
+  - group: true
+    group_id: laminar
+    name: LAMINAR
+    homepage: https://github.com/laminar-protocol
+    description: No description.
+    category: defi
+  - group: true
+    group_id: mailchain
+    name: MAILCHAIN
+    homepage: https://github.com/mailchain
+    description: No description.
+    category: others
+  - group: true
+    group_id: ldxg
+    name: LDXG
+    homepage: https://github.com/mosaicnetworks
+    description: No description.
+    category: others
+  - group: true
+    group_id: axnt
+    name: AXNT - Axentro
+    homepage: https://github.com/axentro
+    description: 'Original proof of work blockchain platform that empowers developers
+      to build decentralised apps quickly and cheaply. It features the following: CPU
+      mining using the award winning Argon2d hashing algorithm Decentralised apps platform
+      Human readable..'
+    category: others
 
   # Projects
-  - name: rlp
-    github_id: ethereumjs/rlp
-    group_id: eth
-    maven_id: org.webjars.npm:rlp
-    npm_id: rlp
-  - name: merkle-patricia-tree
-    github_id: ethereumjs/merkle-patricia-tree
-    group_id: eth
-  - name: ethereumjs-util
-    github_id: ethereumjs/ethereumjs-util
-    group_id: eth
-    npm_id: ethereumjs-utils
-  - name: ethashjs
-    github_id: ethereumjs/ethashjs
-    group_id: eth
-    npm_id: ethashjs
-  - name: ethereumjs-monorepo
-    github_id: ethereumjs/ethereumjs-monorepo
-    group_id: eth
-    maven_id: org.webjars.npm:ethereumjs-util
-    npm_id: ethereumjs-util
-  - name: ethereumjs-account
-    github_id: ethereumjs/ethereumjs-account
-    group_id: eth
-    maven_id: org.webjars.npm:ethereumjs-account
-    npm_id: ethereumjs-account
-  - name: keythereum
-    github_id: ethereumjs/keythereum
-    group_id: eth
-    npm_id: keythereum
-  - name: ethereumjs-abi
-    github_id: ethereumjs/ethereumjs-abi
-    group_id: eth
-    maven_id: org.webjars.npm:ethereumjs-abi
-    npm_id: ethereumjs-abi
-  - name: ethereumjs-wallet
-    github_id: ethereumjs/ethereumjs-wallet
-    group_id: eth
-    maven_id: org.webjars.npm:ethereumjs-wallet
-    npm_id: ethereumjs-wallet
-  - name: browser-builds
-    github_id: ethereumjs/browser-builds
-    group_id: eth
-  - name: ethereumjs-devp2p
-    github_id: ethereumjs/ethereumjs-devp2p
-    group_id: eth
-    npm_id: ethereumjs-devp2p
-  - name: ethereumjs-blockstream
-    github_id: ethereumjs/ethereumjs-blockstream
-    group_id: eth
-    npm_id: ethereumjs-blockstream
-  - name: ethereumjs-client
-    github_id: ethereumjs/ethereumjs-client
-    group_id: eth
-    npm_id: ethereumjs-client
-  - name: parity-ethereum
-    github_id: openethereum/parity-ethereum
-    group_id: eth
-    npm_id: '@parity/parity.js'
-    cargo_id: keccak-hasher
-  - name: wordlist
-    github_id: openethereum/wordlist
-    group_id: eth
-    npm_id: '@parity/wordlist'
-    cargo_id: parity-wordlist
-  - name: js-libs
-    github_id: openethereum/js-libs
-    group_id: eth
-    npm_id: '@parity/abi'
-  - name: openethereum
-    github_id: openethereum/openethereum
-    group_id: eth
   - name: go-ethereum
     github_id: ethereum/go-ethereum
     group_id: eth
@@ -6134,40 +6116,13 @@ projects:
   - name: evmc
     github_id: ethereum/evmc
     group_id: eth
-    go_id: github.com/ethereum/evmc/v9
     cargo_id: evmc-sys
-  - name: vyper
-    github_id: vyperlang/vyper
-    group_id: eth
-    conda_id: conda-forge/vyper
-    pypi_id: vyper
-  - name: Nethereum
-    github_id: Nethereum/Nethereum
-    group_id: eth
-    npm_id: nethereum-codegen
-  - name: Nethereum.UI.Wallet.Sample
-    github_id: Nethereum/Nethereum.UI.Wallet.Sample
-    group_id: eth
-  - name: Nethereum.BlockchainStorage
-    github_id: Nethereum/Nethereum.BlockchainStorage
-    group_id: eth
-  - name: Unity3dSimpleSample
-    github_id: Nethereum/Unity3dSimpleSample
-    group_id: eth
-  - name: Unity3dSimpleSampleNet461
-    github_id: Nethereum/Unity3dSimpleSampleNet461
-    group_id: eth
-  - name: Nethereum-Explorer-Wallet-Template-Blazor
-    github_id: Nethereum/Nethereum-Explorer-Wallet-Template-Blazor
-    group_id: eth
-  - name: Nethereum.Metamask.Blazor
-    github_id: Nethereum/Nethereum.Metamask.Blazor
-    group_id: eth
+    go_id: github.com/ethereum/evmc/v9
   - name: openzeppelin-contracts
     github_id: OpenZeppelin/openzeppelin-contracts
     group_id: eth
-    maven_id: org.webjars.npm:openzeppelin__contracts
     npm_id: '@openzeppelin/contracts'
+    maven_id: org.webjars.npm:openzeppelin__contracts
   - name: token-vesting-ui
     github_id: OpenZeppelin/token-vesting-ui
     group_id: eth
@@ -6184,8 +6139,8 @@ projects:
   - name: openzeppelin-contracts-upgradeable
     github_id: OpenZeppelin/openzeppelin-contracts-upgradeable
     group_id: eth
-    maven_id: org.webjars.npm:openzeppelin__contracts-upgradeable
     npm_id: openzeppelin-eth
+    maven_id: org.webjars.npm:openzeppelin__contracts-upgradeable
   - name: openzeppelin-sdk
     github_id: OpenZeppelin/openzeppelin-sdk
     group_id: eth
@@ -6248,6 +6203,105 @@ projects:
     github_id: OpenZeppelin/nile
     group_id: eth
     pypi_id: cairo-nile
+  - name: Nethereum
+    github_id: Nethereum/Nethereum
+    group_id: eth
+    npm_id: nethereum-codegen
+  - name: Nethereum.UI.Wallet.Sample
+    github_id: Nethereum/Nethereum.UI.Wallet.Sample
+    group_id: eth
+  - name: Nethereum.BlockchainStorage
+    github_id: Nethereum/Nethereum.BlockchainStorage
+    group_id: eth
+  - name: Unity3dSimpleSample
+    github_id: Nethereum/Unity3dSimpleSample
+    group_id: eth
+  - name: Unity3dSimpleSampleNet461
+    github_id: Nethereum/Unity3dSimpleSampleNet461
+    group_id: eth
+  - name: Nethereum-Explorer-Wallet-Template-Blazor
+    github_id: Nethereum/Nethereum-Explorer-Wallet-Template-Blazor
+    group_id: eth
+  - name: Nethereum.Metamask.Blazor
+    github_id: Nethereum/Nethereum.Metamask.Blazor
+    group_id: eth
+  - name: parity-ethereum
+    github_id: openethereum/parity-ethereum
+    group_id: eth
+    npm_id: '@parity/parity.js'
+    cargo_id: keccak-hasher
+  - name: wordlist
+    github_id: openethereum/wordlist
+    group_id: eth
+    npm_id: '@parity/wordlist'
+    cargo_id: parity-wordlist
+  - name: js-libs
+    github_id: openethereum/js-libs
+    group_id: eth
+    npm_id: '@parity/abi'
+  - name: openethereum
+    github_id: openethereum/openethereum
+    group_id: eth
+  - name: rlp
+    github_id: ethereumjs/rlp
+    group_id: eth
+    npm_id: rlp
+    maven_id: org.webjars.npm:rlp
+  - name: merkle-patricia-tree
+    github_id: ethereumjs/merkle-patricia-tree
+    group_id: eth
+  - name: ethereumjs-util
+    github_id: ethereumjs/ethereumjs-util
+    group_id: eth
+    npm_id: ethereumjs-utils
+  - name: ethashjs
+    github_id: ethereumjs/ethashjs
+    group_id: eth
+    npm_id: ethashjs
+  - name: ethereumjs-monorepo
+    github_id: ethereumjs/ethereumjs-monorepo
+    group_id: eth
+    npm_id: ethereumjs-util
+    maven_id: org.webjars.npm:ethereumjs-util
+  - name: ethereumjs-account
+    github_id: ethereumjs/ethereumjs-account
+    group_id: eth
+    npm_id: ethereumjs-account
+    maven_id: org.webjars.npm:ethereumjs-account
+  - name: keythereum
+    github_id: ethereumjs/keythereum
+    group_id: eth
+    npm_id: keythereum
+  - name: ethereumjs-abi
+    github_id: ethereumjs/ethereumjs-abi
+    group_id: eth
+    npm_id: ethereumjs-abi
+    maven_id: org.webjars.npm:ethereumjs-abi
+  - name: ethereumjs-wallet
+    github_id: ethereumjs/ethereumjs-wallet
+    group_id: eth
+    npm_id: ethereumjs-wallet
+    maven_id: org.webjars.npm:ethereumjs-wallet
+  - name: browser-builds
+    github_id: ethereumjs/browser-builds
+    group_id: eth
+  - name: ethereumjs-devp2p
+    github_id: ethereumjs/ethereumjs-devp2p
+    group_id: eth
+    npm_id: ethereumjs-devp2p
+  - name: ethereumjs-blockstream
+    github_id: ethereumjs/ethereumjs-blockstream
+    group_id: eth
+    npm_id: ethereumjs-blockstream
+  - name: ethereumjs-client
+    github_id: ethereumjs/ethereumjs-client
+    group_id: eth
+    npm_id: ethereumjs-client
+  - name: vyper
+    github_id: vyperlang/vyper
+    group_id: eth
+    conda_id: conda-forge/vyper
+    pypi_id: vyper
   - name: bitcoin
     github_id: bitcoin/bitcoin
     group_id: btc
@@ -6260,93 +6314,6 @@ projects:
     group_id: btc
   - name: libblkmaker
     github_id: bitcoin/libblkmaker
-    group_id: btc
-  - name: btcutil
-    github_id: btcsuite/btcutil
-    group_id: btc
-    go_id: github.com/btcsuite/btcutil
-  - name: btcd
-    github_id: btcsuite/btcd
-    group_id: btc
-    npm_id: btcd-binary
-    go_id: github.com/btcsuite/btcd
-  - name: btcwallet
-    github_id: btcsuite/btcwallet
-    group_id: btc
-    go_id: github.com/btcsuite/btcwallet/wtxmgr
-  - name: btcsim
-    github_id: btcsuite/btcsim
-    group_id: btc
-    go_id: github.com/btcsuite/btcsim
-  - name: bitcoinjs-lib
-    github_id: bitcoinjs/bitcoinjs-lib
-    group_id: btc
-    npm_id: bitcoinjs-lib
-  - name: bip38
-    github_id: bitcoinjs/bip38
-    group_id: btc
-    npm_id: bip38
-  - name: bip39
-    github_id: bitcoinjs/bip39
-    group_id: btc
-    npm_id: bip39
-  - name: bs58check
-    github_id: bitcoinjs/bs58check
-    group_id: btc
-    maven_id: org.webjars.npm:bs58check
-    npm_id: bs58check
-  - name: bip32-utils
-    github_id: bitcoinjs/bip32-utils
-    group_id: btc
-    npm_id: bip32-utils
-  - name: bip21
-    github_id: bitcoinjs/bip21
-    group_id: btc
-    npm_id: bip21
-  - name: bip32
-    github_id: bitcoinjs/bip32
-    group_id: btc
-    npm_id: bip32
-  - name: bip44-constants
-    github_id: bitcoinjs/bip44-constants
-    group_id: btc
-    npm_id: bip44-constants
-  - name: wif
-    github_id: bitcoinjs/wif
-    group_id: btc
-    npm_id: wif
-  - name: bitcoinjs-message
-    github_id: bitcoinjs/bitcoinjs-message
-    group_id: btc
-    npm_id: bitcoinjs-message
-  - name: coinselect
-    github_id: bitcoinjs/coinselect
-    group_id: btc
-    npm_id: coinselect
-  - name: indexd
-    github_id: bitcoinjs/indexd
-    group_id: btc
-    npm_id: indexd
-  - name: bech32
-    github_id: bitcoinjs/bech32
-    group_id: btc
-    maven_id: org.webjars.npm:bech32
-    npm_id: bech32
-  - name: tiny-secp256k1
-    github_id: bitcoinjs/tiny-secp256k1
-    group_id: btc
-    npm_id: tiny-secp256k1
-    cargo_id: tiny-secp256k1
-  - name: bolt11
-    github_id: bitcoinjs/bolt11
-    group_id: btc
-    npm_id: bolt11
-  - name: bitcoinj
-    github_id: bitcoinj/bitcoinj
-    group_id: btc
-    maven_id: org.bitcoinj:bitcoinj-core
-  - name: httpseed
-    github_id: bitcoinj/httpseed
     group_id: btc
   - name: elements
     github_id: ElementsProject/elements
@@ -6361,8 +6328,8 @@ projects:
   - name: libwally-core
     github_id: ElementsProject/libwally-core
     group_id: btc
-    pypi_id: wallycore
     npm_id: libwally-js
+    pypi_id: wallycore
   - name: scriptless-scripts
     github_id: ElementsProject/scriptless-scripts
     group_id: btc
@@ -6398,6 +6365,93 @@ projects:
     cargo_id: elements
   - name: simplicity
     github_id: ElementsProject/simplicity
+    group_id: btc
+  - name: bitcoinjs-lib
+    github_id: bitcoinjs/bitcoinjs-lib
+    group_id: btc
+    npm_id: bitcoinjs-lib
+  - name: bip38
+    github_id: bitcoinjs/bip38
+    group_id: btc
+    npm_id: bip38
+  - name: bip39
+    github_id: bitcoinjs/bip39
+    group_id: btc
+    npm_id: bip39
+  - name: bs58check
+    github_id: bitcoinjs/bs58check
+    group_id: btc
+    npm_id: bs58check
+    maven_id: org.webjars.npm:bs58check
+  - name: bip32-utils
+    github_id: bitcoinjs/bip32-utils
+    group_id: btc
+    npm_id: bip32-utils
+  - name: bip21
+    github_id: bitcoinjs/bip21
+    group_id: btc
+    npm_id: bip21
+  - name: bip32
+    github_id: bitcoinjs/bip32
+    group_id: btc
+    npm_id: bip32
+  - name: bip44-constants
+    github_id: bitcoinjs/bip44-constants
+    group_id: btc
+    npm_id: bip44-constants
+  - name: wif
+    github_id: bitcoinjs/wif
+    group_id: btc
+    npm_id: wif
+  - name: bitcoinjs-message
+    github_id: bitcoinjs/bitcoinjs-message
+    group_id: btc
+    npm_id: bitcoinjs-message
+  - name: coinselect
+    github_id: bitcoinjs/coinselect
+    group_id: btc
+    npm_id: coinselect
+  - name: indexd
+    github_id: bitcoinjs/indexd
+    group_id: btc
+    npm_id: indexd
+  - name: bech32
+    github_id: bitcoinjs/bech32
+    group_id: btc
+    npm_id: bech32
+    maven_id: org.webjars.npm:bech32
+  - name: tiny-secp256k1
+    github_id: bitcoinjs/tiny-secp256k1
+    group_id: btc
+    npm_id: tiny-secp256k1
+    cargo_id: tiny-secp256k1
+  - name: bolt11
+    github_id: bitcoinjs/bolt11
+    group_id: btc
+    npm_id: bolt11
+  - name: btcutil
+    github_id: btcsuite/btcutil
+    group_id: btc
+    go_id: github.com/btcsuite/btcutil
+  - name: btcd
+    github_id: btcsuite/btcd
+    group_id: btc
+    npm_id: btcd-binary
+    go_id: github.com/btcsuite/btcd
+  - name: btcwallet
+    github_id: btcsuite/btcwallet
+    group_id: btc
+    go_id: github.com/btcsuite/btcwallet/wtxmgr
+  - name: btcsim
+    github_id: btcsuite/btcsim
+    group_id: btc
+    go_id: github.com/btcsuite/btcsim
+  - name: bitcoinj
+    github_id: bitcoinj/bitcoinj
+    group_id: btc
+    maven_id: org.bitcoinj:bitcoinj-core
+  - name: httpseed
+    github_id: bitcoinj/httpseed
     group_id: btc
   - name: solana
     github_id: solana-labs/solana
@@ -6663,7 +6717,7 @@ projects:
   - name: wallet-provider
     github_id: terra-money/wallet-provider
     group_id: luna
-    npm_id: '@terra-dev/walletconnect'
+    npm_id: '@terra-dev/browser-check'
   - name: avash
     github_id: ava-labs/avash
     group_id: avax
@@ -6912,6 +6966,9 @@ projects:
     github_id: tendermint/tmkms
     group_id: atom
     cargo_id: cosmos-stdtx
+  - name: tendermint/awesome
+    github_id: tendermint/awesome
+    group_id: atom
   - name: tm-db
     github_id: tendermint/tm-db
     group_id: atom
@@ -6926,7 +6983,7 @@ projects:
   - name: vue
     github_id: tendermint/vue
     group_id: atom
-    npm_id: '@starport/vue'
+    npm_id: '@starport/vuex'
     go_id: github.com/tendermint/vue
   - name: liquidity
     github_id: tendermint/liquidity
@@ -6954,7 +7011,7 @@ projects:
   - name: v2-sdk
     github_id: Uniswap/v2-sdk
     group_id: uni
-    npm_id: axonuniswapsdk
+    npm_id: '@duythao_bacoor/v2-sdk'
   - name: unisocks-erc721
     github_id: Uniswap/unisocks-erc721
     group_id: uni
@@ -7384,10 +7441,6 @@ projects:
     github_id: pancakeswap/pancake-swap-lib
     group_id: cake
     npm_id: '@pancakeswap/pancake-swap-lib'
-  - name: pancakeswap-sdk-v1
-    github_id: pancakeswap/pancakeswap-sdk-v1
-    group_id: cake
-    npm_id: '@romeswap-libs/sdk'
   - name: pancake-info-v1
     github_id: pancakeswap/pancake-info-v1
     group_id: cake
@@ -7412,9 +7465,6 @@ projects:
     github_id: pancakeswap/pancake-swap-sdk
     group_id: cake
     npm_id: '@mysafety/sdk'
-  - name: pancakeswap-sdk-v2
-    github_id: pancakeswap/pancakeswap-sdk-v2
-    group_id: cake
   - name: stellar-client
     github_id: stellar/stellar-client
     group_id: xlm
@@ -7534,6 +7584,9 @@ projects:
     github_id: tronprotocol/tronbox
     group_id: trx
     npm_id: tronbox
+  - name: documentation-zh
+    github_id: tronprotocol/documentation-zh
+    group_id: trx
   - name: documentation-en
     github_id: tronprotocol/documentation-en
     group_id: trx
@@ -7667,8 +7720,8 @@ projects:
   - name: chain
     github_id: chain/chain
     group_id: chn
-    maven_id: com.chain:sequence-sdk
     npm_id: chain-sdk
+    maven_id: com.chain:sequence-sdk
   - name: go-spacemesh
     github_id: spacemeshos/go-spacemesh
     group_id: smh
@@ -8119,8 +8172,8 @@ projects:
   - name: iota.js
     github_id: iotaledger/iota.js
     group_id: miota
-    maven_id: cljsjs:iota
     npm_id: iota.lib.js
+    maven_id: cljsjs:iota
   - name: iota-java
     github_id: iotaledger/iota-java
     group_id: miota
@@ -8317,8 +8370,8 @@ projects:
   - name: stacks.js
     github_id: blockstack/stacks.js
     group_id: stx
-    pypi_id: opendig
     npm_id: blockstack
+    pypi_id: opendig
   - name: stacks-blockchain
     github_id: blockstack/stacks-blockchain
     group_id: stx
@@ -8642,8 +8695,8 @@ projects:
   - name: oasis-core
     github_id: oasisprotocol/oasis-core
     group_id: rose
-    go_id: github.com/oasisprotocol/oasis-core/go
     cargo_id: oasis-node
+    go_id: github.com/oasisprotocol/oasis-core/go
   - name: ed25519
     github_id: oasisprotocol/ed25519
     group_id: rose
@@ -8997,11 +9050,11 @@ projects:
   - name: dcrd
     github_id: decred/dcrd
     group_id: dcr
-    go_id: github.com/decred/dcrd/chaincfg/chainhash
+    go_id: github.com/decred/dcrd/gcs
   - name: dcrwallet
     github_id: decred/dcrwallet
     group_id: dcr
-    go_id: decred.org/dcrwallet
+    go_id: github.com/decred/dcrwallet/errors
   - name: decred-release
     github_id: decred/decred-release
     group_id: dcr
@@ -9251,8 +9304,8 @@ projects:
   - name: 0x-monorepo
     github_id: 0xProject/0x-monorepo
     group_id: zrx
-    pypi_id: 0x-json-schemas
     npm_id: '@0x/contracts-asset-proxy'
+    pypi_id: 0x-json-schemas
   - name: 0x-starter-project
     github_id: 0xProject/0x-starter-project
     group_id: zrx
@@ -9784,8 +9837,8 @@ projects:
   - name: oceanprotocol/contracts
     github_id: oceanprotocol/contracts
     group_id: ocean
-    pypi_id: ocean-contracts
     npm_id: '@oceanprotocol/contracts'
+    pypi_id: ocean-contracts
   - name: market
     github_id: oceanprotocol/market
     group_id: ocean
@@ -9887,7 +9940,7 @@ projects:
   - name: rusk
     github_id: dusk-network/rusk
     group_id: dusk
-    cargo_id: code-hasher
+    cargo_id: rusk-abi
   - name: rari-dApp
     github_id: Rari-Capital/rari-dApp
     group_id: rgt
@@ -10154,8 +10207,8 @@ projects:
   - name: wallet-core
     github_id: trustwallet/wallet-core
     group_id: twt
-    maven_id: com.trustwallet.walletcore:walletcore
     npm_id: '@trustwallet/wallet-core'
+    maven_id: com.trustwallet.walletcore:walletcore
   - name: blockatlas
     github_id: trustwallet/blockatlas
     group_id: twt
@@ -10354,8 +10407,8 @@ projects:
   - name: Chia-Network/bls-signatures
     github_id: Chia-Network/bls-signatures
     group_id: xch
-    pypi_id: blspy
     npm_id: bls-signatures
+    pypi_id: blspy
   - name: oldvdf-competition
     github_id: Chia-Network/oldvdf-competition
     group_id: xch
@@ -10387,9 +10440,9 @@ projects:
   - name: clvm_rs
     github_id: Chia-Network/clvm_rs
     group_id: xch
-    pypi_id: clvm-rs
     npm_id: clvm_rs
     cargo_id: clvm_rs
+    pypi_id: clvm-rs
   - name: chia-blockchain-gui
     github_id: Chia-Network/chia-blockchain-gui
     group_id: xch
@@ -11078,7 +11131,7 @@ projects:
   - name: acala.js
     github_id: AcalaNetwork/acala.js
     group_id: kar
-    npm_id: '@acala-network/type-definitions'
+    npm_id: '@acala-network/types'
   - name: TellorCore
     github_id: tellor-io/TellorCore
     group_id: trb
@@ -11243,7 +11296,7 @@ projects:
   - name: saber-common
     github_id: saber-hq/saber-common
     group_id: sbr
-    npm_id: '@saberhq/token-utils'
+    npm_id: '@saberhq/use-solana'
   - name: captain
     github_id: saber-hq/captain
     group_id: sbr
@@ -11543,8 +11596,8 @@ projects:
   - name: qr-scanner
     github_id: nimiq/qr-scanner
     group_id: nim
-    maven_id: org.webjars.npm:qr-scanner
     npm_id: qr-scanner
+    maven_id: org.webjars.npm:qr-scanner
   - name: mining-pool
     github_id: nimiq/mining-pool
     group_id: nim
@@ -13433,11 +13486,17 @@ projects:
   - name: infinitecoin
     github_id: infinitecoin/infinitecoin
     group_id: ifc
+  - name: anoncoin
+    github_id: anoncoin/anoncoin
+    group_id: anc
   - name: xrpl.js
     github_id: XRPLF/xrpl.js
     group_id: xrp
     npm_id: ripple-lib
   - name: quark
+    github_id: quark-project/quark
+    group_id: qrk
+  - name: quark-project/quark
     github_id: quark-project/quark
     group_id: qrk
   - name: zetacoin
@@ -13469,10 +13528,10 @@ projects:
     github_id: bcndev/bytecoin-gui
     group_id: bcn
   - name: bytecoin
-    github_id: bcndev/bytecoin
-    group_id: bcn
-  - name: amjuarez/bytecoin
     github_id: amjuarez/bytecoin
+    group_id: bcn
+  - name: bcndev/bytecoin
+    github_id: bcndev/bytecoin
     group_id: bcn
   - name: jl777/komodo
     github_id: jl777/komodo
@@ -13495,13 +13554,13 @@ projects:
   - name: aeon
     github_id: aeonix/aeon
     group_id: aeon
-  - name: casper
-    github_id: ethereum/casper
-    group_id: eth
   - name: py-evm
     github_id: ethereum/py-evm
     group_id: eth
     pypi_id: py-evm
+  - name: casper
+    github_id: ethereum/casper
+    group_id: eth
   - name: skynet-webportal
     github_id: skynetlabs/skynet-webportal
     group_id: sc
@@ -13512,13 +13571,13 @@ projects:
   - name: dcrandroid
     github_id: planetdecred/dcrandroid
     group_id: dcr
-  - name: besu
-    github_id: hyperledger/besu
-    group_id: etc
   - name: multi-geth
     github_id: multi-geth/multi-geth
     group_id: etc
     go_id: github.com/multi-geth/multi-geth
+  - name: besu
+    github_id: hyperledger/besu
+    group_id: etc
   - name: core-geth
     github_id: etclabscore/core-geth
     group_id: etc
@@ -13537,11 +13596,11 @@ projects:
   - name: zclassic
     github_id: z-classic/zclassic
     group_id: zcl
-  - name: SuperNET
-    github_id: jl777/SuperNET
-    group_id: kmd
   - name: coins
     github_id: jl777/coins
+    group_id: kmd
+  - name: SuperNET
+    github_id: jl777/SuperNET
     group_id: kmd
   - name: gp-v2-contracts
     github_id: gnosis/gp-v2-contracts
@@ -13552,31 +13611,31 @@ projects:
   - name: sumokoin
     github_id: sumoprojects/sumokoin
     group_id: sumo
-  - name: iota.c
-    github_id: iotaledger/iota.c
-    group_id: miota
   - name: hornet
     github_id: iotaledger/hornet
-    group_id: miota
-  - name: chronicle.rs
-    github_id: iotaledger/chronicle.rs
     group_id: miota
   - name: stronghold.rs
     github_id: iotaledger/stronghold.rs
     group_id: miota
     cargo_id: iota_stronghold
+  - name: iota.c
+    github_id: iotaledger/iota.c
+    group_id: miota
+  - name: chronicle.rs
+    github_id: iotaledger/chronicle.rs
+    group_id: miota
+  - name: firefly
+    github_id: iotaledger/firefly
+    group_id: miota
   - name: streams
     github_id: iotaledger/streams
     group_id: miota
     npm_id: '@iota/streams-wasm'
-  - name: firefly
-    github_id: iotaledger/firefly
-    group_id: miota
   - name: erasure-protocol
     github_id: erasureprotocol/erasure-protocol
     group_id: nmr
-    pypi_id: erasure-client
     npm_id: '@erasure/abis'
+    pypi_id: erasure-client
   - name: denarius
     github_id: metaspartan/denarius
     group_id: d
@@ -13584,23 +13643,23 @@ projects:
     github_id: omise/omise-go
     group_id: omg
     go_id: github.com/omise/omise-go
-  - name: node-binance-api
-    github_id: binance-exchange/node-binance-api
-    group_id: bnb
   - name: binance-official-api-docs
     github_id: binance-exchange/binance-official-api-docs
+    group_id: bnb
+  - name: node-binance-api
+    github_id: binance-exchange/node-binance-api
     group_id: bnb
   - name: php-binance-api
     github_id: binance-exchange/php-binance-api
     group_id: bnb
-  - name: stacks-wallet
-    github_id: hirosystems/stacks-wallet
+  - name: stacks-wallet-web
+    github_id: hirosystems/stacks-wallet-web
     group_id: stx
   - name: hirosystems/explorer
     github_id: hirosystems/explorer
     group_id: stx
-  - name: stacks-wallet-web
-    github_id: hirosystems/stacks-wallet-web
+  - name: stacks-wallet
+    github_id: hirosystems/stacks-wallet
     group_id: stx
   - name: deeponion
     github_id: deeponion/deeponion
@@ -13626,8 +13685,8 @@ projects:
   - name: js-tokens
     github_id: lydell/js-tokens
     group_id: js
-    maven_id: org.webjars.npm:js-tokens
     npm_id: js-tokens
+    maven_id: org.webjars.npm:js-tokens
   - name: blockchain
     github_id: letheanVPN/blockchain
     group_id: lthn
@@ -13638,9 +13697,6 @@ projects:
     github_id: smartmeshfoundation/spectrum
     group_id: smt
   - name: asf-sdk
-    github_id: appstorefoundation/asf-sdk
-    group_id: appc
-  - name: AppStoreFoundation/asf-sdk
     github_id: AppStoreFoundation/asf-sdk
     group_id: appc
   - name: moac-core
@@ -13684,8 +13740,8 @@ projects:
   - name: ccxt
     github_id: ccxt/ccxt
     group_id: tok
-    pypi_id: ccxt-1-56-19
     npm_id: '@jmparsons/ccxt'
+    pypi_id: ccxt-1-56-19
   - name: GrinPlusPlus
     github_id: grinplusplus/grinplusplus
     group_id: grin
@@ -13718,3 +13774,590 @@ projects:
     group_id: img
   - name: BonusCloud-Node
     github_id: bonuscloud/bonuscloud-node
+    group_id: bxc
+  - name: eosforce
+    github_id: eosforce/eosforce
+    group_id: eosc
+  - name: mochimo
+    github_id: mochimodev/mochimo
+    group_id: mcm
+  - name: nyzoVerifier
+    github_id: n-y-z-o/nyzoverifier
+    group_id: nyzo
+  - name: rsd
+    github_id: urkellabs/rsd
+    group_id: hns
+    cargo_id: rsd
+  - name: xaya
+    github_id: xaya/xaya
+    group_id: chi
+  - name: omen-exchange
+    github_id: protofire/omen-exchange
+    group_id: dxd
+  - name: ftx
+    github_id: ftexchange/ftx
+    group_id: hedge
+  - name: pocketnet.core
+    github_id: pocketnetteam/pocketnet.core
+    group_id: pkoin
+  - name: starcoin
+    github_id: starcoinorg/starcoin
+    group_id: stc
+  - name: AutoSSR
+    github_id: voken1/AutoSSR
+    group_id: vsn
+  - name: near-wallet
+    github_id: near/near-wallet
+    group_id: near
+  - name: nearcore
+    github_id: near/nearcore
+    group_id: near
+    cargo_id: near-vm-logic
+  - name: near-api-js
+    github_id: near/near-api-js
+    group_id: near
+    npm_id: near-api-js
+  - name: polkadot
+    github_id: paritytech/polkadot
+    group_id: dot
+  - name: SwerveContracts
+    github_id: SwerveFinance/SwerveContracts
+    group_id: swrv
+  - name: COIN
+    github_id: coindefi/coin
+    group_id: coin
+  - name: mooncoincore/wallet
+    github_id: mooncoincore/wallet
+    group_id: moon
+  - name: dollar
+    github_id: emptysetsquad/dollar
+    group_id: esd
+  - name: burgerswap-core
+    github_id: burgerswap-org/burgerswap-core
+    group_id: burger
+  - name: reflect-contracts
+    github_id: reflectfinance/reflect-contracts
+    group_id: rfi
+  - name: Safemoon.sol
+    github_id: safemoonprotocol/Safemoon.sol
+    group_id: safemoon
+  - name: deeper-chain
+    github_id: deeper-chain/deeper-chain
+    group_id: dpr
+  - name: Smart-Contract-Audits
+    github_id: TechRate/Smart-Contract-Audits
+    group_id: tcake
+  - name: Kishu-Inu-Contracts
+    github_id: kishu-inu/kishu-inu-contracts
+    group_id: kishu
+  - name: PublicReports
+    github_id: HalbornSecurity/PublicReports
+    group_id: moma
+  - name: convex-eth/platform
+    github_id: convex-eth/platform
+    group_id: cvx
+  - name: SafeMoonCash
+    github_id: safemooncash/safemooncash
+    group_id: safemooncash
+  - name: ExzoCoin.sol
+    github_id: screadore/ExzoCoin.sol
+    group_id: exzo
+  - name: solidproof/smart-contract-audits
+    github_id: solidproof/smart-contract-audits
+    group_id: bin
+  - name: cardano-node
+    github_id: input-output-hk/cardano-node
+    group_id: revu
+  - name: hellobloom/core
+    github_id: hellobloom/core
+    group_id: blt
+  - name: bedcoin
+    github_id: bedadmin/bedcoin
+    group_id: bed
+  - name: raptoreum
+    github_id: Raptor3um/raptoreum
+    group_id: rtm
+  - name: Tech-Audit/Smart-Contract-Audits
+    github_id: Tech-Audit/Smart-Contract-Audits
+    group_id: fft
+  - name: chives-blockchain
+    github_id: hiveproject2021/chives-blockchain
+    group_id: xcc
+  - name: Bitcoin-Classic
+    github_id: bitcoin-classic-bgh/bitcoin-classic
+    group_id: bgh
+  - name: diem
+    github_id: diem/diem
+    group_id: diem
+    cargo_id: move-core-types
+    go_id: github.com/libra/libra
+  - name: VirtaCoinProject
+    github_id: virtacoin/virtacoinproject
+    group_id: vta
+  - name: LDOGE
+    github_id: ldoge/LDOGE
+    group_id: ldoge
+  - name: Espers
+    github_id: cryptocoderz/espers
+    group_id: esp
+  - name: babble
+    github_id: mosaicnetworks/babble
+    group_id: ldxg
+    go_id: github.com/mosaicnetworks/babble
+  - name: MISO
+    github_id: chefgonpachi/MISO
+    group_id: iby
+  - name: Axentro
+    github_id: axentro/axentro
+    group_id: axnt
+  - name: TRC20-Contract-Template
+    github_id: zyumingfit/trc20-contract-template
+    group_id: pwdx
+  - name: ethjsonrpc
+    github_id: ConsenSys/ethjsonrpc
+    group_id: eth
+    pypi_id: ethjsonrpc
+  - name: ConsenSys/Tokens
+    github_id: ConsenSys/Tokens
+    group_id: eth
+  - name: eth-lightwallet
+    github_id: ConsenSys/eth-lightwallet
+    group_id: eth
+    npm_id: eth-lightwallet
+    maven_id: org.webjars.npm:eth-lightwallet
+  - name: Token-Factory
+    github_id: ConsenSys/Token-Factory
+    group_id: eth
+  - name: icebox
+    github_id: ConsenSys/icebox
+    group_id: eth
+  - name: smart-contract-best-practices
+    github_id: ConsenSys/smart-contract-best-practices
+    group_id: eth
+  - name: quorum
+    github_id: ConsenSys/quorum
+    group_id: eth
+    go_id: github.com/ConsenSys/quorum
+  - name: ConsenSys/constellation
+    github_id: ConsenSys/constellation
+    group_id: eth
+  - name: quorum-docs
+    github_id: ConsenSys/quorum-docs
+    group_id: eth
+  - name: quorum-examples
+    github_id: ConsenSys/quorum-examples
+    group_id: eth
+  - name: cakeshop
+    github_id: ConsenSys/cakeshop
+    group_id: eth
+  - name: abi-decoder
+    github_id: ConsenSys/abi-decoder
+    group_id: eth
+    npm_id: abi-decoder
+  - name: PLCRVoting
+    github_id: ConsenSys/PLCRVoting
+    group_id: eth
+  - name: bytecode-verifier
+    github_id: ConsenSys/bytecode-verifier
+    group_id: eth
+    npm_id: eth-bytecode-verifier
+  - name: mythril
+    github_id: ConsenSys/mythril
+    group_id: eth
+    pypi_id: mythril
+  - name: quorum-docker-Nnodes
+    github_id: ConsenSys/quorum-docker-Nnodes
+    group_id: eth
+  - name: orion
+    github_id: ConsenSys/orion
+    group_id: eth
+  - name: Mahuta
+    github_id: ConsenSys/Mahuta
+    group_id: eth
+  - name: ethql
+    github_id: ConsenSys/ethql
+    group_id: eth
+    npm_id: '@ethql/base'
+  - name: surya
+    github_id: ConsenSys/surya
+    group_id: eth
+    npm_id: surya
+  - name: tessera
+    github_id: ConsenSys/tessera
+    group_id: eth
+    maven_id: net.consensys.quorum.tessera:jmeter-test
+  - name: ethereum-developer-tools-list
+    github_id: ConsenSys/ethereum-developer-tools-list
+    group_id: eth
+  - name: teku
+    github_id: ConsenSys/teku
+    group_id: eth
+  - name: truffle-security
+    github_id: ConsenSys/truffle-security
+    group_id: eth
+    npm_id: truffle-security
+  - name: mythx-playground
+    github_id: ConsenSys/mythx-playground
+    group_id: eth
+  - name: quorum.js
+    github_id: ConsenSys/quorum.js
+    group_id: eth
+    npm_id: ixils-quorum-js
+  - name: TypeChain
+    github_id: dethcrypto/TypeChain
+    group_id: eth
+    npm_id: typechain
+  - name: truffle-typechain-example
+    github_id: dethcrypto/truffle-typechain-example
+    group_id: eth
+  - name: deth
+    github_id: dethcrypto/deth
+    group_id: eth
+  - name: earl
+    github_id: dethcrypto/earl
+    group_id: eth
+    npm_id: earljs
+  - name: eth-sdk
+    github_id: dethcrypto/eth-sdk
+    group_id: eth
+    npm_id: '@dethcrypto/eth-sdk'
+  - name: ethereum-code-viewer
+    github_id: dethcrypto/ethereum-code-viewer
+    group_id: eth
+  - name: expedition
+    github_id: etclabscore/expedition
+    group_id: etc
+    npm_id: '@etclabscore/jade-explorer'
+  - name: evm_llvm
+    github_id: etclabscore/evm_llvm
+    group_id: etc
+  - name: ethereum-json-rpc-specification
+    github_id: etclabscore/ethereum-json-rpc-specification
+    group_id: etc
+  - name: neon-wallet
+    github_id: CityOfZion/neon-wallet
+    group_id: neo
+  - name: neo-scan
+    github_id: CityOfZion/neo-scan
+    group_id: neo
+  - name: neo-js
+    github_id: CityOfZion/neo-js
+    group_id: neo
+    npm_id: '@cityofzion/neo-js'
+  - name: neo-boa
+    github_id: CityOfZion/neo-boa
+    group_id: neo
+    pypi_id: neo-boa
+  - name: near/docs
+    github_id: near/docs
+    group_id: near
+  - name: assemblyscript-json
+    github_id: near/assemblyscript-json
+    group_id: near
+  - name: near-cli
+    github_id: near/near-cli
+    group_id: near
+    npm_id: near-cli
+  - name: near-explorer
+    github_id: near/near-explorer
+    group_id: near
+  - name: NEPs
+    github_id: near/NEPs
+    group_id: near
+  - name: near-sdk-rs
+    github_id: near/near-sdk-rs
+    group_id: near
+    cargo_id: near-sdk
+  - name: near-evm
+    github_id: near/near-evm
+    group_id: near
+  - name: borsh
+    github_id: near/borsh
+    group_id: near
+    npm_id: '@bonfida/borsh-js'
+    cargo_id: borsh-derive
+  - name: create-near-app
+    github_id: near/create-near-app
+    group_id: near
+    npm_id: create-near-app
+  - name: near-linkdrop
+    github_id: near/near-linkdrop
+    group_id: near
+  - name: near-sdk-as
+    github_id: near/near-sdk-as
+    group_id: near
+    npm_id: near-sdk-core
+  - name: near/community
+    github_id: near/community
+    group_id: near
+  - name: nearup
+    github_id: near/nearup
+    group_id: near
+    pypi_id: nearup
+  - name: core-contracts
+    github_id: near/core-contracts
+    group_id: near
+  - name: near/bounties
+    github_id: near/bounties
+    group_id: near
+  - name: near-indexer-for-explorer
+    github_id: near/near-indexer-for-explorer
+    group_id: near
+  - name: borsh-rs
+    github_id: near/borsh-rs
+    group_id: near
+    cargo_id: borsh
+  - name: borsh-js
+    github_id: near/borsh-js
+    group_id: near
+    npm_id: borsh
+  - name: skynet-js
+    github_id: SkynetLabs/skynet-js
+    group_id: sc
+    npm_id: skynet-js
+  - name: bls
+    github_id: w3f/bls
+    group_id: dot
+    cargo_id: bls-like
+  - name: General-Grants-Program
+    github_id: w3f/General-Grants-Program
+    group_id: dot
+  - name: w3f/consensus
+    github_id: w3f/consensus
+    group_id: dot
+  - name: messaging
+    github_id: w3f/messaging
+    group_id: dot
+  - name: schnorrkel
+    github_id: w3f/schnorrkel
+    group_id: dot
+    cargo_id: schnorrkel
+  - name: w3f/research
+    github_id: w3f/research
+    group_id: dot
+  - name: polkadot-spec
+    github_id: w3f/polkadot-spec
+    group_id: dot
+  - name: polkadot-deployer
+    github_id: w3f/polkadot-deployer
+    group_id: dot
+    npm_id: polkadot-deployer
+  - name: polkadot-validator-setup
+    github_id: w3f/polkadot-validator-setup
+    group_id: dot
+    npm_id: polkadot-secure-validator
+  - name: polkadot-wiki
+    github_id: w3f/polkadot-wiki
+    group_id: dot
+  - name: PSPs
+    github_id: w3f/PSPs
+    group_id: dot
+  - name: Grants-Program
+    github_id: w3f/Grants-Program
+    group_id: dot
+  - name: Grant-Milestone-Delivery
+    github_id: w3f/Grant-Milestone-Delivery
+    group_id: dot
+  - name: 1k-validators-be
+    github_id: w3f/1k-validators-be
+    group_id: dot
+  - name: polkadot-js/api
+    github_id: polkadot-js/api
+    group_id: dot
+    npm_id: '@polkadot/types'
+  - name: common
+    github_id: polkadot-js/common
+    group_id: dot
+    npm_id: '@polkadot/util-crypto'
+  - name: polkadot-js/apps
+    github_id: polkadot-js/apps
+    group_id: dot
+    npm_id: '@polkadot/ui-app'
+  - name: tools
+    github_id: polkadot-js/tools
+    group_id: dot
+    npm_id: '@polkadot/vanitygen'
+  - name: polkadot-js/ui
+    github_id: polkadot-js/ui
+    group_id: dot
+    npm_id: '@polkadot/ui-shared'
+  - name: wasm
+    github_id: polkadot-js/wasm
+    group_id: dot
+    npm_id: '@polkadot/wasm-crypto'
+  - name: extension
+    github_id: polkadot-js/extension
+    group_id: dot
+    npm_id: '@polkadot/extension-dapp'
+  - name: phishing
+    github_id: polkadot-js/phishing
+    group_id: dot
+    npm_id: '@polkadot/phishing'
+  - name: polkadot-js/docs
+    github_id: polkadot-js/docs
+    group_id: dot
+  - name: dash-wallet
+    github_id: dashevo/dash-wallet
+    group_id: dash
+  - name: insight-api
+    github_id: dashevo/insight-api
+    group_id: dash
+    npm_id: '@dashevo/insight-api'
+  - name: dashcore-lib
+    github_id: dashevo/dashcore-lib
+    group_id: dash
+    npm_id: bitcore-lib-dash
+  - name: oasis-ethwasi-runtime
+    github_id: oasislabs/oasis-ethwasi-runtime
+    group_id: rose
+  - name: web3c.js
+    github_id: oasislabs/web3c.js
+    group_id: rose
+    npm_id: web3c
+  - name: oasis.js
+    github_id: oasislabs/oasis.js
+    group_id: rose
+    npm_id: '@oasislabs/common'
+  - name: gitcoin_cadcad_model
+    github_id: gitcoinco/gitcoin_cadcad_model
+    group_id: gtc
+  - name: protocol_v1
+    github_id: dydxprotocol/protocol_v1
+    group_id: dydx
+    npm_id: '@dydxprotocol/protocol'
+  - name: solo
+    github_id: dydxprotocol/solo
+    group_id: dydx
+    npm_id: '@dydxprotocol/solo'
+  - name: exchange-wrappers
+    github_id: dydxprotocol/exchange-wrappers
+    group_id: dydx
+    npm_id: '@dydxprotocol/exchange-wrappers'
+  - name: dydxprotocol/liquidator
+    github_id: dydxprotocol/liquidator
+    group_id: dydx
+  - name: dydx-python
+    github_id: dydxprotocol/dydx-python
+    group_id: dydx
+    pypi_id: dydx-python
+  - name: perpetual
+    github_id: dydxprotocol/perpetual
+    group_id: dydx
+    npm_id: '@dydxprotocol/perpetual'
+  - name: v3-client
+    github_id: dydxprotocol/v3-client
+    group_id: dydx
+    npm_id: '@dydxprotocol/v3-client'
+  - name: dydx-v3-python
+    github_id: dydxprotocol/dydx-v3-python
+    group_id: dydx
+    pypi_id: dydx-v3-python
+  - name: casper-js-sdk
+    github_id: casper-ecosystem/casper-js-sdk
+    group_id: cspr
+  - name: casper-nft-cep47
+    github_id: casper-ecosystem/casper-nft-cep47
+    group_id: cspr
+  - name: noia-node-gui
+    github_id: noia-network/noia-node-gui
+    group_id: noia
+  - name: hifi-protocol
+    github_id: hifi-finance/hifi-protocol
+    group_id: mft
+  - name: hifi
+    github_id: hifi-finance/hifi
+    group_id: mft
+    npm_id: '@hifi/protocol'
+  - name: one-click-miner-vnext
+    github_id: vertcoin-project/one-click-miner-vnext
+    group_id: vtc
+    go_id: github.com/vertcoin-project/one-click-miner-vnext
+  - name: notional-finance/contracts
+    github_id: notional-finance/contracts
+    group_id: note
+  - name: blockchain-anchor
+    github_id: Tierion/blockchain-anchor
+    group_id: tnt
+    npm_id: blockchain-anchor
+  - name: merkle-tools
+    github_id: Tierion/merkle-tools
+    group_id: tnt
+    npm_id: merkle-tools
+  - name: pymerkletools
+    github_id: Tierion/pymerkletools
+    group_id: tnt
+    pypi_id: merkletools
+  - name: boltwall
+    github_id: Tierion/boltwall
+    group_id: tnt
+    npm_id: boltwall
+  - name: lsat-js
+    github_id: Tierion/lsat-js
+    group_id: tnt
+    npm_id: lsat-js
+  - name: vaultcontract
+    github_id: Giveth/vaultcontract
+    group_id: giv
+    npm_id: vaultcontract
+  - name: liquidpledging
+    github_id: Giveth/liquidpledging
+    group_id: giv
+    npm_id: giveth-liquidpledging
+  - name: giveth-dapp
+    github_id: Giveth/giveth-dapp
+    group_id: giv
+  - name: feathers-giveth
+    github_id: Giveth/feathers-giveth
+    group_id: giv
+  - name: APIDoc
+    github_id: mxcdevelop/APIDoc
+    group_id: mx
+  - name: curium
+    github_id: bluzelle/curium
+    group_id: blz
+    go_id: github.com/bluzelle/curium
+  - name: lethean-gui
+    github_id: letheanVPN/lethean-gui
+    group_id: lthn
+  - name: lethean-vpn
+    github_id: letheanVPN/lethean-vpn
+    group_id: lthn
+  - name: PayCards_iOS
+    github_id: faceterteam/PayCards_iOS
+    group_id: face
+  - name: PayCards_Source
+    github_id: faceterteam/PayCards_Source
+    group_id: face
+  - name: PayCards_Android
+    github_id: faceterteam/PayCards_Android
+    group_id: face
+  - name: ao-cliente
+    github_id: ao-libre/ao-cliente
+    group_id: aolb
+  - name: ao-server
+    github_id: ao-libre/ao-server
+    group_id: aolb
+  - name: finisterra
+    github_id: ao-libre/finisterra
+    group_id: aolb
+  - name: ixo-blockchain
+    github_id: ixofoundation/ixo-blockchain
+    group_id: ixo
+    go_id: github.com/ixofoundation/ixo-blockchain
+  - name: joystream
+    github_id: Joystream/joystream
+    group_id: joystream
+  - name: hydra
+    github_id: Joystream/hydra
+    group_id: joystream
+    npm_id: '@subsquid/hydra-typegen'
+  - name: laminar-chain
+    github_id: laminar-protocol/laminar-chain
+    group_id: laminar
+  - name: mailchain
+    github_id: mailchain/mailchain
+    group_id: mailchain
+    go_id: github.com/mailchain/mailchain
+  - name: goreleaser-xcgo
+    github_id: mailchain/goreleaser-xcgo
+    group_id: mailchain
