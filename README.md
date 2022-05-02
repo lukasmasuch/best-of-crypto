@@ -5483,7 +5483,7 @@ _Cryptocurrencies inspired by Internet memes._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/blockstack">STX - Stacks</a></b> (🥇39 ·  ⭐ 8.8K) - New decentralized internet where users own their data and apps run..</summary>
+<details><summary><b><a href="https://github.com/stacks-network">STX - Stacks</a></b> (🥇39 ·  ⭐ 8.8K) - New decentralized internet where users own their data and apps run..</summary>
 
 
 ---
