@@ -73,12 +73,12 @@ _Decentralized peer-to-peer currencies._
 ---
 <details><summary><b><a href="https://github.com/bitcoin/bitcoin">bitcoin</a></b> (🥇34 ·  ⭐ 65K) - Bitcoin Core integration/staging tree. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bitcoin/bitcoin) (👨‍💻 1.1K · 🔀 32K · 📋 7.3K - 12% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/bitcoin/bitcoin) (👨‍💻 1.1K · 🔀 32K · 📋 7.3K - 12% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/bitcoin/bitcoin
 	```
-- [PyPi](https://pypi.org/project/oixgwsmcnwyequxsgj) (📥 6 / month · ⏱️ 21.06.2021):
+- [PyPi](https://pypi.org/project/oixgwsmcnwyequxsgj) (📥 5 / month · ⏱️ 21.06.2021):
 	```
 	pip install oixgwsmcnwyequxsgj
 	```
@@ -90,7 +90,7 @@ _Decentralized peer-to-peer currencies._
 	```
 	git clone https://github.com/btcsuite/btcd
 	```
-- [npm](https://www.npmjs.com/package/btcd-binary) (📥 10 / month · ⏱️ 03.10.2016):
+- [npm](https://www.npmjs.com/package/btcd-binary) (📥 8 / month · ⏱️ 03.10.2016):
 	```
 	npm install btcd-binary
 	```
@@ -101,7 +101,7 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/bitcoinjs/bitcoinjs-lib">bitcoinjs-lib</a></b> (🥇34 ·  ⭐ 4.6K) - A javascript Bitcoin library for node.js and browsers. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bitcoinjs/bitcoinjs-lib) (👨‍💻 88 · 🔀 1.8K · 📦 13K · 📋 980 - 4% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/bitcoinjs/bitcoinjs-lib) (👨‍💻 88 · 🔀 1.8K · 📦 13K · 📋 980 - 5% open · ⏱️ 15.06.2022):
 
 	```
 	git clone https://github.com/bitcoinjs/bitcoinjs-lib
@@ -113,7 +113,7 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/bitcoinjs/bip39">bip39</a></b> (🥇31 ·  ⭐ 820) - JavaScript implementation of Bitcoin BIP39: Mnemonic code for generating.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/bitcoinjs/bip39) (👨‍💻 18 · 🔀 390 · 📦 89K · 📋 89 - 13% open · ⏱️ 27.04.2022):
+- [GitHub](https://github.com/bitcoinjs/bip39) (👨‍💻 18 · 🔀 390 · 📦 91K · 📋 89 - 13% open · ⏱️ 27.04.2022):
 
 	```
 	git clone https://github.com/bitcoinjs/bip39
@@ -125,19 +125,19 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/ElementsProject/lightning">lightning</a></b> (🥇30 ·  ⭐ 2.3K) - Core Lightning Lightning Network implementation focusing on.. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/ElementsProject/lightning) (👨‍💻 200 · 🔀 700 · 📥 12K · 📋 2.1K - 16% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/ElementsProject/lightning) (👨‍💻 200 · 🔀 700 · 📥 13K · 📋 2.1K - 16% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/ElementsProject/lightning
 	```
-- [PyPi](https://pypi.org/project/pyln-bolt7) (📥 5.8K / month · 📦 1 · ⏱️ 15.03.2022):
+- [PyPi](https://pypi.org/project/pyln-bolt7) (📥 6.8K / month · 📦 1 · ⏱️ 15.03.2022):
 	```
 	pip install pyln-bolt7
 	```
 </details>
 <details><summary><b><a href="https://github.com/bitcoinj/bitcoinj">bitcoinj</a></b> (🥇29 ·  ⭐ 4.3K) - A library for working with Bitcoin. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/bitcoinj/bitcoinj) (👨‍💻 140 · 🔀 2.3K · 📥 1.7K · 📋 1.2K - 30% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/bitcoinj/bitcoinj) (👨‍💻 140 · 🔀 2.3K · 📥 1.7K · 📋 1.2K - 30% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/bitcoinj/bitcoinj
@@ -151,9 +151,17 @@ _Decentralized peer-to-peer currencies._
 	</dependency>
 	```
 </details>
+<details><summary><b><a href="https://github.com/ElementsProject/elements">elements</a></b> (🥇25 ·  ⭐ 890) - Open Source implementation of advanced blockchain features extending the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/ElementsProject/elements) (👨‍💻 1K · 🔀 330 · 📥 26K · 📋 400 - 38% open · ⏱️ 28.06.2022):
+
+	```
+	git clone https://github.com/ElementsProject/elements
+	```
+</details>
 <details><summary><b><a href="https://github.com/btcsuite/btcwallet">btcwallet</a></b> (🥇25 ·  ⭐ 870) - A secure bitcoin wallet daemon written in Go (golang). <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/btcsuite/btcwallet) (👨‍💻 52 · 🔀 420 · 📥 670 · 📦 360 · 📋 320 - 36% open · ⏱️ 07.06.2022):
+- [GitHub](https://github.com/btcsuite/btcwallet) (👨‍💻 52 · 🔀 420 · 📥 670 · 📦 370 · 📋 320 - 36% open · ⏱️ 07.06.2022):
 
 	```
 	git clone https://github.com/btcsuite/btcwallet
@@ -163,14 +171,6 @@ _Decentralized peer-to-peer currencies._
 	go install github.com/btcsuite/btcwallet/wtxmgr
 	```
 </details>
-<details><summary><b><a href="https://github.com/ElementsProject/elements">elements</a></b> (🥇24 ·  ⭐ 890) - Open Source implementation of advanced blockchain features extending the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/ElementsProject/elements) (👨‍💻 950 · 🔀 330 · 📥 25K · 📋 400 - 38% open · ⏱️ 06.06.2022):
-
-	```
-	git clone https://github.com/ElementsProject/elements
-	```
-</details>
 <details><summary><b><a href="https://github.com/bitcoinjs/bip38">bip38</a></b> (🥇24 ·  ⭐ 160) - BIP38 is a standard process to encrypt Bitcoin and crypto currency private.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/bitcoinjs/bip38) (👨‍💻 13 · 🔀 75 · 📦 1.5K · 📋 31 - 9% open · ⏱️ 12.02.2022):
@@ -178,14 +178,14 @@ _Decentralized peer-to-peer currencies._
 	```
 	git clone https://github.com/bitcoinjs/bip38
 	```
-- [npm](https://www.npmjs.com/package/bip38) (📥 8.9K / month · 📦 400 · ⏱️ 31.05.2020):
+- [npm](https://www.npmjs.com/package/bip38) (📥 9K / month · 📦 400 · ⏱️ 31.05.2020):
 	```
 	npm install bip38
 	```
 </details>
 <details><summary><b><a href="https://github.com/btcsuite/btcutil">btcutil</a></b> (🥈23 ·  ⭐ 460) - Provides bitcoin-specific convenience functions and types. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/btcsuite/btcutil) (👨‍💻 37 · 🔀 400 · 📦 9.8K · ⏱️ 29.01.2022):
+- [GitHub](https://github.com/btcsuite/btcutil) (👨‍💻 37 · 🔀 400 · 📦 9.9K · ⏱️ 29.01.2022):
 
 	```
 	git clone https://github.com/btcsuite/btcutil
@@ -202,11 +202,11 @@ _Decentralized peer-to-peer currencies._
 	```
 	git clone https://github.com/ElementsProject/libwally-core
 	```
-- [PyPi](https://pypi.org/project/wallycore) (📥 1.4K / month · ⏱️ 11.04.2022):
+- [PyPi](https://pypi.org/project/wallycore) (📥 1.6K / month · ⏱️ 11.04.2022):
 	```
 	pip install wallycore
 	```
-- [npm](https://www.npmjs.com/package/libwally-js) (📥 6 / month · ⏱️ 11.02.2020):
+- [npm](https://www.npmjs.com/package/libwally-js) (📥 7 / month · ⏱️ 11.02.2020):
 	```
 	npm install libwally-js
 	```
@@ -219,7 +219,7 @@ _Decentralized peer-to-peer currencies._
 	git clone https://github.com/bitcoin/bips
 	```
 </details>
-<details><summary><b><a href="https://github.com/ElementsProject/secp256k1-zkp">secp256k1-zkp</a></b> (🥈18 ·  ⭐ 260) - Experimental fork of libsecp256k1 with support for pedersen.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/ElementsProject/secp256k1-zkp">secp256k1-zkp</a></b> (🥈17 ·  ⭐ 260) - Experimental fork of libsecp256k1 with support for pedersen.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/ElementsProject/secp256k1-zkp) (👨‍💻 97 · 🔀 91 · 📋 42 - 40% open · ⏱️ 05.04.2022):
 
@@ -227,7 +227,7 @@ _Decentralized peer-to-peer currencies._
 	git clone https://github.com/ElementsProject/secp256k1-zkp
 	```
 </details>
-<details><summary><b><a href="https://github.com/ElementsProject/simplicity">simplicity</a></b> (🥉15 ·  ⭐ 210) - Simplicity is a blockchain programming language designed as an.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/ElementsProject/simplicity">simplicity</a></b> (🥉15 ·  ⭐ 220) - Simplicity is a blockchain programming language designed as an.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/ElementsProject/simplicity) (👨‍💻 6 · 🔀 31 · 📋 33 - 36% open · ⏱️ 17.06.2022):
 
@@ -248,51 +248,51 @@ _Decentralized peer-to-peer currencies._
 ---
 <details><summary><b><a href="https://github.com/tendermint/tendermint">tendermint</a></b> (🥇39 ·  ⭐ 5K) - Tendermint Core (BFT Consensus) in Go. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/tendermint/tendermint) (👨‍💻 310 · 🔀 1.5K · 📥 54K · 📦 6.2K · 📋 3.2K - 14% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/tendermint/tendermint) (👨‍💻 310 · 🔀 1.6K · 📥 55K · 📦 6.3K · 📋 3.2K - 14% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/tendermint/tendermint
 	```
-- [Go](https://pkg.go.dev/github.com/tendermint/tendermint) (📦 1.3K · ⏱️ 07.06.2022):
+- [Go](https://pkg.go.dev/github.com/tendermint/tendermint) (📦 1.3K · ⏱️ 27.06.2022):
 	```
 	go install github.com/tendermint/tendermint
 	```
 </details>
 <details><summary><b><a href="https://github.com/cosmos/cosmos-sdk">cosmos-sdk</a></b> (🥇35 ·  ⭐ 4.1K) - A Framework for Building High Value Public Blockchains. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/cosmos/cosmos-sdk) (👨‍💻 350 · 🔀 1.6K · 📥 1.1K · 📦 4.6K · 📋 4.9K - 11% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/cosmos/cosmos-sdk) (👨‍💻 360 · 🔀 1.6K · 📥 1.2K · 📦 4.7K · 📋 4.9K - 11% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/cosmos/cosmos-sdk
 	```
 </details>
-<details><summary><b><a href="https://github.com/ignite-hq/cli">starport</a></b> (🥇31 ·  ⭐ 820) - Ignite CLI is the all-in-one platform to build, launch, and maintain.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/ignite-hq/cli) (👨‍💻 83 · 🔀 360 · 📥 53K · 📦 220 · 📋 1.1K - 26% open · ⏱️ 17.06.2022):
-
-	```
-	git clone https://github.com/tendermint/starport
-	```
-- [Go](https://pkg.go.dev/github.com/tendermint/starport) (📦 26 · ⏱️ 10.06.2022):
-	```
-	go install github.com/tendermint/starport
-	```
-</details>
 <details><summary><b><a href="https://github.com/cosmos/cosmjs">cosmjs</a></b> (🥇31 ·  ⭐ 320) - The Swiss Army knife to power JavaScript based client solutions.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cosmos/cosmjs) (👨‍💻 30 · 🔀 150 · 📦 1.6K · 📋 480 - 18% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/cosmos/cosmjs) (👨‍💻 31 · 🔀 160 · 📦 1.7K · 📋 480 - 18% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/cosmos/cosmjs
 	```
-- [npm](https://www.npmjs.com/package/@cosmjs/launchpad) (📥 42K / month · 📦 17 · ⏱️ 26.01.2022):
+- [npm](https://www.npmjs.com/package/@cosmjs/launchpad) (📥 49K / month · 📦 17 · ⏱️ 26.01.2022):
 	```
 	npm install @cosmjs/launchpad
 	```
 </details>
-<details><summary><b><a href="https://github.com/cosmos/ibc-go">ibc-go</a></b> (🥇26 ·  ⭐ 210) - Interblockchain Communication Protocol (IBC) implementation in Golang. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/ignite/cli">starport</a></b> (🥇29 ·  ⭐ 820 · 📉) - Ignite CLI is the all-in-one platform to build, launch, and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cosmos/ibc-go) (👨‍💻 39 · 🔀 140 · 📥 64 · 📦 1.2K · 📋 540 - 30% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/ignite/cli) (👨‍💻 83 · 🔀 370 · 📥 54K · 📦 10 · 📋 1.1K - 26% open · ⏱️ 23.06.2022):
+
+	```
+	git clone https://github.com/tendermint/starport
+	```
+- [Go](https://pkg.go.dev/github.com/tendermint/starport) (📦 26 · ⏱️ 23.06.2022):
+	```
+	go install github.com/tendermint/starport
+	```
+</details>
+<details><summary><b><a href="https://github.com/cosmos/ibc-go">ibc-go</a></b> (🥇26 ·  ⭐ 220) - Interblockchain Communication Protocol (IBC) implementation in Golang. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/cosmos/ibc-go) (👨‍💻 39 · 🔀 140 · 📥 65 · 📦 1.3K · 📋 550 - 30% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/cosmos/ibc-go
@@ -304,7 +304,7 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/cosmos/iavl">iavl</a></b> (🥇24 ·  ⭐ 260) - Merkleized IAVL+ Tree implementation in Go. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cosmos/iavl) (👨‍💻 50 · 🔀 130 · 📦 3.1K · 📋 110 - 28% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/cosmos/iavl) (👨‍💻 50 · 🔀 130 · 📦 3.1K · 📋 110 - 28% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/cosmos/iavl
@@ -316,7 +316,7 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/cosmos/relayer">relayer</a></b> (🥇24 ·  ⭐ 180) - An IBC relayer for ibc-go. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cosmos/relayer) (👨‍💻 96 · 🔀 220 · 📥 490 · 📦 64 · 📋 300 - 13% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/cosmos/relayer) (👨‍💻 96 · 🔀 220 · 📥 500 · 📦 67 · 📋 300 - 13% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/cosmos/relayer
@@ -328,7 +328,7 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/cosmos/sdk-tutorials">sdk-tutorials</a></b> (🥈22 ·  ⭐ 360) - Tutorials for building modules for the Cosmos SDK. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cosmos/sdk-tutorials) (👨‍💻 110 · 🔀 320 · 📦 43 · 📋 210 - 31% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/cosmos/sdk-tutorials) (👨‍💻 110 · 🔀 330 · 📦 43 · 📋 210 - 31% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/cosmos/sdk-tutorials
@@ -340,7 +340,7 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/cosmos/ethermint">ethermint</a></b> (🥈19 ·  ⭐ 390 · 💤) - Ethermint is a scalable and interoperable Ethereum, built on.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cosmos/ethermint) (👨‍💻 36 · 🔀 140 · 📦 14 · 📋 380 - 15% open · ⏱️ 02.09.2021):
+- [GitHub](https://github.com/cosmos/ethermint) (👨‍💻 36 · 🔀 140 · 📦 15 · 📋 380 - 15% open · ⏱️ 02.09.2021):
 
 	```
 	git clone https://github.com/cosmos/ethermint
@@ -350,9 +350,9 @@ _Decentralized peer-to-peer currencies._
 	go install github.com/cosmos/ethermint
 	```
 </details>
-<details><summary><b><a href="https://github.com/cosmos/ibc">ibc</a></b> (🥈17 ·  ⭐ 570) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/cosmos/ibc">ibc</a></b> (🥈17 ·  ⭐ 580) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cosmos/ibc) (👨‍💻 20 · 🔀 170 · 📋 400 - 20% open · ⏱️ 31.05.2022):
+- [GitHub](https://github.com/cosmos/ibc) (👨‍💻 20 · 🔀 170 · 📋 410 - 19% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/cosmos/ibc
@@ -362,7 +362,7 @@ _Decentralized peer-to-peer currencies._
 	go install github.com/cosmos/ibc
 	```
 </details>
-<details><summary><b><a href="https://github.com/cosmos/gravity-bridge">gravity-bridge</a></b> (🥈17 ·  ⭐ 450 · 💤) - A CosmosSDK application for moving assets on and off of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/cosmos/gravity-bridge">gravity-bridge</a></b> (🥈17 ·  ⭐ 460 · 💤) - A CosmosSDK application for moving assets on and off of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/cosmos/gravity-bridge) (👨‍💻 26 · 🔀 150 · 📥 190 · 📋 130 - 27% open · ⏱️ 28.08.2021):
 
@@ -374,9 +374,9 @@ _Decentralized peer-to-peer currencies._
 	go install github.com/cosmos/peggy
 	```
 </details>
-<details><summary><b><a href="https://github.com/cosmos/chain-registry">chain-registry</a></b> (🥉15 ·  ⭐ 150) -  <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/cosmos/chain-registry">chain-registry</a></b> (🥉16 ·  ⭐ 160) -  <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/cosmos/chain-registry) (👨‍💻 120 · 🔀 180 · 📋 80 - 61% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/cosmos/chain-registry) (👨‍💻 120 · 🔀 190 · 📋 80 - 57% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/cosmos/chain-registry
@@ -384,7 +384,7 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/cosmos/awesome">cosmos/awesome</a></b> (🥉12 ·  ⭐ 180) - Collection of Cosmos related resources. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cosmos/awesome) (👨‍💻 34 · 🔀 55 · 📋 31 - 38% open · ⏱️ 20.05.2022):
+- [GitHub](https://github.com/cosmos/awesome) (👨‍💻 34 · 🔀 56 · 📋 31 - 38% open · ⏱️ 20.05.2022):
 
 	```
 	git clone https://github.com/cosmos/awesome
@@ -403,7 +403,7 @@ _Decentralized peer-to-peer currencies._
 ---
 <details><summary><b><a href="https://github.com/stellar/go">go</a></b> (🥇31 ·  ⭐ 1.1K) - Stellars public monorepo of go code. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/stellar/go) (👨‍💻 110 · 🔀 480 · 📥 110K · 📦 270 · 📋 1.7K - 19% open · ⏱️ 14.06.2022):
+- [GitHub](https://github.com/stellar/go) (👨‍💻 110 · 🔀 480 · 📥 120K · 📦 270 · 📋 1.7K - 19% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/stellar/go
@@ -420,14 +420,14 @@ _Decentralized peer-to-peer currencies._
 	```
 	git clone https://github.com/stellar/js-stellar-sdk
 	```
-- [npm](https://www.npmjs.com/package/stellar-sdk) (📥 87K / month · 📦 400 · ⏱️ 26.05.2022):
+- [npm](https://www.npmjs.com/package/stellar-sdk) (📥 89K / month · 📦 400 · ⏱️ 26.05.2022):
 	```
 	npm install stellar-sdk
 	```
 </details>
 <details><summary><b><a href="https://github.com/stellar/stellar-core">stellar-core</a></b> (🥇24 ·  ⭐ 3K) - stellar-core is the reference implementation for the peer.. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/stellar/stellar-core) (👨‍💻 100 · 🔀 980 · 📋 1.4K - 17% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/stellar/stellar-core) (👨‍💻 100 · 🔀 980 · 📋 1.4K - 16% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/stellar/stellar-core
@@ -435,7 +435,7 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/stellar/java-stellar-sdk">java-stellar-sdk</a></b> (🥈22 ·  ⭐ 160) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/stellar/java-stellar-sdk) (👨‍💻 28 · 🔀 170 · 📥 36K · 📋 220 - 25% open · ⏱️ 07.06.2022):
+- [GitHub](https://github.com/stellar/java-stellar-sdk) (👨‍💻 28 · 🔀 170 · 📥 37K · 📋 220 - 25% open · ⏱️ 07.06.2022):
 
 	```
 	git clone https://github.com/stellar/java-stellar-sdk
@@ -455,7 +455,7 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/stellar/stellar-protocol">stellar-protocol</a></b> (🥈18 ·  ⭐ 420) - Developer discussion about possible changes to the.. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/stellar/stellar-protocol) (👨‍💻 86 · 🔀 250 · 📋 350 - 20% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/stellar/stellar-protocol) (👨‍💻 86 · 🔀 250 · 📋 360 - 20% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/stellar/stellar-protocol
@@ -463,7 +463,7 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/stellar/quickstart">quickstart</a></b> (🥈17 ·  ⭐ 160) - Home of the stellar/quickstart docker image for development and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/stellar/quickstart) (👨‍💻 34 · 🔀 160 · 📋 110 - 2% open · ⏱️ 08.06.2022):
+- [GitHub](https://github.com/stellar/quickstart) (👨‍💻 34 · 🔀 160 · 📋 110 - 2% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/stellar/quickstart
@@ -471,7 +471,7 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/stellar/dashboard">dashboard</a></b> (🥉11 ·  ⭐ 200) -  <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/stellar/dashboard) (👨‍💻 56 · 🔀 140 · 📋 80 - 31% open · ⏱️ 03.05.2022):
+- [GitHub](https://github.com/stellar/dashboard) (👨‍💻 56 · 🔀 140 · 📋 83 - 30% open · ⏱️ 03.05.2022):
 
 	```
 	git clone https://github.com/stellar/dashboard
@@ -488,21 +488,21 @@ _Decentralized peer-to-peer currencies._
 
 
 ---
-<details><summary><b><a href="https://github.com/algorand/js-algorand-sdk">js-algorand-sdk</a></b> (🥇31 ·  ⭐ 230) - The official JavaScript SDK for Algorand. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/algorand/js-algorand-sdk">js-algorand-sdk</a></b> (🥇31 ·  ⭐ 240) - The official JavaScript SDK for Algorand. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/algorand/js-algorand-sdk) (👨‍💻 49 · 🔀 150 · 📦 1.8K · 📋 260 - 20% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/algorand/js-algorand-sdk) (👨‍💻 49 · 🔀 150 · 📦 1.9K · 📋 270 - 19% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/algorand/js-algorand-sdk
 	```
-- [npm](https://www.npmjs.com/package/algosdk) (📥 150K / month · 📦 24 · ⏱️ 22.06.2022):
+- [npm](https://www.npmjs.com/package/algosdk) (📥 140K / month · 📦 24 · ⏱️ 22.06.2022):
 	```
 	npm install algosdk
 	```
 </details>
 <details><summary><b><a href="https://github.com/algorand/go-algorand">go-algorand</a></b> (🥇26 ·  ⭐ 1.1K) - Algorands official implementation in Go. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/algorand/go-algorand) (👨‍💻 82 · 🔀 320 · 📥 14K · 📦 52 · 📋 1.3K - 27% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/algorand/go-algorand) (👨‍💻 82 · 🔀 330 · 📥 15K · 📦 52 · 📋 1.3K - 27% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/algorand/go-algorand
@@ -514,29 +514,29 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/algorand/py-algorand-sdk">py-algorand-sdk</a></b> (🥇26 ·  ⭐ 190) - Algorand Python SDK. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/algorand/py-algorand-sdk) (👨‍💻 37 · 🔀 89 · 📦 380 · 📋 130 - 22% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/algorand/py-algorand-sdk) (👨‍💻 37 · 🔀 89 · 📦 390 · 📋 130 - 22% open · ⏱️ 21.06.2022):
 
 	```
 	git clone https://github.com/algorand/py-algorand-sdk
 	```
-- [PyPi](https://pypi.org/project/py-algorand-sdk) (📥 16K / month · 📦 14 · ⏱️ 02.06.2022):
+- [PyPi](https://pypi.org/project/py-algorand-sdk) (📥 17K / month · 📦 14 · ⏱️ 02.06.2022):
 	```
 	pip install py-algorand-sdk
 	```
 </details>
 <details><summary><b><a href="https://github.com/algorand/pyteal">pyteal</a></b> (🥇25 ·  ⭐ 200) - Algorand Smart Contracts in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/algorand/pyteal) (👨‍💻 31 · 🔀 77 · 📦 240 · 📋 140 - 43% open · ⏱️ 31.05.2022):
+- [GitHub](https://github.com/algorand/pyteal) (👨‍💻 31 · 🔀 78 · 📦 250 · 📋 140 - 43% open · ⏱️ 31.05.2022):
 
 	```
 	git clone https://github.com/algorand/pyteal
 	```
-- [PyPi](https://pypi.org/project/pyteal) (📥 3.8K / month · 📦 9 · ⏱️ 11.05.2022):
+- [PyPi](https://pypi.org/project/pyteal) (📥 4K / month · 📦 9 · ⏱️ 11.05.2022):
 	```
 	pip install pyteal
 	```
 </details>
-<details><summary><b><a href="https://github.com/algorand/go-algorand-sdk">go-algorand-sdk</a></b> (🥈23 ·  ⭐ 150) - Algorand Golang SDK. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/algorand/go-algorand-sdk">go-algorand-sdk</a></b> (🥈22 ·  ⭐ 150) - Algorand Golang SDK. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/algorand/go-algorand-sdk) (👨‍💻 42 · 🔀 68 · 📦 140 · 📋 120 - 12% open · ⏱️ 21.06.2022):
 
@@ -548,9 +548,9 @@ _Decentralized peer-to-peer currencies._
 	go install github.com/algorand/go-algorand-sdk
 	```
 </details>
-<details><summary><b><a href="https://github.com/algorand/sandbox">sandbox</a></b> (🥉13 ·  ⭐ 150) - Algorand node sandbox. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/algorand/sandbox">sandbox</a></b> (🥉12 ·  ⭐ 160) - Algorand node sandbox. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/algorand/sandbox) (👨‍💻 24 · 🔀 84 · 📋 55 - 32% open · ⏱️ 14.06.2022):
+- [GitHub](https://github.com/algorand/sandbox) (👨‍💻 24 · 🔀 88 · 📋 55 - 32% open · ⏱️ 14.06.2022):
 
 	```
 	git clone https://github.com/algorand/sandbox
@@ -573,7 +573,7 @@ _Decentralized peer-to-peer currencies._
 ---
 <details><summary><b><a href="https://github.com/XRPLF/xrpl.js">xrpl.js</a></b> (🥇33 ·  ⭐ 1K) - A JavaScript/TypeScript API for interacting with the XRP Ledger in Node.js.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/XRPLF/xrpl.js) (👨‍💻 130 · 🔀 450 · 📥 10K · 📦 1.8K · 📋 460 - 10% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/XRPLF/xrpl.js) (👨‍💻 130 · 🔀 450 · 📥 10K · 📦 1.9K · 📋 460 - 11% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/XRPLF/xrpl.js
@@ -583,15 +583,15 @@ _Decentralized peer-to-peer currencies._
 	npm install ripple-lib
 	```
 </details>
-<details><summary><b><a href="https://github.com/ripple/rippled">rippled</a></b> (🥇26 ·  ⭐ 4.2K) - Decentralized cryptocurrency blockchain daemon implementing the XRP.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+<details><summary><b><a href="https://github.com/XRPLF/rippled">rippled</a></b> (🥇26 ·  ⭐ 4.2K) - Decentralized cryptocurrency blockchain daemon implementing the XRP.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/ripple/rippled) (👨‍💻 120 · 🔀 1.3K · 📋 1.1K - 29% open · ⏱️ 22.05.2022):
+- [GitHub](https://github.com/XRPLF/rippled) (👨‍💻 120 · 🔀 1.3K · 📋 1.1K - 30% open · ⏱️ 22.05.2022):
 
 	```
 	git clone https://github.com/ripple/rippled
 	```
 </details>
-<details><summary><b><a href="https://github.com/ripple/ripplecharts-frontend">ripplecharts-frontend</a></b> (🥈16 ·  ⭐ 190 · 💤) - RippleCharts front-end using Angular.js and D3. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+<details><summary><b><a href="https://github.com/ripple/ripplecharts-frontend">ripplecharts-frontend</a></b> (🥉16 ·  ⭐ 190 · 💤) - RippleCharts front-end using Angular.js and D3. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
 - [GitHub](https://github.com/ripple/ripplecharts-frontend) (👨‍💻 21 · 🔀 130 · 📋 36 - 41% open · ⏱️ 30.11.2021):
 
@@ -631,12 +631,12 @@ _Decentralized peer-to-peer currencies._
 ---
 <details><summary><b><a href="https://github.com/celo-org/celo-monorepo">celo-monorepo</a></b> (🥇34 ·  ⭐ 570) - Official repository for core projects comprising the Celo.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/celo-org/celo-monorepo) (👨‍💻 200 · 🔀 290 · 📥 42 · 📦 1K · 📋 5.1K - 21% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/celo-org/celo-monorepo) (👨‍💻 200 · 🔀 290 · 📥 43 · 📦 1K · 📋 4.9K - 18% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/celo-org/celo-monorepo
 	```
-- [npm](https://www.npmjs.com/package/@celo/contractkit) (📥 65K / month · 📦 37 · ⏱️ 26.04.2022):
+- [npm](https://www.npmjs.com/package/@celo/contractkit) (📥 66K / month · 📦 37 · ⏱️ 26.04.2022):
 	```
 	npm install @celo/contractkit
 	```
@@ -648,7 +648,7 @@ _Decentralized peer-to-peer currencies._
 	```
 	git clone https://github.com/celo-org/celo-blockchain
 	```
-- [npm](https://www.npmjs.com/package/@celo/client) (📥 3.7K / month · 📦 3 · ⏱️ 03.06.2022):
+- [npm](https://www.npmjs.com/package/@celo/client) (📥 3K / month · 📦 3 · ⏱️ 03.06.2022):
 	```
 	npm install @celo/client
 	```
@@ -697,7 +697,7 @@ _Decentralized peer-to-peer currencies._
 ---
 <details><summary><b><a href="https://github.com/nanocurrency/nano-node">nano-node</a></b> (🥇27 ·  ⭐ 3.4K) - Nano is a cryptocurrency. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/nanocurrency/nano-node) (👨‍💻 83 · 🔀 780 · 📥 430K · 📋 1.2K - 24% open · ⏱️ 27.05.2022):
+- [GitHub](https://github.com/nanocurrency/nano-node) (👨‍💻 84 · 🔀 780 · 📥 430K · 📋 1.2K - 24% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/nanocurrency/nano-node
@@ -716,7 +716,7 @@ _Decentralized peer-to-peer currencies._
 ---
 <details><summary><b><a href="https://github.com/deso-protocol/core">deso-protocol/core</a></b> (🥈22 ·  ⭐ 280) - DeSo core node. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/deso-protocol/core) (👨‍💻 27 · 🔀 94 · 📦 16 · 📋 82 - 32% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/deso-protocol/core) (👨‍💻 27 · 🔀 95 · 📦 17 · 📋 82 - 32% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/deso-protocol/core
@@ -728,7 +728,7 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/deso-protocol/frontend">frontend</a></b> (🥈19 ·  ⭐ 250) - DeSo frontend. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/deso-protocol/frontend) (👨‍💻 40 · 🔀 120 · 📋 120 - 26% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/deso-protocol/frontend) (👨‍💻 40 · 🔀 120 · 📋 120 - 26% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/deso-protocol/frontend
@@ -755,7 +755,7 @@ _Decentralized peer-to-peer currencies._
 ---
 <details><summary><b><a href="https://github.com/litecoin-project/litecoin">litecoin</a></b> (🥇29 ·  ⭐ 4.1K) - Litecoin source tree. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/litecoin-project/litecoin) (👨‍💻 940 · 🔀 3K · 📥 1.4K · 📋 490 - 12% open · ⏱️ 07.06.2022):
+- [GitHub](https://github.com/litecoin-project/litecoin) (👨‍💻 940 · 🔀 3K · 📥 1.5K · 📋 490 - 12% open · ⏱️ 07.06.2022):
 
 	```
 	git clone https://github.com/litecoin-project/litecoin
@@ -782,7 +782,7 @@ _Decentralized peer-to-peer currencies._
 </details>
 <details><summary><b><a href="https://github.com/ArkEcosystem/core">ArkEcosystem/core</a></b> (🥈22 ·  ⭐ 320) - The ARK Core Blockchain Framework. Check.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ArkEcosystem/core) (👨‍💻 51 · 🔀 300 · 📋 990 - 0% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/ArkEcosystem/core) (👨‍💻 51 · 🔀 300 · 📋 990 - 0% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/ArkEcosystem/core
@@ -810,36 +810,13 @@ _Decentralized peer-to-peer currencies._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/MinterTeam">BIP - Minter</a></b> (🥈23 ·  ⭐ 390) - Digital assets marketplace allowing anyone to buy, sell, send, and spend..</summary>
-
-
----
-<details><summary><b><a href="https://github.com/MinterTeam/minter-go-node">minter-go-node</a></b> (🥇24 ·  ⭐ 360) - Official Minter Blockchain Implementation in Go. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/MinterTeam/minter-go-node) (👨‍💻 19 · 🔀 69 · 📥 15K · 📦 13 · 📋 95 - 21% open · ⏱️ 29.04.2022):
-
-	```
-	git clone https://github.com/MinterTeam/minter-go-node
-	```
-- [Go](https://pkg.go.dev/github.com/MinterTeam/minter-go-node) (📦 5 · ⏱️ 10.09.2021):
-	```
-	go install github.com/MinterTeam/minter-go-node
-	```
-</details>
-
-<br>
-
- _1 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
 <details><summary><b><a href="https://github.com/gcash">BCH - Bitcoin Cash</a></b> (🥈23 ·  ⭐ 340) - Cryptocurrency. It is a fork (a copy in a way) of Bitcoin (BTC)...</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/gcash/bchd">bchd</a></b> (🥇25 ·  ⭐ 260) - An alternative full node bitcoin cash implementation written in Go (golang). <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/gcash/bchd) (👨‍💻 130 · 🔀 95 · 📥 12K · 📦 180 · 📋 180 - 17% open · ⏱️ 18.05.2022):
+- [GitHub](https://github.com/gcash/bchd) (👨‍💻 130 · 🔀 95 · 📥 12K · 📦 190 · 📋 180 - 17% open · ⏱️ 18.05.2022):
 
 	```
 	git clone https://github.com/gcash/bchd
@@ -867,7 +844,7 @@ _Decentralized peer-to-peer currencies._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/theQRL">QRL - Quantum Resistant Ledger</a></b> (🥈21 ·  ⭐ 460) - The Quantum Resistant Ledger (QRL) is a post-quantum..</summary>
+<details><summary><b><a href="https://github.com/theQRL">QRL - Quantum Resistant Ledger</a></b> (🥈22 ·  ⭐ 460) - The Quantum Resistant Ledger (QRL) is a post-quantum..</summary>
 
 
 ---
@@ -886,7 +863,30 @@ _Decentralized peer-to-peer currencies._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/aionnetwork">AION - Aion</a></b> (🥈21 ·  ⭐ 410) - Digital asset of The Open Application Network. Aion is used to secure and..</summary>
+<details><summary><b><a href="https://github.com/MinterTeam">BIP - Minter</a></b> (🥈22 ·  ⭐ 390) - Digital assets marketplace allowing anyone to buy, sell, send, and spend..</summary>
+
+
+---
+<details><summary><b><a href="https://github.com/MinterTeam/minter-go-node">minter-go-node</a></b> (🥇24 ·  ⭐ 360) - Official Minter Blockchain Implementation in Go. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/MinterTeam/minter-go-node) (👨‍💻 19 · 🔀 69 · 📥 15K · 📦 13 · 📋 95 - 21% open · ⏱️ 29.04.2022):
+
+	```
+	git clone https://github.com/MinterTeam/minter-go-node
+	```
+- [Go](https://pkg.go.dev/github.com/MinterTeam/minter-go-node) (📦 5 · ⏱️ 10.09.2021):
+	```
+	go install github.com/MinterTeam/minter-go-node
+	```
+</details>
+
+<br>
+
+ _1 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/aionnetwork">AION - Aion</a></b> (🥉21 ·  ⭐ 410) - Digital asset of The Open Application Network. Aion is used to secure and..</summary>
 
 
 ---
@@ -901,7 +901,7 @@ _Decentralized peer-to-peer currencies._
 
 
 ---
-<details><summary><b><a href="https://github.com/district0x/ethlance">ethlance</a></b> (🥉13 ·  ⭐ 650 · 💤) - Ethlance is the first job market platform built entirely on the.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/district0x/ethlance">ethlance</a></b> (🥉13 ·  ⭐ 660 · 💤) - Ethlance is the first job market platform built entirely on the.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/district0x/ethlance) (👨‍💻 13 · 🔀 120 · 📋 160 - 15% open · ⏱️ 15.11.2021):
 
@@ -999,23 +999,23 @@ _Decentralized peer-to-peer currencies._
 
 - <b><a href="https://github.com/RavenProject">RVN - Ravencoin</a></b> (🥈23 ·  ⭐ 980 · 💀) - Digital peer to peer network that aims to implement a use case..
 - <b><a href="https://github.com/Gulden">NLG - Gulden</a></b> (🥈22 ·  ⭐ 130) - With Gulden you send money to each other.
-- <b><a href="https://github.com/BTCGPU">BTG - Bitcoin Gold</a></b> (🥈21 ·  ⭐ 620 · 💀) - Hard Fork of Bitcoin, that allows you to mine Bitcoin Gold..
+- <b><a href="https://github.com/BTCGPU">BTG - Bitcoin Gold</a></b> (🥉21 ·  ⭐ 620 · 💀) - Hard Fork of Bitcoin, that allows you to mine Bitcoin Gold..
 - <b><a href="https://github.com/Constellation-Labs">DAG - Constellation</a></b> (🥉19 ·  ⭐ 130) - Constellation Labs aim to compete in the next generation of..
+- <b><a href="https://github.com/ethereumcommonwealth">CLO - Callisto Network</a></b> (🥉18 ·  ⭐ 120) - Blockchain platform with its own cryptocurrency (CLO) that..
 - <b><a href="https://github.com/sugarchain-project">SUGAR - Sugarchain</a></b> (🥉17 ·  ⭐ 120) - The worlds fastest PoW blockchain with the most accurate..
-- <b><a href="https://github.com/ethereumcommonwealth">CLO - Callisto Network</a></b> (🥉17 ·  ⭐ 120) - Blockchain platform with its own cryptocurrency (CLO) that..
-- <b><a href="https://github.com/X9Developers">XSN - Stakenet</a></b> (🥉17 ·  ⭐ 90 · 💤) - The goal is to make the XSN framework an environment that allows..
+- <b><a href="https://github.com/X9Developers">XSN - Stakenet</a></b> (🥉17 ·  ⭐ 91 · 💤) - The goal is to make the XSN framework an environment that allows..
 - <b><a href="https://github.com/BTCPrivate">BTCP - Bitcoin Pro</a></b> (🥉16 ·  ⭐ 280 · 💀) - Hard fork of Zclassic and Bitcoin. Codebase is based on.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/uPlexa">UPX - uPlexa</a></b> (🥉15 ·  ⭐ 83 · 💤) - Anonymity and eCommerce via IoT. Incentivizing the mass computing..
 - <b><a href="https://github.com/rapidsofficial">RPD - Rapids</a></b> (🥉15 ·  ⭐ 61 · 💀) - We are a creative agency with a passion for innovation & the design..
 - <b><a href="https://github.com/dogecash">DOGEC - DogeCash</a></b> (🥉15 ·  ⭐ 31 · 💤) - Transparent, community-governed cryptocurrency for building..
-- <b><a href="https://github.com/HcashOrg">HC - HyperCash</a></b> (🥉14 ·  ⭐ 89 · 💀) - The Hcash platform is designed to be a sidechain for both block-..
+- <b><a href="https://github.com/HcashOrg">HC - HyperCash</a></b> (🥉14 ·  ⭐ 88 · 💀) - The Hcash platform is designed to be a sidechain for both block-..
 - <b><a href="https://github.com/devaultcrypto">DVT - DeVault</a></b> (🥉14 ·  ⭐ 34 · 💀) - The overarching goal of DeVault is to simply be social digital..
 - <b><a href="https://github.com/tenup-coin">TUP - Tenup</a></b> (🥉13 ·  ⭐ 130) - For Progress, Investment & Success.
-- <b><a href="https://github.com/hpb-project">HPB - High Performance Blockchain</a></b> (🥉13 ·  ⭐ 52) - HPB (High-Performance Blockchain) is a new kind of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/arqma">ARQ - ArQmA</a></b> (🥉13 ·  ⭐ 45 · 💤) - Decentralized public project of block chains, crypto currencies, and is..
-- <b><a href="https://github.com/qwertycoin-org">QWC - Qwertycoin</a></b> (🥉12 ·  ⭐ 37) - Decentralized peer-to-peer protocol for safe, seamless, secure &..
+- <b><a href="https://github.com/hpb-project">HPB - High Performance Blockchain</a></b> (🥉12 ·  ⭐ 52) - HPB (High-Performance Blockchain) is a new kind of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/qwertycoin-org">QWC - Qwertycoin</a></b> (🥉12 ·  ⭐ 36) - Decentralized peer-to-peer protocol for safe, seamless, secure &..
 - <b><a href="https://github.com/tokencard">TKN - Monolith</a></b> (🥉11 ·  ⭐ 87 · 💀) - Tokenot - Find New & Trending Cryptocurrency Tokens. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/stakecube">SCC - Stakecube</a></b> (🥉11 ·  ⭐ 42) - Currency of its own staking pool and exchange! SCC is a fork of the..
+- <b><a href="https://github.com/stakecube">SCC - Stakecube</a></b> (🥉11 ·  ⭐ 43) - Currency of its own staking pool and exchange! SCC is a fork of the..
 - <b><a href="https://github.com/sora-xor">XOR - Sora</a></b> (🥉7 ·  ⭐ 120) - Supranational world economic system and decentralized and democratic.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/BitcoinHEX">HEX - HEX</a></b> (🥉7 ·  ⭐ 61 · 💀) - ERC20 token designed and launched by Richard Heart on 2 December 2019.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/ltonetwork">LTO - LTO Network</a></b> (🥉6 ·  ⭐ 44 · 💤) - LTO Network allows enterprises and governments to.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
@@ -1034,12 +1034,12 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">openzeppelin-contracts</a></b> (🥇43 ·  ⭐ 19K) - OpenZeppelin Contracts is a library for secure smart.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts) (👨‍💻 340 · 🔀 9.4K · 📦 68K · 📋 1.4K - 8% open · ⏱️ 17.06.2022):
+- [GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts) (👨‍💻 340 · 🔀 9.6K · 📦 70K · 📋 1.4K - 9% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/OpenZeppelin/openzeppelin-contracts
 	```
-- [npm](https://www.npmjs.com/package/@openzeppelin/contracts) (📥 690K / month · 📦 380 · ⏱️ 07.06.2022):
+- [npm](https://www.npmjs.com/package/@openzeppelin/contracts) (📥 700K / month · 📦 380 · ⏱️ 29.06.2022):
 	```
 	npm install @openzeppelin/contracts
 	```
@@ -1054,7 +1054,7 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/ethereum/go-ethereum">go-ethereum</a></b> (🥇40 ·  ⭐ 38K) - Official Go implementation of the Ethereum protocol. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/ethereum/go-ethereum) (👨‍💻 730 · 🔀 14K · 📥 28K · 📦 11K · 📋 6.6K - 5% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/ethereum/go-ethereum) (👨‍💻 740 · 🔀 14K · 📥 28K · 📦 11K · 📋 6.6K - 5% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/ethereum/go-ethereum
@@ -1074,28 +1074,28 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/ethereum/web3.py">web3.py</a></b> (🥇38 ·  ⭐ 3.5K) - A python interface for interacting with the Ethereum blockchain and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ethereum/web3.py) (👨‍💻 200 · 🔀 1.1K · 📦 8.2K · 📋 1.2K - 19% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/ethereum/web3.py) (👨‍💻 200 · 🔀 1.1K · 📦 8.3K · 📋 1.2K - 19% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/ethereum/web3.py
 	```
-- [PyPi](https://pypi.org/project/web3) (📥 600K / month · 📦 840 · ⏱️ 01.06.2022):
+- [PyPi](https://pypi.org/project/web3) (📥 610K / month · 📦 840 · ⏱️ 01.06.2022):
 	```
 	pip install web3
 	```
-- [Conda](https://anaconda.org/conda-forge/web3) (📥 76K · ⏱️ 17.06.2022):
+- [Conda](https://anaconda.org/conda-forge/web3) (📥 77K · ⏱️ 17.06.2022):
 	```
 	conda install -c conda-forge web3
 	```
 </details>
 <details><summary><b><a href="https://github.com/ethereumjs/ethereumjs-monorepo">ethereumjs-monorepo</a></b> (🥇38 ·  ⭐ 1.8K) - Monorepo for the Ethereum VM TypeScript Implementation. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/ethereumjs/ethereumjs-monorepo) (👨‍💻 170 · 🔀 520 · 📦 48K · 📋 730 - 17% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/ethereumjs/ethereumjs-monorepo) (👨‍💻 170 · 🔀 540 · 📦 49K · 📋 730 - 17% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/ethereumjs/ethereumjs-monorepo
 	```
-- [npm](https://www.npmjs.com/package/ethereumjs-util) (📥 9.1M / month · 📦 7.1K · ⏱️ 03.06.2022):
+- [npm](https://www.npmjs.com/package/ethereumjs-util) (📥 8.9M / month · 📦 7.1K · ⏱️ 03.06.2022):
 	```
 	npm install ethereumjs-util
 	```
@@ -1110,19 +1110,19 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/dethcrypto/TypeChain">TypeChain</a></b> (🥇35 ·  ⭐ 2K) - TypeScript bindings for Ethereum smart contracts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dethcrypto/TypeChain) (👨‍💻 65 · 🔀 250 · 📦 53K · 📋 310 - 17% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/dethcrypto/TypeChain) (👨‍💻 65 · 🔀 250 · 📦 54K · 📋 310 - 17% open · ⏱️ 16.06.2022):
 
 	```
 	git clone https://github.com/dethcrypto/TypeChain
 	```
-- [npm](https://www.npmjs.com/package/typechain) (📥 760K / month · 📦 300 · ⏱️ 09.06.2022):
+- [npm](https://www.npmjs.com/package/typechain) (📥 770K / month · 📦 300 · ⏱️ 09.06.2022):
 	```
 	npm install typechain
 	```
 </details>
 <details><summary><b><a href="https://github.com/ethereum/solidity">solidity</a></b> (🥇34 ·  ⭐ 17K) - Solidity, the Smart Contract Programming Language. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/ethereum/solidity) (👨‍💻 570 · 🔀 4K · 📥 2.3M · 📋 5.2K - 20% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/ethereum/solidity) (👨‍💻 580 · 🔀 4K · 📥 2.3M · 📋 5.2K - 20% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/ethereum/solidity
@@ -1130,21 +1130,21 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/vyperlang/vyper">vyper</a></b> (🥇34 ·  ⭐ 3.9K) - Pythonic Smart Contract Language for the EVM. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/vyperlang/vyper) (👨‍💻 180 · 🔀 650 · 📥 130K · 📦 650 · 📋 1.2K - 17% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/vyperlang/vyper) (👨‍💻 180 · 🔀 660 · 📥 140K · 📦 660 · 📋 1.2K - 17% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/vyperlang/vyper
 	```
-- [PyPi](https://pypi.org/project/vyper) (📥 25K / month · 📦 28 · ⏱️ 22.04.2022):
+- [PyPi](https://pypi.org/project/vyper) (📥 23K / month · 📦 28 · ⏱️ 22.04.2022):
 	```
 	pip install vyper
 	```
-- [Conda](https://anaconda.org/conda-forge/vyper) (📥 3.9K · ⏱️ 05.10.2021):
+- [Conda](https://anaconda.org/conda-forge/vyper) (📥 4.1K · ⏱️ 29.06.2022):
 	```
 	conda install -c conda-forge vyper
 	```
 </details>
-<details><summary><b><a href="https://github.com/ethereum/solc-js">solc-js</a></b> (🥇33 ·  ⭐ 1K) - Javascript bindings for the Solidity compiler. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/ethereum/solc-js">solc-js</a></b> (🥇33 ·  ⭐ 1.1K) - Javascript bindings for the Solidity compiler. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/ethereum/solc-js) (👨‍💻 35 · 🔀 260 · 📋 240 - 31% open · ⏱️ 15.06.2022):
 
@@ -1158,7 +1158,7 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/ethereumjs/rlp">rlp</a></b> (🥇31 ·  ⭐ 1.8K) - Project is in active development and has been moved to the EthereumJS.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/ethereumjs/rlp) (👨‍💻 29 · 🔀 520 · ⏱️ 10.01.2022):
+- [GitHub](https://github.com/ethereumjs/rlp) (👨‍💻 29 · 🔀 540 · ⏱️ 10.01.2022):
 
 	```
 	git clone https://github.com/ethereumjs/rlp
@@ -1178,7 +1178,7 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/ConsenSys/quorum">quorum</a></b> (🥇30 ·  ⭐ 4.2K) - A permissioned implementation of Ethereum supporting data privacy. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/ConsenSys/quorum) (👨‍💻 630 · 🔀 1.1K · 📥 18K · 📦 16 · 📋 770 - 4% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/ConsenSys/quorum) (👨‍💻 630 · 🔀 1.1K · 📥 18K · 📦 18 · 📋 770 - 4% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/ConsenSys/quorum
@@ -1190,12 +1190,12 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/ethereumjs/ethereumjs-wallet">ethereumjs-wallet</a></b> (🥇30 ·  ⭐ 840) - Utilities for handling Ethereum keys. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ethereumjs/ethereumjs-wallet) (👨‍💻 16 · 🔀 260 · 📦 81K · 📋 85 - 18% open · ⏱️ 21.04.2022):
+- [GitHub](https://github.com/ethereumjs/ethereumjs-wallet) (👨‍💻 16 · 🔀 260 · 📦 83K · 📋 85 - 18% open · ⏱️ 21.04.2022):
 
 	```
 	git clone https://github.com/ethereumjs/ethereumjs-wallet
 	```
-- [npm](https://www.npmjs.com/package/ethereumjs-wallet) (📥 700K / month · 📦 2.9K · ⏱️ 08.10.2021):
+- [npm](https://www.npmjs.com/package/ethereumjs-wallet) (📥 690K / month · 📦 2.9K · ⏱️ 08.10.2021):
 	```
 	npm install ethereumjs-wallet
 	```
@@ -1215,21 +1215,9 @@ _Blockchains that host smart contracts or decentralized applications._
 	```
 	git clone https://github.com/ConsenSys/mythril
 	```
-- [PyPi](https://pypi.org/project/mythril) (📥 4.9K / month · 📦 11 · ⏱️ 20.06.2022):
+- [PyPi](https://pypi.org/project/mythril) (📥 4.6K / month · 📦 11 · ⏱️ 20.06.2022):
 	```
 	pip install mythril
-	```
-</details>
-<details><summary><b><a href="https://github.com/ethereum/py-evm">py-evm</a></b> (🥇29 ·  ⭐ 1.7K) - A Python implementation of the Ethereum Virtual Machine. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/ethereum/py-evm) (👨‍💻 89 · 🔀 510 · 📦 400 · 📋 650 - 14% open · ⏱️ 07.02.2022):
-
-	```
-	git clone https://github.com/ethereum/py-evm
-	```
-- [PyPi](https://pypi.org/project/py-evm) (📥 58K / month · 📦 52 · ⏱️ 26.01.2022):
-	```
-	pip install py-evm
 	```
 </details>
 <details><summary><b><a href="https://github.com/ethereumjs/ethereumjs-util">ethereumjs-util</a></b> (🥇29 ·  ⭐ 580 · 💤) - Project is in active development and has been moved to.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
@@ -1239,19 +1227,19 @@ _Blockchains that host smart contracts or decentralized applications._
 	```
 	git clone https://github.com/ethereumjs/ethereumjs-util
 	```
-- [npm](https://www.npmjs.com/package/ethereumjs-utils) (📥 11K / month · 📦 30 · ⏱️ 17.10.2018):
+- [npm](https://www.npmjs.com/package/ethereumjs-utils) (📥 12K / month · 📦 30 · ⏱️ 17.10.2018):
 	```
 	npm install ethereumjs-utils
 	```
 </details>
-<details><summary><b><a href="https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable">openzeppelin-contracts-upgradeable</a></b> (🥇29 ·  ⭐ 560) - Upgradeable variant of OpenZeppelin Contracts, meant.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable">openzeppelin-contracts-upgradeable</a></b> (🥇29 ·  ⭐ 570) - Upgradeable variant of OpenZeppelin Contracts, meant.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) (👨‍💻 220 · 🔀 270 · 📦 6.7K · 📋 88 - 5% open · ⏱️ 17.06.2022):
+- [GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) (👨‍💻 220 · 🔀 270 · 📦 6.9K · 📋 88 - 5% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
 	```
-- [npm](https://www.npmjs.com/package/openzeppelin-eth) (📥 900 / month · 📦 72 · ⏱️ 07.09.2020):
+- [npm](https://www.npmjs.com/package/openzeppelin-eth) (📥 950 / month · 📦 72 · ⏱️ 07.09.2020):
 	```
 	npm install openzeppelin-eth
 	```
@@ -1264,9 +1252,21 @@ _Blockchains that host smart contracts or decentralized applications._
 	</dependency>
 	```
 </details>
-<details><summary><b><a href="https://github.com/OpenZeppelin/openzeppelin-upgrades">openzeppelin-upgrades</a></b> (🥇27 ·  ⭐ 370) - Plugins for Hardhat and Truffle to deploy and manage.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/ethereum/py-evm">py-evm</a></b> (🥇28 ·  ⭐ 1.7K) - A Python implementation of the Ethereum Virtual Machine. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/OpenZeppelin/openzeppelin-upgrades) (👨‍💻 27 · 🔀 170 · 📦 110 · 📋 280 - 25% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/ethereum/py-evm) (👨‍💻 89 · 🔀 510 · 📦 400 · 📋 650 - 14% open · ⏱️ 24.06.2022):
+
+	```
+	git clone https://github.com/ethereum/py-evm
+	```
+- [PyPi](https://pypi.org/project/py-evm) (📥 57K / month · 📦 52 · ⏱️ 26.01.2022):
+	```
+	pip install py-evm
+	```
+</details>
+<details><summary><b><a href="https://github.com/OpenZeppelin/openzeppelin-upgrades">openzeppelin-upgrades</a></b> (🥇27 ·  ⭐ 380) - Plugins for Hardhat and Truffle to deploy and manage.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/OpenZeppelin/openzeppelin-upgrades) (👨‍💻 27 · 🔀 170 · 📦 110 · 📋 280 - 24% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/OpenZeppelin/openzeppelin-upgrades
@@ -1278,16 +1278,16 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/ethereum/eth-abi">eth-abi</a></b> (🥇27 ·  ⭐ 160) - Ethereum ABI utilities for python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ethereum/eth-abi) (👨‍💻 18 · 🔀 71 · 📋 59 - 20% open · ⏱️ 11.05.2022):
+- [GitHub](https://github.com/ethereum/eth-abi) (👨‍💻 18 · 🔀 72 · 📋 59 - 20% open · ⏱️ 11.05.2022):
 
 	```
 	git clone https://github.com/ethereum/eth-abi
 	```
-- [PyPi](https://pypi.org/project/eth-abi) (📥 800K / month · 📦 270 · ⏱️ 19.01.2022):
+- [PyPi](https://pypi.org/project/eth-abi) (📥 820K / month · 📦 270 · ⏱️ 19.01.2022):
 	```
 	pip install eth-abi
 	```
-- [Conda](https://anaconda.org/conda-forge/eth-abi) (📥 5.4K · ⏱️ 21.01.2022):
+- [Conda](https://anaconda.org/conda-forge/eth-abi) (📥 5.5K · ⏱️ 21.01.2022):
 	```
 	conda install -c conda-forge eth-abi
 	```
@@ -1307,19 +1307,19 @@ _Blockchains that host smart contracts or decentralized applications._
 	```
 	git clone https://github.com/ethereum/remix-ide
 	```
-- [npm](https://www.npmjs.com/package/remix-ide) (📥 660 / month · 📦 13 · ⏱️ 13.07.2020):
+- [npm](https://www.npmjs.com/package/remix-ide) (📥 680 / month · 📦 13 · ⏱️ 13.07.2020):
 	```
 	npm install remix-ide
 	```
 </details>
 <details><summary><b><a href="https://github.com/Nethereum/Nethereum">Nethereum</a></b> (🥇26 ·  ⭐ 1.8K) - Ethereum .Net cross platform integration library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Nethereum/Nethereum) (👨‍💻 69 · 🔀 610 · 📥 6.8K · 📋 690 - 10% open · ⏱️ 18.06.2022):
+- [GitHub](https://github.com/Nethereum/Nethereum) (👨‍💻 69 · 🔀 610 · 📥 6.9K · 📋 690 - 10% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/Nethereum/Nethereum
 	```
-- [npm](https://www.npmjs.com/package/nethereum-codegen) (📥 570 / month · 📦 2 · ⏱️ 13.04.2022):
+- [npm](https://www.npmjs.com/package/nethereum-codegen) (📥 530 / month · 📦 2 · ⏱️ 13.04.2022):
 	```
 	npm install nethereum-codegen
 	```
@@ -1334,19 +1334,19 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/OpenZeppelin/solidity-docgen">solidity-docgen</a></b> (🥇26 ·  ⭐ 290) - Documentation generator for Solidity projects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/OpenZeppelin/solidity-docgen) (👨‍💻 13 · 🔀 81 · 📦 1.8K · 📋 110 - 24% open · ⏱️ 19.06.2022):
+- [GitHub](https://github.com/OpenZeppelin/solidity-docgen) (👨‍💻 13 · 🔀 81 · 📦 1.8K · 📋 110 - 25% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/OpenZeppelin/solidity-docgen
 	```
-- [npm](https://www.npmjs.com/package/solidity-docgen) (📥 26K / month · 📦 100 · ⏱️ 19.06.2022):
+- [npm](https://www.npmjs.com/package/solidity-docgen) (📥 27K / month · 📦 100 · ⏱️ 19.06.2022):
 	```
 	npm install solidity-docgen
 	```
 </details>
 <details><summary><b><a href="https://github.com/ConsenSys/teku">teku</a></b> (🥇25 ·  ⭐ 400) - Java Implementation of the Ethereum 2.0 Beacon Chain. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ConsenSys/teku) (👨‍💻 72 · 🔀 160 · 📋 1.8K - 5% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/ConsenSys/teku) (👨‍💻 72 · 🔀 160 · 📋 1.8K - 5% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/ConsenSys/teku
@@ -1359,41 +1359,41 @@ _Blockchains that host smart contracts or decentralized applications._
 	```
 	git clone https://github.com/OpenZeppelin/openzeppelin-test-helpers
 	```
-- [npm](https://www.npmjs.com/package/@openzeppelin/test-helpers) (📥 72K / month · 📦 170 · ⏱️ 05.10.2021):
+- [npm](https://www.npmjs.com/package/@openzeppelin/test-helpers) (📥 74K / month · 📦 170 · ⏱️ 05.10.2021):
 	```
 	npm install @openzeppelin/test-helpers
 	```
 </details>
-<details><summary><b><a href="https://github.com/ethereum/EIPs">EIPs</a></b> (🥇24 ·  ⭐ 9.8K) - The Ethereum Improvement Proposal repository. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">CC0-1.0</a></code></summary>
+<details><summary><b><a href="https://github.com/ethereum/EIPs">EIPs</a></b> (🥇24 ·  ⭐ 9.9K) - The Ethereum Improvement Proposal repository. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">CC0-1.0</a></code></summary>
 
-- [GitHub](https://github.com/ethereum/EIPs) (👨‍💻 440 · 🔀 3.5K · 📋 1K - 12% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/ethereum/EIPs) (👨‍💻 440 · 🔀 3.5K · 📋 1K - 12% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/ethereum/EIPs
 	```
 </details>
-<details><summary><b><a href="https://github.com/ethereum/tests">tests</a></b> (🥇24 ·  ⭐ 340) - Common tests for all Ethereum implementations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/ethereum/tests) (👨‍💻 73 · 🔀 230 · 📋 280 - 8% open · ⏱️ 20.06.2022):
-
-	```
-	git clone https://github.com/ethereum/tests
-	```
-- [npm](https://www.npmjs.com/package/ethereum-tests) (📥 25 / month · 📦 18 · ⏱️ 08.04.2015):
-	```
-	npm install ethereum-tests
-	```
-</details>
-<details><summary><b><a href="https://github.com/ConsenSys/surya">surya</a></b> (🥈23 ·  ⭐ 650) - A set of utilities for exploring Solidity contracts. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/ConsenSys/surya">surya</a></b> (🥈23 ·  ⭐ 660) - A set of utilities for exploring Solidity contracts. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/ConsenSys/surya) (👨‍💻 18 · 🔀 79 · 📦 320 · 📋 58 - 6% open · ⏱️ 07.04.2022):
 
 	```
 	git clone https://github.com/ConsenSys/surya
 	```
-- [npm](https://www.npmjs.com/package/surya) (📥 3.5K / month · 📦 15 · ⏱️ 07.04.2022):
+- [npm](https://www.npmjs.com/package/surya) (📥 3.3K / month · 📦 15 · ⏱️ 07.04.2022):
 	```
 	npm install surya
+	```
+</details>
+<details><summary><b><a href="https://github.com/ethereum/tests">tests</a></b> (🥈23 ·  ⭐ 340) - Common tests for all Ethereum implementations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/ethereum/tests) (👨‍💻 73 · 🔀 230 · 📋 280 - 8% open · ⏱️ 24.06.2022):
+
+	```
+	git clone https://github.com/ethereum/tests
+	```
+- [npm](https://www.npmjs.com/package/ethereum-tests) (📥 20 / month · 📦 18 · ⏱️ 08.04.2015):
+	```
+	npm install ethereum-tests
 	```
 </details>
 <details><summary><b><a href="https://github.com/ConsenSys/tessera">tessera</a></b> (🥈23 ·  ⭐ 160) - Tessera - Enterprise Implementation of Quorums transaction manager. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1427,7 +1427,7 @@ _Blockchains that host smart contracts or decentralized applications._
 	```
 	git clone https://github.com/dethcrypto/eth-sdk
 	```
-- [npm](https://www.npmjs.com/package/@dethcrypto/eth-sdk) (📥 3.3K / month · ⏱️ 15.06.2022):
+- [npm](https://www.npmjs.com/package/@dethcrypto/eth-sdk) (📥 4.7K / month · ⏱️ 15.06.2022):
 	```
 	npm install @dethcrypto/eth-sdk
 	```
@@ -1439,7 +1439,7 @@ _Blockchains that host smart contracts or decentralized applications._
 	```
 	git clone https://github.com/ethereum/evmc
 	```
-- [Cargo](https://crates.io/crates/evmc-sys) (📥 130 / month · 📦 1 · ⏱️ 28.07.2021):
+- [Cargo](https://crates.io/crates/evmc-sys) (📥 140 / month · 📦 1 · ⏱️ 28.07.2021):
 	```
 	cargo install evmc-sys
 	```
@@ -1456,21 +1456,21 @@ _Blockchains that host smart contracts or decentralized applications._
 	git clone https://github.com/ConsenSys/cakeshop
 	```
 </details>
-<details><summary><b><a href="https://github.com/OpenZeppelin/nile">nile</a></b> (🥈19 ·  ⭐ 240) - CLI tool to develop StarkNet projects written in Cairo. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/OpenZeppelin/nile">nile</a></b> (🥈19 ·  ⭐ 250) - CLI tool to develop StarkNet projects written in Cairo. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/OpenZeppelin/nile) (👨‍💻 16 · 🔀 40 · 📋 69 - 30% open · ⏱️ 21.05.2022):
+- [GitHub](https://github.com/OpenZeppelin/nile) (👨‍💻 16 · 🔀 39 · 📋 70 - 31% open · ⏱️ 21.05.2022):
 
 	```
 	git clone https://github.com/OpenZeppelin/nile
 	```
-- [PyPi](https://pypi.org/project/cairo-nile) (📥 1.4K / month · 📦 2 · ⏱️ 21.04.2022):
+- [PyPi](https://pypi.org/project/cairo-nile) (📥 1.3K / month · 📦 2 · ⏱️ 21.04.2022):
 	```
 	pip install cairo-nile
 	```
 </details>
 <details><summary><b><a href="https://github.com/dethcrypto/earl">earl</a></b> (🥈19 ·  ⭐ 220) - Ergonomic, modern and type-safe assertion library for TypeScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dethcrypto/earl) (👨‍💻 10 · 🔀 10 · 📋 69 - 34% open · ⏱️ 19.05.2022):
+- [GitHub](https://github.com/dethcrypto/earl) (👨‍💻 10 · 🔀 10 · 📋 71 - 36% open · ⏱️ 19.05.2022):
 
 	```
 	git clone https://github.com/dethcrypto/earl
@@ -1490,15 +1490,15 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/ethereum/yellowpaper">yellowpaper</a></b> (🥈18 ·  ⭐ 1.4K) - The Yellow Paper: Ethereums formal specification. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code></summary>
 
-- [GitHub](https://github.com/ethereum/yellowpaper) (👨‍💻 80 · 🔀 400 · 📋 230 - 37% open · ⏱️ 14.06.2022):
+- [GitHub](https://github.com/ethereum/yellowpaper) (👨‍💻 81 · 🔀 400 · 📋 230 - 37% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/ethereum/yellowpaper
 	```
 </details>
-<details><summary><b><a href="https://github.com/OpenZeppelin/cairo-contracts">cairo-contracts</a></b> (🥈18 ·  ⭐ 440) - OpenZeppelin Contracts written in Cairo for StarkNet, a.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/OpenZeppelin/cairo-contracts">cairo-contracts</a></b> (🥈18 ·  ⭐ 450) - OpenZeppelin Contracts written in Cairo for StarkNet, a.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/OpenZeppelin/cairo-contracts) (👨‍💻 24 · 🔀 110 · 📋 150 - 24% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/OpenZeppelin/cairo-contracts) (👨‍💻 24 · 🔀 120 · 📋 150 - 24% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/OpenZeppelin/cairo-contracts
@@ -1506,7 +1506,7 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/ethereum/hive">hive</a></b> (🥈18 ·  ⭐ 200) - Ethereum end-to-end test harness. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/ethereum/hive) (👨‍💻 45 · 🔀 110 · 📦 11 · 📋 150 - 20% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/ethereum/hive) (👨‍💻 45 · 🔀 110 · 📦 11 · 📋 150 - 20% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/ethereum/hive
@@ -1516,15 +1516,7 @@ _Blockchains that host smart contracts or decentralized applications._
 	go install github.com/ethereum/hive
 	```
 </details>
-<details><summary><b><a href="https://github.com/ConsenSys/smart-contract-best-practices">smart-contract-best-practices</a></b> (🥈17 ·  ⭐ 5.8K) - A guide to smart contract security best practices. <code>Unlicensed</code></summary>
-
-- [GitHub](https://github.com/ConsenSys/smart-contract-best-practices) (👨‍💻 100 · 🔀 1.1K · 📋 86 - 10% open · ⏱️ 02.04.2022):
-
-	```
-	git clone https://github.com/ConsenSys/smart-contract-best-practices
-	```
-</details>
-<details><summary><b><a href="https://github.com/OpenZeppelin/ethernaut">ethernaut</a></b> (🥈16 ·  ⭐ 1.1K) - Web3/Solidity based wargame. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/OpenZeppelin/ethernaut">ethernaut</a></b> (🥉16 ·  ⭐ 1.1K) - Web3/Solidity based wargame. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/OpenZeppelin/ethernaut) (👨‍💻 44 · 🔀 310 · 📋 160 - 56% open · ⏱️ 17.05.2022):
 
@@ -1532,7 +1524,7 @@ _Blockchains that host smart contracts or decentralized applications._
 	git clone https://github.com/OpenZeppelin/ethernaut
 	```
 </details>
-<details><summary><b><a href="https://github.com/ConsenSys/quorum-examples">quorum-examples</a></b> (🥈16 ·  ⭐ 310) - Examples for Quorum. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/ConsenSys/quorum-examples">quorum-examples</a></b> (🥉16 ·  ⭐ 310) - Examples for Quorum. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/ConsenSys/quorum-examples) (👨‍💻 35 · 🔀 340 · 📋 130 - 5% open · ⏱️ 22.02.2022):
 
@@ -1540,17 +1532,25 @@ _Blockchains that host smart contracts or decentralized applications._
 	git clone https://github.com/ConsenSys/quorum-examples
 	```
 </details>
-<details><summary><b><a href="https://github.com/ethereum/solc-bin">solc-bin</a></b> (🥈16 ·  ⭐ 280) - This repository contains current and historical builds of the.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/ethereum/solc-bin">solc-bin</a></b> (🥉16 ·  ⭐ 280) - This repository contains current and historical builds of the.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/ethereum/solc-bin) (👨‍💻 12 · 🔀 170 · 📦 1 · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/ethereum/solc-bin) (👨‍💻 12 · 🔀 170 · 📦 1 · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/ethereum/solc-bin
 	```
 </details>
+<details><summary><b><a href="https://github.com/ConsenSys/smart-contract-best-practices">smart-contract-best-practices</a></b> (🥉15 ·  ⭐ 5.8K · 📉) - A guide to smart contract security best practices. <code>Unlicensed</code></summary>
+
+- [GitHub](https://github.com/ConsenSys/smart-contract-best-practices) (👨‍💻 100 · 🔀 1.1K · 📋 86 - 10% open · ⏱️ 02.04.2022):
+
+	```
+	git clone https://github.com/ConsenSys/smart-contract-best-practices
+	```
+</details>
 <details><summary><b><a href="https://github.com/ethereum/research">research</a></b> (🥉15 ·  ⭐ 1.3K) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ethereum/research) (👨‍💻 22 · 🔀 290 · 📋 56 - 91% open · ⏱️ 04.04.2022):
+- [GitHub](https://github.com/ethereum/research) (👨‍💻 22 · 🔀 290 · 📋 56 - 91% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/ethereum/research
@@ -1566,13 +1566,13 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/ethereum/emacs-solidity">emacs-solidity</a></b> (🥉14 ·  ⭐ 180) - The official solidity-mode for EMACS. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/ethereum/emacs-solidity) (👨‍💻 22 · 🔀 57 · 📋 39 - 35% open · ⏱️ 08.03.2022):
+- [GitHub](https://github.com/ethereum/emacs-solidity) (👨‍💻 22 · 🔀 56 · 📋 39 - 35% open · ⏱️ 08.03.2022):
 
 	```
 	git clone https://github.com/ethereum/emacs-solidity
 	```
 </details>
-<details><summary><b><a href="https://github.com/ethereum/devp2p">devp2p</a></b> (🥉13 ·  ⭐ 660) - Ethereum peer-to-peer networking specifications. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/ethereum/devp2p">devp2p</a></b> (🥉13 ·  ⭐ 670) - Ethereum peer-to-peer networking specifications. <code>Unlicensed</code></summary>
 
 - [GitHub](https://github.com/ethereum/devp2p) (👨‍💻 37 · 🔀 210 · 📋 100 - 28% open · ⏱️ 22.06.2022):
 
@@ -1596,7 +1596,7 @@ _Blockchains that host smart contracts or decentralized applications._
 	git clone https://github.com/OpenZeppelin/openzeppelin-labs
 	```
 </details>
-<details><summary><b><a href="https://github.com/ethereum/homebrew-ethereum">homebrew-ethereum</a></b> (🥉12 ·  ⭐ 410) - Homebrew Tap for Ethereum. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/ethereum/homebrew-ethereum">homebrew-ethereum</a></b> (🥉12 ·  ⭐ 400) - Homebrew Tap for Ethereum. <code>Unlicensed</code></summary>
 
 - [GitHub](https://github.com/ethereum/homebrew-ethereum) (👨‍💻 35 · 🔀 150 · ⏱️ 25.05.2022):
 
@@ -1625,65 +1625,65 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/solana-labs/token-list">token-list</a></b> (🥇44 ·  ⭐ 1.2K) - The community maintained Solana token registry. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/solana-labs/token-list) (👨‍💻 9K · 🔀 11K · 📦 2.1K · 📋 6K - 80% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/solana-labs/token-list) (👨‍💻 9K · 🔀 11K · 📦 2.2K · 📋 6K - 80% open · ⏱️ 21.06.2022):
 
 	```
 	git clone https://github.com/solana-labs/token-list
 	```
-- [npm](https://www.npmjs.com/package/@solana/spl-token-registry) (📥 140K / month · ⏱️ 21.06.2022):
+- [npm](https://www.npmjs.com/package/@solana/spl-token-registry) (📥 120K / month · ⏱️ 21.06.2022):
 	```
 	npm install @solana/spl-token-registry
 	```
 </details>
-<details><summary><b><a href="https://github.com/solana-labs/solana">solana</a></b> (🥇41 ·  ⭐ 8.9K) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/solana-labs/solana">solana</a></b> (🥇41 ·  ⭐ 9K) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/solana-labs/solana) (👨‍💻 370 · 🔀 2.2K · 📥 420K · 📋 4.3K - 23% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/solana-labs/solana) (👨‍💻 380 · 🔀 2.2K · 📥 430K · 📋 4.3K - 22% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/solana-labs/solana
 	```
-- [Cargo](https://crates.io/crates/solana-program) (📥 96K / month · 📦 210 · ⏱️ 22.06.2022):
+- [Cargo](https://crates.io/crates/solana-program) (📥 96K / month · 📦 210 · ⏱️ 29.06.2022):
 	```
 	cargo install solana-program
 	```
 </details>
 <details><summary><b><a href="https://github.com/solana-labs/solana-web3.js">solana-web3.js</a></b> (🥇35 ·  ⭐ 1.2K) - Solana JavaScript SDK. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/solana-labs/solana-web3.js) (👨‍💻 80 · 🔀 380 · 📦 21K · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/solana-labs/solana-web3.js) (👨‍💻 80 · 🔀 380 · 📦 21K · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/solana-labs/solana-web3.js
 	```
-- [npm](https://www.npmjs.com/package/@solana/web3.js) (📥 920K / month · 📦 45 · ⏱️ 21.06.2022):
+- [npm](https://www.npmjs.com/package/@solana/web3.js) (📥 930K / month · 📦 45 · ⏱️ 29.06.2022):
 	```
 	npm install @solana/web3.js
 	```
 </details>
-<details><summary><b><a href="https://github.com/solana-labs/solana-program-library">solana-program-library</a></b> (🥇32 ·  ⭐ 1.9K) - A collection of Solana-maintained on-chain programs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/solana-labs/solana-program-library">solana-program-library</a></b> (🥇33 ·  ⭐ 1.9K) - A collection of Solana-maintained on-chain programs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/solana-labs/solana-program-library) (👨‍💻 120 · 🔀 1.1K · 📥 140K · 📦 2 · 📋 520 - 31% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/solana-labs/solana-program-library) (👨‍💻 120 · 🔀 1.1K · 📥 140K · 📦 2 · 📋 540 - 32% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/solana-labs/solana-program-library
 	```
-- [npm](https://www.npmjs.com/package/@solana/spl-token) (📥 580K / month · 📦 16 · ⏱️ 17.02.2022):
+- [npm](https://www.npmjs.com/package/@solana/spl-token) (📥 550K / month · 📦 16 · ⏱️ 17.02.2022):
 	```
 	npm install @solana/spl-token
 	```
-- [Cargo](https://crates.io/crates/spl-token) (📥 52K / month · 📦 140 · ⏱️ 02.03.2022):
+- [Cargo](https://crates.io/crates/spl-token) (📥 52K / month · 📦 150 · ⏱️ 02.03.2022):
 	```
 	cargo install spl-token
 	```
 </details>
-<details><summary><b><a href="https://github.com/solana-labs/wallet-adapter">wallet-adapter</a></b> (🥈21 ·  ⭐ 840) - Modular TypeScript wallet adapters and components for Solana.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/solana-labs/wallet-adapter">wallet-adapter</a></b> (🥈23 ·  ⭐ 850) - Modular TypeScript wallet adapters and components for Solana.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/solana-labs/wallet-adapter) (👨‍💻 55 · 🔀 480 · 📦 170 · 📋 220 - 9% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/solana-labs/wallet-adapter) (👨‍💻 63 · 🔀 480 · 📦 170 · 📋 230 - 10% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/solana-labs/wallet-adapter
 	```
 </details>
-<details><summary><b><a href="https://github.com/solana-labs/example-helloworld">example-helloworld</a></b> (🥈17 ·  ⭐ 680) - Hello world on Solana. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/solana-labs/example-helloworld">example-helloworld</a></b> (🥈17 ·  ⭐ 690) - Hello world on Solana. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/solana-labs/example-helloworld) (👨‍💻 37 · 🔀 550 · 📋 110 - 18% open · ⏱️ 16.05.2022):
 
@@ -1691,7 +1691,7 @@ _Blockchains that host smart contracts or decentralized applications._
 	git clone https://github.com/solana-labs/example-helloworld
 	```
 </details>
-<details><summary><b><a href="https://github.com/solana-labs/break">break</a></b> (🥈16 ·  ⭐ 220) - Break Solana Game. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/solana-labs/break">break</a></b> (🥉16 ·  ⭐ 220) - Break Solana Game. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/solana-labs/break) (👨‍💻 17 · 🔀 81 · 📋 87 - 27% open · ⏱️ 08.06.2022):
 
@@ -1701,7 +1701,7 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/solana-labs/dapp-scaffold">dapp-scaffold</a></b> (🥉15 ·  ⭐ 1.3K) - Scaffolding for a dapp built on Solana. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/solana-labs/dapp-scaffold) (👨‍💻 18 · 🔀 550 · 📋 47 - 21% open · ⏱️ 20.05.2022):
+- [GitHub](https://github.com/solana-labs/dapp-scaffold) (👨‍💻 19 · 🔀 560 · 📋 47 - 21% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/solana-labs/dapp-scaffold
@@ -1720,31 +1720,31 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/polkadot-js/api">polkadot-js/api</a></b> (🥇36 ·  ⭐ 970) - Promise and RxJS APIs around Polkadot and Substrate based.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/polkadot-js/api) (👨‍💻 110 · 🔀 250 · 📦 15K · 📋 1.6K - 2% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/polkadot-js/api) (👨‍💻 110 · 🔀 260 · 📦 15K · 📋 1.6K - 2% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/polkadot-js/api
 	```
-- [npm](https://www.npmjs.com/package/@polkadot/types) (📥 200K / month · 📦 150 · ⏱️ 22.06.2022):
+- [npm](https://www.npmjs.com/package/@polkadot/types) (📥 200K / month · 📦 150 · ⏱️ 26.06.2022):
 	```
 	npm install @polkadot/types
 	```
 </details>
 <details><summary><b><a href="https://github.com/polkadot-js/apps">polkadot-js/apps</a></b> (🥇33 ·  ⭐ 1.5K) - Basic Polkadot/Substrate UI for interacting with a.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/polkadot-js/apps) (👨‍💻 330 · 🔀 880 · 📥 85K · 📦 6 · 📋 2.4K - 4% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/polkadot-js/apps) (👨‍💻 340 · 🔀 930 · 📥 86K · 📦 6 · 📋 2.4K - 4% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/polkadot-js/apps
 	```
-- [npm](https://www.npmjs.com/package/@polkadot/ui-app) (📥 41 / month · 📦 31 · ⏱️ 12.08.2019):
+- [npm](https://www.npmjs.com/package/@polkadot/ui-app) (📥 76 / month · 📦 31 · ⏱️ 12.08.2019):
 	```
 	npm install @polkadot/ui-app
 	```
 </details>
-<details><summary><b><a href="https://github.com/paritytech/polkadot">polkadot</a></b> (🥇31 ·  ⭐ 5.9K) - Polkadot Node Implementation. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/paritytech/polkadot">polkadot</a></b> (🥇31 ·  ⭐ 6K) - Polkadot Node Implementation. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/paritytech/polkadot) (👨‍💻 180 · 🔀 1.2K · 📥 120K · 📋 1.7K - 33% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/paritytech/polkadot) (👨‍💻 180 · 🔀 1.2K · 📥 120K · 📋 1.7K - 33% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/paritytech/polkadot
@@ -1752,19 +1752,19 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/polkadot-js/common">common</a></b> (🥇31 ·  ⭐ 250) - Utilities and base libraries for use across polkadot-js for Polkadot.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/polkadot-js/common) (👨‍💻 51 · 🔀 96 · 📦 400 · 📋 240 - 2% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/polkadot-js/common) (👨‍💻 51 · 🔀 96 · 📦 400 · 📋 240 - 2% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/polkadot-js/common
 	```
-- [npm](https://www.npmjs.com/package/@polkadot/util-crypto) (📥 250K / month · 📦 200 · ⏱️ 22.06.2022):
+- [npm](https://www.npmjs.com/package/@polkadot/util-crypto) (📥 250K / month · 📦 200 · ⏱️ 25.06.2022):
 	```
 	npm install @polkadot/util-crypto
 	```
 </details>
 <details><summary><b><a href="https://github.com/polkadot-js/extension">extension</a></b> (🥇30 ·  ⭐ 800) - Simple browser extension for managing Polkadot and Substrate.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/polkadot-js/extension) (👨‍💻 37 · 🔀 260 · 📥 2.2K · 📦 69 · 📋 400 - 8% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/polkadot-js/extension) (👨‍💻 37 · 🔀 260 · 📥 2.2K · 📦 69 · 📋 400 - 8% open · ⏱️ 26.06.2022):
 
 	```
 	git clone https://github.com/polkadot-js/extension
@@ -1776,12 +1776,12 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/polkadot-js/phishing">phishing</a></b> (🥇29 ·  ⭐ 160) - A curated list of known less-than-honest operators on Polkadot and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/polkadot-js/phishing) (👨‍💻 34 · 🔀 81 · 📦 180 · 📋 180 - 2% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/polkadot-js/phishing) (👨‍💻 34 · 🔀 82 · 📦 180 · 📋 180 - 2% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/polkadot-js/phishing
 	```
-- [npm](https://www.npmjs.com/package/@polkadot/phishing) (📥 18K / month · 📦 1 · ⏱️ 22.06.2022):
+- [npm](https://www.npmjs.com/package/@polkadot/phishing) (📥 18K / month · 📦 1 · ⏱️ 25.06.2022):
 	```
 	npm install @polkadot/phishing
 	```
@@ -1805,7 +1805,7 @@ _Blockchains that host smart contracts or decentralized applications._
 	```
 	git clone https://github.com/paritytech/parity-wasm
 	```
-- [Cargo](https://crates.io/crates/parity-wasm) (📥 180K / month · 📦 300 · ⏱️ 26.05.2022):
+- [Cargo](https://crates.io/crates/parity-wasm) (📥 190K / month · 📦 300 · ⏱️ 26.05.2022):
 	```
 	cargo install parity-wasm
 	```
@@ -1817,34 +1817,34 @@ _Blockchains that host smart contracts or decentralized applications._
 	```
 	git clone https://github.com/w3f/schnorrkel
 	```
-- [Cargo](https://crates.io/crates/schnorrkel) (📥 74K / month · 📦 110 · ⏱️ 18.10.2021):
+- [Cargo](https://crates.io/crates/schnorrkel) (📥 75K / month · 📦 110 · ⏱️ 18.10.2021):
 	```
 	cargo install schnorrkel
 	```
 </details>
 <details><summary><b><a href="https://github.com/polkadot-js/tools">tools</a></b> (🥈22 ·  ⭐ 260) - Various cli tools for Polkadot and Substrate chains, including basic.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/polkadot-js/tools) (👨‍💻 18 · 🔀 48 · 📦 9 · 📋 49 - 10% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/polkadot-js/tools) (👨‍💻 18 · 🔀 48 · 📦 9 · 📋 49 - 10% open · ⏱️ 26.06.2022):
 
 	```
 	git clone https://github.com/polkadot-js/tools
 	```
-- [npm](https://www.npmjs.com/package/@polkadot/vanitygen) (📥 6.2K / month · ⏱️ 21.06.2022):
+- [npm](https://www.npmjs.com/package/@polkadot/vanitygen) (📥 5.9K / month · ⏱️ 26.06.2022):
 	```
 	npm install @polkadot/vanitygen
 	```
 </details>
-<details><summary><b><a href="https://github.com/w3f/Grants-Program">Grants-Program</a></b> (🥈20 ·  ⭐ 560) - Web3 Foundation Grants Program. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/w3f/Grants-Program">Grants-Program</a></b> (🥈20 ·  ⭐ 570) - Web3 Foundation Grants Program. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/w3f/Grants-Program) (👨‍💻 260 · 🔀 1.1K · 📋 43 - 67% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/w3f/Grants-Program) (👨‍💻 260 · 🔀 1.1K · 📋 43 - 67% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/w3f/Grants-Program
 	```
 </details>
-<details><summary><b><a href="https://github.com/paritytech/parity-signer">parity-signer</a></b> (🥈20 ·  ⭐ 420) - Air-gapped crypto wallet. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/paritytech/parity-signer">parity-signer</a></b> (🥈20 ·  ⭐ 430) - Air-gapped crypto wallet. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/paritytech/parity-signer) (👨‍💻 36 · 🔀 110 · 📥 640 · 📋 520 - 16% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/paritytech/parity-signer) (👨‍💻 36 · 🔀 110 · 📥 640 · 📋 530 - 16% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/paritytech/parity-signer
@@ -1852,13 +1852,13 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/w3f/polkadot-wiki">polkadot-wiki</a></b> (🥈20 ·  ⭐ 240) - The source of truth for Polkadot. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/w3f/polkadot-wiki) (👨‍💻 180 · 🔀 380 · 📋 1.1K - 4% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/w3f/polkadot-wiki) (👨‍💻 180 · 🔀 380 · 📋 1.1K - 4% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/w3f/polkadot-wiki
 	```
 </details>
-<details><summary><b><a href="https://github.com/w3f/polkadot-validator-setup">polkadot-validator-setup</a></b> (🥈17 ·  ⭐ 200) - Polkadot Validator Secure Setup. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/w3f/polkadot-validator-setup">polkadot-validator-setup</a></b> (🥈18 ·  ⭐ 200) - Polkadot Validator Secure Setup. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/w3f/polkadot-validator-setup) (👨‍💻 27 · 🔀 120 · 📋 49 - 38% open · ⏱️ 09.02.2022):
 
@@ -1870,7 +1870,7 @@ _Blockchains that host smart contracts or decentralized applications._
 	npm install polkadot-secure-validator
 	```
 </details>
-<details><summary><b><a href="https://github.com/paritytech/parity-bitcoin">parity-bitcoin</a></b> (🥈16 ·  ⭐ 700) - The Parity Bitcoin client. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/paritytech/parity-bitcoin">parity-bitcoin</a></b> (🥉16 ·  ⭐ 700) - The Parity Bitcoin client. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/paritytech/parity-bitcoin) (👨‍💻 38 · 🔀 180 · 📋 160 - 30% open · ⏱️ 02.12.2021):
 
@@ -1878,7 +1878,7 @@ _Blockchains that host smart contracts or decentralized applications._
 	git clone https://github.com/paritytech/parity-bitcoin
 	```
 </details>
-<details><summary><b><a href="https://github.com/w3f/General-Grants-Program">General-Grants-Program</a></b> (🥈16 ·  ⭐ 580 · 💤) - Web3 Foundation General Grants Program. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/w3f/General-Grants-Program">General-Grants-Program</a></b> (🥉16 ·  ⭐ 580 · 💤) - Web3 Foundation General Grants Program. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/w3f/General-Grants-Program) (👨‍💻 110 · 🔀 480 · 📋 87 - 9% open · ⏱️ 19.08.2021):
 
@@ -1899,7 +1899,7 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/near/near-api-js">near-api-js</a></b> (🥇31 ·  ⭐ 240) - JavaScript library to interact with NEAR Protocol via RPC API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/near/near-api-js) (👨‍💻 48 · 🔀 140 · 📦 4.5K · 📋 270 - 45% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/near/near-api-js) (👨‍💻 48 · 🔀 140 · 📦 4.6K · 📋 270 - 45% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/near/near-api-js
@@ -1911,7 +1911,7 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/near/nearcore">nearcore</a></b> (🥇30 ·  ⭐ 1.7K) - Reference client for NEAR Protocol. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/near/nearcore) (👨‍💻 94 · 🔀 300 · 📋 2.5K - 18% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/near/nearcore) (👨‍💻 96 · 🔀 310 · 📋 2.5K - 18% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/near/nearcore
@@ -1923,31 +1923,31 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/near/near-sdk-rs">near-sdk-rs</a></b> (🥇25 ·  ⭐ 330) - Rust library for writing NEAR smart contracts. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/near/near-sdk-rs) (👨‍💻 48 · 🔀 140 · 📋 380 - 43% open · ⏱️ 18.06.2022):
+- [GitHub](https://github.com/near/near-sdk-rs) (👨‍💻 48 · 🔀 140 · 📋 380 - 43% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/near/near-sdk-rs
 	```
-- [Cargo](https://crates.io/crates/near-sdk) (📥 8.9K / month · 📦 19 · ⏱️ 25.05.2022):
+- [Cargo](https://crates.io/crates/near-sdk) (📥 9K / month · 📦 19 · ⏱️ 25.05.2022):
 	```
 	cargo install near-sdk
 	```
 </details>
 <details><summary><b><a href="https://github.com/near/create-near-app">create-near-app</a></b> (🥇25 ·  ⭐ 240) - Create a starter app hooked up to the NEAR blockchain. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/near/create-near-app) (👨‍💻 23 · 🔀 98 · 📦 4 · 📋 95 - 29% open · ⏱️ 03.06.2022):
+- [GitHub](https://github.com/near/create-near-app) (👨‍💻 24 · 🔀 98 · 📦 4 · 📋 95 - 29% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/near/create-near-app
 	```
-- [npm](https://www.npmjs.com/package/create-near-app) (📥 1.5K / month · ⏱️ 02.06.2022):
+- [npm](https://www.npmjs.com/package/create-near-app) (📥 1.2K / month · ⏱️ 02.06.2022):
 	```
 	npm install create-near-app
 	```
 </details>
 <details><summary><b><a href="https://github.com/near/borsh">borsh</a></b> (🥈21 ·  ⭐ 280) - Binary Object Representation Serializer for Hashing. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/near/borsh) (👨‍💻 20 · 🔀 31 · 📋 57 - 56% open · ⏱️ 16.05.2022):
+- [GitHub](https://github.com/near/borsh) (👨‍💻 20 · 🔀 32 · 📋 57 - 56% open · ⏱️ 16.05.2022):
 
 	```
 	git clone https://github.com/near/borsh
@@ -1963,7 +1963,7 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/near/near-wallet">near-wallet</a></b> (🥈21 ·  ⭐ 160) - Web wallet for NEAR Protocol which stores keys in browsers.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/near/near-wallet) (👨‍💻 83 · 🔀 130 · 📋 840 - 29% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/near/near-wallet) (👨‍💻 85 · 🔀 130 · 📋 840 - 29% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/near/near-wallet
@@ -1971,7 +1971,7 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/near/core-contracts">core-contracts</a></b> (🥉11 ·  ⭐ 250) - Core contracts: reference staking pool, lockup, voting,.. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/near/core-contracts) (👨‍💻 18 · 🔀 96 · 📋 95 - 53% open · ⏱️ 03.03.2022):
+- [GitHub](https://github.com/near/core-contracts) (👨‍💻 18 · 🔀 95 · 📋 95 - 53% open · ⏱️ 03.03.2022):
 
 	```
 	git clone https://github.com/near/core-contracts
@@ -1990,7 +1990,7 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/Chia-Network/chia-blockchain">chia-blockchain</a></b> (🥇37 ·  ⭐ 11K) - Chia blockchain python implementation (full node, farmer,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Chia-Network/chia-blockchain) (👨‍💻 140 · 🔀 1.9K · 📥 710K · 📦 60 · 📋 4.3K - 8% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/Chia-Network/chia-blockchain) (👨‍💻 140 · 🔀 1.9K · 📥 710K · 📦 60 · 📋 4.4K - 8% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/Chia-Network/chia-blockchain
@@ -1998,57 +1998,57 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/Chia-Network/bls-signatures">Chia-Network/bls-signatures</a></b> (🥇29 ·  ⭐ 260) - BLS signatures in C++, using the relic toolkit.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Chia-Network/bls-signatures) (👨‍💻 41 · 🔀 180 · 📦 180 · 📋 100 - 12% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/Chia-Network/bls-signatures) (👨‍💻 41 · 🔀 180 · 📦 190 · 📋 110 - 12% open · ⏱️ 21.06.2022):
 
 	```
 	git clone https://github.com/Chia-Network/bls-signatures
 	```
-- [PyPi](https://pypi.org/project/blspy) (📥 220K / month · 📦 10 · ⏱️ 21.06.2022):
+- [PyPi](https://pypi.org/project/blspy) (📥 210K / month · 📦 10 · ⏱️ 21.06.2022):
 	```
 	pip install blspy
 	```
-- [npm](https://www.npmjs.com/package/bls-signatures) (📥 3.2K / month · 📦 4 · ⏱️ 21.06.2022):
+- [npm](https://www.npmjs.com/package/bls-signatures) (📥 3.4K / month · 📦 4 · ⏱️ 21.06.2022):
 	```
 	npm install bls-signatures
 	```
 </details>
-<details><summary><b><a href="https://github.com/Chia-Network/chiapos">chiapos</a></b> (🥇28 ·  ⭐ 260) - Chia Proof of Space library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/Chia-Network/chiapos">chiapos</a></b> (🥇27 ·  ⭐ 260) - Chia Proof of Space library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Chia-Network/chiapos) (👨‍💻 40 · 🔀 280 · 📦 360 · 📋 93 - 23% open · ⏱️ 25.04.2022):
+- [GitHub](https://github.com/Chia-Network/chiapos) (👨‍💻 40 · 🔀 280 · 📦 360 · 📋 94 - 23% open · ⏱️ 25.04.2022):
 
 	```
 	git clone https://github.com/Chia-Network/chiapos
 	```
-- [PyPi](https://pypi.org/project/chiapos) (📥 220K / month · 📦 5 · ⏱️ 04.04.2022):
+- [PyPi](https://pypi.org/project/chiapos) (📥 200K / month · 📦 5 · ⏱️ 04.04.2022):
 	```
 	pip install chiapos
 	```
 </details>
 <details><summary><b><a href="https://github.com/Chia-Network/chia-blockchain-gui">chia-blockchain-gui</a></b> (🥈20 ·  ⭐ 310) - Chia blockchain GUI in electron/react. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Chia-Network/chia-blockchain-gui) (👨‍💻 32 · 🔀 200 · 📋 430 - 31% open · ⏱️ 06.06.2022):
+- [GitHub](https://github.com/Chia-Network/chia-blockchain-gui) (👨‍💻 32 · 🔀 200 · 📋 430 - 31% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/Chia-Network/chia-blockchain-gui
 	```
 </details>
-<details><summary><b><a href="https://github.com/Chia-Network/bladebit">bladebit</a></b> (🥈17 ·  ⭐ 210 · 💤) - BladeBit - Fast Chia (XCH) RAM-only k32-only Plotter. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/Chia-Network/bladebit">bladebit</a></b> (🥈17 ·  ⭐ 220 · 💤) - BladeBit - Fast Chia (XCH) RAM-only k32-only Plotter. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Chia-Network/bladebit) (👨‍💻 3 · 🔀 67 · 📥 35K · 📋 60 - 18% open · ⏱️ 11.11.2021):
+- [GitHub](https://github.com/Chia-Network/bladebit) (👨‍💻 3 · 🔀 67 · 📥 36K · 📋 60 - 18% open · ⏱️ 11.11.2021):
 
 	```
 	git clone https://github.com/Chia-Network/bladebit
 	```
 </details>
-<details><summary><b><a href="https://github.com/Chia-Network/pool-reference">pool-reference</a></b> (🥈16 ·  ⭐ 450) - Reference python implementation of Chia pool operations for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/Chia-Network/pool-reference">pool-reference</a></b> (🥉16 ·  ⭐ 450) - Reference python implementation of Chia pool operations for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Chia-Network/pool-reference) (👨‍💻 31 · 🔀 200 · 📋 180 - 4% open · ⏱️ 28.02.2022):
+- [GitHub](https://github.com/Chia-Network/pool-reference) (👨‍💻 31 · 🔀 200 · 📋 180 - 4% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/Chia-Network/pool-reference
 	```
 </details>
-<details><summary><b><a href="https://github.com/Chia-Network/chia-docker">chia-docker</a></b> (🥈16 ·  ⭐ 190) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/Chia-Network/chia-docker">chia-docker</a></b> (🥉16 ·  ⭐ 190) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/Chia-Network/chia-docker) (👨‍💻 28 · 🔀 350 · 📋 110 - 26% open · ⏱️ 10.05.2022):
 
@@ -2063,6 +2063,77 @@ _Blockchains that host smart contracts or decentralized applications._
 
 ---
 </details>
+<details><summary><b><a href="https://github.com/dfinity">ICP - Internet Computer</a></b> (🥇37 ·  ⭐ 4.2K) - Worlds first blockchain that is capable of running at web..</summary>
+
+
+---
+<details><summary><b><a href="https://github.com/dfinity/motoko">motoko</a></b> (🥇25 ·  ⭐ 300) - Simple high-level language for writing Internet Computer canisters. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/dfinity/motoko) (👨‍💻 37 · 🔀 48 · 📥 16K · 📋 710 - 36% open · ⏱️ 26.06.2022):
+
+	```
+	git clone https://github.com/dfinity/motoko
+	```
+</details>
+<details><summary><b><a href="https://github.com/dfinity/candid">candid</a></b> (🥈23 ·  ⭐ 210) - Candid Library for the Internet Computer. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/dfinity/candid) (👨‍💻 29 · 🔀 54 · 📥 11K · 📋 100 - 45% open · ⏱️ 07.06.2022):
+
+	```
+	git clone https://github.com/dfinity/candid
+	```
+- [Cargo](https://crates.io/crates/candid) (📥 28K / month · 📦 15 · ⏱️ 30.03.2022):
+	```
+	cargo install candid
+	```
+</details>
+<details><summary><b><a href="https://github.com/dfinity/internet-identity">internet-identity</a></b> (🥈20 ·  ⭐ 220) - Internet Identity, a blockchain authentication system.. <code>Unlicensed</code></summary>
+
+- [GitHub](https://github.com/dfinity/internet-identity) (👨‍💻 42 · 🔀 61 · 📥 5.2K · 📋 59 - 37% open · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/dfinity/internet-identity
+	```
+</details>
+<details><summary><b><a href="https://github.com/dfinity/ic">ic</a></b> (🥈18 ·  ⭐ 1.1K) - Internet Computer blockchain source: the client/replica software run.. <code>Unlicensed</code></summary>
+
+- [GitHub](https://github.com/dfinity/ic) (👨‍💻 110 · 🔀 150 · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/dfinity/ic
+	```
+</details>
+<details><summary><b><a href="https://github.com/dfinity/examples">examples</a></b> (🥈17 ·  ⭐ 320) - Example applications, microservices, and code samples for the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/dfinity/examples) (👨‍💻 49 · 🔀 180 · 📋 98 - 88% open · ⏱️ 27.06.2022):
+
+	```
+	git clone https://github.com/dfinity/examples
+	```
+</details>
+<details><summary><b><a href="https://github.com/dfinity/motoko-base">motoko-base</a></b> (🥉16 ·  ⭐ 390) - The Motoko base library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/dfinity/motoko-base) (👨‍💻 20 · 🔀 55 · 📋 130 - 71% open · ⏱️ 23.06.2022):
+
+	```
+	git clone https://github.com/dfinity/motoko-base
+	```
+</details>
+<details><summary><b><a href="https://github.com/dfinity/cancan">cancan</a></b> (🥉10 ·  ⭐ 310) - A scalable video sharing service. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/dfinity/cancan) (👨‍💻 9 · 🔀 55 · 📋 19 - 47% open · ⏱️ 31.05.2022):
+
+	```
+	git clone https://github.com/dfinity/cancan
+	```
+</details>
+
+<br>
+
+ _13 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
 <details><summary><b><a href="https://github.com/eosio">EOS - EOS</a></b> (🥇36 ·  ⭐ 18K) - Cryptocurrency token and blockchain that operates as a smart contract..</summary>
 
 
@@ -2074,7 +2145,7 @@ _Blockchains that host smart contracts or decentralized applications._
 	```
 	git clone https://github.com/EOSIO/eosjs
 	```
-- [npm](https://www.npmjs.com/package/eosjs) (📥 200K / month · 📦 700 · ⏱️ 03.01.2022):
+- [npm](https://www.npmjs.com/package/eosjs) (📥 180K / month · 📦 700 · ⏱️ 03.01.2022):
 	```
 	npm install eosjs
 	```
@@ -2108,7 +2179,7 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/tronprotocol/tronweb">tronweb</a></b> (🥇29 ·  ⭐ 210) - Javascript API Library for interacting with the TRON Network. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tronprotocol/tronweb) (👨‍💻 40 · 🔀 150 · 📦 2K · ⏱️ 16.05.2022):
+- [GitHub](https://github.com/tronprotocol/tronweb) (👨‍💻 40 · 🔀 150 · 📦 2K · 📋 130 - 0% open · ⏱️ 16.05.2022):
 
 	```
 	git clone https://github.com/tronprotocol/tronweb
@@ -2120,7 +2191,7 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/tronprotocol/java-tron">java-tron</a></b> (🥇28 ·  ⭐ 3.1K) - Java implementation of the Tron whitepaper. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/tronprotocol/java-tron) (👨‍💻 230 · 🔀 1.1K · 📥 80K · 📋 1K - 2% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/tronprotocol/java-tron) (👨‍💻 230 · 🔀 1.1K · 📥 80K · 📋 1K - 2% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/tronprotocol/java-tron
@@ -2134,21 +2205,21 @@ _Blockchains that host smart contracts or decentralized applications._
 	git clone https://github.com/tronprotocol/wallet-cli
 	```
 </details>
-<details><summary><b><a href="https://github.com/tronprotocol/sun-network">sun-network</a></b> (🥈17 ·  ⭐ 240) - JavaScript SDK that encapsulates the TRON HTTP API. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/tronprotocol/sun-network">sun-network</a></b> (🥈18 ·  ⭐ 240) - JavaScript SDK that encapsulates the TRON HTTP API. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/tronprotocol/sun-network) (👨‍💻 27 · 🔀 110 · 📥 510 · 📋 89 - 42% open · ⏱️ 29.03.2022):
 
 	```
 	git clone https://github.com/tronprotocol/sun-network
 	```
-- [npm](https://www.npmjs.com/package/sunweb) (📥 110 / month · 📦 4 · ⏱️ 03.12.2019):
+- [npm](https://www.npmjs.com/package/sunweb) (📥 92 / month · 📦 4 · ⏱️ 03.12.2019):
 	```
 	npm install sunweb
 	```
 </details>
 <details><summary><b><a href="https://github.com/tronprotocol/documentation">documentation</a></b> (🥉15 ·  ⭐ 380) - Documentations of project TRON. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/tronprotocol/documentation) (👨‍💻 56 · 🔀 420 · 📋 75 - 10% open · ⏱️ 30.03.2022):
+- [GitHub](https://github.com/tronprotocol/documentation) (👨‍💻 57 · 🔀 420 · 📋 76 - 11% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/tronprotocol/documentation
@@ -2158,77 +2229,6 @@ _Blockchains that host smart contracts or decentralized applications._
 <br>
 
  _7 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
-<details><summary><b><a href="https://github.com/dfinity">ICP - Internet Computer</a></b> (🥇36 ·  ⭐ 4.2K) - Worlds first blockchain that is capable of running at web..</summary>
-
-
----
-<details><summary><b><a href="https://github.com/dfinity/motoko">motoko</a></b> (🥇25 ·  ⭐ 300) - Simple high-level language for writing Internet Computer canisters. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/dfinity/motoko) (👨‍💻 37 · 🔀 49 · 📥 15K · 📋 710 - 36% open · ⏱️ 22.06.2022):
-
-	```
-	git clone https://github.com/dfinity/motoko
-	```
-</details>
-<details><summary><b><a href="https://github.com/dfinity/candid">candid</a></b> (🥇24 ·  ⭐ 210) - Candid Library for the Internet Computer. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/dfinity/candid) (👨‍💻 29 · 🔀 54 · 📥 11K · 📋 100 - 45% open · ⏱️ 07.06.2022):
-
-	```
-	git clone https://github.com/dfinity/candid
-	```
-- [Cargo](https://crates.io/crates/candid) (📥 26K / month · 📦 15 · ⏱️ 30.03.2022):
-	```
-	cargo install candid
-	```
-</details>
-<details><summary><b><a href="https://github.com/dfinity/internet-identity">internet-identity</a></b> (🥈20 ·  ⭐ 210) - Internet Identity, a blockchain authentication system.. <code>Unlicensed</code></summary>
-
-- [GitHub](https://github.com/dfinity/internet-identity) (👨‍💻 39 · 🔀 61 · 📥 4.6K · 📋 59 - 37% open · ⏱️ 21.06.2022):
-
-	```
-	git clone https://github.com/dfinity/internet-identity
-	```
-</details>
-<details><summary><b><a href="https://github.com/dfinity/ic">ic</a></b> (🥈18 ·  ⭐ 1.1K) - Internet Computer blockchain source: the client/replica software run.. <code>Unlicensed</code></summary>
-
-- [GitHub](https://github.com/dfinity/ic) (👨‍💻 110 · 🔀 150 · ⏱️ 22.06.2022):
-
-	```
-	git clone https://github.com/dfinity/ic
-	```
-</details>
-<details><summary><b><a href="https://github.com/dfinity/examples">examples</a></b> (🥈17 ·  ⭐ 310) - Example applications, microservices, and code samples for the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/dfinity/examples) (👨‍💻 48 · 🔀 170 · 📋 98 - 88% open · ⏱️ 22.06.2022):
-
-	```
-	git clone https://github.com/dfinity/examples
-	```
-</details>
-<details><summary><b><a href="https://github.com/dfinity/motoko-base">motoko-base</a></b> (🥈16 ·  ⭐ 390) - The Motoko base library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/dfinity/motoko-base) (👨‍💻 20 · 🔀 55 · 📋 130 - 72% open · ⏱️ 21.06.2022):
-
-	```
-	git clone https://github.com/dfinity/motoko-base
-	```
-</details>
-<details><summary><b><a href="https://github.com/dfinity/cancan">cancan</a></b> (🥉10 ·  ⭐ 310) - A scalable video sharing service. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/dfinity/cancan) (👨‍💻 9 · 🔀 55 · 📋 19 - 47% open · ⏱️ 31.05.2022):
-
-	```
-	git clone https://github.com/dfinity/cancan
-	```
-</details>
-
-<br>
-
- _13 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -2244,9 +2244,17 @@ _Blockchains that host smart contracts or decentralized applications._
 	git clone https://github.com/neo-project/neo
 	```
 </details>
-<details><summary><b><a href="https://github.com/CityOfZion/neon-js">neon-js</a></b> (🥇27 ·  ⭐ 180) - Javascript libraries that allow the applications to interact with NEO.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/CityOfZion/neon-wallet">neon-wallet</a></b> (🥇26 ·  ⭐ 1.1K) - Light wallet for the NEO blockchain. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/CityOfZion/neon-js) (👨‍💻 51 · 🔀 170 · 📦 280 · 📋 300 - 11% open · ⏱️ 08.03.2022):
+- [GitHub](https://github.com/CityOfZion/neon-wallet) (👨‍💻 80 · 🔀 310 · 📥 2.8M · 📋 1.4K - 4% open · ⏱️ 02.05.2022):
+
+	```
+	git clone https://github.com/CityOfZion/neon-wallet
+	```
+</details>
+<details><summary><b><a href="https://github.com/CityOfZion/neon-js">neon-js</a></b> (🥇26 ·  ⭐ 180) - Javascript libraries that allow the applications to interact with NEO.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/CityOfZion/neon-js) (👨‍💻 51 · 🔀 170 · 📦 280 · 📋 300 - 11% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/cityofzion/neon-js
@@ -2254,14 +2262,6 @@ _Blockchains that host smart contracts or decentralized applications._
 - [npm](https://www.npmjs.com/package/@cityofzion/neon-js) (📥 10K / month · 📦 96 · ⏱️ 08.03.2022):
 	```
 	npm install @cityofzion/neon-js
-	```
-</details>
-<details><summary><b><a href="https://github.com/CityOfZion/neon-wallet">neon-wallet</a></b> (🥇26 ·  ⭐ 1.1K) - Light wallet for the NEO blockchain. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/CityOfZion/neon-wallet) (👨‍💻 80 · 🔀 310 · 📥 2.8M · 📋 1.4K - 4% open · ⏱️ 02.05.2022):
-
-	```
-	git clone https://github.com/CityOfZion/neon-wallet
 	```
 </details>
 <details><summary><b><a href="https://github.com/neo-project/neo-node">neo-node</a></b> (🥇24 ·  ⭐ 220) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2279,7 +2279,7 @@ _Blockchains that host smart contracts or decentralized applications._
 	```
 	git clone https://github.com/cityofzion/neo-python
 	```
-- [PyPi](https://pypi.org/project/neo-python) (📥 180 / month · 📦 8 · ⏱️ 16.09.2019):
+- [PyPi](https://pypi.org/project/neo-python) (📥 210 / month · 📦 8 · ⏱️ 16.09.2019):
 	```
 	pip install neo-python
 	```
@@ -2294,7 +2294,7 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/neo-project/docs">neo-project/docs</a></b> (🥉15 ·  ⭐ 190) - NEO Documentation. <code><a href="https://tldrlegal.com/search?q=CC-BY-4.0">CC-BY-4.0</a></code></summary>
 
-- [GitHub](https://github.com/neo-project/docs) (👨‍💻 150 · 🔀 280 · 📋 130 - 3% open · ⏱️ 26.05.2022):
+- [GitHub](https://github.com/neo-project/docs) (👨‍💻 150 · 🔀 280 · 📋 130 - 3% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/neo-project/docs
@@ -2313,19 +2313,19 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/LiskHQ/lisk-sdk">lisk-sdk</a></b> (🥇35 ·  ⭐ 2.8K) - Lisk software development kit. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/LiskHQ/lisk-sdk) (👨‍💻 90 · 🔀 470 · 📦 160 · 📋 4K - 4% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/LiskHQ/lisk-sdk) (👨‍💻 90 · 🔀 470 · 📦 160 · 📋 4.1K - 4% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/LiskHQ/lisk-sdk
 	```
-- [npm](https://www.npmjs.com/package/@liskhq/lisk-cryptography) (📥 2.6K / month · 📦 50 · ⏱️ 28.04.2022):
+- [npm](https://www.npmjs.com/package/@liskhq/lisk-cryptography) (📥 2.4K / month · 📦 50 · ⏱️ 28.04.2022):
 	```
 	npm install @liskhq/lisk-cryptography
 	```
 </details>
 <details><summary><b><a href="https://github.com/LiskHQ/lisk-desktop">lisk-desktop</a></b> (🥇26 ·  ⭐ 580) - Lisk graphical user interface for desktop. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/LiskHQ/lisk-desktop) (👨‍💻 62 · 🔀 88 · 📥 490K · 📋 2.5K - 6% open · ⏱️ 20.04.2022):
+- [GitHub](https://github.com/LiskHQ/lisk-desktop) (👨‍💻 62 · 🔀 89 · 📥 490K · 📋 2.5K - 6% open · ⏱️ 20.04.2022):
 
 	```
 	git clone https://github.com/LiskHQ/lisk-desktop
@@ -2344,7 +2344,7 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/maticnetwork/bor">bor</a></b> (🥇28 ·  ⭐ 410) - Official repository for the Matic Blockchain. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/maticnetwork/bor) (👨‍💻 670 · 🔀 210 · 📥 1.9K · 📦 49 · 📋 180 - 11% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/maticnetwork/bor) (👨‍💻 670 · 🔀 220 · 📥 2.2K · 📦 49 · 📋 180 - 11% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/maticnetwork/bor
@@ -2356,12 +2356,12 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/maticnetwork/matic.js">matic.js</a></b> (🥇28 ·  ⭐ 370) - Javascript developer library to interact with Matic Network. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/maticnetwork/matic.js) (👨‍💻 39 · 🔀 150 · 📦 740 · 📋 73 - 2% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/maticnetwork/matic.js) (👨‍💻 39 · 🔀 150 · 📦 760 · 📋 73 - 2% open · ⏱️ 16.06.2022):
 
 	```
 	git clone https://github.com/maticnetwork/matic.js
 	```
-- [npm](https://www.npmjs.com/package/@maticnetwork/maticjs) (📥 13K / month · 📦 2 · ⏱️ 16.06.2022):
+- [npm](https://www.npmjs.com/package/@maticnetwork/maticjs) (📥 14K / month · 📦 2 · ⏱️ 16.06.2022):
 	```
 	npm install @maticnetwork/maticjs
 	```
@@ -2374,21 +2374,21 @@ _Blockchains that host smart contracts or decentralized applications._
 	git clone https://github.com/maticnetwork/contracts
 	```
 </details>
-<details><summary><b><a href="https://github.com/maticnetwork/pos-portal">pos-portal</a></b> (🥈18 ·  ⭐ 180) - Smart contracts that powers the PoS (proof-of-stake) based bridge.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/maticnetwork/pos-portal">pos-portal</a></b> (🥈19 ·  ⭐ 180) - Smart contracts that powers the PoS (proof-of-stake) based bridge.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/maticnetwork/pos-portal) (👨‍💻 14 · 🔀 150 · 📦 19 · 📋 24 - 75% open · ⏱️ 13.06.2022):
 
 	```
 	git clone https://github.com/maticnetwork/pos-portal
 	```
-- [npm](https://www.npmjs.com/package/@maticnetwork/pos-portal) (📥 130 / month · ⏱️ 26.04.2021):
+- [npm](https://www.npmjs.com/package/@maticnetwork/pos-portal) (📥 160 / month · ⏱️ 26.04.2021):
 	```
 	npm install @maticnetwork/pos-portal
 	```
 </details>
-<details><summary><b><a href="https://github.com/maticnetwork/miden">miden</a></b> (🥉12 ·  ⭐ 240 · 💤) - STARK-based virtual machine. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/maticnetwork/miden">miden</a></b> (🥉12 ·  ⭐ 250 · 💤) - STARK-based virtual machine. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/maticnetwork/miden) (🔀 38 · 📋 87 - 33% open · ⏱️ 16.11.2021):
+- [GitHub](https://github.com/maticnetwork/miden) (🔀 40 · 📋 88 - 31% open · ⏱️ 16.11.2021):
 
 	```
 	git clone https://github.com/maticnetwork/miden
@@ -2405,14 +2405,14 @@ _Blockchains that host smart contracts or decentralized applications._
 
 
 ---
-<details><summary><b><a href="https://github.com/ava-labs/avalanchego">avalanchego</a></b> (🥇32 ·  ⭐ 1.6K) - Go implementation of an Avalanche node. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/ava-labs/avalanchego">avalanchego</a></b> (🥇31 ·  ⭐ 1.6K) - Go implementation of an Avalanche node. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/ava-labs/avalanchego) (👨‍💻 72 · 🔀 370 · 📥 73K · 📦 47 · 📋 410 - 16% open · ⏱️ 09.06.2022):
+- [GitHub](https://github.com/ava-labs/avalanchego) (👨‍💻 72 · 🔀 370 · 📥 74K · 📦 47 · 📋 410 - 16% open · ⏱️ 09.06.2022):
 
 	```
 	git clone https://github.com/ava-labs/avalanchego
 	```
-- [Go](https://pkg.go.dev/github.com/ava-labs/avalanchego) (📦 53 · ⏱️ 09.06.2022):
+- [Go](https://pkg.go.dev/github.com/ava-labs/avalanchego) (📦 55 · ⏱️ 28.06.2022):
 	```
 	go install github.com/ava-labs/avalanchego
 	```
@@ -2424,14 +2424,14 @@ _Blockchains that host smart contracts or decentralized applications._
 	```
 	git clone https://github.com/ava-labs/avalanchejs
 	```
-- [npm](https://www.npmjs.com/package/avalanche) (📥 17K / month · 📦 4 · ⏱️ 14.06.2022):
+- [npm](https://www.npmjs.com/package/avalanche) (📥 22K / month · 📦 4 · ⏱️ 14.06.2022):
 	```
 	npm install avalanche
 	```
 </details>
-<details><summary><b><a href="https://github.com/ava-labs/avalanche-wallet">avalanche-wallet</a></b> (🥈16 ·  ⭐ 160) - The Avalanche web wallet. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/ava-labs/avalanche-wallet">avalanche-wallet</a></b> (🥉16 ·  ⭐ 170) - The Avalanche web wallet. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/ava-labs/avalanche-wallet) (👨‍💻 20 · 🔀 100 · 📋 88 - 67% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/ava-labs/avalanche-wallet) (👨‍💻 20 · 🔀 100 · 📋 88 - 67% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/ava-labs/avalanche-wallet
@@ -2452,7 +2452,7 @@ _Blockchains that host smart contracts or decentralized applications._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/input-output-hk">ADA - Cardano</a></b> (🥈32 ·  ⭐ 7.9K) - Token on a distributed computing platform that runs smart contracts,..</summary>
+<details><summary><b><a href="https://github.com/input-output-hk">ADA - Cardano</a></b> (🥈32 ·  ⭐ 8K) - Token on a distributed computing platform that runs smart contracts,..</summary>
 
 
 ---
@@ -2466,15 +2466,15 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/input-output-hk/plutus">plutus</a></b> (🥇24 ·  ⭐ 1.4K) - The Plutus language implementation and tools. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/input-output-hk/plutus) (👨‍💻 120 · 🔀 400 · 📋 900 - 8% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/input-output-hk/plutus) (👨‍💻 120 · 🔀 400 · 📋 900 - 8% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/input-output-hk/plutus
 	```
 </details>
-<details><summary><b><a href="https://github.com/input-output-hk/haskell.nix">haskell.nix</a></b> (🥈20 ·  ⭐ 410) - Alternative Haskell Infrastructure for Nixpkgs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/input-output-hk/haskell.nix">haskell.nix</a></b> (🥈20 ·  ⭐ 420) - Alternative Haskell Infrastructure for Nixpkgs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/input-output-hk/haskell.nix) (👨‍💻 120 · 🔀 180 · 📋 620 - 48% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/input-output-hk/haskell.nix) (👨‍💻 120 · 🔀 180 · 📋 620 - 48% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/input-output-hk/haskell.nix
@@ -2482,7 +2482,7 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/input-output-hk/ouroboros-network">ouroboros-network</a></b> (🥈20 ·  ⭐ 220) - An implementation of the Ouroboros family of consensus.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/input-output-hk/ouroboros-network) (👨‍💻 63 · 🔀 60 · 📋 1.4K - 35% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/input-output-hk/ouroboros-network) (👨‍💻 64 · 🔀 61 · 📋 1.4K - 35% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/input-output-hk/ouroboros-network
@@ -2490,13 +2490,13 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/input-output-hk/mantis">mantis</a></b> (🥈18 ·  ⭐ 220) - A Scala based client for Ethereum-like Blockchains. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/input-output-hk/mantis) (👨‍💻 48 · 🔀 70 · 📥 5.9K · 📋 44 - 20% open · ⏱️ 15.12.2021):
+- [GitHub](https://github.com/input-output-hk/mantis) (👨‍💻 48 · 🔀 70 · 📥 6K · 📋 44 - 20% open · ⏱️ 15.12.2021):
 
 	```
 	git clone https://github.com/input-output-hk/mantis
 	```
 </details>
-<details><summary><b><a href="https://github.com/input-output-hk/scrypto">scrypto</a></b> (🥈16 ·  ⭐ 190) - Cryptographic primitives for Scala. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">CC0-1.0</a></code></summary>
+<details><summary><b><a href="https://github.com/input-output-hk/scrypto">scrypto</a></b> (🥈17 ·  ⭐ 190) - Cryptographic primitives for Scala. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">CC0-1.0</a></code></summary>
 
 - [GitHub](https://github.com/input-output-hk/scrypto) (👨‍💻 23 · 🔀 49 · 📋 17 - 17% open · ⏱️ 05.01.2022):
 
@@ -2525,7 +2525,7 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/wavesplatform/Waves">Waves</a></b> (🥇29 ·  ⭐ 1.2K) - Reference Waves Blockchain Node (client) implementation on Scala. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/wavesplatform/Waves) (👨‍💻 90 · 🔀 410 · 📥 370K · 📋 370 - 7% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/wavesplatform/Waves) (👨‍💻 90 · 🔀 410 · 📥 370K · 📋 370 - 7% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/wavesplatform/Waves
@@ -2550,9 +2550,9 @@ _Blockchains that host smart contracts or decentralized applications._
 
 
 ---
-<details><summary><b><a href="https://github.com/etclabscore/core-geth">core-geth</a></b> (🥇25 ·  ⭐ 160) - A highly configurable Go implementation of the Ethereum protocol. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/etclabscore/core-geth">core-geth</a></b> (🥇26 ·  ⭐ 170) - A highly configurable Go implementation of the Ethereum protocol. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/etclabscore/core-geth) (👨‍💻 730 · 🔀 100 · 📥 100K · 📦 5 · 📋 180 - 26% open · ⏱️ 13.06.2022):
+- [GitHub](https://github.com/etclabscore/core-geth) (👨‍💻 760 · 🔀 100 · 📥 100K · 📦 5 · 📋 180 - 26% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/etclabscore/core-geth
@@ -2562,9 +2562,9 @@ _Blockchains that host smart contracts or decentralized applications._
 	go install github.com/etclabscore/multi-geth
 	```
 </details>
-<details><summary><b><a href="https://github.com/hyperledger/besu">besu</a></b> (🥇24 ·  ⭐ 850) - An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/hyperledger/besu">besu</a></b> (🥇24 ·  ⭐ 860) - An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/hyperledger/besu) (👨‍💻 140 · 🔀 430 · 📥 260 · 📋 1.4K - 17% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/hyperledger/besu) (👨‍💻 140 · 🔀 430 · 📥 270 · 📋 1.4K - 16% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/hyperledger/besu
@@ -2583,12 +2583,12 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/ElrondNetwork/elrond-go">elrond-go</a></b> (🥇27 ·  ⭐ 830) - Elrond-GO: The official implementation of the Elrond protocol,.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/ElrondNetwork/elrond-go) (👨‍💻 48 · 🔀 160 · 📥 260 · 📦 76 · 📋 420 - 8% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/ElrondNetwork/elrond-go) (👨‍💻 50 · 🔀 160 · 📥 260 · 📦 76 · 📋 430 - 10% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/ElrondNetwork/elrond-go
 	```
-- [Go](https://pkg.go.dev/github.com/ElrondNetwork/elrond-go) (📦 5 · ⏱️ 17.06.2022):
+- [Go](https://pkg.go.dev/github.com/ElrondNetwork/elrond-go) (📦 5 · ⏱️ 27.06.2022):
 	```
 	go install github.com/ElrondNetwork/elrond-go
 	```
@@ -2625,7 +2625,7 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/harmony-one/harmony">harmony</a></b> (🥇28 ·  ⭐ 1.4K) - The core protocol of harmony. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/harmony-one/harmony) (👨‍💻 87 · 🔀 260 · 📥 33K · 📦 60 · 📋 1.2K - 17% open · ⏱️ 18.06.2022):
+- [GitHub](https://github.com/harmony-one/harmony) (👨‍💻 87 · 🔀 260 · 📥 35K · 📦 63 · 📋 1.2K - 17% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/harmony-one/harmony
@@ -2648,7 +2648,7 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/Zilliqa/Zilliqa">Zilliqa</a></b> (🥈23 ·  ⭐ 1.1K) - Zilliqa is the worlds first high-throughput public blockchain.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Zilliqa/Zilliqa) (👨‍💻 67 · 🔀 250 · 📋 380 - 30% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/Zilliqa/Zilliqa) (👨‍💻 68 · 🔀 250 · 📋 380 - 30% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/Zilliqa/Zilliqa
@@ -2656,7 +2656,7 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary><b><a href="https://github.com/Zilliqa/scilla">scilla</a></b> (🥈18 ·  ⭐ 230) - Scilla - A Smart Contract Intermediate Level Language. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Zilliqa/scilla) (👨‍💻 31 · 🔀 72 · 📥 290 · 📋 350 - 33% open · ⏱️ 08.06.2022):
+- [GitHub](https://github.com/Zilliqa/scilla) (👨‍💻 31 · 🔀 71 · 📥 290 · 📋 350 - 33% open · ⏱️ 08.06.2022):
 
 	```
 	git clone https://github.com/Zilliqa/scilla
@@ -2673,9 +2673,9 @@ _Blockchains that host smart contracts or decentralized applications._
 
 
 ---
-<details><summary><b><a href="https://github.com/Conflux-Chain/conflux-rust">conflux-rust</a></b> (🥈23 ·  ⭐ 530) - The official Rust implementation of Conflux protocol... <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/Conflux-Chain/conflux-rust">conflux-rust</a></b> (🥇24 ·  ⭐ 540) - The official Rust implementation of Conflux protocol... <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Conflux-Chain/conflux-rust) (👨‍💻 36 · 🔀 130 · 📥 31K · 📋 540 - 15% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/Conflux-Chain/conflux-rust) (👨‍💻 36 · 🔀 130 · 📥 31K · 📋 540 - 15% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/Conflux-Chain/conflux-rust
@@ -2688,45 +2688,18 @@ _Blockchains that host smart contracts or decentralized applications._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/oasisprotocol">ROSE - Oasis Network</a></b> (🥈29 ·  ⭐ 540) - Designed for the next generation of blockchain, the Oasis..</summary>
-
-
----
-<details><summary><b><a href="https://github.com/oasisprotocol/oasis-core">oasis-core</a></b> (🥇28 ·  ⭐ 250) - Performant and Confidentiality-Preserving Smart Contracts +.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/oasisprotocol/oasis-core) (👨‍💻 37 · 🔀 75 · 📥 23K · 📋 1.8K - 15% open · ⏱️ 22.06.2022):
-
-	```
-	git clone https://github.com/oasisprotocol/oasis-core
-	```
-- [Cargo](https://crates.io/crates/oasis-node) (📥 33 / month · ⏱️ 16.10.2019):
-	```
-	cargo install oasis-node
-	```
-- [Go](https://pkg.go.dev/github.com/oasisprotocol/oasis-core/go) (📦 18 · ⏱️ 06.06.2022):
-	```
-	go install github.com/oasisprotocol/oasis-core/go
-	```
-</details>
-
-<br>
-
- _6 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
-<details><summary><b><a href="https://github.com/poanetwork">POA - POA Network</a></b> (🥈28 ·  ⭐ 1.9K) - An open network based on Ethereum protocol with Proof of..</summary>
+<details><summary><b><a href="https://github.com/poanetwork">POA - POA Network</a></b> (🥈29 ·  ⭐ 1.9K) - An open network based on Ethereum protocol with Proof of..</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/poanetwork/solidity-flattener">solidity-flattener</a></b> (🥈21 ·  ⭐ 230) - Utility to combine Solidity project to a flat file. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/poanetwork/solidity-flattener) (👨‍💻 6 · 🔀 65 · 📦 320 · 📋 28 - 35% open · ⏱️ 17.03.2022):
+- [GitHub](https://github.com/poanetwork/solidity-flattener) (👨‍💻 6 · 🔀 65 · 📦 330 · 📋 28 - 35% open · ⏱️ 17.03.2022):
 
 	```
 	git clone https://github.com/poanetwork/solidity-flattener
 	```
-- [npm](https://www.npmjs.com/package/@poanet/solidity-flattener) (📥 1.6K / month · 📦 2 · ⏱️ 17.03.2022):
+- [npm](https://www.npmjs.com/package/@poanet/solidity-flattener) (📥 1.9K / month · 📦 2 · ⏱️ 17.03.2022):
 	```
 	npm install @poanet/solidity-flattener
 	```
@@ -2743,6 +2716,33 @@ _Blockchains that host smart contracts or decentralized applications._
 <br>
 
  _12 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/oasisprotocol">ROSE - Oasis Network</a></b> (🥈29 ·  ⭐ 550) - Designed for the next generation of blockchain, the Oasis..</summary>
+
+
+---
+<details><summary><b><a href="https://github.com/oasisprotocol/oasis-core">oasis-core</a></b> (🥇28 ·  ⭐ 260) - Performant and Confidentiality-Preserving Smart Contracts +.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/oasisprotocol/oasis-core) (👨‍💻 37 · 🔀 75 · 📥 24K · 📋 1.8K - 15% open · ⏱️ 28.06.2022):
+
+	```
+	git clone https://github.com/oasisprotocol/oasis-core
+	```
+- [Cargo](https://crates.io/crates/oasis-node) (📥 33 / month · ⏱️ 16.10.2019):
+	```
+	cargo install oasis-node
+	```
+- [Go](https://pkg.go.dev/github.com/oasisprotocol/oasis-core/go) (📦 18 · ⏱️ 28.06.2022):
+	```
+	go install github.com/oasisprotocol/oasis-core/go
+	```
+</details>
+
+<br>
+
+ _6 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -2805,7 +2805,7 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/KomodoPlatform/atomicDEX-Desktop">atomicDEX-Desktop</a></b> (🥇24 ·  ⭐ 200) - atomicDEX Desktop app - project codename Dextop. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/KomodoPlatform/atomicDEX-Desktop) (👨‍💻 38 · 🔀 120 · 📥 49K · 📋 650 - 18% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/KomodoPlatform/atomicDEX-Desktop) (👨‍💻 38 · 🔀 120 · 📥 50K · 📋 650 - 18% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/KomodoPlatform/atomicDEX-Desktop
@@ -2822,14 +2822,14 @@ _Blockchains that host smart contracts or decentralized applications._
 
 
 ---
-<details><summary><b><a href="https://github.com/casper-network/casper-node">casper-node</a></b> (🥇28 ·  ⭐ 310) - Casper node. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/casper-network/casper-node">casper-node</a></b> (🥇27 ·  ⭐ 310) - Casper node. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/casper-network/casper-node) (👨‍💻 42 · 🔀 150 · 📥 970 · 📋 910 - 24% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/casper-network/casper-node) (👨‍💻 42 · 🔀 150 · 📥 970 · 📋 920 - 22% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/casper-network/casper-node
 	```
-- [npm](https://www.npmjs.com/package/casper-contract) (📥 45 / month · ⏱️ 11.05.2022):
+- [npm](https://www.npmjs.com/package/casper-contract) (📥 27 / month · ⏱️ 11.05.2022):
 	```
 	npm install casper-contract
 	```
@@ -2908,12 +2908,12 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/PureStake/moonbeam">moonbeam</a></b> (🥇27 ·  ⭐ 700) - An Ethereum-compatible smart contract parachain on Polkadot. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/PureStake/moonbeam) (👨‍💻 32 · 🔀 200 · 📥 12K · 📦 4 · 📋 250 - 18% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/PureStake/moonbeam) (👨‍💻 33 · 🔀 200 · 📥 12K · 📦 4 · 📋 260 - 21% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/PureStake/moonbeam
 	```
-- [npm](https://www.npmjs.com/package/moonbeam-types-bundle) (📥 8.6K / month · 📦 1 · ⏱️ 18.06.2022):
+- [npm](https://www.npmjs.com/package/moonbeam-types-bundle) (📥 9.8K / month · 📦 1 · ⏱️ 18.06.2022):
 	```
 	npm install moonbeam-types-bundle
 	```
@@ -2922,25 +2922,6 @@ _Blockchains that host smart contracts or decentralized applications._
 <br>
 
  _1 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
-<details><summary><b><a href="https://github.com/radixdlt">XRD - Radix</a></b> (🥉25 ·  ⭐ 600) - GPU secured blockchain with privacy.</summary>
-
-
----
-<details><summary><b><a href="https://github.com/radixdlt/radixdlt-scrypto">radixdlt-scrypto</a></b> (🥈20 ·  ⭐ 250) - Asset-oriented Programming for DeFi. <code>Unlicensed</code></summary>
-
-- [GitHub](https://github.com/radixdlt/radixdlt-scrypto) (👨‍💻 23 · 🔀 68 · 📋 63 - 47% open · ⏱️ 31.05.2022):
-
-	```
-	git clone https://github.com/radixdlt/radixdlt-scrypto
-	```
-</details>
-
-<br>
-
- _5 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -2955,6 +2936,25 @@ _Blockchains that host smart contracts or decentralized applications._
 
 ---
 </details>
+<details><summary><b><a href="https://github.com/radixdlt">XRD - Radix</a></b> (🥉24 ·  ⭐ 610) - GPU secured blockchain with privacy.</summary>
+
+
+---
+<details><summary><b><a href="https://github.com/radixdlt/radixdlt-scrypto">radixdlt-scrypto</a></b> (🥈20 ·  ⭐ 260) - Asset-oriented Programming for DeFi. <code>Unlicensed</code></summary>
+
+- [GitHub](https://github.com/radixdlt/radixdlt-scrypto) (👨‍💻 23 · 🔀 71 · 📋 66 - 43% open · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/radixdlt/radixdlt-scrypto
+	```
+</details>
+
+<br>
+
+ _5 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
 <details><summary><b><a href="https://github.com/kadena-io">KDA - Kadena</a></b> (🥉23 ·  ⭐ 800) - Braided, parallelized Proof Of Work consensus mechanism that improves..</summary>
 
 
@@ -2966,14 +2966,14 @@ _Blockchains that host smart contracts or decentralized applications._
 	```
 	git clone https://github.com/kadena-io/pact
 	```
-- [npm](https://www.npmjs.com/package/pact-lang-api) (📥 1.5K / month · 📦 2 · ⏱️ 20.06.2022):
+- [npm](https://www.npmjs.com/package/pact-lang-api) (📥 1.7K / month · 📦 2 · ⏱️ 20.06.2022):
 	```
 	npm install pact-lang-api
 	```
 </details>
 <details><summary><b><a href="https://github.com/kadena-io/chainweb-node">chainweb-node</a></b> (🥈20 ·  ⭐ 190) - Chainweb: A Proof-of-Work Parallel-Chain Architecture for.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/kadena-io/chainweb-node) (👨‍💻 29 · 🔀 74 · 📥 410 · 📋 190 - 53% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/kadena-io/chainweb-node) (👨‍💻 29 · 🔀 74 · 📥 430 · 📋 190 - 53% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/kadena-io/chainweb-node
@@ -3003,7 +3003,7 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/signum-network/signum-node">signum-node</a></b> (🥈23 ·  ⭐ 190) - Signum Node. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/signum-network/signum-node) (👨‍💻 70 · 🔀 69 · 📥 38K · 📋 170 - 9% open · ⏱️ 30.05.2022):
+- [GitHub](https://github.com/signum-network/signum-node) (👨‍💻 70 · 🔀 69 · 📥 39K · 📋 170 - 9% open · ⏱️ 25.06.2022):
 
 	```
 	git clone https://github.com/signum-network/signum-node
@@ -3057,18 +3057,18 @@ _Blockchains that host smart contracts or decentralized applications._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/ShentuChain">CTK - CertiK</a></b> (🥉20 ·  ⭐ 1.2K) - A Cross-Chain Protocol with Security Scoring and Decentralized..</summary>
+<details><summary><b><a href="https://github.com/ShentuChain">CTK - CertiK</a></b> (🥉20 ·  ⭐ 1.1K) - A Cross-Chain Protocol with Security Scoring and Decentralized..</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/ShentuChain/shentu">shentu</a></b> (🥈20 ·  ⭐ 390) - A Cross-chain Protocol with Security Scoring and Decentralized.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ShentuChain/shentu) (👨‍💻 19 · 🔀 37 · 📥 3.2K · 📦 3 · 📋 110 - 18% open · ⏱️ 17.06.2022):
+- [GitHub](https://github.com/ShentuChain/shentu) (👨‍💻 19 · 🔀 40 · 📥 3.3K · 📦 3 · 📋 120 - 23% open · ⏱️ 17.06.2022):
 
 	```
 	git clone https://github.com/ShentuChain/shentu
 	```
-- [Go](https://pkg.go.dev/github.com/certikfoundation/shentu) (📦 1 · ⏱️ 02.05.2022):
+- [Go](https://pkg.go.dev/github.com/certikfoundation/shentu) (📦 1 · ⏱️ 17.06.2022):
 	```
 	go install github.com/certikfoundation/shentu
 	```
@@ -3084,9 +3084,9 @@ _Blockchains that host smart contracts or decentralized applications._
 
 
 ---
-<details><summary><b><a href="https://github.com/AstarNetwork/Astar">Astar</a></b> (🥈21 ·  ⭐ 550) - The dApp hub for blockchains of the future. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/AstarNetwork/Astar">Astar</a></b> (🥈21 ·  ⭐ 560) - The dApp hub for blockchains of the future. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/AstarNetwork/Astar) (👨‍💻 20 · 🔀 110 · 📥 8.5K · 📋 190 - 9% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/AstarNetwork/Astar) (👨‍💻 20 · 🔀 110 · 📥 8.6K · 📋 200 - 9% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/AstarNetwork/Astar
@@ -3127,7 +3127,7 @@ _Blockchains that host smart contracts or decentralized applications._
 ---
 <details><summary><b><a href="https://github.com/CounterpartyXCP/counterparty-lib">counterparty-lib</a></b> (🥈22 ·  ⭐ 260) - Counterparty Protocol Reference Implementation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/CounterpartyXCP/counterparty-lib) (👨‍💻 48 · 🔀 190 · 📋 630 - 15% open · ⏱️ 27.05.2022):
+- [GitHub](https://github.com/CounterpartyXCP/counterparty-lib) (👨‍💻 48 · 🔀 190 · 📋 630 - 15% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/CounterpartyXCP/counterparty-lib
@@ -3148,44 +3148,6 @@ _Blockchains that host smart contracts or decentralized applications._
 <br>
 
  _2 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
-<details><summary><b><a href="https://github.com/aergoio">AERGO - Aergo</a></b> (🥉17 ·  ⭐ 250) - Open platform that allows businesses to build innovative.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-<details><summary><b><a href="https://github.com/aergoio/aergo">aergo</a></b> (🥈21 ·  ⭐ 190) - aergo blockchain kernel. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/aergoio/aergo) (👨‍💻 24 · 🔀 35 · 📥 2.8K · 📦 5 · 📋 57 - 49% open · ⏱️ 02.05.2022):
-
-	```
-	git clone https://github.com/aergoio/aergo
-	```
-- [Go](https://pkg.go.dev/github.com/aergoio/aergo) (⏱️ 06.10.2021):
-	```
-	go install github.com/aergoio/aergo
-	```
-</details>
-
-<br>
-
- _1 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
-<details><summary><b><a href="https://github.com/origintrail">TRAC - OriginTrail</a></b> (🥉17 ·  ⭐ 160) - OriginTrail enables seamless data sharing along any supply.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-<details><summary><b><a href="https://github.com/OriginTrail/ot-node">ot-node</a></b> (🥈21 ·  ⭐ 160) - OriginTrail Decentralized Knowledge Graph network node. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/OriginTrail/ot-node) (👨‍💻 21 · 🔀 50 · 📋 150 - 39% open · ⏱️ 25.05.2022):
-
-	```
-	git clone https://github.com/OriginTrail/ot-node
-	```
-</details>
 
 ---
 </details>
@@ -3215,6 +3177,29 @@ _Blockchains that host smart contracts or decentralized applications._
 
 ---
 </details>
+<details><summary><b><a href="https://github.com/aergoio">AERGO - Aergo</a></b> (🥉16 ·  ⭐ 250) - Open platform that allows businesses to build innovative.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+<details><summary><b><a href="https://github.com/aergoio/aergo">aergo</a></b> (🥈20 ·  ⭐ 190) - aergo blockchain kernel. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/aergoio/aergo) (👨‍💻 24 · 🔀 35 · 📥 2.8K · 📦 6 · 📋 58 - 50% open · ⏱️ 02.05.2022):
+
+	```
+	git clone https://github.com/aergoio/aergo
+	```
+- [Go](https://pkg.go.dev/github.com/aergoio/aergo) (⏱️ 06.10.2021):
+	```
+	go install github.com/aergoio/aergo
+	```
+</details>
+
+<br>
+
+ _1 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
 <details><summary><b><a href="https://github.com/hicommonwealth">EDG - Edgeware</a></b> (🥉16 ·  ⭐ 160) - The Ethereum smart contract-based Casino offers a 0% house edge.. <code><img src="https://git.io/J9c3v" style="display:inline;" width="13" height="13"></code></summary>
 
 
@@ -3223,6 +3208,21 @@ _Blockchains that host smart contracts or decentralized applications._
 <br>
 
  _2 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/origintrail">TRAC - OriginTrail</a></b> (🥉16 ·  ⭐ 160) - OriginTrail enables seamless data sharing along any supply.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+<details><summary><b><a href="https://github.com/OriginTrail/ot-node">ot-node</a></b> (🥈20 ·  ⭐ 160) - OriginTrail Decentralized Knowledge Graph network node. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/OriginTrail/ot-node) (👨‍💻 21 · 🔀 50 · 📋 150 - 39% open · ⏱️ 25.05.2022):
+
+	```
+	git clone https://github.com/OriginTrail/ot-node
+	```
+</details>
 
 ---
 </details>
@@ -3237,11 +3237,11 @@ _Blockchains that host smart contracts or decentralized applications._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/kulupu">KLP - Kulupu</a></b> (🥉13 ·  ⭐ 190) - No description.</summary>
+<details><summary><b><a href="https://github.com/kulupu">KLP - Kulupu</a></b> (🥉13 ·  ⭐ 180) - No description.</summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/kulupu/kulupu">kulupu</a></b> (🥈16 ·  ⭐ 190) - PoW blockchain with on-chain governance and online upgrade, built on.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/kulupu/kulupu">kulupu</a></b> (🥉16 ·  ⭐ 180) - PoW blockchain with on-chain governance and online upgrade, built on.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/kulupu/kulupu) (👨‍💻 7 · 🔀 38 · 📥 9.7K · 📋 83 - 14% open · ⏱️ 20.05.2022):
 
@@ -3254,18 +3254,18 @@ _Blockchains that host smart contracts or decentralized applications._
 </details>
 <details><summary>Show 14 hidden projects...</summary>
 
-- <b><a href="https://github.com/omgnetwork">OMG - OMG Network</a></b> (🥉26 ·  ⭐ 830 · 💀) - Scaling solution for finance on Ethereum, enabling.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/omgnetwork">OMG - OMG Network</a></b> (🥈27 ·  ⭐ 830 · 💀) - Scaling solution for finance on Ethereum, enabling.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/perlin-network">PERL - PERL.eco</a></b> (🥉18 ·  ⭐ 3.4K · 💀) - A high-throughput, DAG-based protocol capable of powering.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/firmachain">FCT - Factom</a></b> (🥉16 ·  ⭐ 140) - A General Purpose Data Layer for the Blockchain.
 - <b><a href="https://github.com/ubiq">UBQ - Ubiq</a></b> (🥉16 ·  ⭐ 82) - Decentralized platform which allows the creation and implementation of.. <code><img src="https://git.io/J9cOx" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/firmachain">FCT - Factom</a></b> (🥉15 ·  ⭐ 120) - A General Purpose Data Layer for the Blockchain.
 - <b><a href="https://github.com/expanse-org">EXP - Expanse</a></b> (🥉15 ·  ⭐ 53 · 💤) - Ethereum based blockchain platform for smart contracts.
 - <b><a href="https://github.com/aresprotocols">ARES - Ares Protocol</a></b> (🥉13 ·  ⭐ 49) - On-chain-verified oracle protocol that provides secure and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/idni">AGRS - Agoras: Currency of Tau</a></b> (🥉12 ·  ⭐ 110) - Agoras will be a fully featured intelligent economy.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/TheLindaProjectInc">MRX - Metrix Coin</a></b> (🥉12 ·  ⭐ 41) - Metrix Coin (formerly Lindacoin) is a Proof of Stake digital..
-- <b><a href="https://github.com/Oneledger">OLT - OneLedger</a></b> (🥉12 ·  ⭐ 39) - Cross-ledger agnostic protocol that enables high-performance.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/U-Network">UUU - U Network</a></b> (🥉11 ·  ⭐ 190 · 💀) - U Network - will be a Decentralized Protocol for Publishing.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/kinecosystem">KIN - Kin</a></b> (🥉11 ·  ⭐ 140) - Cryptocurrency designed to bring people together in a new shared.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/xtrabytes">XBY - XTRABYTES</a></b> (🥉11 ·  ⭐ 87 · 💀) - XTRABYTES (XBY) is ought to be modular blockchain platform..
+- <b><a href="https://github.com/Oneledger">OLT - OneLedger</a></b> (🥉11 ·  ⭐ 39) - Cross-ledger agnostic protocol that enables high-performance.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/xdaichain">STAKE - STAKE</a></b> (🥉10 ·  ⭐ 100 · 💀) - New ERC20-type (implemented as an ERC677) token designed to.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/lightstreams-network">PHT - Lightstreams Photon</a></b> (🥉8 ·  ⭐ 53 · 💀) - The award-winning decentralized network for fast,..
 </details>
@@ -3281,7 +3281,7 @@ _Cryptocurrencies that are designed to minimize volatility by pegging to a more 
 
 
 ---
-<details><summary><b><a href="https://github.com/centrehq/centre-tokens">centre-tokens</a></b> (🥈16 ·  ⭐ 320 · 💤) - Source repository for fiat tokens on the CENTRE network. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/centrehq/centre-tokens">centre-tokens</a></b> (🥉16 ·  ⭐ 320 · 💤) - Source repository for fiat tokens on the CENTRE network. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/centrehq/centre-tokens) (👨‍💻 16 · 🔀 170 · 📦 2 · 📋 39 - 17% open · ⏱️ 03.06.2021):
 
@@ -3312,7 +3312,7 @@ _Financial services that are built on top of distributed networks with no centra
 
 
 ---
-<details><summary><b><a href="https://github.com/makerdao/developerguides">developerguides</a></b> (🥈16 ·  ⭐ 510) - Developer guides to integrate with MakerDAOs smart.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/makerdao/developerguides">developerguides</a></b> (🥉16 ·  ⭐ 530) - Developer guides to integrate with MakerDAOs smart.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/makerdao/developerguides) (👨‍💻 37 · 🔀 160 · 📋 18 - 11% open · ⏱️ 10.06.2022):
 
@@ -3320,7 +3320,7 @@ _Financial services that are built on top of distributed networks with no centra
 	git clone https://github.com/makerdao/developerguides
 	```
 </details>
-<details><summary><b><a href="https://github.com/makerdao/pymaker">pymaker</a></b> (🥈16 ·  ⭐ 190) - Python API for Maker contracts. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/makerdao/pymaker">pymaker</a></b> (🥉16 ·  ⭐ 190) - Python API for Maker contracts. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/makerdao/pymaker) (👨‍💻 31 · 🔀 82 · 📦 2 · 📋 63 - 28% open · ⏱️ 05.05.2022):
 
@@ -3328,7 +3328,7 @@ _Financial services that are built on top of distributed networks with no centra
 	git clone https://github.com/makerdao/pymaker
 	```
 </details>
-<details><summary><b><a href="https://github.com/makerdao/dss">dss</a></b> (🥉14 ·  ⭐ 540) - Dai Stablecoin System. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/makerdao/dss">dss</a></b> (🥉14 ·  ⭐ 550) - Dai Stablecoin System. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/makerdao/dss) (👨‍💻 24 · 🔀 240 · 📋 42 - 47% open · ⏱️ 18.05.2022):
 
@@ -3344,7 +3344,7 @@ _Financial services that are built on top of distributed networks with no centra
 	git clone https://github.com/makerdao/market-maker-keeper
 	```
 </details>
-<details><summary><b><a href="https://github.com/makerdao/multicall">multicall</a></b> (🥉13 ·  ⭐ 610 · 💤) - Multicall: Aggregate multiple constant function call results into.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/makerdao/multicall">multicall</a></b> (🥉13 ·  ⭐ 620 · 💤) - Multicall: Aggregate multiple constant function call results into.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/makerdao/multicall) (👨‍💻 9 · 🔀 200 · 📋 17 - 47% open · ⏱️ 17.09.2021):
 
@@ -3365,19 +3365,19 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/terra-money/terra.js">terra.js</a></b> (🥇30 ·  ⭐ 280) - JavaScript SDK for Terra, written in TypeScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/terra-money/terra.js) (👨‍💻 31 · 🔀 130 · 📦 1.4K · 📋 140 - 6% open · ⏱️ 19.06.2022):
+- [GitHub](https://github.com/terra-money/terra.js) (👨‍💻 31 · 🔀 130 · 📦 1.4K · 📋 150 - 6% open · ⏱️ 19.06.2022):
 
 	```
 	git clone https://github.com/terra-money/terra.js
 	```
-- [npm](https://www.npmjs.com/package/@terra-money/terra.js) (📥 85K / month · 📦 13 · ⏱️ 06.06.2022):
+- [npm](https://www.npmjs.com/package/@terra-money/terra.js) (📥 84K / month · 📦 13 · ⏱️ 06.06.2022):
 	```
 	npm install @terra-money/terra.js
 	```
 </details>
-<details><summary><b><a href="https://github.com/terra-money/core">core</a></b> (🥈21 ·  ⭐ 280 · 🐣) - GO implementation of the Terra 2.0 Protocol. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/terra-money/core">core</a></b> (🥈21 ·  ⭐ 290 · 🐣) - GO implementation of the Terra 2.0 Protocol. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/terra-money/core) (👨‍💻 6 · 🔀 41 · 📥 630 · 📋 33 - 9% open · ⏱️ 28.05.2022):
+- [GitHub](https://github.com/terra-money/core) (👨‍💻 6 · 🔀 43 · 📥 670 · 📋 33 - 9% open · ⏱️ 28.05.2022):
 
 	```
 	git clone https://github.com/terra-money/core
@@ -3389,7 +3389,7 @@ _Financial services that are built on top of distributed networks with no centra
 </details>
 <details><summary><b><a href="https://github.com/terra-money/LocalTerra">LocalTerra</a></b> (🥈18 ·  ⭐ 170) - One-click local Terra testnet and ecosystem for rapid prototyping. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/terra-money/LocalTerra) (👨‍💻 21 · 🔀 79 · 📋 44 - 9% open · ⏱️ 09.06.2022):
+- [GitHub](https://github.com/terra-money/LocalTerra) (👨‍💻 22 · 🔀 80 · 📋 45 - 6% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/terra-money/LocalTerra
@@ -3408,19 +3408,19 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/Synthetixio/synthetix">synthetix</a></b> (🥇30 ·  ⭐ 900) - Synthetix Solidity smart contracts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Synthetixio/synthetix) (👨‍💻 46 · 🔀 440 · 📦 310 · 📋 140 - 71% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/Synthetixio/synthetix) (👨‍💻 46 · 🔀 440 · 📦 320 · 📋 140 - 71% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/Synthetixio/synthetix
 	```
-- [npm](https://www.npmjs.com/package/synthetix) (📥 36K / month · 📦 13 · ⏱️ 15.06.2022):
+- [npm](https://www.npmjs.com/package/synthetix) (📥 37K / month · 📦 13 · ⏱️ 23.06.2022):
 	```
 	npm install synthetix
 	```
 </details>
-<details><summary><b><a href="https://github.com/Synthetixio/synpress">synpress</a></b> (🥇24 ·  ⭐ 170) - Synpress is an wrapper around Cypress.io with metamask support thanks to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Synthetixio/synpress">synpress</a></b> (🥇24 ·  ⭐ 180) - Synpress is an wrapper around Cypress.io with metamask support thanks to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Synthetixio/synpress) (👨‍💻 13 · 🔀 46 · 📦 54 · 📋 70 - 38% open · ⏱️ 09.04.2022):
+- [GitHub](https://github.com/Synthetixio/synpress) (👨‍💻 13 · 🔀 47 · 📦 58 · 📋 70 - 38% open · ⏱️ 09.04.2022):
 
 	```
 	git clone https://github.com/Synthetixio/synpress
@@ -3441,9 +3441,9 @@ _Financial services that are built on top of distributed networks with no centra
 
 
 ---
-<details><summary><b><a href="https://github.com/aave/protocol-v2">protocol-v2</a></b> (🥈20 ·  ⭐ 460) - Aave Protocol V2. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/aave/protocol-v2">protocol-v2</a></b> (🥈20 ·  ⭐ 470) - Aave Protocol V2. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/aave/protocol-v2) (👨‍💻 27 · 🔀 500 · 📦 270 · 📋 160 - 67% open · ⏱️ 10.01.2022):
+- [GitHub](https://github.com/aave/protocol-v2) (👨‍💻 27 · 🔀 500 · 📦 290 · 📋 160 - 67% open · ⏱️ 10.01.2022):
 
 	```
 	git clone https://github.com/aave/protocol-v2
@@ -3467,7 +3467,7 @@ _Financial services that are built on top of distributed networks with no centra
 	```
 	git clone https://github.com/AugurProject/augur
 	```
-- [npm](https://www.npmjs.com/package/@augurproject/sdk) (📥 55 / month · 📦 4 · ⏱️ 05.03.2021):
+- [npm](https://www.npmjs.com/package/@augurproject/sdk) (📥 68 / month · 📦 4 · ⏱️ 05.03.2021):
 	```
 	npm install @augurproject/sdk
 	```
@@ -3479,25 +3479,44 @@ _Financial services that are built on top of distributed networks with no centra
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/Rari-Capital">RGT - Rari Governance Token</a></b> (🥇29 ·  ⭐ 3.5K) - The Rari Governance Token is the native token behind.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/DeFiCh">DFI - Amun DeFi Index</a></b> (🥇29 ·  ⭐ 740) - DeFi Blockchain - bringing DeFi to Bitcoin. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/Rari-Capital/solmate">solmate</a></b> (🥇28 ·  ⭐ 1.9K) - Modern, opinionated, and gas optimized building blocks for smart.. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/DeFiCh/ain">ain</a></b> (🥇28 ·  ⭐ 320) - DeFi Blockchain - enabling decentralized finance on Bitcoin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Rari-Capital/solmate) (👨‍💻 22 · 🔀 260 · 📦 330 · 📋 140 - 22% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/DeFiCh/ain) (👨‍💻 830 · 🔀 85 · 📥 29K · 📋 310 - 22% open · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/DeFiCh/ain
+	```
+</details>
+
+<br>
+
+ _5 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/Rari-Capital">RGT - Rari Governance Token</a></b> (🥇28 ·  ⭐ 3.6K) - The Rari Governance Token is the native token behind.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+<details><summary><b><a href="https://github.com/Rari-Capital/solmate">solmate</a></b> (🥇28 ·  ⭐ 2K) - Modern, opinionated, and gas optimized building blocks for smart.. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/Rari-Capital/solmate) (👨‍💻 23 · 🔀 270 · 📦 350 · 📋 140 - 22% open · ⏱️ 22.06.2022):
 
 	```
 	git clone https://github.com/Rari-Capital/solmate
 	```
-- [npm](https://www.npmjs.com/package/@rari-capital/solmate) (📥 31K / month · ⏱️ 27.05.2022):
+- [npm](https://www.npmjs.com/package/@rari-capital/solmate) (📥 30K / month · ⏱️ 27.05.2022):
 	```
 	npm install @rari-capital/solmate
 	```
 </details>
 <details><summary><b><a href="https://github.com/Rari-Capital/vaults">Rari-Capital/vaults</a></b> (🥉15 ·  ⭐ 220) - Flexible, minimalist, and gas-optimized yield.. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Rari-Capital/vaults) (👨‍💻 3 · 🔀 46 · 📋 98 - 21% open · ⏱️ 18.04.2022):
+- [GitHub](https://github.com/Rari-Capital/vaults) (👨‍💻 3 · 🔀 47 · 📋 98 - 21% open · ⏱️ 18.04.2022):
 
 	```
 	git clone https://github.com/Rari-Capital/vaults
@@ -3514,30 +3533,11 @@ _Financial services that are built on top of distributed networks with no centra
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/DeFiCh">DFI - Amun DeFi Index</a></b> (🥇29 ·  ⭐ 740) - DeFi Blockchain - bringing DeFi to Bitcoin. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-<details><summary><b><a href="https://github.com/DeFiCh/ain">ain</a></b> (🥇27 ·  ⭐ 310) - DeFi Blockchain - enabling decentralized finance on Bitcoin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/DeFiCh/ain) (👨‍💻 830 · 🔀 85 · 📥 28K · 📋 310 - 22% open · ⏱️ 22.06.2022):
-
-	```
-	git clone https://github.com/DeFiCh/ain
-	```
-</details>
-
-<br>
-
- _5 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
 <details><summary><b><a href="https://github.com/yearn">YFI - yearn.finance</a></b> (🥇27 ·  ⭐ 2.3K) - Suite of products in Decentralized Finance (DeFi) that.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/yearn/yearn-vaults">yearn-vaults</a></b> (🥈16 ·  ⭐ 420) - Yearn Vault smart contracts. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/yearn/yearn-vaults">yearn-vaults</a></b> (🥉16 ·  ⭐ 430) - Yearn Vault smart contracts. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/yearn/yearn-vaults) (👨‍💻 51 · 🔀 220 · 📋 140 - 7% open · ⏱️ 23.05.2022):
 
@@ -3571,30 +3571,30 @@ _Financial services that are built on top of distributed networks with no centra
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/compound-finance">COMP - Compound</a></b> (🥇25 ·  ⭐ 2.1K) - Created by the Compound Finance Team, Compound Governance.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/compound-finance">COMP - Compound</a></b> (🥇25 ·  ⭐ 2.2K) - Created by the Compound Finance Team, Compound Governance.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/compound-finance/compound-js">compound-js</a></b> (🥈20 ·  ⭐ 160) - A JavaScript SDK for Ethereum and the Compound Protocol. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/compound-finance/compound-js) (👨‍💻 3 · 🔀 53 · 📦 180 · 📋 15 - 33% open · ⏱️ 14.02.2022):
+- [GitHub](https://github.com/compound-finance/compound-js) (👨‍💻 3 · 🔀 57 · 📦 180 · 📋 15 - 33% open · ⏱️ 22.06.2022):
 
 	```
 	git clone https://github.com/compound-finance/compound-js
 	```
-- [npm](https://www.npmjs.com/package/@compound-finance/compound-js) (📥 1.4K / month · 📦 2 · ⏱️ 14.02.2022):
+- [npm](https://www.npmjs.com/package/@compound-finance/compound-js) (📥 1.5K / month · 📦 2 · ⏱️ 22.06.2022):
 	```
 	npm install @compound-finance/compound-js
 	```
 </details>
-<details><summary><b><a href="https://github.com/compound-finance/compound-protocol">compound-protocol</a></b> (🥈16 ·  ⭐ 1.4K) - The Compound On-Chain Protocol. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/compound-finance/compound-protocol">compound-protocol</a></b> (🥉16 ·  ⭐ 1.4K) - The Compound On-Chain Protocol. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/compound-finance/compound-protocol) (👨‍💻 20 · 🔀 940 · 📥 260 · 📋 61 - 52% open · ⏱️ 07.06.2022):
 
 	```
 	git clone https://github.com/compound-finance/compound-protocol
 	```
-- [npm](https://www.npmjs.com/package/compound-protocol-kakapo911) (📥 7 / month · ⏱️ 27.05.2021):
+- [npm](https://www.npmjs.com/package/compound-protocol-kakapo911) (📥 10 / month · ⏱️ 27.05.2021):
 	```
 	npm install compound-protocol-kakapo911
 	```
@@ -3657,12 +3657,12 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/UMAprotocol/protocol">UMAprotocol/protocol</a></b> (🥇26 ·  ⭐ 290) - UMA Protocol Running on Ethereum. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/UMAprotocol/protocol) (👨‍💻 44 · 🔀 150 · 📋 980 - 11% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/UMAprotocol/protocol) (👨‍💻 44 · 🔀 150 · 📋 970 - 11% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/UMAprotocol/protocol
 	```
-- [npm](https://www.npmjs.com/package/@uma/core) (📥 2.6K / month · 📦 8 · ⏱️ 27.05.2022):
+- [npm](https://www.npmjs.com/package/@uma/core) (📥 2.9K / month · 📦 8 · ⏱️ 28.06.2022):
 	```
 	npm install @uma/core
 	```
@@ -3674,26 +3674,7 @@ _Financial services that are built on top of distributed networks with no centra
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/numerai">NMR - Numeraire</a></b> (🥈22 ·  ⭐ 850) - Numeraire: A Cryptographic Token for Coordinating Machine.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-<details><summary><b><a href="https://github.com/numerai/example-scripts">example-scripts</a></b> (🥉15 ·  ⭐ 420) - The official example scripts for the Numerai Data Science.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/numerai/example-scripts) (👨‍💻 43 · 🔀 180 · 📋 12 - 33% open · ⏱️ 09.04.2022):
-
-	```
-	git clone https://github.com/numerai/example-scripts
-	```
-</details>
-
-<br>
-
- _4 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
-<details><summary><b><a href="https://github.com/bandprotocol">BAND - Band Protocol</a></b> (🥈22 ·  ⭐ 560) - Data governance framework for Web 3.0 applications. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/bandprotocol">BAND - Band Protocol</a></b> (🥈22 ·  ⭐ 570) - Data governance framework for Web 3.0 applications. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
@@ -3708,7 +3689,7 @@ _Financial services that are built on top of distributed networks with no centra
 
 
 ---
-<details><summary><b><a href="https://github.com/Kava-Labs/kava">kava</a></b> (🥇24 ·  ⭐ 350) - DeFi for Crypto. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/Kava-Labs/kava">kava</a></b> (🥇24 ·  ⭐ 360) - DeFi for Crypto. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/Kava-Labs/kava) (👨‍💻 33 · 🔀 250 · 📥 15 · 📦 34 · 📋 150 - 30% open · ⏱️ 06.06.2022):
 
@@ -3731,14 +3712,14 @@ _Financial services that are built on top of distributed networks with no centra
 
 
 ---
-<details><summary><b><a href="https://github.com/SetProtocol/set-protocol-contracts">set-protocol-contracts</a></b> (🥈18 ·  ⭐ 210 · 💤) - Set Protocol Smart Contracts. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/SetProtocol/set-protocol-contracts">set-protocol-contracts</a></b> (🥈19 ·  ⭐ 210 · 💤) - Set Protocol Smart Contracts. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/SetProtocol/set-protocol-contracts) (👨‍💻 15 · 🔀 54 · 📦 25 · 📋 12 - 33% open · ⏱️ 21.10.2021):
 
 	```
 	git clone https://github.com/SetProtocol/set-protocol-contracts
 	```
-- [npm](https://www.npmjs.com/package/set-protocol-contracts) (📥 120 / month · 📦 7 · ⏱️ 08.07.2020):
+- [npm](https://www.npmjs.com/package/set-protocol-contracts) (📥 210 / month · 📦 7 · ⏱️ 08.07.2020):
 	```
 	npm install set-protocol-contracts
 	```
@@ -3754,14 +3735,14 @@ _Financial services that are built on top of distributed networks with no centra
 
 
 ---
-<details><summary><b><a href="https://github.com/PolymathNetwork/polymath-core">polymath-core</a></b> (🥈19 ·  ⭐ 310) - Core Ethereum Smart Contracts for Polymath - The Securities.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/PolymathNetwork/polymath-core">polymath-core</a></b> (🥈20 ·  ⭐ 310) - Core Ethereum Smart Contracts for Polymath - The Securities.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/PolymathNetwork/polymath-core) (👨‍💻 36 · 🔀 120 · 📥 9 · 📦 13 · 📋 170 - 26% open · ⏱️ 26.05.2022):
 
 	```
 	git clone https://github.com/PolymathNetwork/polymath-core
 	```
-- [npm](https://www.npmjs.com/package/polymath-core) (📥 9 / month · 📦 5 · ⏱️ 22.02.2019):
+- [npm](https://www.npmjs.com/package/polymath-core) (📥 28 / month · 📦 5 · ⏱️ 22.02.2019):
 	```
 	npm install polymath-core
 	```
@@ -3777,7 +3758,7 @@ _Financial services that are built on top of distributed networks with no centra
 
 
 ---
-<details><summary><b><a href="https://github.com/liquity/dev">dev</a></b> (🥇24 ·  ⭐ 150) - Liquity monorepo containing the contracts, SDK and Dev UI frontend. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/liquity/dev">dev</a></b> (🥇24 ·  ⭐ 160) - Liquity monorepo containing the contracts, SDK and Dev UI frontend. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/liquity/dev) (👨‍💻 15 · 🔀 160 · 📦 14 · 📋 260 - 16% open · ⏱️ 21.05.2022):
 
@@ -3796,13 +3777,32 @@ _Financial services that are built on top of distributed networks with no centra
 
 ---
 </details>
+<details><summary><b><a href="https://github.com/numerai">NMR - Numeraire</a></b> (🥈21 ·  ⭐ 860) - Numeraire: A Cryptographic Token for Coordinating Machine.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+<details><summary><b><a href="https://github.com/numerai/example-scripts">example-scripts</a></b> (🥉15 ·  ⭐ 420) - The official example scripts for the Numerai Data Science.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/numerai/example-scripts) (👨‍💻 43 · 🔀 180 · 📋 12 - 33% open · ⏱️ 09.04.2022):
+
+	```
+	git clone https://github.com/numerai/example-scripts
+	```
+</details>
+
+<br>
+
+ _4 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
 <details><summary><b><a href="https://github.com/comit-network">PAY - TenX</a></b> (🥈21 ·  ⭐ 620) - TenX connects your blockchain assets to real world payment platforms... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/comit-network/xmr-btc-swap">xmr-btc-swap</a></b> (🥈22 ·  ⭐ 430) - BitcoinMonero Cross-chain Atomic Swap. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/comit-network/xmr-btc-swap) (👨‍💻 22 · 🔀 47 · 📥 6.5K · 📋 270 - 24% open · ⏱️ 09.06.2022):
+- [GitHub](https://github.com/comit-network/xmr-btc-swap) (👨‍💻 22 · 🔀 47 · 📥 6.6K · 📋 270 - 24% open · ⏱️ 09.06.2022):
 
 	```
 	git clone https://github.com/comit-network/xmr-btc-swap
@@ -3836,7 +3836,7 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/beefyfinance/beefy-app">beefy-app</a></b> (🥈19 ·  ⭐ 180) - Multichain yield optimizer. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/beefyfinance/beefy-app) (👨‍💻 98 · 🔀 260 · 📋 86 - 22% open · ⏱️ 06.06.2022):
+- [GitHub](https://github.com/beefyfinance/beefy-app) (👨‍💻 98 · 🔀 270 · 📋 86 - 22% open · ⏱️ 06.06.2022):
 
 	```
 	git clone https://github.com/beefyfinance/beefy-app
@@ -3855,12 +3855,12 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/mstable/mStable-contracts">mStable-contracts</a></b> (🥈21 ·  ⭐ 260) - Smart Contracts that make up the core of the mStable.. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/mstable/mStable-contracts) (👨‍💻 15 · 🔀 72 · 📦 30 · 📋 24 - 20% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/mstable/mStable-contracts) (👨‍💻 15 · 🔀 72 · 📦 30 · 📋 24 - 20% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/mstable/mStable-contracts
 	```
-- [npm](https://www.npmjs.com/package/@mstable/protocol) (📥 3.2K / month · 📦 1 · ⏱️ 11.05.2022):
+- [npm](https://www.npmjs.com/package/@mstable/protocol) (📥 2.7K / month · 📦 1 · ⏱️ 11.05.2022):
 	```
 	npm install @mstable/protocol
 	```
@@ -3878,12 +3878,12 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/RequestNetwork/requestNetwork">requestNetwork</a></b> (🥇24 ·  ⭐ 350) - A JavaScript library for interacting with the Request Network.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/RequestNetwork/requestNetwork) (👨‍💻 29 · 🔀 55 · 📦 9 · 📋 62 - 51% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/RequestNetwork/requestNetwork) (👨‍💻 30 · 🔀 55 · 📦 9 · 📋 62 - 51% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/RequestNetwork/requestNetwork
 	```
-- [npm](https://www.npmjs.com/package/@requestnetwork/utils) (📥 3.1K / month · 📦 16 · ⏱️ 21.06.2022):
+- [npm](https://www.npmjs.com/package/@requestnetwork/utils) (📥 2.8K / month · 📦 16 · ⏱️ 29.06.2022):
 	```
 	npm install @requestnetwork/utils
 	```
@@ -3895,7 +3895,7 @@ _Financial services that are built on top of distributed networks with no centra
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/api3dao">API3 - API3</a></b> (🥈20 ·  ⭐ 200) - API3 builds blockchain-native, decentralized APIs with DAO-governance.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/api3dao">API3 - API3</a></b> (🥈20 ·  ⭐ 210) - API3 builds blockchain-native, decentralized APIs with DAO-governance.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
@@ -3912,12 +3912,12 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/diadata-org/diadata">diadata</a></b> (🥈23 ·  ⭐ 180) - DIAdata.org platform. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/diadata-org/diadata) (👨‍💻 59 · 🔀 110 · 📦 3 · 📋 270 - 21% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/diadata-org/diadata) (👨‍💻 59 · 🔀 110 · 📦 3 · 📋 300 - 19% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/diadata-org/diadata
 	```
-- [Go](https://pkg.go.dev/github.com/diadata-org/diadata) (⏱️ 20.06.2022):
+- [Go](https://pkg.go.dev/github.com/diadata-org/diadata) (⏱️ 28.06.2022):
 	```
 	go install github.com/diadata-org/diadata
 	```
@@ -3931,13 +3931,13 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/OlympusDAO/olympus-frontend">olympus-frontend</a></b> (🥈19 ·  ⭐ 260) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/OlympusDAO/olympus-frontend) (👨‍💻 59 · 🔀 620 · 📋 230 - 27% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/OlympusDAO/olympus-frontend) (👨‍💻 59 · 🔀 620 · 📋 240 - 26% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/OlympusDAO/olympus-frontend
 	```
 </details>
-<details><summary><b><a href="https://github.com/OlympusDAO/olympus-contracts">olympus-contracts</a></b> (🥉14 ·  ⭐ 690) -  <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/OlympusDAO/olympus-contracts">olympus-contracts</a></b> (🥉13 ·  ⭐ 690) -  <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/OlympusDAO/olympus-contracts) (👨‍💻 18 · 🔀 850 · 📋 81 - 56% open · ⏱️ 20.04.2022):
 
@@ -3958,7 +3958,7 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/fei-protocol/fei-protocol-core">fei-protocol-core</a></b> (🥈22 ·  ⭐ 170) - FEI Protocol smart contract code, tests, and.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/fei-protocol/fei-protocol-core) (👨‍💻 23 · 🔀 74 · 📋 160 - 85% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/fei-protocol/fei-protocol-core) (👨‍💻 23 · 🔀 75 · 📋 160 - 85% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/fei-protocol/fei-protocol-core
@@ -3978,13 +3978,13 @@ _Financial services that are built on top of distributed networks with no centra
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/tornadocash">TORN - Tornado Cash</a></b> (🥈18 ·  ⭐ 1.1K) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/tornadocash">TORN - Tornado Cash</a></b> (🥈18 ·  ⭐ 1.2K) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/tornadocash/tornado-core">tornado-core</a></b> (🥈17 ·  ⭐ 820) - Tornado cash. Non-custodial private transactions on Ethereum. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/tornadocash/tornado-core">tornado-core</a></b> (🥈17 ·  ⭐ 830) - Tornado cash. Non-custodial private transactions on Ethereum. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/tornadocash/tornado-core) (👨‍💻 12 · 🔀 240 · 📥 7.6K · 📋 43 - 44% open · ⏱️ 24.03.2022):
+- [GitHub](https://github.com/tornadocash/tornado-core) (👨‍💻 12 · 🔀 240 · 📥 7.8K · 📋 43 - 44% open · ⏱️ 24.03.2022):
 
 	```
 	git clone https://github.com/tornadocash/tornado-core
@@ -4008,13 +4008,13 @@ _Financial services that are built on top of distributed networks with no centra
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/pickle-finance">PICKLE - Pickle Finance</a></b> (🥈16 ·  ⭐ 310) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pickle-finance">PICKLE - Pickle Finance</a></b> (🥈16 ·  ⭐ 320) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/pickle-finance/contracts">pickle-finance/contracts</a></b> (🥉10 ·  ⭐ 150) - Deployed contracts. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/pickle-finance/contracts">pickle-finance/contracts</a></b> (🥉10 ·  ⭐ 160) - Deployed contracts. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/pickle-finance/contracts) (👨‍💻 15 · 🔀 36 · 📋 2 - 50% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/pickle-finance/contracts) (👨‍💻 15 · 🔀 36 · 📋 2 - 50% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/pickle-finance/contracts
@@ -4033,7 +4033,7 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/bifrost-finance/bifrost">bifrost</a></b> (🥈17 ·  ⭐ 170) - A parachain focused on building bridges of chains based on PoS.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/bifrost-finance/bifrost) (👨‍💻 16 · 🔀 48 · 📥 480 · 📋 24 - 12% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/bifrost-finance/bifrost) (👨‍💻 16 · 🔀 49 · 📥 500 · 📋 25 - 12% open · ⏱️ 15.06.2022):
 
 	```
 	git clone https://github.com/bifrost-finance/bifrost
@@ -4092,7 +4092,7 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/VenusProtocol/venus-protocol">venus-protocol</a></b> (🥈18 ·  ⭐ 170) - Binance Smart Chain Venus Protocol. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/VenusProtocol/venus-protocol) (👨‍💻 15 · 🔀 82 · 📋 37 - 43% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/VenusProtocol/venus-protocol) (👨‍💻 15 · 🔀 83 · 📋 37 - 43% open · ⏱️ 20.06.2022):
 
 	```
 	git clone https://github.com/VenusProtocol/venus-protocol
@@ -4152,7 +4152,7 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/FraxFinance/frax-solidity">frax-solidity</a></b> (🥉14 ·  ⭐ 270) - Solidity implementation of the Frax Protocol. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/FraxFinance/frax-solidity) (👨‍💻 14 · 🔀 96 · ⏱️ 05.06.2022):
+- [GitHub](https://github.com/FraxFinance/frax-solidity) (👨‍💻 14 · 🔀 97 · ⏱️ 05.06.2022):
 
 	```
 	git clone https://github.com/FraxFinance/frax-solidity
@@ -4178,7 +4178,7 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/fuseio/fuse-wallet">fuse-wallet</a></b> (🥉11 ·  ⭐ 180) - Cross platform mobile Ethereum wallet based on Flutter. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/fuseio/fuse-wallet) (👨‍💻 10 · 🔀 88 · 📋 17 - 11% open · ⏱️ 15.02.2022):
+- [GitHub](https://github.com/fuseio/fuse-wallet) (👨‍💻 10 · 🔀 89 · 📋 17 - 11% open · ⏱️ 15.02.2022):
 
 	```
 	git clone https://github.com/fuseio/fuse-wallet
@@ -4197,7 +4197,7 @@ _Financial services that are built on top of distributed networks with no centra
 ---
 <details><summary><b><a href="https://github.com/jet-lab/jet-v1">jet-v1</a></b> (🥉12 ·  ⭐ 190) - Decentralized lending on Solana. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/jet-lab/jet-v1) (👨‍💻 16 · 🔀 57 · 📋 160 - 10% open · ⏱️ 31.05.2022):
+- [GitHub](https://github.com/jet-lab/jet-v1) (👨‍💻 16 · 🔀 58 · 📋 160 - 10% open · ⏱️ 31.05.2022):
 
 	```
 	git clone https://github.com/jet-lab/jet-v1
@@ -4206,13 +4206,13 @@ _Financial services that are built on top of distributed networks with no centra
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/bZxNetwork">BZRX - bZx Protocol</a></b> (🥉10 ·  ⭐ 180) - Financial primitive for shorting, leverage, borrowing, and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/bZxNetwork">BZRX - bZx Protocol</a></b> (🥉10 ·  ⭐ 190) - Financial primitive for shorting, leverage, borrowing, and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/OokiTrade/contractsV2">contractsV2</a></b> (🥉13 ·  ⭐ 180) - bZx Protocol Smart Contracts - Version 2. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/OokiTrade/contractsV2">contractsV2</a></b> (🥉13 ·  ⭐ 190) - bZx Protocol Smart Contracts - Version 2. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/OokiTrade/contractsV2) (👨‍💻 10 · 🔀 33 · 📋 2 - 50% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/OokiTrade/contractsV2) (👨‍💻 10 · 🔀 33 · 📋 2 - 50% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/bZxNetwork/contractsV2
@@ -4241,20 +4241,21 @@ _Financial services that are built on top of distributed networks with no centra
 - <b><a href="https://github.com/reddcoin-project">RDD - Reddcoin</a></b> (🥈20 ·  ⭐ 280 · 💀) - Social currency that enriches peoples social lives and makes..
 - <b><a href="https://github.com/vegaprotocol">VEGA - Vega Protocol</a></b> (🥈19 ·  ⭐ 64) - Proof-of-stake blockchain, built on top of Tendermint,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/X-CASH-official">XCASH - X-CASH</a></b> (🥈18 ·  ⭐ 120) - Community driven project providing the toolbox for the next stage of..
-- <b><a href="https://github.com/pillarwallet">PLR - Pillar</a></b> (🥈15 ·  ⭐ 88) - We are building the worlds best cryptocurrency and token wallet that.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/EverexIO">EVX - Everex</a></b> (🥉13 ·  ⭐ 800 · 💀) - Financial technology company specializing in applying.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/pillarwallet">PLR - Pillar</a></b> (🥈15 ·  ⭐ 87) - We are building the worlds best cryptocurrency and token wallet that.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/EverexIO">EVX - Everex</a></b> (🥉13 ·  ⭐ 810 · 💀) - Financial technology company specializing in applying.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/alpaca-finance">ALPACA - Alpaca Finance</a></b> (🥉13 ·  ⭐ 140) - First leveraged yield farming protocol on Binance.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/snowblossomcoin">SNOW - SnowBlossom</a></b> (🥉13 ·  ⭐ 70) - No description.
+- <b><a href="https://github.com/snowblossomcoin">SNOW - SnowBlossom</a></b> (🥉13 ·  ⭐ 69) - No description.
 - <b><a href="https://github.com/Cryptorubic">RBC - Rubic</a></b> (🥉13 ·  ⭐ 43) - Multi-Chain protocol that allows to complete swaps between 10.000.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/reef-defi">REEF - Reef Finance</a></b> (🥉12 ·  ⭐ 140) - First cross-chain DeFi operating system built on Polkadot... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/BarnBridge">BOND - BarnBridge</a></b> (🥉12 ·  ⭐ 130) - A Cross Platform Protocol for Tokenizing Risk. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/webdollar">WEBD - webdollar</a></b> (🥉12 ·  ⭐ 120) - Cryptocurrency fully native to the World Wide Web, entirely written..
-- <b><a href="https://github.com/BarnBridge">BOND - BarnBridge</a></b> (🥉11 ·  ⭐ 130) - A Cross Platform Protocol for Tokenizing Risk. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/NexusMutual">NXM - Nexus Mutual</a></b> (🥉11 ·  ⭐ 110) - Decentralized insurance protocol built on Ethereum that.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Badger-Finance">BADGER - Badger DAO</a></b> (🥉11 ·  ⭐ 98) - Badger DAO aims to create an ecosystem of DeFi products.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/ripio">RCN - Ripio Credit Network</a></b> (🥉11 ·  ⭐ 96) - A peer-to-peer credit network protocol based on co-.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/tranchess">CHESS - Tranchess</a></b> (🥉11 ·  ⭐ 56 · 📈) - Tokenized asset management and derivatives trading.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Basis-Cash">BAC - Basis Cash</a></b> (🥉10 ·  ⭐ 290 · 💀) - Fairly distributed & censorship resistant stablecoin with.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/coti-io">COTI - COTI</a></b> (🥉10 ·  ⭐ 110) - FinTech company that has developed a base protocol, known as the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/phantasma-io">SOUL - Phantasma</a></b> (🥉10 ·  ⭐ 74 · 💤) - Phantasma Chain $SOUL has its own blockchain and describe.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/phantasma-io">SOUL - Phantasma</a></b> (🥉10 ·  ⭐ 73 · 💤) - Phantasma Chain $SOUL has its own blockchain and describe.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/reflexer-labs">FLX - Reflexer Ungovernance Token</a></b> (🥉9 ·  ⭐ 150) - Ungovernance token for the RAI stable asset and the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/yfii">YFII - DFI.money</a></b> (🥉9 ·  ⭐ 150 · 💀) - Fork of YFI project with YIP-8 implementation. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/rtoken-project">RDAI</a></b> (🥉9 ·  ⭐ 88) - No description.
@@ -4263,19 +4264,18 @@ _Financial services that are built on top of distributed networks with no centra
 - <b><a href="https://github.com/tellor-io">TRB - Tellor</a></b> (🥉9 ·  ⭐ 48 · 💀) - Decentralized Oracle for bringing high value off-chain data onto.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/sirenmarkets">SI - Siren</a></b> (🥉9 ·  ⭐ 40) - Distributed protocol for creating, trading, and redeeming fully-.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/laminar-protocol">LAMINAR</a></b> (🥉8 ·  ⭐ 88 · 💤) - No description.
+- <b><a href="https://github.com/solendprotocol">SLND - Solend</a></b> (🥉8 ·  ⭐ 84) - Algorithmic, decentralized protocol for lending and borrowing on.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/stafiprotocol">FIS - Stafi</a></b> (🥉8 ·  ⭐ 35) - First decentralized protocol unlocking liquidity of staked assets , you.. <code><img src="https://git.io/J9c3v" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bankex">BKX - BANKEX</a></b> (🥉8 ·  ⭐ 33 · 💀) - Blockchain platform with multifunctional smart contracts building.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/akropolisio">AKRO - Akropolis</a></b> (🥉7 ·  ⭐ 110 · 💀) - Blockchain Pensions Infrastructure. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/88mphapp">MPH - 88mph</a></b> (🥉7 ·  ⭐ 65) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/tranchess">CHESS - Tranchess</a></b> (🥉7 ·  ⭐ 56) - Tokenized asset management and derivatives trading protocol... <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/stafiprotocol">FIS - Stafi</a></b> (🥉7 ·  ⭐ 35) - First decentralized protocol unlocking liquidity of staked assets , you.. <code><img src="https://git.io/J9c3v" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/solendprotocol">SLND - Solend</a></b> (🥉6 ·  ⭐ 79) - Algorithmic, decentralized protocol for lending and borrowing on.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/InverseFinance">INV - Inverse Finance</a></b> (🥉6 ·  ⭐ 63 · 💤) - Yield aggregator and a lending protocol. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/maple-labs">MPL - Maple</a></b> (🥉6 ·  ⭐ 62 · 💀) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/InverseFinance">INV - Inverse Finance</a></b> (🥉6 ·  ⭐ 64 · 💤) - Yield aggregator and a lending protocol. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/maple-labs">MPL - Maple</a></b> (🥉6 ·  ⭐ 63 · 💀) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/AlphaFinanceLab">ALPHA - Alpha Finance</a></b> (🥉6 ·  ⭐ 58 · 💀) - Alpha Finance Lab is focused on researching and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/zapproject">ZAP - Zap</a></b> (🥉6 ·  ⭐ 43 · 💀) - Zap wants to build an open marketplace for data feeds that can be.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/yaxis-project">YAXIS - yAxis</a></b> (🥉6 ·  ⭐ 31) - Experiment in DAO-directed yield farming. Users will deposit stable.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/indexed-finance">NDX - Indexed Finance</a></b> (🥉5 ·  ⭐ 100 · 💀) - Blockchain business development start up that that.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/WrappedBTC">WBTC - Wrapped Bitcoin</a></b> (🥉5 ·  ⭐ 97 · 💀) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/WrappedBTC">WBTC - Wrapped Bitcoin</a></b> (🥉5 ·  ⭐ 98 · 💀) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/powerpool-finance">CVP - PowerPool Concentrated Voting Power</a></b> (🥉5 ·  ⭐ 52 · 💤) - Decentralized protocol for automatically managed.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/saffron-finance">SFI - saffron.finance</a></b> (🥉5 ·  ⭐ 39 · 💤) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/OpiumProtocol">OPIUM - Opium</a></b> (🥉5 ·  ⭐ 38) - Decentralized derivative protocol. It offers two products: USDT de-.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
@@ -4284,13 +4284,13 @@ _Financial services that are built on top of distributed networks with no centra
 - <b><a href="https://github.com/nexofinance">NEXO - NEXO</a></b> (🥉4 ·  ⭐ 87 · 💀) - Nexo wants to build The Worlds First Instant Crypto Overdrafts... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/visorfinance">VISR - Visor</a></b> (🥉4 ·  ⭐ 51 · 💤) - Interact with DeFi protocols through an NFT Enhancing the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/keeperdao">ROOK - KeeperDAO</a></b> (🥉4 ·  ⭐ 48 · 💀) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/amptoken">AMP - Amp</a></b> (🥉4 ·  ⭐ 47 · 💀) - Amptoken offers blockchain-enabled Attention Economy solutions,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/defidollar">DFD - DefiDollar DAO</a></b> (🥉4 ·  ⭐ 47) - DFD is DefiDollars governance token in which holders will.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/amptoken">AMP - Amp</a></b> (🥉4 ·  ⭐ 46 · 💀) - Amptoken offers blockchain-enabled Attention Economy solutions,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Popsicle-Finance">ICE - Popsicle Finance</a></b> (🥉4 ·  ⭐ 38 · 💀) - A next-gen cross-chain yield enhancement platform.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/NEST-Protocol">NEST - Nest Protocol</a></b> (🥉4 ·  ⭐ 37 · 💀) - Decentralized price fact Oracle protocol network based.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/cVault-finance">CORE - cVault.finance</a></b> (🥉4 ·  ⭐ 32) - Non-inflationary cryptocurrency that is designed to.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/frontierdotxyz">FRONT - Frontier</a></b> (🥉3 ·  ⭐ 49 · 💤) - Chain-agnostic DeFi aggregation layer. With our.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/cryptoghoulz">$BASED - Based Money</a></b> (🥉3 ·  ⭐ 34 · 💀) - DeFi game of chicken designed to shake out weak hands.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/cVault-finance">CORE - cVault.finance</a></b> (🥉3 ·  ⭐ 32) - Non-inflationary cryptocurrency that is designed to.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
@@ -4306,7 +4306,7 @@ _Tokens associated with centralized or decentralized exchanges._
 ---
 <details><summary><b><a href="https://github.com/bnb-chain/bsc">bsc</a></b> (🥇28 ·  ⭐ 1.6K) - A BNB Smart Chain client based on the go-ethereum fork. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/bnb-chain/bsc) (👨‍💻 620 · 🔀 660 · 📥 160K · 📦 4 · 📋 660 - 8% open · ⏱️ 13.06.2022):
+- [GitHub](https://github.com/bnb-chain/bsc) (👨‍💻 620 · 🔀 660 · 📥 160K · 📦 4 · 📋 670 - 7% open · ⏱️ 13.06.2022):
 
 	```
 	git clone https://github.com/binance-chain/bsc
@@ -4314,15 +4314,15 @@ _Tokens associated with centralized or decentralized exchanges._
 </details>
 <details><summary><b><a href="https://github.com/bnb-chain/javascript-sdk">javascript-sdk</a></b> (🥈22 ·  ⭐ 310 · 💤) - Javascript SDK to communicate with BNB Beacon Chain. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/bnb-chain/javascript-sdk) (👨‍💻 28 · 🔀 160 · 📦 450 · 📋 160 - 30% open · ⏱️ 31.08.2021):
+- [GitHub](https://github.com/bnb-chain/javascript-sdk) (👨‍💻 28 · 🔀 160 · 📦 460 · 📋 160 - 30% open · ⏱️ 31.08.2021):
 
 	```
 	git clone https://github.com/binance-chain/javascript-sdk
 	```
 </details>
-<details><summary><b><a href="https://github.com/bnb-chain/go-sdk">go-sdk</a></b> (🥈20 ·  ⭐ 150 · 📈) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/bnb-chain/go-sdk">go-sdk</a></b> (🥈20 ·  ⭐ 150) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/bnb-chain/go-sdk) (👨‍💻 22 · 🔀 79 · 📦 160 · 📋 65 - 21% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/bnb-chain/go-sdk) (👨‍💻 22 · 🔀 79 · 📦 160 · 📋 66 - 22% open · ⏱️ 15.06.2022):
 
 	```
 	git clone https://github.com/binance-chain/go-sdk
@@ -4334,7 +4334,7 @@ _Tokens associated with centralized or decentralized exchanges._
 </details>
 <details><summary><b><a href="https://github.com/bnb-chain/tss-lib">tss-lib</a></b> (🥈19 ·  ⭐ 360) - Threshold Signature Scheme, for ECDSA and EDDSA. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bnb-chain/tss-lib) (👨‍💻 11 · 🔀 110 · 📥 1.9K · 📋 78 - 30% open · ⏱️ 18.05.2022):
+- [GitHub](https://github.com/bnb-chain/tss-lib) (👨‍💻 11 · 🔀 110 · 📥 2K · 📋 78 - 29% open · ⏱️ 18.05.2022):
 
 	```
 	git clone https://github.com/binance-chain/tss-lib
@@ -4344,7 +4344,7 @@ _Tokens associated with centralized or decentralized exchanges._
 	go install github.com/binance-chain/tss-lib
 	```
 </details>
-<details><summary><b><a href="https://github.com/bnb-chain/node-binary">node-binary</a></b> (🥉15 ·  ⭐ 160) - Binaries for full nodes, light-weighted clients. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/bnb-chain/node-binary">node-binary</a></b> (🥉15 ·  ⭐ 170) - Binaries for full nodes, light-weighted clients. <code>Unlicensed</code></summary>
 
 - [GitHub](https://github.com/bnb-chain/node-binary) (👨‍💻 15 · 🔀 110 · 📥 930 · 📋 230 - 34% open · ⏱️ 13.06.2022):
 
@@ -4352,7 +4352,7 @@ _Tokens associated with centralized or decentralized exchanges._
 	git clone https://github.com/binance-chain/node-binary
 	```
 </details>
-<details><summary><b><a href="https://github.com/bnb-chain/BEPs">BEPs</a></b> (🥉14 ·  ⭐ 390) - BNB Evolution Proposals. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/bnb-chain/BEPs">BEPs</a></b> (🥉14 ·  ⭐ 400) - BNB Evolution Proposals. <code>Unlicensed</code></summary>
 
 - [GitHub](https://github.com/bnb-chain/BEPs) (👨‍💻 43 · 🔀 240 · 📋 28 - 57% open · ⏱️ 20.05.2022):
 
@@ -4362,7 +4362,7 @@ _Tokens associated with centralized or decentralized exchanges._
 </details>
 <details><summary><b><a href="https://github.com/bnb-chain/bsc-genesis-contract">bsc-genesis-contract</a></b> (🥉14 ·  ⭐ 300) - The genesis contracts of BNB Smart Chain. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/bnb-chain/bsc-genesis-contract) (👨‍💻 7 · 🔀 370 · 📋 28 - 60% open · ⏱️ 13.06.2022):
+- [GitHub](https://github.com/bnb-chain/bsc-genesis-contract) (👨‍💻 7 · 🔀 380 · 📋 28 - 60% open · ⏱️ 13.06.2022):
 
 	```
 	git clone https://github.com/binance-chain/bsc-genesis-contract
@@ -4376,7 +4376,7 @@ _Tokens associated with centralized or decentralized exchanges._
 	git clone https://github.com/binance-chain/docs-site
 	```
 </details>
-<details><summary><b><a href="https://github.com/bnb-chain/bsc-ecosystem">bsc-ecosystem</a></b> (🥉10 ·  ⭐ 380) - A guide to available tools, components, and platforms for.. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/bnb-chain/bsc-ecosystem">bsc-ecosystem</a></b> (🥉10 ·  ⭐ 390) - A guide to available tools, components, and platforms for.. <code>Unlicensed</code></summary>
 
 - [GitHub](https://github.com/bnb-chain/bsc-ecosystem) (👨‍💻 20 · 🔀 140 · ⏱️ 21.06.2022):
 
@@ -4391,13 +4391,52 @@ _Tokens associated with centralized or decentralized exchanges._
 
 ---
 </details>
+<details><summary><b><a href="https://github.com/gnosis">GNO - Gnosis</a></b> (🥇36 ·  ⭐ 3.5K) - Gnosis builds revolutionary market-driven forecasting technology.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+<details><summary><b><a href="https://github.com/safe-global/safe-react">safe-react</a></b> (🥇26 ·  ⭐ 280) - Gnosis Safe The most trusted platform to store digital assets on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/safe-global/safe-react) (👨‍💻 46 · 🔀 250 · 📥 43K · 📋 1.9K - 5% open · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/gnosis/safe-react
+	```
+</details>
+<details><summary><b><a href="https://github.com/safe-global/safe-contracts">safe-contracts</a></b> (🥇25 ·  ⭐ 990) - Gnosis Safe allows secure management of blockchain assets. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/safe-global/safe-contracts) (👨‍💻 15 · 🔀 460 · 📥 250 · 📦 440 · 📋 190 - 11% open · ⏱️ 17.05.2022):
+
+	```
+	git clone https://github.com/gnosis/safe-contracts
+	```
+- [npm](https://www.npmjs.com/package/@gnosis.pm/safe-contracts) (📥 14K / month · 📦 31 · ⏱️ 27.05.2021):
+	```
+	npm install @gnosis.pm/safe-contracts
+	```
+</details>
+<details><summary><b><a href="https://github.com/gnosis/MultiSigWallet">MultiSigWallet</a></b> (🥈18 ·  ⭐ 1K · 💤) - Allows multiple parties to agree on transactions before.. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/gnosis/MultiSigWallet) (👨‍💻 21 · 🔀 680 · 📥 8.6K · 📋 220 - 44% open · ⏱️ 24.08.2021):
+
+	```
+	git clone https://github.com/gnosis/MultiSigWallet
+	```
+</details>
+
+<br>
+
+ _14 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
 <details><summary><b><a href="https://github.com/lbryio">LBC - LBRY Credits</a></b> (🥇35 ·  ⭐ 19K) - Meet LBRY, a content sharing and publishing platform that is..</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/lbryio/lbry-desktop">lbry-desktop</a></b> (🥇33 ·  ⭐ 3.6K) - A browser and wallet for LBRY, the decentralized, user-controlled.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/lbryio/lbry-desktop) (👨‍💻 200 · 🔀 400 · 📥 18M · 📋 3.9K - 19% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/lbryio/lbry-desktop) (👨‍💻 200 · 🔀 400 · 📥 18M · 📋 3.9K - 19% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/lbryio/lbry-desktop
@@ -4429,7 +4468,7 @@ _Tokens associated with centralized or decentralized exchanges._
 </details>
 <details><summary><b><a href="https://github.com/lbryio/lbry.com">lbry.com</a></b> (🥈20 ·  ⭐ 240) - lbry.com, the website for the LBRY protocol. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/lbryio/lbry.com) (👨‍💻 180 · 🔀 230 · 📋 310 - 4% open · ⏱️ 17.06.2022):
+- [GitHub](https://github.com/lbryio/lbry.com) (👨‍💻 180 · 🔀 240 · 📋 310 - 4% open · ⏱️ 17.06.2022):
 
 	```
 	git clone https://github.com/lbryio/lbry.com
@@ -4460,24 +4499,24 @@ _Tokens associated with centralized or decentralized exchanges._
 ---
 <details><summary><b><a href="https://github.com/trustwallet/assets">assets</a></b> (🥇30 ·  ⭐ 3.1K) - A comprehensive, up-to-date collection of information about several.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/trustwallet/assets) (👨‍💻 3.7K · 🔀 14K · 📋 650 - 1% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/trustwallet/assets) (👨‍💻 3.7K · 🔀 14K · 📋 650 - 1% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/trustwallet/assets
 	```
-- [npm](https://www.npmjs.com/package/@luckyfinance/assets) (📥 23 / month · ⏱️ 02.08.2021):
+- [npm](https://www.npmjs.com/package/@luckyfinance/assets) (📥 27 / month · ⏱️ 02.08.2021):
 	```
 	npm install @luckyfinance/assets
 	```
 </details>
 <details><summary><b><a href="https://github.com/trustwallet/wallet-core">wallet-core</a></b> (🥇30 ·  ⭐ 1.6K) - Cross-platform, cross-blockchain wallet library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/trustwallet/wallet-core) (👨‍💻 95 · 🔀 1.1K · 📥 51K · 📦 220 · 📋 900 - 3% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/trustwallet/wallet-core) (👨‍💻 95 · 🔀 1.1K · 📥 54K · 📦 230 · 📋 900 - 3% open · ⏱️ 25.06.2022):
 
 	```
 	git clone https://github.com/trustwallet/wallet-core
 	```
-- [npm](https://www.npmjs.com/package/@trustwallet/wallet-core) (📥 1.4K / month · 📦 1 · ⏱️ 18.06.2022):
+- [npm](https://www.npmjs.com/package/@trustwallet/wallet-core) (📥 1.5K / month · 📦 1 · ⏱️ 18.06.2022):
 	```
 	npm install @trustwallet/wallet-core
 	```
@@ -4510,7 +4549,7 @@ _Tokens associated with centralized or decentralized exchanges._
 	git clone https://github.com/trustwallet/trust-web3-provider
 	```
 </details>
-<details><summary><b><a href="https://github.com/trustwallet/developer">developer</a></b> (🥉15 ·  ⭐ 170) - Trust Developer documentation: developer.trustwallet.com. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/trustwallet/developer">developer</a></b> (🥉15 ·  ⭐ 180) - Trust Developer documentation: developer.trustwallet.com. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/trustwallet/developer) (👨‍💻 28 · 🔀 110 · 📋 51 - 1% open · ⏱️ 10.06.2022):
 
@@ -4525,22 +4564,22 @@ _Tokens associated with centralized or decentralized exchanges._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/project-serum">SRM - Serum</a></b> (🥇35 ·  ⭐ 5.1K) - Worlds first completely decentralized derivatives exchange with.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/project-serum">SRM - Serum</a></b> (🥇35 ·  ⭐ 5.2K) - Worlds first completely decentralized derivatives exchange with.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/coral-xyz/anchor">anchor</a></b> (🥇36 ·  ⭐ 2.2K) - Solana Sealevel Framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/coral-xyz/anchor) (👨‍💻 170 · 🔀 760 · 📦 9.4K · 📋 1.1K - 44% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/coral-xyz/anchor) (👨‍💻 170 · 🔀 760 · 📦 9.5K · 📋 1.1K - 44% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/project-serum/anchor
 	```
-- [npm](https://www.npmjs.com/package/@project-serum/anchor) (📥 470K / month · ⏱️ 27.05.2022):
+- [npm](https://www.npmjs.com/package/@project-serum/anchor) (📥 480K / month · ⏱️ 27.05.2022):
 	```
 	npm install @project-serum/anchor
 	```
-- [Cargo](https://crates.io/crates/anchor-syn) (📥 39K / month · 📦 11 · ⏱️ 13.04.2022):
+- [Cargo](https://crates.io/crates/anchor-syn) (📥 38K / month · 📦 11 · ⏱️ 13.04.2022):
 	```
 	cargo install anchor-syn
 	```
@@ -4559,7 +4598,7 @@ _Tokens associated with centralized or decentralized exchanges._
 </details>
 <details><summary><b><a href="https://github.com/project-serum/sol-wallet-adapter">sol-wallet-adapter</a></b> (🥈23 ·  ⭐ 180 · 💤) - Library to allow Solana dApps to use third-party.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/project-serum/sol-wallet-adapter) (👨‍💻 14 · 🔀 86 · 📦 5.5K · 📋 30 - 73% open · ⏱️ 15.10.2021):
+- [GitHub](https://github.com/project-serum/sol-wallet-adapter) (👨‍💻 14 · 🔀 86 · 📦 5.7K · 📋 30 - 73% open · ⏱️ 15.10.2021):
 
 	```
 	git clone https://github.com/project-serum/sol-wallet-adapter
@@ -4588,12 +4627,12 @@ _Tokens associated with centralized or decentralized exchanges._
 	```
 	git clone https://github.com/project-serum/awesome-serum
 	```
-- [npm](https://www.npmjs.com/package/@project-serum/awesome-serum) (📥 350 / month · ⏱️ 16.11.2020):
+- [npm](https://www.npmjs.com/package/@project-serum/awesome-serum) (📥 280 / month · ⏱️ 16.11.2020):
 	```
 	npm install @project-serum/awesome-serum
 	```
 </details>
-<details><summary><b><a href="https://github.com/project-serum/spl-token-wallet">spl-token-wallet</a></b> (🥉15 ·  ⭐ 830) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/project-serum/spl-token-wallet">spl-token-wallet</a></b> (🥉15 ·  ⭐ 840) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/project-serum/spl-token-wallet) (👨‍💻 30 · 🔀 340 · 📥 130 · ⏱️ 17.06.2022):
 
@@ -4616,64 +4655,25 @@ _Tokens associated with centralized or decentralized exchanges._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/gnosis">GNO - Gnosis</a></b> (🥇35 ·  ⭐ 3.4K) - Gnosis builds revolutionary market-driven forecasting technology.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-<details><summary><b><a href="https://github.com/safe-global/safe-react">safe-react</a></b> (🥇26 ·  ⭐ 280) - Gnosis Safe The most trusted platform to store digital assets on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/safe-global/safe-react) (👨‍💻 46 · 🔀 250 · 📥 43K · 📋 1.9K - 7% open · ⏱️ 22.06.2022):
-
-	```
-	git clone https://github.com/gnosis/safe-react
-	```
-</details>
-<details><summary><b><a href="https://github.com/safe-global/safe-contracts">safe-contracts</a></b> (🥇25 ·  ⭐ 960) - Gnosis Safe allows secure management of blockchain assets. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/safe-global/safe-contracts) (👨‍💻 15 · 🔀 450 · 📥 250 · 📦 430 · 📋 190 - 11% open · ⏱️ 17.05.2022):
-
-	```
-	git clone https://github.com/gnosis/safe-contracts
-	```
-- [npm](https://www.npmjs.com/package/@gnosis.pm/safe-contracts) (📥 12K / month · 📦 31 · ⏱️ 27.05.2021):
-	```
-	npm install @gnosis.pm/safe-contracts
-	```
-</details>
-<details><summary><b><a href="https://github.com/gnosis/MultiSigWallet">MultiSigWallet</a></b> (🥈18 ·  ⭐ 1K · 💤) - Allows multiple parties to agree on transactions before.. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/gnosis/MultiSigWallet) (👨‍💻 21 · 🔀 680 · 📥 8.6K · 📋 220 - 44% open · ⏱️ 24.08.2021):
-
-	```
-	git clone https://github.com/gnosis/MultiSigWallet
-	```
-</details>
-
-<br>
-
- _14 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
 <details><summary><b><a href="https://github.com/hashgraph">HBAR - Hedera</a></b> (🥇35 ·  ⭐ 1.2K) - Decentralized public network for you to make your digital world..</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/hashgraph/hedera-sdk-js">hedera-sdk-js</a></b> (🥇30 ·  ⭐ 180) - Hedera Hashgraph SDK for JavaScript/TypeScript. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/hashgraph/hedera-sdk-js) (👨‍💻 23 · 🔀 80 · 📦 400 · 📋 450 - 3% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/hashgraph/hedera-sdk-js) (👨‍💻 25 · 🔀 82 · 📦 400 · 📋 460 - 4% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/hashgraph/hedera-sdk-js
 	```
-- [npm](https://www.npmjs.com/package/@hashgraph/sdk) (📥 68K / month · 📦 7 · ⏱️ 21.06.2022):
+- [npm](https://www.npmjs.com/package/@hashgraph/sdk) (📥 73K / month · 📦 7 · ⏱️ 28.06.2022):
 	```
 	npm install @hashgraph/sdk
 	```
 </details>
 <details><summary><b><a href="https://github.com/hashgraph/hedera-services">hedera-services</a></b> (🥇24 ·  ⭐ 170) - Crypto, token, consensus, file, and smart contract.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/hashgraph/hedera-services) (👨‍💻 46 · 🔀 46 · 📦 2 · 📋 1.8K - 22% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/hashgraph/hedera-services) (👨‍💻 47 · 🔀 46 · 📦 2 · 📋 1.8K - 22% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/hashgraph/hedera-services
@@ -4689,12 +4689,12 @@ _Tokens associated with centralized or decentralized exchanges._
 </details>
 <details><summary><b><a href="https://github.com/hashgraph/hedera-sdk-java">hedera-sdk-java</a></b> (🥈21 ·  ⭐ 180) - Hedera Hashgraph SDK for Java. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/hashgraph/hedera-sdk-java) (👨‍💻 24 · 🔀 92 · 📋 420 - 5% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/hashgraph/hedera-sdk-java) (👨‍💻 25 · 🔀 93 · 📋 420 - 4% open · ⏱️ 21.06.2022):
 
 	```
 	git clone https://github.com/hashgraph/hedera-sdk-java
 	```
-- [Maven](https://search.maven.org/artifact/com.hedera.hashgraph/sdk-jdk7) (⏱️ 01.06.2022):
+- [Maven](https://search.maven.org/artifact/com.hedera.hashgraph/sdk-jdk7) (⏱️ 21.06.2022):
 	```
 	<dependency>
 		<groupId>com.hedera.hashgraph</groupId>
@@ -4716,7 +4716,7 @@ _Tokens associated with centralized or decentralized exchanges._
 ---
 <details><summary><b><a href="https://github.com/bitshares/bitshares-ui">bitshares-ui</a></b> (🥇29 ·  ⭐ 510) - Fully featured Graphical User Interface / Reference Wallet for the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bitshares/bitshares-ui) (👨‍💻 170 · 🔀 560 · 📥 220K · 📋 2.3K - 19% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/bitshares/bitshares-ui) (👨‍💻 170 · 🔀 560 · 📥 220K · 📋 2.3K - 19% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/bitshares/bitshares-ui
@@ -4729,14 +4729,14 @@ _Tokens associated with centralized or decentralized exchanges._
 	```
 	git clone https://github.com/bitshares/python-bitshares
 	```
-- [PyPi](https://pypi.org/project/bitshares) (📥 590 / month · 📦 27 · ⏱️ 13.05.2022):
+- [PyPi](https://pypi.org/project/bitshares) (📥 510 / month · 📦 27 · ⏱️ 13.05.2022):
 	```
 	pip install bitshares
 	```
 </details>
-<details><summary><b><a href="https://github.com/bitshares/bitshares-core">bitshares-core</a></b> (🥈23 ·  ⭐ 1.2K) - BitShares Blockchain implementation and command-line.. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/bitshares/bitshares-core">bitshares-core</a></b> (🥇24 ·  ⭐ 1.2K) - BitShares Blockchain implementation and command-line.. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/bitshares/bitshares-core) (👨‍💻 79 · 🔀 630 · 📥 140K · 📋 1.2K - 20% open · ⏱️ 16.12.2021):
+- [GitHub](https://github.com/bitshares/bitshares-core) (👨‍💻 79 · 🔀 630 · 📥 140K · 📋 1.2K - 20% open · ⏱️ 26.06.2022):
 
 	```
 	git clone https://github.com/bitshares/bitshares-core
@@ -4771,7 +4771,7 @@ _Tokens associated with centralized or decentralized exchanges._
 </details>
 <details><summary><b><a href="https://github.com/0xProject/0x-api">0x-api</a></b> (🥈17 ·  ⭐ 300) - An HTTP Interface to 0x liquidity and tooling. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/0xProject/0x-api) (👨‍💻 38 · 🔀 160 · 📋 79 - 64% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/0xProject/0x-api) (👨‍💻 38 · 🔀 160 · 📋 79 - 64% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/0xProject/0x-api
@@ -4798,7 +4798,7 @@ _Tokens associated with centralized or decentralized exchanges._
 ---
 <details><summary><b><a href="https://github.com/MixinNetwork/mixin">mixin</a></b> (🥈21 ·  ⭐ 440) - The Mixin TEE-BFT-DAG network reference implementation. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/MixinNetwork/mixin) (👨‍💻 18 · 🔀 110 · 📥 29K · 📋 63 - 26% open · ⏱️ 09.06.2022):
+- [GitHub](https://github.com/MixinNetwork/mixin) (👨‍💻 18 · 🔀 110 · 📥 29K · 📋 63 - 26% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/MixinNetwork/mixin
@@ -4810,7 +4810,7 @@ _Tokens associated with centralized or decentralized exchanges._
 </details>
 <details><summary><b><a href="https://github.com/MixinNetwork/android-app">android-app</a></b> (🥈21 ·  ⭐ 390) - Android private messenger, crypto wallet and light node to the.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/MixinNetwork/android-app) (👨‍💻 12 · 🔀 82 · 📥 2.7K · 📋 78 - 53% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/MixinNetwork/android-app) (👨‍💻 12 · 🔀 82 · 📥 2.6K · 📋 78 - 53% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/MixinNetwork/android-app
@@ -4818,7 +4818,7 @@ _Tokens associated with centralized or decentralized exchanges._
 </details>
 <details><summary><b><a href="https://github.com/MixinNetwork/ios-app">ios-app</a></b> (🥈20 ·  ⭐ 460) - iOS private messenger, crypto wallet and light node to the Mixin.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/MixinNetwork/ios-app) (👨‍💻 13 · 🔀 100 · 📋 66 - 50% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/MixinNetwork/ios-app) (👨‍💻 13 · 🔀 100 · 📋 66 - 50% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/MixinNetwork/ios-app
@@ -4836,20 +4836,20 @@ _Tokens associated with centralized or decentralized exchanges._
 	go install github.com/MixinNetwork/ocean.one
 	```
 </details>
-<details><summary><b><a href="https://github.com/MixinNetwork/flutter-plugins">flutter-plugins</a></b> (🥉13 ·  ⭐ 170) - Flutter plugins used in Mixin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/MixinNetwork/flutter-plugins) (👨‍💻 6 · 🔀 26 · 📋 76 - 39% open · ⏱️ 27.05.2022):
-
-	```
-	git clone https://github.com/MixinNetwork/flutter-plugins
-	```
-</details>
 <details><summary><b><a href="https://github.com/MixinNetwork/kraken">kraken</a></b> (🥉12 ·  ⭐ 240) - High performance WebRTC SFU implemented with pure Go. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/MixinNetwork/kraken) (👨‍💻 4 · 🔀 37 · 📋 23 - 47% open · ⏱️ 14.03.2022):
 
 	```
 	git clone https://github.com/MixinNetwork/kraken
+	```
+</details>
+<details><summary><b><a href="https://github.com/MixinNetwork/flutter-plugins">flutter-plugins</a></b> (🥉12 ·  ⭐ 180) - Flutter plugins used in Mixin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/MixinNetwork/flutter-plugins) (👨‍💻 6 · 🔀 26 · 📋 78 - 41% open · ⏱️ 27.06.2022):
+
+	```
+	git clone https://github.com/MixinNetwork/flutter-plugins
 	```
 </details>
 
@@ -4863,9 +4863,9 @@ _Tokens associated with centralized or decentralized exchanges._
 
 
 ---
-<details><summary><b><a href="https://github.com/dydxprotocol/solo">solo</a></b> (🥈21 ·  ⭐ 330 · 💤) - dYdX V2 Margin Trading Protocol. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/dydxprotocol/solo">solo</a></b> (🥈21 ·  ⭐ 340 · 💤) - dYdX V2 Margin Trading Protocol. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/dydxprotocol/solo) (👨‍💻 13 · 🔀 90 · 📦 45 · 📋 120 - 6% open · ⏱️ 26.10.2021):
+- [GitHub](https://github.com/dydxprotocol/solo) (👨‍💻 13 · 🔀 91 · 📦 45 · 📋 120 - 6% open · ⏱️ 26.10.2021):
 
 	```
 	git clone https://github.com/dydxprotocol/solo
@@ -4894,14 +4894,14 @@ _Tokens associated with centralized or decentralized exchanges._
 
 
 ---
-<details><summary><b><a href="https://github.com/renproject/multichain">multichain</a></b> (🥈17 ·  ⭐ 200) - An abstraction over multiple different underlying blockchains.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/renproject/multichain">multichain</a></b> (🥉16 ·  ⭐ 200) - An abstraction over multiple different underlying blockchains.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/renproject/multichain) (👨‍💻 15 · 🔀 110 · 📦 6 · 📋 28 - 96% open · ⏱️ 31.05.2022):
+- [GitHub](https://github.com/renproject/multichain) (👨‍💻 15 · 🔀 110 · 📦 6 · 📋 30 - 96% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/renproject/multichain
 	```
-- [Go](https://pkg.go.dev/github.com/renproject/multichain) (📦 1 · ⏱️ 09.05.2022):
+- [Go](https://pkg.go.dev/github.com/renproject/multichain) (📦 1 · ⏱️ 28.06.2022):
 	```
 	go install github.com/renproject/multichain
 	```
@@ -4913,13 +4913,13 @@ _Tokens associated with centralized or decentralized exchanges._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/saber-hq">SBR - Saber</a></b> (🥈27 ·  ⭐ 840) - Cross-chain stablecoin exchange on Solana.</summary>
+<details><summary><b><a href="https://github.com/saber-hq">SBR - Saber</a></b> (🥈27 ·  ⭐ 830) - Cross-chain stablecoin exchange on Solana.</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/saber-hq/stable-swap">stable-swap</a></b> (🥈17 ·  ⭐ 350) - StableSwap by Saber: an automated market maker for mean-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/saber-hq/stable-swap) (👨‍💻 6 · 🔀 110 · 📥 810 · 📋 15 - 26% open · ⏱️ 14.05.2022):
+- [GitHub](https://github.com/saber-hq/stable-swap) (👨‍💻 6 · 🔀 110 · 📥 820 · 📋 15 - 26% open · ⏱️ 14.05.2022):
 
 	```
 	git clone https://github.com/saber-hq/stable-swap
@@ -4961,7 +4961,7 @@ _Tokens associated with centralized or decentralized exchanges._
 ---
 <details><summary><b><a href="https://github.com/vitelabs/go-vite">go-vite</a></b> (🥇24 ·  ⭐ 300) - Official Go implementation of the Vite protocol. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/vitelabs/go-vite) (👨‍💻 36 · 🔀 140 · 📥 59K · 📦 3 · 📋 79 - 31% open · ⏱️ 01.06.2022):
+- [GitHub](https://github.com/vitelabs/go-vite) (👨‍💻 36 · 🔀 140 · 📥 59K · 📦 3 · 📋 79 - 31% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/vitelabs/go-vite
@@ -4984,7 +4984,7 @@ _Tokens associated with centralized or decentralized exchanges._
 ---
 <details><summary><b><a href="https://github.com/red/red">red</a></b> (🥇25 ·  ⭐ 4.8K) - Red is a next-generation programming language strongly inspired by Rebol,.. <code><a href="https://tldrlegal.com/search?q=BSL-1.0">BSL-1.0</a></code></summary>
 
-- [GitHub](https://github.com/red/red) (👨‍💻 79 · 🔀 390 · 📋 3.7K - 14% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/red/red) (👨‍💻 79 · 🔀 390 · 📋 3.7K - 14% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/red/red
@@ -5009,14 +5009,14 @@ _Tokens associated with centralized or decentralized exchanges._
 
 
 ---
-<details><summary><b><a href="https://github.com/bancorprotocol/contracts-solidity">contracts-solidity</a></b> (🥇25 ·  ⭐ 780) - Bancor Protocol Contracts. <code><a href="https://tldrlegal.com/search?q=ICU">ICU</a></code></summary>
+<details><summary><b><a href="https://github.com/bancorprotocol/contracts-solidity">contracts-solidity</a></b> (🥇24 ·  ⭐ 780) - Bancor Protocol Contracts. <code><a href="https://tldrlegal.com/search?q=ICU">ICU</a></code></summary>
 
-- [GitHub](https://github.com/bancorprotocol/contracts-solidity) (👨‍💻 24 · 🔀 340 · 📦 10 · ⏱️ 15.05.2022):
+- [GitHub](https://github.com/bancorprotocol/contracts-solidity) (👨‍💻 24 · 🔀 340 · 📦 10 · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/bancorprotocol/contracts-solidity
 	```
-- [npm](https://www.npmjs.com/package/@bancor/contracts-solidity) (📥 210 / month · ⏱️ 14.05.2022):
+- [npm](https://www.npmjs.com/package/@bancor/contracts-solidity) (📥 130 / month · ⏱️ 23.06.2022):
 	```
 	npm install @bancor/contracts-solidity
 	```
@@ -5028,7 +5028,7 @@ _Tokens associated with centralized or decentralized exchanges._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/pangolindex">PNG - Pangolin</a></b> (🥈25 ·  ⭐ 170) - Community-driven decentralized exchange for Avalanche and.. <code><img src="https://git.io/J9cOb" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pangolindex">PNG - Pangolin</a></b> (🥈25 ·  ⭐ 160) - Community-driven decentralized exchange for Avalanche and.. <code><img src="https://git.io/J9cOb" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
@@ -5039,36 +5039,13 @@ _Tokens associated with centralized or decentralized exchanges._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/osmosis-labs">OSMO - Osmosis</a></b> (🥈24 ·  ⭐ 640) - Token of the Osmosis Hub, first DEX for IBC connected coins built on..</summary>
-
-
----
-<details><summary><b><a href="https://github.com/osmosis-labs/osmosis">osmosis</a></b> (🥇25 ·  ⭐ 540) - The AMM Laboratory. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/osmosis-labs/osmosis) (👨‍💻 73 · 🔀 190 · 📥 3.6K · 📋 650 - 27% open · ⏱️ 22.06.2022):
-
-	```
-	git clone https://github.com/osmosis-labs/osmosis
-	```
-- [Go](https://pkg.go.dev/github.com/osmosis-labs/osmosis) (⏱️ 29.05.2022):
-	```
-	go install github.com/osmosis-labs/osmosis
-	```
-</details>
-
-<br>
-
- _1 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
 <details><summary><b><a href="https://github.com/crypto-org-chain">CRO - Crypto.com Coin</a></b> (🥈24 ·  ⭐ 620) - Crypto.com Chain will be a privacy preserving payment.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/crypto-org-chain/cronos">cronos</a></b> (🥇24 ·  ⭐ 190) - Cronos is the first Ethereum-compatible blockchain network built on.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/crypto-org-chain/cronos">cronos</a></b> (🥇24 ·  ⭐ 200) - Cronos is the first Ethereum-compatible blockchain network built on.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/crypto-org-chain/cronos) (👨‍💻 20 · 🔀 160 · 📥 17K · 📦 9 · 📋 280 - 24% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/crypto-org-chain/cronos) (👨‍💻 20 · 🔀 160 · 📥 18K · 📦 9 · 📋 280 - 24% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/crypto-org-chain/cronos
@@ -5080,7 +5057,7 @@ _Tokens associated with centralized or decentralized exchanges._
 </details>
 <details><summary><b><a href="https://github.com/crypto-org-chain/chain-main">chain-main</a></b> (🥈23 ·  ⭐ 390) - Crypto.org Chain: Croeseid Testnet and beyond development. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/crypto-org-chain/chain-main) (👨‍💻 17 · 🔀 290 · 📥 130K · 📋 350 - 5% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/crypto-org-chain/chain-main) (👨‍💻 17 · 🔀 290 · 📥 130K · 📋 350 - 5% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/crypto-org-chain/chain-main
@@ -5101,9 +5078,9 @@ _Tokens associated with centralized or decentralized exchanges._
 
 
 ---
-<details><summary><b><a href="https://github.com/Loopring/protocols">protocols</a></b> (🥈17 ·  ⭐ 190) - A zkRollup DEX & Payment Protocol. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Loopring/protocols">protocols</a></b> (🥈17 ·  ⭐ 200) - A zkRollup DEX & Payment Protocol. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/Loopring/protocols) (👨‍💻 41 · 🔀 40 · 📋 350 - 1% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/Loopring/protocols) (👨‍💻 41 · 🔀 40 · 📋 350 - 1% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/Loopring/protocols
@@ -5111,7 +5088,7 @@ _Tokens associated with centralized or decentralized exchanges._
 </details>
 <details><summary><b><a href="https://github.com/Loopring/loopring_sdk">loopring_sdk</a></b> (🥈17 ·  ⭐ 160) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Loopring/loopring_sdk) (👨‍💻 15 · 🔀 31 · 📦 24 · 📋 12 - 8% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/Loopring/loopring_sdk) (👨‍💻 15 · 🔀 32 · 📦 28 · 📋 12 - 8% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/Loopring/loopring_sdk
@@ -5121,6 +5098,29 @@ _Tokens associated with centralized or decentralized exchanges._
 <br>
 
  _6 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/osmosis-labs">OSMO - Osmosis</a></b> (🥈23 ·  ⭐ 640) - Token of the Osmosis Hub, first DEX for IBC connected coins built on..</summary>
+
+
+---
+<details><summary><b><a href="https://github.com/osmosis-labs/osmosis">osmosis</a></b> (🥇25 ·  ⭐ 540) - The AMM Laboratory. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/osmosis-labs/osmosis) (👨‍💻 73 · 🔀 200 · 📥 3.6K · 📋 660 - 26% open · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/osmosis-labs/osmosis
+	```
+- [Go](https://pkg.go.dev/github.com/osmosis-labs/osmosis) (⏱️ 29.05.2022):
+	```
+	go install github.com/osmosis-labs/osmosis
+	```
+</details>
+
+<br>
+
+ _1 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -5149,7 +5149,7 @@ _Tokens associated with centralized or decentralized exchanges._
 ---
 <details><summary><b><a href="https://github.com/consenlabs/token-profile">token-profile</a></b> (🥈22 ·  ⭐ 650) - Blockchain coin and token profile collection. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/consenlabs/token-profile) (👨‍💻 1.7K · 🔀 3.5K · 📋 630 - 2% open · ⏱️ 10.06.2022):
+- [GitHub](https://github.com/consenlabs/token-profile) (👨‍💻 1.7K · 🔀 3.5K · 📋 630 - 2% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/consenlabs/token-profile
@@ -5157,7 +5157,7 @@ _Tokens associated with centralized or decentralized exchanges._
 </details>
 <details><summary><b><a href="https://github.com/consenlabs/token-core">token-core</a></b> (🥉13 ·  ⭐ 230) - Next generation core inside imToken Wallet. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/consenlabs/token-core) (👨‍💻 9 · 🔀 81 · 📥 68 · 📋 34 - 47% open · ⏱️ 14.02.2022):
+- [GitHub](https://github.com/consenlabs/token-core) (👨‍💻 9 · 🔀 81 · 📥 71 · 📋 34 - 47% open · ⏱️ 14.02.2022):
 
 	```
 	git clone https://github.com/consenlabs/token-core
@@ -5170,18 +5170,30 @@ _Tokens associated with centralized or decentralized exchanges._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/airswap">AST - AirSwap</a></b> (🥈22 ·  ⭐ 220) - Decentralized, peer-to-peer token trading network built on the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/airswap">AST - AirSwap</a></b> (🥈22 ·  ⭐ 230) - Decentralized, peer-to-peer token trading network built on the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
+<details><summary><b><a href="https://github.com/airswap/airswap-protocols">airswap-protocols</a></b> (🥇24 ·  ⭐ 150) - AirSwap Contracts and Tools. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/airswap/airswap-protocols) (👨‍💻 24 · 🔀 61 · 📦 73 · 📋 180 - 28% open · ⏱️ 25.06.2022):
+
+	```
+	git clone https://github.com/airswap/airswap-protocols
+	```
+- [npm](https://www.npmjs.com/package/@airswap/wrapper) (📥 170 / month · 📦 4 · ⏱️ 30.03.2022):
+	```
+	npm install @airswap/wrapper
+	```
+</details>
 
 <br>
 
- _2 projects are hidden because they don't fulfill the minimal requirements._
+ _1 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/thorchain">RUNE - THORChain</a></b> (🥈22 ·  ⭐ 200) - A lightning fast liquidity network protocol. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/thorchain">RUNE - THORChain</a></b> (🥈22 ·  ⭐ 210) - A lightning fast liquidity network protocol. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
@@ -5192,18 +5204,18 @@ _Tokens associated with centralized or decentralized exchanges._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/paraswap">PSP - ParaSwap</a></b> (🥉19 ·  ⭐ 250) - Governance token for ParaSwap with the aim toprovide a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/paraswap">PSP - ParaSwap</a></b> (🥉19 ·  ⭐ 260) - Governance token for ParaSwap with the aim toprovide a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/paraswap/paraswap-sdk">paraswap-sdk</a></b> (🥈21 ·  ⭐ 150) - ParaSwap allows dApps and traders to get the best DEX liquidity by.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/paraswap/paraswap-sdk">paraswap-sdk</a></b> (🥈21 ·  ⭐ 160) - ParaSwap allows dApps and traders to get the best DEX liquidity by.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/paraswap/paraswap-sdk) (👨‍💻 19 · 🔀 62 · 📦 120 · 📋 23 - 73% open · ⏱️ 21.02.2022):
 
 	```
 	git clone https://github.com/paraswap/paraswap-sdk
 	```
-- [npm](https://www.npmjs.com/package/paraswap) (📥 7.1K / month · 📦 4 · ⏱️ 21.02.2022):
+- [npm](https://www.npmjs.com/package/paraswap) (📥 7.5K / month · 📦 4 · ⏱️ 21.02.2022):
 	```
 	npm install paraswap
 	```
@@ -5219,7 +5231,7 @@ _Tokens associated with centralized or decentralized exchanges._
 
 
 ---
-<details><summary><b><a href="https://github.com/curvefi/curve-dao-contracts">curve-dao-contracts</a></b> (🥈16 ·  ⭐ 240) - Vyper contracts to be used by Curve DAO. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/curvefi/curve-dao-contracts">curve-dao-contracts</a></b> (🥉16 ·  ⭐ 240) - Vyper contracts to be used by Curve DAO. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/curvefi/curve-dao-contracts) (👨‍💻 11 · 🔀 110 · 📋 9 - 66% open · ⏱️ 13.05.2022):
 
@@ -5238,7 +5250,7 @@ _Tokens associated with centralized or decentralized exchanges._
 
 
 ---
-<details><summary><b><a href="https://github.com/breadwallet/breadwallet-android">breadwallet-android</a></b> (🥈16 ·  ⭐ 380 · 💤) - The Android version of the Bread bitcoin wallet. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/breadwallet/breadwallet-android">breadwallet-android</a></b> (🥉16 ·  ⭐ 380 · 💤) - The Android version of the Bread bitcoin wallet. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/breadwallet/breadwallet-android) (👨‍💻 22 · 🔀 430 · 📋 140 - 23% open · ⏱️ 29.09.2021):
 
@@ -5267,12 +5279,12 @@ _Tokens associated with centralized or decentralized exchanges._
 ---
 <details><summary><b><a href="https://github.com/nash-io/openlimits">openlimits</a></b> (🥈17 ·  ⭐ 200 · 💤) - A Rust high performance cryptocurrency trading API with support.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/nash-io/openlimits) (👨‍💻 16 · 🔀 35 · 📋 90 - 28% open · ⏱️ 29.11.2021):
+- [GitHub](https://github.com/nash-io/openlimits) (👨‍💻 16 · 🔀 36 · 📋 89 - 29% open · ⏱️ 29.11.2021):
 
 	```
 	git clone https://github.com/nash-io/openlimits
 	```
-- [Cargo](https://crates.io/crates/openlimits-exchange) (📥 84 / month · 📦 6 · ⏱️ 29.11.2021):
+- [Cargo](https://crates.io/crates/openlimits-exchange) (📥 89 / month · 📦 6 · ⏱️ 29.11.2021):
 	```
 	cargo install openlimits-exchange
 	```
@@ -5284,7 +5296,22 @@ _Tokens associated with centralized or decentralized exchanges._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/QuarkChain">QKC - QuarkChain</a></b> (🥉16 ·  ⭐ 260) - Quarkchain wants to build a high throughput P2P network for.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/Polkadex-Substrate">PDEX - Polkadex</a></b> (🥉16 ·  ⭐ 220) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+<details><summary><b><a href="https://github.com/Polkadex-Substrate/Polkadex">Polkadex</a></b> (🥈19 ·  ⭐ 220) - An Orderbook-based Decentralized Exchange using the Substrate.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/Polkadex-Substrate/Polkadex) (👨‍💻 16 · 🔀 67 · 📥 6.1K · 📋 210 - 21% open · ⏱️ 23.05.2022):
+
+	```
+	git clone https://github.com/Polkadex-Substrate/Polkadex
+	```
+</details>
+
+---
+</details>
+<details><summary><b><a href="https://github.com/QuarkChain">QKC - QuarkChain</a></b> (🥉15 ·  ⭐ 260) - Quarkchain wants to build a high throughput P2P network for.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
@@ -5303,28 +5330,13 @@ _Tokens associated with centralized or decentralized exchanges._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/Polkadex-Substrate">PDEX - Polkadex</a></b> (🥉16 ·  ⭐ 220) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-<details><summary><b><a href="https://github.com/Polkadex-Substrate/Polkadex">Polkadex</a></b> (🥈19 ·  ⭐ 220) - An Orderbook-based Decentralized Exchange using the Substrate.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/Polkadex-Substrate/Polkadex) (👨‍💻 16 · 🔀 67 · 📥 6.1K · 📋 200 - 20% open · ⏱️ 23.05.2022):
-
-	```
-	git clone https://github.com/Polkadex-Substrate/Polkadex
-	```
-</details>
-
----
-</details>
 <details><summary><b><a href="https://github.com/anyswap">ANY - Anyswap</a></b> (🥉15 ·  ⭐ 240) - Fully decentralized cross chain swap protocol, based on Fusion.. <code><img src="https://git.io/J9cOi" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/anyswap/CrossChain-Bridge">CrossChain-Bridge</a></b> (🥉14 ·  ⭐ 180) - Cross-Chain bridge based on Anyswap MPC network. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/anyswap/CrossChain-Bridge) (👨‍💻 8 · 🔀 99 · 📦 15 · 📋 18 - 66% open · ⏱️ 07.06.2022):
+- [GitHub](https://github.com/anyswap/CrossChain-Bridge) (👨‍💻 8 · 🔀 100 · 📦 15 · 📋 18 - 66% open · ⏱️ 07.06.2022):
 
 	```
 	git clone https://github.com/anyswap/CrossChain-Bridge
@@ -5359,12 +5371,12 @@ _Tokens associated with centralized or decentralized exchanges._
 <details><summary>Show 27 hidden projects...</summary>
 
 - <b><a href="https://github.com/Sifchain">EROWAN - Sifchain</a></b> (🥉20 ·  ⭐ 86) - Brainchild of Sif, the Norse goddess of earth, agriculture,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/kybernetwork">KNC - Kyber Network Crystal</a></b> (🥉18 ·  ⭐ 770 · 💀) - Kyber Network is on-chain, instant and liquid.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/kybernetwork">KNC - Kyber Network Crystal</a></b> (🥉18 ·  ⭐ 780 · 💀) - Kyber Network is on-chain, instant and liquid.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/orca-so">ORCA - Orca</a></b> (🥉16 ·  ⭐ 120) - Most user-friendly DEX on Solana. Orca is one of the first general-.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/guardaco">GETH - Geist ETH</a></b> (🥉15 ·  ⭐ 170 · 💀) - No description. <code><img src="https://git.io/J9cOi" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/guardaco">GETH - Geist ETH</a></b> (🥉15 ·  ⭐ 180 · 💀) - No description. <code><img src="https://git.io/J9cOi" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/1hive">HNY - Honey</a></b> (🥉15 ·  ⭐ 140) - Governance token issued by 1hive (the team behind Honeyswap.org)...
-- <b><a href="https://github.com/traderjoe-xyz">JOE - JOE</a></b> (🥉15 ·  ⭐ 100) - Trader Joe is your one-stop decentralized trading platform on the.. <code><img src="https://git.io/J9cOb" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/diviproject">DIVX - Divi Exchange Token</a></b> (🥉15 ·  ⭐ 69) - The Divi Project is built on a new custom blockchain..
+- <b><a href="https://github.com/diviproject">DIVX - Divi Exchange Token</a></b> (🥉15 ·  ⭐ 70) - The Divi Project is built on a new custom blockchain..
+- <b><a href="https://github.com/traderjoe-xyz">JOE - JOE</a></b> (🥉14 ·  ⭐ 100) - Trader Joe is your one-stop decentralized trading platform on the.. <code><img src="https://git.io/J9cOb" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/JustLiquidity">JULD - JulSwap</a></b> (🥉12 ·  ⭐ 170 · 💀) - Community Token from JulSwap which allows you to participate.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/idexio">IDEX - IDEX</a></b> (🥉10 ·  ⭐ 77 · 💀) - Aurora is a collection of Ethereum applications and protocols that.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Synthetify">SNY - Synthetify Token</a></b> (🥉9 ·  ⭐ 84) - Synthetify (SNY) is anticipated to hold the following.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
@@ -5421,7 +5433,7 @@ _Cryptocurrencies inspired by Internet memes._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/bananocoin">BAN - Banano</a></b> (🥈23 ·  ⭐ 510) - Dont let your memes be dreams! Banano is a fourth-generation.. <code><img src="https://git.io/J9cOx" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/bananocoin">BAN - Banano</a></b> (🥈23 ·  ⭐ 520) - Dont let your memes be dreams! Banano is a fourth-generation.. <code><img src="https://git.io/J9cOx" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
@@ -5440,13 +5452,13 @@ _Cryptocurrencies inspired by Internet memes._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/Abracadabra-money">SPELL - Spell Token</a></b> (🥉12 ·  ⭐ 180) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/Abracadabra-money">SPELL - Spell Token</a></b> (🥉11 ·  ⭐ 180) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/Abracadabra-money/magic-internet-money">magic-internet-money</a></b> (🥉12 ·  ⭐ 180) -  <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Abracadabra-money/magic-internet-money">magic-internet-money</a></b> (🥉11 ·  ⭐ 180) -  <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/Abracadabra-money/magic-internet-money) (👨‍💻 6 · 🔀 74 · ⏱️ 12.06.2022):
+- [GitHub](https://github.com/Abracadabra-money/magic-internet-money) (👨‍💻 6 · 🔀 73 · ⏱️ 12.06.2022):
 
 	```
 	git clone https://github.com/Abracadabra-money/magic-internet-money
@@ -5471,16 +5483,16 @@ _Cryptocurrencies inspired by Internet memes._
 ---
 <details><summary><b><a href="https://github.com/hirosystems/stacks.js">stacks.js</a></b> (🥇30 ·  ⭐ 860) - JavaScript libraries for identity, auth, storage and transactions on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hirosystems/stacks.js) (👨‍💻 72 · 🔀 290 · 📦 260 · 📋 690 - 2% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/hirosystems/stacks.js) (👨‍💻 72 · 🔀 290 · 📦 260 · 📋 700 - 2% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/blockstack/stacks.js
 	```
-- [PyPi](https://pypi.org/project/opendig) (📥 6 / month · ⏱️ 23.07.2014):
+- [PyPi](https://pypi.org/project/opendig) (📥 5 / month · ⏱️ 23.07.2014):
 	```
 	pip install opendig
 	```
-- [npm](https://www.npmjs.com/package/blockstack) (📥 9.9K / month · 📦 300 · ⏱️ 23.06.2021):
+- [npm](https://www.npmjs.com/package/blockstack) (📥 9.4K / month · 📦 300 · ⏱️ 23.06.2021):
 	```
 	npm install blockstack
 	```
@@ -5492,29 +5504,17 @@ _Cryptocurrencies inspired by Internet memes._
 	```
 	git clone https://github.com/blockstack/stacks-blockchain
 	```
-- [PyPi](https://pypi.org/project/blockstore) (📥 49 / month · 📦 12 · ⏱️ 23.05.2016):
+- [PyPi](https://pypi.org/project/blockstore) (📥 31 / month · 📦 12 · ⏱️ 23.05.2016):
 	```
 	pip install blockstore
 	```
 </details>
 <details><summary><b><a href="https://github.com/hirosystems/stacks-wallet-web">stacks-wallet-web</a></b> (🥇25 ·  ⭐ 170) - Hiro Wallet is a browser extension for managing your digital.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hirosystems/stacks-wallet-web) (👨‍💻 32 · 🔀 67 · 📥 2K · 📋 1.5K - 18% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/hirosystems/stacks-wallet-web) (👨‍💻 32 · 🔀 67 · 📥 2K · 📋 1.5K - 18% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/hirosystems/stacks-wallet-web
-	```
-</details>
-<details><summary><b><a href="https://github.com/stacks-network/gaia">blockstack/gaia</a></b> (🥈21 ·  ⭐ 750) - A decentralized high-performance storage system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/stacks-network/gaia) (👨‍💻 20 · 🔀 140 · 📋 170 - 20% open · ⏱️ 21.06.2022):
-
-	```
-	git clone https://github.com/blockstack/gaia
-	```
-- [PyPi](https://pypi.org/project/registrar) (📥 21 / month · 📦 21 · ⏱️ 23.05.2016):
-	```
-	pip install registrar
 	```
 </details>
 <details><summary><b><a href="https://github.com/stacks-network/stacks">stacks</a></b> (🥈20 ·  ⭐ 1.9K) - Stacks ecosystem overview. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -5524,9 +5524,21 @@ _Cryptocurrencies inspired by Internet memes._
 	```
 	git clone https://github.com/blockstack/stacks
 	```
-- [PyPi](https://pypi.org/project/openspecs) (📥 7 / month · ⏱️ 23.07.2014):
+- [PyPi](https://pypi.org/project/openspecs) (📥 8 / month · ⏱️ 23.07.2014):
 	```
 	pip install openspecs
+	```
+</details>
+<details><summary><b><a href="https://github.com/stacks-network/gaia">blockstack/gaia</a></b> (🥈20 ·  ⭐ 750) - A decentralized high-performance storage system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/stacks-network/gaia) (👨‍💻 20 · 🔀 140 · 📋 170 - 20% open · ⏱️ 23.06.2022):
+
+	```
+	git clone https://github.com/blockstack/gaia
+	```
+- [PyPi](https://pypi.org/project/registrar) (📥 20 / month · 📦 21 · ⏱️ 23.05.2016):
+	```
+	pip install registrar
 	```
 </details>
 <details><summary><b><a href="https://github.com/hirosystems/stacks-wallet">stacks-wallet</a></b> (🥈19 ·  ⭐ 160) - Stacks WalletSend and receive STX tokens on the Stacks.. <code>Unlicensed</code></summary>
@@ -5550,36 +5562,36 @@ _Cryptocurrencies inspired by Internet memes._
 ---
 <details><summary><b><a href="https://github.com/filecoin-project/lotus">lotus</a></b> (🥇34 ·  ⭐ 2.3K) - Implementation of the Filecoin protocol, written in Go. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/filecoin-project/lotus) (👨‍💻 190 · 🔀 1.1K · 📥 6.9K · 📋 3.6K - 15% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/filecoin-project/lotus) (👨‍💻 190 · 🔀 1.1K · 📥 7K · 📋 3.6K - 15% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/filecoin-project/lotus
 	```
-- [Go](https://pkg.go.dev/github.com/filecoin-project/lotus) (📦 44 · ⏱️ 17.06.2022):
+- [Go](https://pkg.go.dev/github.com/filecoin-project/lotus) (📦 45 · ⏱️ 24.06.2022):
 	```
 	go install github.com/filecoin-project/lotus
 	```
 </details>
-<details><summary><b><a href="https://github.com/filecoin-project/venus">venus</a></b> (🥇27 ·  ⭐ 1.9K) - Filecoin Full Node Implementation in Go. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/filecoin-project/venus">venus</a></b> (🥇28 ·  ⭐ 1.9K) - Filecoin Full Node Implementation in Go. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/filecoin-project/venus) (👨‍💻 79 · 🔀 400 · 📥 17K · 📦 5 · 📋 2.4K - 1% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/filecoin-project/venus) (👨‍💻 80 · 🔀 410 · 📥 17K · 📦 5 · 📋 2.4K - 1% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/filecoin-project/venus
 	```
-- [Go](https://pkg.go.dev/github.com/filecoin-project/venus) (📦 9 · ⏱️ 15.06.2022):
+- [Go](https://pkg.go.dev/github.com/filecoin-project/venus) (📦 9 · ⏱️ 28.06.2022):
 	```
 	go install github.com/filecoin-project/venus
 	```
 </details>
-<details><summary><b><a href="https://github.com/filecoin-project/rust-fil-proofs">rust-fil-proofs</a></b> (🥇26 ·  ⭐ 410) - Proofs for Filecoin in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/filecoin-project/rust-fil-proofs">rust-fil-proofs</a></b> (🥇26 ·  ⭐ 420) - Proofs for Filecoin in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/filecoin-project/rust-fil-proofs) (👨‍💻 52 · 🔀 260 · 📥 2.4K · 📋 600 - 8% open · ⏱️ 01.06.2022):
 
 	```
 	git clone https://github.com/filecoin-project/rust-fil-proofs
 	```
-- [Cargo](https://crates.io/crates/fr32) (📥 3.8K / month · 📦 6 · ⏱️ 15.06.2022):
+- [Cargo](https://crates.io/crates/fr32) (📥 4.2K / month · 📦 6 · ⏱️ 15.06.2022):
 	```
 	cargo install fr32
 	```
@@ -5598,7 +5610,7 @@ _Cryptocurrencies inspired by Internet memes._
 </details>
 <details><summary><b><a href="https://github.com/filecoin-project/slate">slate</a></b> (🥈17 ·  ⭐ 500) - WIP - Were building the place you go to discover, share, and sell files on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/filecoin-project/slate) (👨‍💻 26 · 🔀 59 · 📋 530 - 3% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/filecoin-project/slate) (👨‍💻 26 · 🔀 58 · 📋 530 - 3% open · ⏱️ 21.06.2022):
 
 	```
 	git clone https://github.com/filecoin-project/slate
@@ -5606,15 +5618,15 @@ _Cryptocurrencies inspired by Internet memes._
 </details>
 <details><summary><b><a href="https://github.com/filecoin-project/devgrants">devgrants</a></b> (🥈17 ·  ⭐ 230) - Apply for a Filecoin devgrant. Help build the Filecoin.. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/filecoin-project/devgrants) (👨‍💻 58 · 🔀 260 · 📋 440 - 40% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/filecoin-project/devgrants) (👨‍💻 59 · 🔀 260 · 📋 460 - 38% open · ⏱️ 25.06.2022):
 
 	```
 	git clone https://github.com/filecoin-project/devgrants
 	```
 </details>
-<details><summary><b><a href="https://github.com/filecoin-project/FIPs">FIPs</a></b> (🥉14 ·  ⭐ 160) - The Filecoin Improvement Proposal repository. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/filecoin-project/FIPs">FIPs</a></b> (🥉14 ·  ⭐ 170) - The Filecoin Improvement Proposal repository. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/filecoin-project/FIPs) (👨‍💻 35 · 🔀 75 · 📋 100 - 9% open · ⏱️ 09.06.2022):
+- [GitHub](https://github.com/filecoin-project/FIPs) (👨‍💻 36 · 🔀 75 · 📋 100 - 8% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/filecoin-project/FIPs
@@ -5641,23 +5653,23 @@ _Cryptocurrencies inspired by Internet memes._
 ---
 <details><summary><b><a href="https://github.com/smartcontractkit/chainlink">chainlink</a></b> (🥇38 ·  ⭐ 3.5K) - node of the decentralized oracle network, bridging on and off-chain.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/smartcontractkit/chainlink) (👨‍💻 130 · 🔀 970 · 📦 5.7K · 📋 390 - 32% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/smartcontractkit/chainlink) (👨‍💻 130 · 🔀 970 · 📦 6K · 📋 390 - 32% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/smartcontractkit/chainlink
 	```
-- [npm](https://www.npmjs.com/package/@chainlink/contracts) (📥 78K / month · 📦 10 · ⏱️ 09.05.2022):
+- [npm](https://www.npmjs.com/package/@chainlink/contracts) (📥 79K / month · 📦 10 · ⏱️ 09.05.2022):
 	```
 	npm install @chainlink/contracts
 	```
-- [Go](https://pkg.go.dev/github.com/smartcontractkit/chainlink) (📦 11 · ⏱️ 21.06.2022):
+- [Go](https://pkg.go.dev/github.com/smartcontractkit/chainlink) (📦 11 · ⏱️ 27.06.2022):
 	```
 	go install github.com/smartcontractkit/chainlink
 	```
 </details>
 <details><summary><b><a href="https://github.com/smartcontractkit/truffle-starter-kit">truffle-starter-kit</a></b> (🥉12 ·  ⭐ 200) - An example smart contract utilizing Chainlink. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/smartcontractkit/truffle-starter-kit) (👨‍💻 14 · 🔀 78 · 📋 19 - 36% open · ⏱️ 24.05.2022):
+- [GitHub](https://github.com/smartcontractkit/truffle-starter-kit) (👨‍💻 14 · 🔀 79 · 📋 19 - 36% open · ⏱️ 24.05.2022):
 
 	```
 	git clone https://github.com/smartcontractkit/truffle-starter-kit
@@ -5674,9 +5686,9 @@ _Cryptocurrencies inspired by Internet memes._
 
 
 ---
-<details><summary><b><a href="https://github.com/graphprotocol/graph-cli">graph-cli</a></b> (🥇28 ·  ⭐ 250) - The Graph data source runtime for mappings written in WASM. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/graphprotocol/graph-cli">graph-cli</a></b> (🥇27 ·  ⭐ 250) - The Graph data source runtime for mappings written in WASM. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/graphprotocol/graph-cli) (👨‍💻 58 · 🔀 110 · 📦 9.1K · 📋 320 - 39% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/graphprotocol/graph-cli) (👨‍💻 58 · 🔀 110 · 📦 9.2K · 📋 320 - 39% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/graphprotocol/graph-cli
@@ -5684,7 +5696,7 @@ _Cryptocurrencies inspired by Internet memes._
 </details>
 <details><summary><b><a href="https://github.com/graphprotocol/graph-node">graph-node</a></b> (🥇25 ·  ⭐ 2K) - Graph Node indexes data from blockchains such as Ethereum and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/graphprotocol/graph-node) (👨‍💻 81 · 🔀 500 · 📥 580 · 📋 1.3K - 18% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/graphprotocol/graph-node) (👨‍💻 82 · 🔀 510 · 📥 580 · 📋 1.3K - 18% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/graphprotocol/graph-node
@@ -5692,31 +5704,31 @@ _Cryptocurrencies inspired by Internet memes._
 </details>
 <details><summary><b><a href="https://github.com/graphprotocol/indexer">graphprotocol/indexer</a></b> (🥇24 ·  ⭐ 150) - Graph Protocol indexer components and infrastructure. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/graphprotocol/indexer) (👨‍💻 29 · 🔀 58 · 📥 410 · 📋 170 - 24% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/graphprotocol/indexer) (👨‍💻 29 · 🔀 58 · 📥 490 · 📋 170 - 24% open · ⏱️ 21.06.2022):
 
 	```
 	git clone https://github.com/graphprotocol/indexer
 	```
-- [npm](https://www.npmjs.com/package/@graphprotocol/indexer-common) (📥 320 / month · 📦 3 · ⏱️ 21.06.2022):
+- [npm](https://www.npmjs.com/package/@graphprotocol/indexer-common) (📥 330 / month · 📦 3 · ⏱️ 21.06.2022):
 	```
 	npm install @graphprotocol/indexer-common
 	```
 </details>
 <details><summary><b><a href="https://github.com/graphprotocol/contracts">graphprotocol/contracts</a></b> (🥈23 ·  ⭐ 230) - The Graph Protocol. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/graphprotocol/contracts) (👨‍💻 17 · 🔀 78 · 📦 63 · 📋 140 - 25% open · ⏱️ 07.06.2022):
+- [GitHub](https://github.com/graphprotocol/contracts) (👨‍💻 17 · 🔀 78 · 📦 65 · 📋 140 - 25% open · ⏱️ 07.06.2022):
 
 	```
 	git clone https://github.com/graphprotocol/contracts
 	```
-- [npm](https://www.npmjs.com/package/@graphprotocol/contracts) (📥 2.4K / month · 📦 1 · ⏱️ 19.06.2022):
+- [npm](https://www.npmjs.com/package/@graphprotocol/contracts) (📥 2.3K / month · 📦 1 · ⏱️ 19.06.2022):
 	```
 	npm install @graphprotocol/contracts
 	```
 </details>
 <details><summary><b><a href="https://github.com/graphprotocol/graph-ts">graph-ts</a></b> (🥈23 ·  ⭐ 170) - TypeScript/AssemblyScript library for writing mappings for The Graph. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/graphprotocol/graph-ts) (👨‍💻 19 · 🔀 62 · 📦 9.2K · 📋 110 - 31% open · ⏱️ 20.05.2022):
+- [GitHub](https://github.com/graphprotocol/graph-ts) (👨‍💻 19 · 🔀 63 · 📦 9.3K · 📋 110 - 30% open · ⏱️ 20.05.2022):
 
 	```
 	git clone https://github.com/graphprotocol/graph-ts
@@ -5735,7 +5747,7 @@ _Cryptocurrencies inspired by Internet memes._
 ---
 <details><summary><b><a href="https://github.com/aragon/client">client</a></b> (🥈23 ·  ⭐ 800) - (Aragon 1) Create and manage decentralized organizations on Ethereum. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/aragon/client) (👨‍💻 67 · 🔀 250 · 📥 34K · 📦 8 · 📋 700 - 28% open · ⏱️ 07.06.2022):
+- [GitHub](https://github.com/aragon/client) (👨‍💻 67 · 🔀 250 · 📥 34K · 📦 8 · 📋 710 - 28% open · ⏱️ 07.06.2022):
 
 	```
 	git clone https://github.com/aragon/client
@@ -5756,7 +5768,7 @@ _Cryptocurrencies inspired by Internet memes._
 	```
 	git clone https://github.com/aragon/ui
 	```
-- [npm](https://www.npmjs.com/package/@aragon/ui) (📥 600 / month · 📦 72 · ⏱️ 22.10.2021):
+- [npm](https://www.npmjs.com/package/@aragon/ui) (📥 580 / month · 📦 72 · ⏱️ 22.10.2021):
 	```
 	npm install @aragon/ui
 	```
@@ -5768,7 +5780,7 @@ _Cryptocurrencies inspired by Internet memes._
 	```
 	git clone https://github.com/aragon/aragon-apps
 	```
-- [npm](https://www.npmjs.com/package/@aragon/apps-dot-voting) (📥 12 / month · ⏱️ 07.10.2021):
+- [npm](https://www.npmjs.com/package/@aragon/apps-dot-voting) (📥 14 / month · ⏱️ 07.10.2021):
 	```
 	npm install @aragon/apps-dot-voting
 	```
@@ -5791,7 +5803,7 @@ _Cryptocurrencies inspired by Internet memes._
 	```
 	git clone https://github.com/maidsafe/sn_routing
 	```
-- [Cargo](https://crates.io/crates/routing) (📥 2K / month · 📦 70 · ⏱️ 01.12.2020):
+- [Cargo](https://crates.io/crates/routing) (📥 3.2K / month · 📦 70 · ⏱️ 01.12.2020):
 	```
 	cargo install routing
 	```
@@ -5803,24 +5815,24 @@ _Cryptocurrencies inspired by Internet memes._
 	```
 	git clone https://github.com/maidsafe/qp2p
 	```
-- [Cargo](https://crates.io/crates/quic-p2p) (📥 300 / month · 📦 10 · ⏱️ 22.10.2020):
+- [Cargo](https://crates.io/crates/quic-p2p) (📥 290 / month · 📦 10 · ⏱️ 22.10.2020):
 	```
 	cargo install quic-p2p
 	```
 </details>
-<details><summary><b><a href="https://github.com/maidsafe/sn_node">sn_node</a></b> (🥈16 ·  ⭐ 180) - An Implementation of a Safe Network Vault. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/maidsafe/sn_node">sn_node</a></b> (🥉16 ·  ⭐ 180) - An Implementation of a Safe Network Vault. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/maidsafe/sn_node) (👨‍💻 52 · 🔀 72):
 
 	```
 	git clone https://github.com/maidsafe/sn_node
 	```
-- [Cargo](https://crates.io/crates/sn_node) (📥 3.2K / month · ⏱️ 21.06.2022):
+- [Cargo](https://crates.io/crates/sn_node) (📥 3.2K / month · ⏱️ 28.06.2022):
 	```
 	cargo install sn_node
 	```
 </details>
-<details><summary><b><a href="https://github.com/maidsafe/sn_client">sn_client</a></b> (🥈16 ·  ⭐ 170 · 💤) - A set of libraries providing a way for developers to consume.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/maidsafe/sn_client">sn_client</a></b> (🥉16 ·  ⭐ 170 · 💤) - A set of libraries providing a way for developers to consume.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/maidsafe/sn_client) (👨‍💻 40 · 🔀 76):
 
@@ -5845,19 +5857,19 @@ _Cryptocurrencies inspired by Internet memes._
 ---
 <details><summary><b><a href="https://github.com/storj/storj">storj</a></b> (🥇29 ·  ⭐ 2.4K) - Ongoing Storj v3 development. Decentralized cloud object storage that.. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/storj/storj) (👨‍💻 97 · 🔀 350 · 📥 5.1M · 📋 890 - 36% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/storj/storj) (👨‍💻 97 · 🔀 350 · 📥 5.2M · 📋 920 - 37% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/storj/storj
 	```
-- [Go](https://pkg.go.dev/storj.io/storj) (📦 5 · ⏱️ 17.06.2022):
+- [Go](https://pkg.go.dev/storj.io/storj) (📦 5 · ⏱️ 28.06.2022):
 	```
 	go install storj.io/storj
 	```
 </details>
 <details><summary><b><a href="https://github.com/storj/drpc">drpc</a></b> (🥈17 ·  ⭐ 1.1K) - drpc is a lightweight, drop-in replacement for gRPC. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/storj/drpc) (👨‍💻 11 · 🔀 33 · 📋 25 - 48% open · ⏱️ 17.06.2022):
+- [GitHub](https://github.com/storj/drpc) (👨‍💻 11 · 🔀 33 · 📋 27 - 48% open · ⏱️ 22.06.2022):
 
 	```
 	git clone https://github.com/storj/drpc
@@ -5915,7 +5927,7 @@ _Cryptocurrencies inspired by Internet memes._
 ---
 <details><summary><b><a href="https://github.com/status-im/status-react">status-react</a></b> (🥇28 ·  ⭐ 3.5K) - a free (libre) open source, mobile OS for Ethereum. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/status-im/status-react) (👨‍💻 260 · 🔀 840 · 📥 2.3K · 📋 6.7K - 4% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/status-im/status-react) (👨‍💻 260 · 🔀 850 · 📥 2.3K · 📋 6.7K - 5% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/status-im/status-react
@@ -5923,7 +5935,7 @@ _Cryptocurrencies inspired by Internet memes._
 </details>
 <details><summary><b><a href="https://github.com/status-im/status-go">status-go</a></b> (🥇26 ·  ⭐ 650) - The Status module that consumes go-ethereum. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/status-im/status-go) (👨‍💻 84 · 🔀 220 · 📥 1.6K · 📦 9 · 📋 830 - 11% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/status-im/status-go) (👨‍💻 84 · 🔀 220 · 📥 1.6K · 📦 9 · 📋 820 - 11% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/status-im/status-go
@@ -5935,7 +5947,7 @@ _Cryptocurrencies inspired by Internet memes._
 </details>
 <details><summary><b><a href="https://github.com/status-im/nimbus-eth1">nimbus-eth1</a></b> (🥈20 ·  ⭐ 450) - Nimbus: an Ethereum 1.0 and 2.0 Client for Resource-Restricted.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/status-im/nimbus-eth1) (👨‍💻 28 · 🔀 69 · 📋 230 - 36% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/status-im/nimbus-eth1) (👨‍💻 28 · 🔀 69 · 📋 230 - 36% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/status-im/nimbus-eth1
@@ -5966,31 +5978,31 @@ _Cryptocurrencies inspired by Internet memes._
 ---
 <details><summary><b><a href="https://github.com/ArweaveTeam/arweave-js">arweave-js</a></b> (🥇28 ·  ⭐ 410) - Browser and Nodejs client for general interaction with the arweave.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ArweaveTeam/arweave-js) (👨‍💻 35 · 🔀 92 · 📦 2.7K · 📋 67 - 14% open · ⏱️ 02.06.2022):
+- [GitHub](https://github.com/ArweaveTeam/arweave-js) (👨‍💻 35 · 🔀 92 · 📦 2.7K · 📋 71 - 14% open · ⏱️ 02.06.2022):
 
 	```
 	git clone https://github.com/ArweaveTeam/arweave-js
 	```
-- [npm](https://www.npmjs.com/package/arweave) (📥 75K / month · 📦 63 · ⏱️ 02.06.2022):
+- [npm](https://www.npmjs.com/package/arweave) (📥 80K / month · 📦 63 · ⏱️ 02.06.2022):
 	```
 	npm install arweave
 	```
 </details>
 <details><summary><b><a href="https://github.com/ArweaveTeam/SmartWeave">SmartWeave</a></b> (🥇24 ·  ⭐ 150) - Simple, scalable smart contracts on the Arweave protocol. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ArweaveTeam/SmartWeave) (👨‍💻 22 · 🔀 54 · 📦 410 · 📋 29 - 82% open · ⏱️ 07.06.2022):
+- [GitHub](https://github.com/ArweaveTeam/SmartWeave) (👨‍💻 23 · 🔀 54 · 📦 420 · 📋 29 - 82% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/ArweaveTeam/SmartWeave
 	```
-- [npm](https://www.npmjs.com/package/smartweave) (📥 5K / month · 📦 16 · ⏱️ 02.06.2022):
+- [npm](https://www.npmjs.com/package/smartweave) (📥 5.8K / month · 📦 16 · ⏱️ 02.06.2022):
 	```
 	npm install smartweave
 	```
 </details>
 <details><summary><b><a href="https://github.com/ArweaveTeam/arweave">arweave</a></b> (🥈21 ·  ⭐ 640) - The Arweave server and App Developer Toolkit. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/ArweaveTeam/arweave) (👨‍💻 43 · 🔀 130 · 📥 30K · 📋 170 - 30% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/ArweaveTeam/arweave) (👨‍💻 43 · 🔀 130 · 📥 30K · 📋 170 - 30% open · ⏱️ 25.06.2022):
 
 	```
 	git clone https://github.com/ArweaveTeam/arweave
@@ -6018,21 +6030,21 @@ _Cryptocurrencies inspired by Internet memes._
 
 
 ---
-<details><summary><b><a href="https://github.com/handshake-org/hsd">hsd</a></b> (🥇27 ·  ⭐ 1.6K) - Handshake Daemon & Full Node. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/handshake-org/hsd">hsd</a></b> (🥇29 ·  ⭐ 1.6K) - Handshake Daemon & Full Node. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/handshake-org/hsd) (👨‍💻 59 · 🔀 230 · 📦 130 · 📋 320 - 36% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/handshake-org/hsd) (👨‍💻 59 · 🔀 240 · 📦 130 · 📋 340 - 39% open · ⏱️ 21.06.2022):
 
 	```
 	git clone https://github.com/handshake-org/hsd
 	```
-- [npm](https://www.npmjs.com/package/hsd) (📥 120 / month · 📦 24 · ⏱️ 21.10.2021):
+- [npm](https://www.npmjs.com/package/hsd) (📥 230 / month · 📦 24 · ⏱️ 24.06.2022):
 	```
 	npm install hsd
 	```
 </details>
 <details><summary><b><a href="https://github.com/handshake-org/hnsd">hnsd</a></b> (🥉12 ·  ⭐ 240) - Handshake SPV name resolver. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/handshake-org/hnsd) (👨‍💻 14 · 🔀 38 · 📋 42 - 52% open · ⏱️ 12.03.2022):
+- [GitHub](https://github.com/handshake-org/hnsd) (👨‍💻 14 · 🔀 38 · 📋 43 - 53% open · ⏱️ 12.03.2022):
 
 	```
 	git clone https://github.com/handshake-org/hnsd
@@ -6049,9 +6061,9 @@ _Cryptocurrencies inspired by Internet memes._
 
 
 ---
-<details><summary><b><a href="https://github.com/mysteriumnetwork/node">node</a></b> (🥇28 ·  ⭐ 900) - Mysterium Network Node - official implementation of distributed VPN.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/mysteriumnetwork/node">node</a></b> (🥇27 ·  ⭐ 900) - Mysterium Network Node - official implementation of distributed VPN.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/mysteriumnetwork/node) (👨‍💻 39 · 🔀 180 · 📥 19K · 📦 3 · 📋 3.1K - 10% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/mysteriumnetwork/node) (👨‍💻 39 · 🔀 180 · 📥 19K · 📦 3 · 📋 3.1K - 10% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/mysteriumnetwork/node
@@ -6103,9 +6115,9 @@ _Cryptocurrencies inspired by Internet memes._
 
 
 ---
-<details><summary><b><a href="https://github.com/golemfactory/yagna">yagna</a></b> (🥇25 ·  ⭐ 240) - An open platform and marketplace for distributed computations. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/golemfactory/yagna">yagna</a></b> (🥇25 ·  ⭐ 250) - An open platform and marketplace for distributed computations. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/golemfactory/yagna) (👨‍💻 33 · 🔀 33 · 📥 31K · 📋 920 - 28% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/golemfactory/yagna) (👨‍💻 33 · 🔀 33 · 📥 31K · 📋 930 - 27% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/golemfactory/yagna
@@ -6144,7 +6156,7 @@ _Cryptocurrencies inspired by Internet memes._
 	```
 	git clone https://github.com/raiden-network/raiden
 	```
-- [PyPi](https://pypi.org/project/raiden) (📥 400 / month · 📦 8 · ⏱️ 13.01.2022):
+- [PyPi](https://pypi.org/project/raiden) (📥 240 / month · 📦 8 · ⏱️ 13.01.2022):
 	```
 	pip install raiden
 	```
@@ -6156,32 +6168,13 @@ _Cryptocurrencies inspired by Internet memes._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/siafoundation">SC - Siacoin</a></b> (🥈28 ·  ⭐ 390) - First decentralized storage platform secured by blockchain technology...</summary>
-
-
----
-<details><summary><b><a href="https://github.com/SkynetLabs/skynet-webportal">skynet-webportal</a></b> (🥈18 ·  ⭐ 250) - A webapp that makes Skynet accessible to web browsers. <code>Unlicensed</code></summary>
-
-- [GitHub](https://github.com/SkynetLabs/skynet-webportal) (👨‍💻 33 · 🔀 45 · 📋 130 - 30% open · ⏱️ 21.06.2022):
-
-	```
-	git clone https://github.com/skynetlabs/skynet-webportal
-	```
-</details>
-
-<br>
-
- _2 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
-<details><summary><b><a href="https://github.com/ovrclk">AKT - Akash Network</a></b> (🥈27 ·  ⭐ 1.2K) - Faster, better, and lower cost cloud built for DeFi,..</summary>
+<details><summary><b><a href="https://github.com/ovrclk">AKT - Akash Network</a></b> (🥈27 ·  ⭐ 1.1K) - Faster, better, and lower cost cloud built for DeFi,..</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/ovrclk/akash">akash</a></b> (🥇25 ·  ⭐ 680) - a secure, transparent, and peer-to-peer cloud computing network. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ovrclk/akash) (👨‍💻 27 · 🔀 120 · 📥 55K · 📦 11 · 📋 690 - 15% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/ovrclk/akash) (👨‍💻 28 · 🔀 120 · 📥 55K · 📦 11 · 📋 690 - 15% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/ovrclk/akash
@@ -6193,7 +6186,7 @@ _Cryptocurrencies inspired by Internet memes._
 </details>
 <details><summary><b><a href="https://github.com/ovrclk/awesome-akash">awesome-akash</a></b> (🥉13 ·  ⭐ 210) - Awesome List of Akash Deployment Examples. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/ovrclk/awesome-akash) (👨‍💻 61 · 🔀 130 · 📋 110 - 20% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/ovrclk/awesome-akash) (👨‍💻 65 · 🔀 130 · 📋 110 - 20% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/ovrclk/awesome-akash
@@ -6206,13 +6199,32 @@ _Cryptocurrencies inspired by Internet memes._
 
 ---
 </details>
+<details><summary><b><a href="https://github.com/siafoundation">SC - Siacoin</a></b> (🥈27 ·  ⭐ 400) - First decentralized storage platform secured by blockchain technology...</summary>
+
+
+---
+<details><summary><b><a href="https://github.com/SkynetLabs/skynet-webportal">skynet-webportal</a></b> (🥈18 ·  ⭐ 250) - A webapp that makes Skynet accessible to web browsers. <code>Unlicensed</code></summary>
+
+- [GitHub](https://github.com/SkynetLabs/skynet-webportal) (👨‍💻 33 · 🔀 45 · 📋 130 - 30% open · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/skynetlabs/skynet-webportal
+	```
+</details>
+
+<br>
+
+ _2 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
 <details><summary><b><a href="https://github.com/DimensionDev">MASK - Mask Network</a></b> (🥈26 ·  ⭐ 1.4K) - Core product of Dimension, which is positioned to become.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/DimensionDev/Maskbook">Maskbook</a></b> (🥇27 ·  ⭐ 1.2K) - The portal to the new, open Internet. ([I:b]). <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/DimensionDev/Maskbook) (👨‍💻 60 · 🔀 260 · 📥 15K · 📋 2.2K - 10% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/DimensionDev/Maskbook) (👨‍💻 60 · 🔀 260 · 📥 15K · 📋 2.2K - 9% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/DimensionDev/Maskbook
@@ -6231,7 +6243,7 @@ _Cryptocurrencies inspired by Internet memes._
 ---
 <details><summary><b><a href="https://github.com/livepeer/go-livepeer">go-livepeer</a></b> (🥇26 ·  ⭐ 450) - Official Go implementation of the Livepeer protocol. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/livepeer/go-livepeer) (👨‍💻 48 · 🔀 140 · 📥 14K · 📦 3 · 📋 1.4K - 14% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/livepeer/go-livepeer) (👨‍💻 48 · 🔀 140 · 📥 14K · 📦 3 · 📋 1.4K - 14% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/livepeer/go-livepeer
@@ -6248,14 +6260,14 @@ _Cryptocurrencies inspired by Internet memes._
 	```
 	git clone https://github.com/livepeer/livepeerjs
 	```
-- [npm](https://www.npmjs.com/package/@livepeer/sdk) (📥 700 / month · 📦 6 · ⏱️ 26.02.2022):
+- [npm](https://www.npmjs.com/package/@livepeer/sdk) (📥 640 / month · 📦 6 · ⏱️ 26.02.2022):
 	```
 	npm install @livepeer/sdk
 	```
 </details>
 <details><summary><b><a href="https://github.com/livepeer/lpms">lpms</a></b> (🥈18 ·  ⭐ 240) - Livepeer media server. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/livepeer/lpms) (👨‍💻 17 · 🔀 55 · 📦 14 · 📋 160 - 26% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/livepeer/lpms) (👨‍💻 17 · 🔀 55 · 📦 14 · 📋 160 - 25% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/livepeer/lpms
@@ -6286,12 +6298,12 @@ _Cryptocurrencies inspired by Internet memes._
 ---
 <details><summary><b><a href="https://github.com/nknorg/nkn">nkn</a></b> (🥇28 ·  ⭐ 430) - Official Go implementation of NKN full node. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/nknorg/nkn) (👨‍💻 44 · 🔀 150 · 📥 8M · 📦 11 · 📋 110 - 15% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/nknorg/nkn) (👨‍💻 44 · 🔀 160 · 📥 8M · 📦 11 · 📋 110 - 10% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/nknorg/nkn
 	```
-- [Go](https://pkg.go.dev/github.com/nknorg/nkn/v2) (📦 6 · ⏱️ 24.02.2022):
+- [Go](https://pkg.go.dev/github.com/nknorg/nkn/v2) (📦 8 · ⏱️ 23.06.2022):
 	```
 	go install github.com/nknorg/nkn/v2
 	```
@@ -6300,6 +6312,17 @@ _Cryptocurrencies inspired by Internet memes._
 <br>
 
  _4 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/singnet">AGIX - SingularityNET</a></b> (🥈25 ·  ⭐ 300) - SingularityNET lets anyone create, share, and monetize.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+
+<br>
+
+ _5 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -6334,7 +6357,7 @@ _Cryptocurrencies inspired by Internet memes._
 	git clone https://github.com/loomnetwork/loom-js
 	```
 </details>
-<details><summary><b><a href="https://github.com/loomnetwork/cryptozombie-lessons">cryptozombie-lessons</a></b> (🥈16 ·  ⭐ 960) - Lesson content for cryptozombies.io. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/loomnetwork/cryptozombie-lessons">cryptozombie-lessons</a></b> (🥉16 ·  ⭐ 960) - Lesson content for cryptozombies.io. <code>Unlicensed</code></summary>
 
 - [GitHub](https://github.com/loomnetwork/cryptozombie-lessons) (👨‍💻 220 · 🔀 480 · 📋 160 - 19% open · ⏱️ 12.04.2022):
 
@@ -6367,7 +6390,7 @@ _Cryptocurrencies inspired by Internet memes._
 ---
 <details><summary><b><a href="https://github.com/radicle-dev/radicle-link">radicle-link</a></b> (🥈19 ·  ⭐ 400) - The second iteration of the Radicle code collaboration.. <code><a href="https://tldrlegal.com/search?q=GPL-3.0-only">GPL-3.0-only</a></code></summary>
 
-- [GitHub](https://github.com/radicle-dev/radicle-link) (👨‍💻 22 · 🔀 31 · 📋 270 - 39% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/radicle-dev/radicle-link) (👨‍💻 22 · 🔀 31 · 📋 270 - 39% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/radicle-dev/radicle-link
@@ -6379,7 +6402,7 @@ _Cryptocurrencies inspired by Internet memes._
 </details>
 <details><summary><b><a href="https://github.com/radicle-dev/radicle-upstream">radicle-upstream</a></b> (🥈18 ·  ⭐ 630) - Desktop client for Radicle. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/radicle-dev/radicle-upstream) (👨‍💻 37 · 🔀 52 · 📋 1.3K - 13% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/radicle-dev/radicle-upstream) (👨‍💻 37 · 🔀 51 · 📋 1.3K - 13% open · ⏱️ 20.06.2022):
 
 	```
 	git clone https://github.com/radicle-dev/radicle-upstream
@@ -6389,17 +6412,6 @@ _Cryptocurrencies inspired by Internet memes._
 <br>
 
  _4 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
-<details><summary><b><a href="https://github.com/singnet">AGIX - SingularityNET</a></b> (🥈24 ·  ⭐ 300) - SingularityNET lets anyone create, share, and monetize.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-
-<br>
-
- _5 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -6428,7 +6440,7 @@ _Cryptocurrencies inspired by Internet memes._
 ---
 <details><summary><b><a href="https://github.com/AElfProject/AElf">AElf</a></b> (🥇27 ·  ⭐ 770) - A scalable cloud computing blockchain platform. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/AElfProject/AElf) (👨‍💻 64 · 🔀 210 · 📥 2.2K · 📦 24 · 📋 760 - 5% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/AElfProject/AElf) (👨‍💻 64 · 🔀 210 · 📥 2.2K · 📦 27 · 📋 760 - 5% open · ⏱️ 16.06.2022):
 
 	```
 	git clone https://github.com/AElfProject/AElf
@@ -6443,12 +6455,12 @@ _Cryptocurrencies inspired by Internet memes._
 ---
 <details><summary><b><a href="https://github.com/Snowfork/snowbridge">snowbridge</a></b> (🥇25 ·  ⭐ 180) - A trustless bridge between Polkadot and Ethereum. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Snowfork/snowbridge) (👨‍💻 20 · 🔀 71 · 📦 200 · 📋 130 - 17% open · ⏱️ 14.06.2022):
+- [GitHub](https://github.com/Snowfork/snowbridge) (👨‍💻 20 · 🔀 71 · 📦 200 · 📋 130 - 17% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/Snowfork/snowbridge
 	```
-- [npm](https://www.npmjs.com/package/@snowfork/snowbridge-types) (📥 6.5K / month · 📦 1 · ⏱️ 31.01.2022):
+- [npm](https://www.npmjs.com/package/@snowfork/snowbridge-types) (📥 6.2K / month · 📦 1 · ⏱️ 31.01.2022):
 	```
 	npm install @snowfork/snowbridge-types
 	```
@@ -6457,6 +6469,29 @@ _Cryptocurrencies inspired by Internet memes._
 	go install github.com/snowfork/snowbridge
 	```
 </details>
+
+---
+</details>
+<details><summary><b><a href="https://github.com/iExecBlockchainComputing">RLC - iExec RLC</a></b> (🥈21 ·  ⭐ 450) - The First Decentralized Marketplace for Cloud Resources. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+<details><summary><b><a href="https://github.com/iExecBlockchainComputing/iexec-sdk">iexec-sdk</a></b> (🥈23 ·  ⭐ 400) - CLI and JS library allowing developers to easily interact with the.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+
+- [GitHub](https://github.com/iExecBlockchainComputing/iexec-sdk) (👨‍💻 10 · 🔀 28 · 📦 22 · 📋 66 - 27% open · ⏱️ 06.06.2022):
+
+	```
+	git clone https://github.com/iExecBlockchainComputing/iexec-sdk
+	```
+- [npm](https://www.npmjs.com/package/iexec) (📥 790 / month · ⏱️ 23.06.2022):
+	```
+	npm install iexec
+	```
+</details>
+
+<br>
+
+ _1 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -6483,9 +6518,9 @@ _Cryptocurrencies inspired by Internet memes._
 	git clone https://github.com/Minds/minds
 	```
 </details>
-<details><summary><b><a href="https://github.com/Minds/engine">engine</a></b> (🥈17 ·  ⭐ 180) - mirror of https://gitlab.com/minds/engine. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/Minds/engine">engine</a></b> (🥈17 ·  ⭐ 190) - mirror of https://gitlab.com/minds/engine. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Minds/engine) (👨‍💻 36 · 🔀 89 · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/Minds/engine) (👨‍💻 36 · 🔀 89 · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/Minds/engine
@@ -6493,33 +6528,10 @@ _Cryptocurrencies inspired by Internet memes._
 </details>
 <details><summary><b><a href="https://github.com/Minds/front">front</a></b> (🥈17 ·  ⭐ 160) - mirror of https://gitlab.com/minds/front. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Minds/front) (👨‍💻 42 · 🔀 87 · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/Minds/front) (👨‍💻 42 · 🔀 87 · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/Minds/front
-	```
-</details>
-
-<br>
-
- _1 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
-<details><summary><b><a href="https://github.com/iExecBlockchainComputing">RLC - iExec RLC</a></b> (🥉20 ·  ⭐ 450) - The First Decentralized Marketplace for Cloud Resources. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-<details><summary><b><a href="https://github.com/iExecBlockchainComputing/iexec-sdk">iexec-sdk</a></b> (🥈23 ·  ⭐ 400) - CLI and JS library allowing developers to easily interact with the.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
-
-- [GitHub](https://github.com/iExecBlockchainComputing/iexec-sdk) (👨‍💻 10 · 🔀 28 · 📦 22 · 📋 66 - 27% open · ⏱️ 06.06.2022):
-
-	```
-	git clone https://github.com/iExecBlockchainComputing/iexec-sdk
-	```
-- [npm](https://www.npmjs.com/package/iexec) (📥 460 / month · ⏱️ 21.06.2022):
-	```
-	npm install iexec
 	```
 </details>
 
@@ -6535,7 +6547,7 @@ _Cryptocurrencies inspired by Internet memes._
 ---
 <details><summary><b><a href="https://github.com/Phala-Network/phala-blockchain">phala-blockchain</a></b> (🥈22 ·  ⭐ 280) - The Phala Network Blockchain, pRuntime and the bridge. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Phala-Network/phala-blockchain) (👨‍💻 26 · 🔀 120 · 📥 2.7K · 📋 240 - 33% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/Phala-Network/phala-blockchain) (👨‍💻 26 · 🔀 120 · 📥 2.7K · 📋 230 - 32% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/Phala-Network/phala-blockchain
@@ -6544,7 +6556,7 @@ _Cryptocurrencies inspired by Internet memes._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/provable-things">PNT - pNetwork</a></b> (🥉19 ·  ⭐ 1.3K · 💤) - A Provable, portable, and pegged solution for the DeFi.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/provable-things">PNT - pNetwork</a></b> (🥉19 ·  ⭐ 1.4K · 💤) - A Provable, portable, and pegged solution for the DeFi.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
@@ -6563,13 +6575,24 @@ _Cryptocurrencies inspired by Internet memes._
 
 ---
 </details>
+<details><summary><b><a href="https://github.com/lidofinance">LDO - Lido DAO</a></b> (🥉19 ·  ⭐ 200 · 📈) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+
+<br>
+
+ _2 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
 <details><summary><b><a href="https://github.com/OrchidTechnologies">OXT - Orchid Protocol</a></b> (🥉18 ·  ⭐ 560) - Decentralized, open-source technology for an Internet.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/OrchidTechnologies/orchid">orchid</a></b> (🥈21 ·  ⭐ 560) - Orchid: VPN, Personal Firewall. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/OrchidTechnologies/orchid) (👨‍💻 20 · 🔀 78 · 📥 6.9K · 📋 62 - 12% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/OrchidTechnologies/orchid) (👨‍💻 20 · 🔀 79 · 📥 6.9K · 📋 62 - 12% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/OrchidTechnologies/orchid
@@ -6630,17 +6653,6 @@ _Cryptocurrencies inspired by Internet memes._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/lidofinance">LDO - Lido DAO</a></b> (🥉16 ·  ⭐ 190) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-
-<br>
-
- _2 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
 <details><summary><b><a href="https://github.com/f-o-a-m">FOAM - FOAM</a></b> (🥉15 ·  ⭐ 260) - The FOAM Proof of Location protocol empowers a permissionless and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
@@ -6671,11 +6683,11 @@ _Cryptocurrencies inspired by Internet memes._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/crustio">CRU - Crust Network</a></b> (🥉11 ·  ⭐ 370) - Crust Network developing decentralized cloud blockchain.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/crustio">CRU - Crust Network</a></b> (🥉11 ·  ⭐ 380) - Crust Network developing decentralized cloud blockchain.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/crustio/crust">crust</a></b> (🥉15 ·  ⭐ 370) - Official Rust implementation of the Crust protocol. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/crustio/crust">crust</a></b> (🥉15 ·  ⭐ 380) - Official Rust implementation of the Crust protocol. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/crustio/crust) (👨‍💻 7 · 🔀 33 · 📥 39 · 📋 280 - 10% open · ⏱️ 21.04.2022):
 
@@ -6690,7 +6702,7 @@ _Cryptocurrencies inspired by Internet memes._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/faceterteam">FACE - Faceter</a></b> (🥉10 ·  ⭐ 410) - Core of the decentralized network, both as a Proof of Recognition.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/faceterteam">FACE - Faceter</a></b> (🥉10 ·  ⭐ 420) - Core of the decentralized network, both as a Proof of Recognition.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
@@ -6704,35 +6716,35 @@ _Cryptocurrencies inspired by Internet memes._
 <details><summary>Show 35 hidden projects...</summary>
 
 - <b><a href="https://github.com/santiment">SAN - Santiment Network Token</a></b> (🥈22 ·  ⭐ 140) - A Better Way to Trade Crypto-Markets Market.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/KILTprotocol">KILT - KILT Protocol</a></b> (🥈22 ·  ⭐ 110) - Open-source blockchain protocol for issuing verifiable,.. <code><img src="https://git.io/J9c3v" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/KILTprotocol">KILT - KILT Protocol</a></b> (🥈22 ·  ⭐ 120) - Open-source blockchain protocol for issuing verifiable,.. <code><img src="https://git.io/J9c3v" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/docknetwork">DOCK - Dock</a></b> (🥉18 ·  ⭐ 120) - Special purpose decentralized data exchange protocol. This protocol is..
 - <b><a href="https://github.com/threefoldtech">TFT - ThreeFold Token</a></b> (🥉18 ·  ⭐ 88) - What is ThreeFold (TFT)? Founded in 2016, ThreeFold is a.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/0chain">ZCN - 0chain</a></b> (🥉18 ·  ⭐ 72) - 0chain will provide a zero-cost, fast finality, infinitely scalable.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/0chain">ZCN - 0chain</a></b> (🥉18 ·  ⭐ 73) - 0chain will provide a zero-cost, fast finality, infinitely scalable.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/sonm-io">SNM - SONM</a></b> (🥉16 ·  ⭐ 350 · 💀) - SONM is first fog supercomputer designed for general purpose.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bittorrent">BTT - BitTorrent</a></b> (🥉15 ·  ⭐ 1.7K · 💀) - BitTorrent (BTT) allows content creators to connect with their..
 - <b><a href="https://github.com/netboxglobal">NBX - Netbox Coin</a></b> (🥉15 ·  ⭐ 96) - The first decentralized web browser with integrated blockchain..
 - <b><a href="https://github.com/cpchain">CPC - CPChain</a></b> (🥉15 ·  ⭐ 50) - New distributed infrastructure for next generation IoT. CPChain.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/virtualeconomy">VSYS - V.SYSTEMS</a></b> (🥉14 ·  ⭐ 110) - V SYSTEMS (also known as VSYS) is a blockchain database cloud..
 - <b><a href="https://github.com/projectpai">PAI - Project Pai</a></b> (🥉14 ·  ⭐ 65 · 💤) - A persons Personal Artificial Intelligence (PAI), is a verified..
-- <b><a href="https://github.com/liquidapps-io">DAPP - LiquidApps</a></b> (🥉14 ·  ⭐ 47) - LiquidApps mission is to promote the adoption of decentralized..
+- <b><a href="https://github.com/liquidapps-io">DAPP - LiquidApps</a></b> (🥉14 ·  ⭐ 48) - LiquidApps mission is to promote the adoption of decentralized..
 - <b><a href="https://github.com/Ether1Project">ETHO - Etho Protocol</a></b> (🥉14 ·  ⭐ 37) - Ethereum based blockchain that integrates POW and a three tier..
 - <b><a href="https://github.com/seeleteam">SEELE - Seele</a></b> (🥉13 ·  ⭐ 240 · 💀) - Seele created Neural Consensus Algorithm. It transforms the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/orbs-network">ORBS - Orbs</a></b> (🥉13 ·  ⭐ 79) - Blockchain infrastructure-as-a-service built for large scale consumer.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/EpiK-Protocol">EPK - EpiK Protocol</a></b> (🥉13 ·  ⭐ 50) - EpiK Protocol envisions building a decentralized KG using.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/cartesi">CTSI - Cartesi</a></b> (🥉12 ·  ⭐ 79 · 💀) - What is Cartesi? Ease of Adoption: Developers can work in a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/aleph-im">ALEPH - Aleph.im</a></b> (🥉12 ·  ⭐ 60) - Decentralized cloud storage, database, and computing platform... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/MatrixAINetwork">MAN - Matrix AI Network</a></b> (🥉11 ·  ⭐ 200 · 💀) - Designed to be the new generation blockchain, MATRIX.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/mathwallet">MATH - MATH</a></b> (🥉11 ·  ⭐ 140 · 💤) - One stop crypto solution platform which contains MathWallet, MATH.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/cartesi">CTSI - Cartesi</a></b> (🥉11 ·  ⭐ 79 · 💀) - What is Cartesi? Ease of Adoption: Developers can work in a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/stratosnet">STOS - Stratos</a></b> (🥉11 ·  ⭐ 51) - Next generation of decentralized Data Mesh that provides scalable,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/stratosnet">STOS - Stratos</a></b> (🥉11 ·  ⭐ 52) - Next generation of decentralized Data Mesh that provides scalable,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/keep3r-network">KP3R - Keep3rV1</a></b> (🥉10 ·  ⭐ 380 · 💀) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Sharders">SS - Sharder protocol</a></b> (🥉9 ·  ⭐ 41) - A cross-chain distributed storage protocol based on.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Kylin-Network">KYL - Kylin Network</a></b> (🥉9 ·  ⭐ 39) - Kylin Network will provide a decentralized data.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/measurabledatatoken">MDT - Measurable Data Token</a></b> (🥉8 ·  ⭐ 100 · 💀) - Measurable Data Token (MDT) is a crypto token for a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/bluzelle">BLZ - Bluzelle</a></b> (🥉8 ·  ⭐ 62 · 💤) - Bluzelle combines the sharing economy with the token economy -.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/bluzelle">BLZ - Bluzelle</a></b> (🥉8 ·  ⭐ 64 · 💤) - Bluzelle combines the sharing economy with the token economy -.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/TiesNetwork">TIE - Ties.DB</a></b> (🥉8 ·  ⭐ 58) - As a business tool Ties.Network will be a decentralized social.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/dxchainnetwork">DX - DxChain Token</a></b> (🥉8 ·  ⭐ 41 · 💀) - Worlds first decentralized big data and machine learning.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/ultrain-os">UGAS - Ultrain</a></b> (🥉8 ·  ⭐ 34 · 💀) - Ultrain Technology Limited is the next generation public-.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/buddy-works">BUD - Buddy</a></b> (🥉7 ·  ⭐ 81 · 💀) - Thanks to automation, the way developers build, test and deploy.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/buddy-works">BUD - Buddy</a></b> (🥉7 ·  ⭐ 82 · 💀) - Thanks to automation, the way developers build, test and deploy.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/marlinprotocol">POND - Marlin</a></b> (🥉7 ·  ⭐ 51) - High-performance network infrastructure for modern decentralized.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/GenaroNetwork">GNX - Genaro Network</a></b> (🥉7 ·  ⭐ 31 · 💀) - The purpose of the Genaro project is to build a trusted.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/XYOracleNetwork">XYO - XYO Network</a></b> (🥉6 ·  ⭐ 52 · 💤) - The location-verifying proof of origin protocol that will.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
@@ -6753,7 +6765,7 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 ---
 <details><summary><b><a href="https://github.com/decred/dcrd">dcrd</a></b> (🥇25 ·  ⭐ 640) - Decred daemon in Go (golang). <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/decred/dcrd) (👨‍💻 130 · 🔀 270 · 📋 500 - 6% open · ⏱️ 17.06.2022):
+- [GitHub](https://github.com/decred/dcrd) (👨‍💻 130 · 🔀 270 · 📋 500 - 6% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/decred/dcrd
@@ -6765,7 +6777,7 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 </details>
 <details><summary><b><a href="https://github.com/decred/dcrwallet">dcrwallet</a></b> (🥈23 ·  ⭐ 190) - A secure Decred wallet daemon written in Go (golang). <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/decred/dcrwallet) (👨‍💻 62 · 🔀 160 · 📋 700 - 18% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/decred/dcrwallet) (👨‍💻 62 · 🔀 160 · 📦 92 · 📋 700 - 18% open · ⏱️ 20.06.2022):
 
 	```
 	git clone https://github.com/decred/dcrwallet
@@ -6794,38 +6806,38 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/zcash">ZEC - Zcash</a></b> (🥇31 ·  ⭐ 5.4K) - Decentralized and open-source cryptocurrency that provides strong privacy..</summary>
+<details><summary><b><a href="https://github.com/zcash">ZEC - Zcash</a></b> (🥇32 ·  ⭐ 5.4K) - Decentralized and open-source cryptocurrency that provides strong privacy..</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/zcash/zcash">zcash</a></b> (🥇28 ·  ⭐ 4.6K) - Zcash - Internet Money. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/zcash/zcash) (👨‍💻 590 · 🔀 1.9K · 📥 230 · 📋 3.6K - 29% open · ⏱️ 09.06.2022):
+- [GitHub](https://github.com/zcash/zcash) (👨‍💻 590 · 🔀 1.9K · 📥 230 · 📋 3.6K - 29% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/zcash/zcash
 	```
 </details>
-<details><summary><b><a href="https://github.com/zcash/librustzcash">librustzcash</a></b> (🥇24 ·  ⭐ 250) - Rust-language assets for Zcash. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/zcash/librustzcash">librustzcash</a></b> (🥇25 ·  ⭐ 250) - Rust-language assets for Zcash. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/zcash/librustzcash) (👨‍💻 37 · 🔀 170 · 📋 230 - 43% open · ⏱️ 13.06.2022):
+- [GitHub](https://github.com/zcash/librustzcash) (👨‍💻 37 · 🔀 170 · 📋 240 - 44% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/zcash/librustzcash
 	```
-- [Cargo](https://crates.io/crates/zcash_note_encryption) (📥 4K / month · 📦 2 · ⏱️ 17.12.2021):
+- [Cargo](https://crates.io/crates/zcash_note_encryption) (📥 5.5K / month · 📦 3 · ⏱️ 17.12.2021):
 	```
 	cargo install zcash_note_encryption
 	```
 </details>
 <details><summary><b><a href="https://github.com/zcash/halo2">halo2</a></b> (🥈21 ·  ⭐ 200) - [BETA] Fast zero-knowledge proof-carrying data implementation with.. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/zcash/halo2) (👨‍💻 21 · 🔀 95 · 📋 260 - 58% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/zcash/halo2) (👨‍💻 21 · 🔀 110 · 📋 270 - 59% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/zcash/halo2
 	```
-- [Cargo](https://crates.io/crates/halo2) (📥 2.1K / month · 📦 1 · ⏱️ 15.02.2022):
+- [Cargo](https://crates.io/crates/halo2) (📥 1.5K / month · 📦 1 · ⏱️ 15.02.2022):
 	```
 	cargo install halo2
 	```
@@ -6845,7 +6857,7 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/monero-project">XMR - Monero</a></b> (🥇30 ·  ⭐ 8.7K) - Monero is cash for a connected world. Its fast, private, and secure...</summary>
+<details><summary><b><a href="https://github.com/monero-project">XMR - Monero</a></b> (🥇30 ·  ⭐ 8.8K) - Monero is cash for a connected world. Its fast, private, and secure...</summary>
 
 
 ---
@@ -6884,25 +6896,25 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 
 
 ---
-<details><summary><b><a href="https://github.com/oxen-io/session-desktop">session-desktop</a></b> (🥇28 ·  ⭐ 850) - Session Desktop - Onion routing based messenger. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/oxen-io/session-desktop">session-desktop</a></b> (🥇28 ·  ⭐ 860) - Session Desktop - Onion routing based messenger. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/oxen-io/session-desktop) (👨‍💻 150 · 🔀 110 · 📥 3.4M · 📋 840 - 20% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/oxen-io/session-desktop) (👨‍💻 150 · 🔀 110 · 📥 3.4M · 📋 850 - 20% open · ⏱️ 22.06.2022):
 
 	```
 	git clone https://github.com/oxen-io/session-desktop
 	```
 </details>
-<details><summary><b><a href="https://github.com/oxen-io/lokinet">lokinet</a></b> (🥇24 ·  ⭐ 980) - Lokinet is an anonymous, decentralized and IP based overlay network.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/oxen-io/lokinet">lokinet</a></b> (🥇24 ·  ⭐ 990) - Lokinet is an anonymous, decentralized and IP based overlay network.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/oxen-io/lokinet) (👨‍💻 33 · 🔀 130 · 📥 58K · 📋 490 - 23% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/oxen-io/lokinet) (👨‍💻 33 · 🔀 130 · 📥 59K · 📋 490 - 23% open · ⏱️ 22.06.2022):
 
 	```
 	git clone https://github.com/oxen-io/lokinet
 	```
 </details>
-<details><summary><b><a href="https://github.com/oxen-io/session-android">session-android</a></b> (🥇24 ·  ⭐ 820) - A private messenger for Android. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/oxen-io/session-android">session-android</a></b> (🥇24 ·  ⭐ 830) - A private messenger for Android. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/oxen-io/session-android) (👨‍💻 240 · 🔀 79 · 📥 80K · 📋 450 - 47% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/oxen-io/session-android) (👨‍💻 240 · 🔀 81 · 📥 80K · 📋 460 - 47% open · ⏱️ 21.06.2022):
 
 	```
 	git clone https://github.com/oxen-io/session-android
@@ -6916,7 +6928,7 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 	git clone https://github.com/oxen-io/oxen-core
 	```
 </details>
-<details><summary><b><a href="https://github.com/oxen-io/session-ios">session-ios</a></b> (🥈21 ·  ⭐ 210) - A private messenger for iOS. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/oxen-io/session-ios">session-ios</a></b> (🥈21 ·  ⭐ 220) - A private messenger for iOS. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/oxen-io/session-ios) (👨‍💻 110 · 🔀 40 · 📥 660 · 📋 190 - 21% open · ⏱️ 09.06.2022):
 
@@ -6935,14 +6947,14 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 
 
 ---
-<details><summary><b><a href="https://github.com/scrtlabs/SecretNetwork">SecretNetwork</a></b> (🥇26 ·  ⭐ 390) - The Secret Network. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/scrtlabs/SecretNetwork">SecretNetwork</a></b> (🥇25 ·  ⭐ 400) - The Secret Network. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/scrtlabs/SecretNetwork) (👨‍💻 46 · 🔀 120 · 📥 25K · 📋 480 - 12% open · ⏱️ 05.06.2022):
+- [GitHub](https://github.com/scrtlabs/SecretNetwork) (👨‍💻 46 · 🔀 120 · 📥 25K · 📋 480 - 12% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/scrtlabs/SecretNetwork
 	```
-- [npm](https://www.npmjs.com/package/secretjs) (📥 24K / month · ⏱️ 19.06.2022):
+- [npm](https://www.npmjs.com/package/secretjs) (📥 29K / month · ⏱️ 19.06.2022):
 	```
 	npm install secretjs
 	```
@@ -6972,7 +6984,7 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 ---
 <details><summary><b><a href="https://github.com/HorizenOfficial/zen">zen</a></b> (🥈21 ·  ⭐ 220) - Horizen. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/HorizenOfficial/zen) (👨‍💻 490 · 🔀 98 · 📥 27K · 📋 140 - 20% open · ⏱️ 21.03.2022):
+- [GitHub](https://github.com/HorizenOfficial/zen) (👨‍💻 490 · 🔀 99 · 📥 27K · 📋 150 - 20% open · ⏱️ 21.03.2022):
 
 	```
 	git clone https://github.com/HorizenOfficial/zen
@@ -6991,7 +7003,7 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 ---
 <details><summary><b><a href="https://github.com/mimblewimble/grin">grin</a></b> (🥇29 ·  ⭐ 4.9K) - Minimal implementation of the Mimblewimble protocol. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/mimblewimble/grin) (👨‍💻 170 · 🔀 1K · 📥 88K · 📋 1.3K - 8% open · ⏱️ 12.05.2022):
+- [GitHub](https://github.com/mimblewimble/grin) (👨‍💻 170 · 🔀 1K · 📥 89K · 📋 1.3K - 8% open · ⏱️ 12.05.2022):
 
 	```
 	git clone https://github.com/mimblewimble/grin
@@ -7008,7 +7020,7 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 	```
 	git clone https://github.com/mimblewimble/grin-wallet
 	```
-- [Cargo](https://crates.io/crates/grin_wallet_libwallet) (📥 180 / month · 📦 8 · ⏱️ 22.03.2022):
+- [Cargo](https://crates.io/crates/grin_wallet_libwallet) (📥 190 / month · 📦 8 · ⏱️ 22.03.2022):
 	```
 	cargo install grin_wallet_libwallet
 	```
@@ -7032,14 +7044,14 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 
 
 ---
-<details><summary><b><a href="https://github.com/keep-network/tbtc">tbtc</a></b> (🥇25 ·  ⭐ 210) - Trustlessly tokenized Bitcoin on Ethereum ;). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/keep-network/tbtc">tbtc</a></b> (🥇24 ·  ⭐ 210) - Trustlessly tokenized Bitcoin on Ethereum ;). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/keep-network/tbtc) (👨‍💻 21 · 🔀 39 · 📦 57 · 📋 300 - 18% open · ⏱️ 17.06.2022):
 
 	```
 	git clone https://github.com/keep-network/tbtc
 	```
-- [npm](https://www.npmjs.com/package/@keep-network/tbtc) (📥 1.1K / month · 📦 2 · ⏱️ 07.02.2022):
+- [npm](https://www.npmjs.com/package/@keep-network/tbtc) (📥 920 / month · 📦 2 · ⏱️ 07.02.2022):
 	```
 	npm install @keep-network/tbtc
 	```
@@ -7061,7 +7073,7 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 ---
 <details><summary><b><a href="https://github.com/particl/particl-desktop">particl-desktop</a></b> (🥈23 ·  ⭐ 150) - The GUI application for Particl Markeplace and PART coin.. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/particl/particl-desktop) (👨‍💻 28 · 🔀 68 · 📥 68K · 📋 740 - 18% open · ⏱️ 17.06.2022):
+- [GitHub](https://github.com/particl/particl-desktop) (👨‍💻 28 · 🔀 68 · 📥 70K · 📋 740 - 18% open · ⏱️ 17.06.2022):
 
 	```
 	git clone https://github.com/particl/particl-desktop
@@ -7085,19 +7097,19 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 	```
 	git clone https://github.com/nucypher/nucypher
 	```
-- [PyPi](https://pypi.org/project/nucypher) (📥 500 / month · 📦 4 · ⏱️ 28.05.2022):
+- [PyPi](https://pypi.org/project/nucypher) (📥 600 / month · 📦 4 · ⏱️ 28.05.2022):
 	```
 	pip install nucypher
 	```
 </details>
-<details><summary><b><a href="https://github.com/nucypher/pyUmbral">pyUmbral</a></b> (🥈16 ·  ⭐ 250 · 💤) - NuCyphers reference implementation of Umbral (threshold proxy re-.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/nucypher/pyUmbral">pyUmbral</a></b> (🥉16 ·  ⭐ 250 · 💤) - NuCyphers reference implementation of Umbral (threshold proxy re-.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/nucypher/pyUmbral) (👨‍💻 10 · 🔀 64 · 📋 120 - 11% open · ⏱️ 15.09.2021):
 
 	```
 	git clone https://github.com/nucypher/pyUmbral
 	```
-- [PyPi](https://pypi.org/project/umbral) (📥 660 / month · 📦 7 · ⏱️ 15.09.2021):
+- [PyPi](https://pypi.org/project/umbral) (📥 610 / month · 📦 7 · ⏱️ 15.09.2021):
 	```
 	pip install umbral
 	```
@@ -7109,13 +7121,13 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/vertcoin-project">VTC - Vertcoin</a></b> (🥈27 ·  ⭐ 850) - Open source peer to peer digital currency focused heavily on..</summary>
+<details><summary><b><a href="https://github.com/vertcoin-project">VTC - Vertcoin</a></b> (🥈26 ·  ⭐ 850) - Open source peer to peer digital currency focused heavily on..</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/vertcoin-project/vertcoin-core">vertcoin-core</a></b> (🥇25 ·  ⭐ 340) - A digital currency with mining decentralisation and ASIC.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/vertcoin-project/vertcoin-core) (👨‍💻 950 · 🔀 120 · 📥 360K · 📋 89 - 8% open · ⏱️ 07.04.2022):
+- [GitHub](https://github.com/vertcoin-project/vertcoin-core) (👨‍💻 950 · 🔀 120 · 📥 360K · 📋 90 - 8% open · ⏱️ 07.04.2022):
 
 	```
 	git clone https://github.com/vertcoin-project/vertcoin-core
@@ -7123,7 +7135,7 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 </details>
 <details><summary><b><a href="https://github.com/vertcoin-project/vertcoin-core">vertcoin-project/vertcoin-core</a></b> (🥇25 ·  ⭐ 340) - A digital currency with mining decentralisation and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/vertcoin-project/vertcoin-core) (👨‍💻 950 · 🔀 120 · 📥 360K · 📋 89 - 8% open · ⏱️ 07.04.2022):
+- [GitHub](https://github.com/vertcoin-project/vertcoin-core) (👨‍💻 950 · 🔀 120 · 📥 360K · 📋 90 - 8% open · ⏱️ 07.04.2022):
 
 	```
 	git clone https://github.com/vertcoin-project/vertcoin-core
@@ -7144,13 +7156,13 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/ergoplatform">ERG - Ergo</a></b> (🥈26 ·  ⭐ 710) - ERGOs platform is based on a variety of ideas that complement each other..</summary>
+<details><summary><b><a href="https://github.com/ergoplatform">ERG - Ergo</a></b> (🥈26 ·  ⭐ 720) - ERGOs platform is based on a variety of ideas that complement each other..</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/ergoplatform/ergo">ergo</a></b> (🥇25 ·  ⭐ 420) - Ergo protocol description & reference client implementation. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">CC0-1.0</a></code></summary>
 
-- [GitHub](https://github.com/ergoplatform/ergo) (👨‍💻 46 · 🔀 120 · 📥 33K · 📋 750 - 27% open · ⏱️ 30.05.2022):
+- [GitHub](https://github.com/ergoplatform/ergo) (👨‍💻 46 · 🔀 120 · 📥 33K · 📋 750 - 27% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/ergoplatform/ergo
@@ -7177,12 +7189,12 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 ---
 <details><summary><b><a href="https://github.com/BeamMW/beam">beam</a></b> (🥇30 ·  ⭐ 670) - Beam: Scalable Confidential Cryptocurrency. Leading the way to.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/BeamMW/beam) (👨‍💻 41 · 🔀 190 · 📥 70K · 📋 1.7K - 15% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/BeamMW/beam) (👨‍💻 41 · 🔀 190 · 📥 70K · 📋 1.7K - 15% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/BeamMW/beam
 	```
-- [npm](https://www.npmjs.com/package/beam-wasm-client-masternet) (📥 9.7K / month · ⏱️ 22.06.2022):
+- [npm](https://www.npmjs.com/package/beam-wasm-client-masternet) (📥 9K / month · ⏱️ 28.06.2022):
 	```
 	npm install beam-wasm-client-masternet
 	```
@@ -7194,18 +7206,18 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/dusk-network">DUSK - DUSK Network</a></b> (🥈26 ·  ⭐ 610) - Open-source and privacy-oriented blockchain based on years.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/dusk-network">DUSK - DUSK Network</a></b> (🥈26 ·  ⭐ 620) - Open-source and privacy-oriented blockchain based on years.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/dusk-network/plonk">plonk</a></b> (🥈22 ·  ⭐ 250) - Pure Rust implementation of the PLONK ZKProof System done by the Dusk-.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
+<details><summary><b><a href="https://github.com/dusk-network/plonk">plonk</a></b> (🥈22 ·  ⭐ 260) - Pure Rust implementation of the PLONK ZKProof System done by the Dusk-.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
 - [GitHub](https://github.com/dusk-network/plonk) (👨‍💻 15 · 🔀 61 · 📥 10 · 📋 370 - 7% open · ⏱️ 16.06.2022):
 
 	```
 	git clone https://github.com/dusk-network/plonk
 	```
-- [Cargo](https://crates.io/crates/dusk-plonk) (📥 890 / month · 📦 9 · ⏱️ 20.06.2022):
+- [Cargo](https://crates.io/crates/dusk-plonk) (📥 880 / month · 📦 9 · ⏱️ 20.06.2022):
 	```
 	cargo install dusk-plonk
 	```
@@ -7242,7 +7254,7 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 ---
 <details><summary><b><a href="https://github.com/firoorg/firo">firo</a></b> (🥇26 ·  ⭐ 630) - The privacy-focused cryptocurrency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/firoorg/firo) (👨‍💻 590 · 🔀 330 · 📥 260K · 📋 470 - 11% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/firoorg/firo) (👨‍💻 590 · 🔀 330 · 📥 260K · 📋 470 - 11% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/firoorg/firo
@@ -7261,12 +7273,12 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 ---
 <details><summary><b><a href="https://github.com/mobilecoinfoundation/mobilecoin">mobilecoin</a></b> (🥇25 ·  ⭐ 1.1K) - Private payments for mobile devices. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/mobilecoinfoundation/mobilecoin) (👨‍💻 44 · 🔀 110 · 📥 2.8K · 📦 12 · 📋 290 - 45% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/mobilecoinfoundation/mobilecoin) (👨‍💻 44 · 🔀 110 · 📥 2.8K · 📦 12 · 📋 290 - 45% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/mobilecoinfoundation/mobilecoin
 	```
-- [PyPi](https://pypi.org/project/mobilecoin) (📥 96 / month · ⏱️ 14.10.2020):
+- [PyPi](https://pypi.org/project/mobilecoin) (📥 45 / month · ⏱️ 14.10.2020):
 	```
 	pip install mobilecoin
 	```
@@ -7284,7 +7296,7 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 ---
 <details><summary><b><a href="https://github.com/Groestlcoin/groestlcoin">groestlcoin</a></b> (🥇26 ·  ⭐ 810) - Groestlcoin Core integration/staging tree. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Groestlcoin/groestlcoin) (👨‍💻 1.1K · 🔀 21 · 📥 20K · 📋 19 - 5% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/Groestlcoin/groestlcoin) (👨‍💻 1.1K · 🔀 21 · 📥 20K · 📋 19 - 5% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/Groestlcoin/groestlcoin
@@ -7360,11 +7372,11 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/deroproject">DERO - Dero</a></b> (🥉19 ·  ⭐ 810) - New, experimental blockchain technology written in Golang with a focus on..</summary>
+<details><summary><b><a href="https://github.com/deroproject">DERO - Dero</a></b> (🥉19 ·  ⭐ 820) - New, experimental blockchain technology written in Golang with a focus on..</summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/deroproject/derosuite">derosuite</a></b> (🥉13 ·  ⭐ 270) - DERO: Secure, Anonymous Blockchain with Smart Contracts... <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/deroproject/derosuite">derosuite</a></b> (🥉14 ·  ⭐ 270) - DERO: Secure, Anonymous Blockchain with Smart Contracts... <code>Unlicensed</code></summary>
 
 - [GitHub](https://github.com/deroproject/derosuite) (👨‍💻 3 · 🔀 97 · 📥 36K · 📋 36 - 38% open · ⏱️ 30.03.2022):
 
@@ -7409,11 +7421,11 @@ _Cryptocurrencies which allow users to conduct transactions privately and anonym
 - <b><a href="https://github.com/ZClassicCommunity">ZCL - Zclassic</a></b> (🥉18 ·  ⭐ 200 · 💀) - Fork of Zcash, developer decided to take another path by removing..
 - <b><a href="https://github.com/NAVCoin">NAV - Navcoin</a></b> (🥉17 ·  ⭐ 120) - Decentralized cryptocurrency that uses peer-to-peer technology to..
 - <b><a href="https://github.com/ApolloFoundation">APL - Apollo</a></b> (🥉17 ·  ⭐ 94) - Utilizing a community of world-class developers, managers, marketers and..
-- <b><a href="https://github.com/hyle-team">ZANO - Zano</a></b> (🥉17 ·  ⭐ 73) - Premine: 20%.
-- <b><a href="https://github.com/phoreproject">PHR - Phore</a></b> (🥉17 ·  ⭐ 43 · 💤) - Phore Blockchain enables the transfer of value (currency: Phore) across..
+- <b><a href="https://github.com/hyle-team">ZANO - Zano</a></b> (🥉17 ·  ⭐ 74) - Premine: 20%.
+- <b><a href="https://github.com/phoreproject">PHR - Phore</a></b> (🥉17 ·  ⭐ 44 · 💤) - Phore Blockchain enables the transfer of value (currency: Phore) across..
 - <b><a href="https://github.com/axerunners">AXE - Axe</a></b> (🥉16 ·  ⭐ 500 · 💀) - Decentralized cryptocurrency.
-- <b><a href="https://github.com/findoranetwork">FRA - Findora</a></b> (🥉14 ·  ⭐ 110) - Public blockchain with programmable privacy. Originally conceptualized..
-- <b><a href="https://github.com/DAPSCoin">DAPS - DAPS Coin</a></b> (🥉14 ·  ⭐ 56) - Fully private blockchain with a focus on security, scalability and..
+- <b><a href="https://github.com/findoranetwork">FRA - Findora</a></b> (🥉15 ·  ⭐ 110) - Public blockchain with programmable privacy. Originally conceptualized..
+- <b><a href="https://github.com/DAPSCoin">DAPS - DAPS Coin</a></b> (🥉14 ·  ⭐ 58) - Fully private blockchain with a focus on security, scalability and..
 - <b><a href="https://github.com/wownero">WOW - Wownero</a></b> (🥉14 ·  ⭐ 46 · 💀) - Privacy-centric memecoin that was fairly launched on April 1, 2018..
 - <b><a href="https://github.com/sero-cash">SERO - SERO</a></b> (🥉12 ·  ⭐ 140) - World-leading blockchain technology based on Zero Knowledge Proof that..
 - <b><a href="https://github.com/ryo-currency">RYO - Ryo Currency</a></b> (🥉12 ·  ⭐ 79 · 💀) - Ryo is created with a high level of privacy in mind, setting..
@@ -7441,70 +7453,58 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 	```
 	git clone https://github.com/Uniswap/v2-core
 	```
-- [npm](https://www.npmjs.com/package/@uniswap/v2-core) (📥 290K / month · 📦 170 · ⏱️ 18.05.2020):
+- [npm](https://www.npmjs.com/package/@uniswap/v2-core) (📥 280K / month · 📦 170 · ⏱️ 18.05.2020):
 	```
 	npm install @uniswap/v2-core
 	```
 </details>
 <details><summary><b><a href="https://github.com/Uniswap/v3-sdk">v3-sdk</a></b> (🥇28 ·  ⭐ 370) - An SDK for building applications on top of Uniswap V3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Uniswap/v3-sdk) (👨‍💻 13 · 🔀 240 · 📦 1.1K · 📋 64 - 42% open · ⏱️ 08.06.2022):
+- [GitHub](https://github.com/Uniswap/v3-sdk) (👨‍💻 13 · 🔀 240 · 📦 1.2K · 📋 65 - 41% open · ⏱️ 08.06.2022):
 
 	```
 	git clone https://github.com/Uniswap/v3-sdk
 	```
-- [npm](https://www.npmjs.com/package/@uniswap/v3-sdk) (📥 90K / month · ⏱️ 08.06.2022):
+- [npm](https://www.npmjs.com/package/@uniswap/v3-sdk) (📥 94K / month · ⏱️ 08.06.2022):
 	```
 	npm install @uniswap/v3-sdk
 	```
 </details>
-<details><summary><b><a href="https://github.com/Uniswap/default-token-list">default-token-list</a></b> (🥇27 ·  ⭐ 180) - The Uniswap default token list. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/Uniswap/default-token-list">default-token-list</a></b> (🥇28 ·  ⭐ 180) - The Uniswap default token list. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Uniswap/default-token-list) (👨‍💻 9 · 🔀 640 · 📦 2.9K · 📋 980 - 84% open · ⏱️ 09.06.2022):
+- [GitHub](https://github.com/Uniswap/default-token-list) (👨‍💻 10 · 🔀 660 · 📦 3K · 📋 1K - 84% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/Uniswap/default-token-list
 	```
-- [npm](https://www.npmjs.com/package/@uniswap/default-token-list) (📥 74K / month · 📦 1 · ⏱️ 20.04.2022):
+- [npm](https://www.npmjs.com/package/@uniswap/default-token-list) (📥 77K / month · 📦 1 · ⏱️ 29.06.2022):
 	```
 	npm install @uniswap/default-token-list
 	```
 </details>
 <details><summary><b><a href="https://github.com/Uniswap/interface">interface</a></b> (🥇26 ·  ⭐ 3.5K) - An open source interface for the Uniswap protocol. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Uniswap/interface) (👨‍💻 140 · 🔀 3.2K · 📋 1.8K - 23% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/Uniswap/interface) (👨‍💻 140 · 🔀 3.2K · 📋 1.8K - 23% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/Uniswap/interface
 	```
 </details>
-<details><summary><b><a href="https://github.com/Uniswap/v3-periphery">v3-periphery</a></b> (🥇26 ·  ⭐ 740) - Peripheral smart contracts for interacting with Uniswap v3. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code></summary>
+<details><summary><b><a href="https://github.com/Uniswap/v3-periphery">v3-periphery</a></b> (🥇26 ·  ⭐ 750) - Peripheral smart contracts for interacting with Uniswap v3. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code></summary>
 
 - [GitHub](https://github.com/Uniswap/v3-periphery) (👨‍💻 12 · 🔀 530 · 📦 2K · 📋 140 - 39% open · ⏱️ 22.04.2022):
 
 	```
 	git clone https://github.com/Uniswap/v3-periphery
 	```
-- [npm](https://www.npmjs.com/package/@uniswap/v3-periphery) (📥 130K / month · ⏱️ 22.04.2022):
+- [npm](https://www.npmjs.com/package/@uniswap/v3-periphery) (📥 140K / month · ⏱️ 22.04.2022):
 	```
 	npm install @uniswap/v3-periphery
 	```
 </details>
-<details><summary><b><a href="https://github.com/Uniswap/v3-core">v3-core</a></b> (🥇25 ·  ⭐ 2.6K) - Core smart contracts of Uniswap v3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Uniswap/token-lists">token-lists</a></b> (🥇26 ·  ⭐ 640) - The Token Lists specification. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Uniswap/v3-core) (👨‍💻 13 · 🔀 1.2K · 📦 2.1K · 📋 220 - 6% open · ⏱️ 11.05.2022):
-
-	```
-	git clone https://github.com/Uniswap/v3-core
-	```
-- [npm](https://www.npmjs.com/package/moonwalkerswap-v1-core) (📥 9 / month · ⏱️ 17.01.2022):
-	```
-	npm install moonwalkerswap-v1-core
-	```
-</details>
-<details><summary><b><a href="https://github.com/Uniswap/token-lists">token-lists</a></b> (🥇25 ·  ⭐ 630) - The Token Lists specification. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/Uniswap/token-lists) (👨‍💻 13 · 🔀 530 · 📦 9.1K · 📋 39 - 48% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/Uniswap/token-lists) (👨‍💻 13 · 🔀 530 · 📦 9.3K · 📋 40 - 47% open · ⏱️ 16.06.2022):
 
 	```
 	git clone https://github.com/Uniswap/token-lists
@@ -7514,43 +7514,67 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 	npm install @uniswap/token-lists
 	```
 </details>
+<details><summary><b><a href="https://github.com/Uniswap/v3-core">v3-core</a></b> (🥇25 ·  ⭐ 2.6K) - Core smart contracts of Uniswap v3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/Uniswap/v3-core) (👨‍💻 13 · 🔀 1.2K · 📦 2.1K · 📋 220 - 6% open · ⏱️ 11.05.2022):
+
+	```
+	git clone https://github.com/Uniswap/v3-core
+	```
+- [npm](https://www.npmjs.com/package/moonwalkerswap-v1-core) (📥 10 / month · ⏱️ 17.01.2022):
+	```
+	npm install moonwalkerswap-v1-core
+	```
+</details>
 <details><summary><b><a href="https://github.com/Uniswap/v2-sdk">v2-sdk</a></b> (🥇24 ·  ⭐ 350 · 💤) - An SDK for building applications on top of Uniswap V2. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Uniswap/v2-sdk) (👨‍💻 6 · 🔀 800 · 📦 740 · 📋 70 - 48% open · ⏱️ 06.10.2021):
+- [GitHub](https://github.com/Uniswap/v2-sdk) (👨‍💻 6 · 🔀 800 · 📦 760 · 📋 71 - 49% open · ⏱️ 06.10.2021):
 
 	```
 	git clone https://github.com/Uniswap/v2-sdk
 	```
-- [npm](https://www.npmjs.com/package/@duythao_bacoor/v2-sdk) (📥 700 / month · ⏱️ 12.01.2022):
+- [npm](https://www.npmjs.com/package/@duythao_bacoor/v2-sdk) (📥 550 / month · ⏱️ 12.01.2022):
 	```
 	npm install @duythao_bacoor/v2-sdk
 	```
 </details>
+<details><summary><b><a href="https://github.com/Uniswap/smart-order-router">smart-order-router</a></b> (🥇24 ·  ⭐ 150) - Uniswap Smart Order Router. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/Uniswap/smart-order-router) (👨‍💻 10 · 🔀 69 · 📦 280 · 📋 51 - 41% open · ⏱️ 15.06.2022):
+
+	```
+	git clone https://github.com/Uniswap/smart-order-router
+	```
+- [npm](https://www.npmjs.com/package/@uniswap/smart-order-router) (📥 39K / month · ⏱️ 14.05.2022):
+	```
+	npm install @uniswap/smart-order-router
+	```
+</details>
 <details><summary><b><a href="https://github.com/Uniswap/v3-staker">v3-staker</a></b> (🥈23 ·  ⭐ 260) - Canonical liquidity mining contract for Uniswap V3. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Uniswap/v3-staker) (👨‍💻 10 · 🔀 99 · 📦 650 · 📋 100 - 7% open · ⏱️ 20.12.2021):
+- [GitHub](https://github.com/Uniswap/v3-staker) (👨‍💻 10 · 🔀 100 · 📦 680 · 📋 100 - 7% open · ⏱️ 20.12.2021):
 
 	```
 	git clone https://github.com/Uniswap/v3-staker
 	```
-- [npm](https://www.npmjs.com/package/@uniswap/v3-staker) (📥 74K / month · ⏱️ 29.11.2021):
+- [npm](https://www.npmjs.com/package/@uniswap/v3-staker) (📥 77K / month · ⏱️ 29.11.2021):
 	```
 	npm install @uniswap/v3-staker
 	```
 </details>
 <details><summary><b><a href="https://github.com/Uniswap/v2-periphery">v2-periphery</a></b> (🥈22 ·  ⭐ 760) - Peripheral smart contracts for interacting with Uniswap V2. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Uniswap/v2-periphery) (👨‍💻 5 · 🔀 1.1K · 📦 9.6K · 📋 68 - 63% open · ⏱️ 03.12.2021):
+- [GitHub](https://github.com/Uniswap/v2-periphery) (👨‍💻 5 · 🔀 1.1K · 📦 9.8K · 📋 68 - 63% open · ⏱️ 03.12.2021):
 
 	```
 	git clone https://github.com/Uniswap/v2-periphery
 	```
-- [npm](https://www.npmjs.com/package/@invis/periphery) (📥 5 / month · ⏱️ 09.08.2021):
+- [npm](https://www.npmjs.com/package/@invis/periphery) (📥 3 / month · ⏱️ 09.08.2021):
 	```
 	npm install @invis/periphery
 	```
 </details>
-<details><summary><b><a href="https://github.com/Uniswap/info">info</a></b> (🥈16 ·  ⭐ 260) - Uniswap analytics. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/Uniswap/info">info</a></b> (🥉16 ·  ⭐ 260) - Uniswap analytics. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/Uniswap/info) (👨‍💻 24 · 🔀 420 · 📦 24 · 📋 160 - 50% open · ⏱️ 17.12.2021):
 
@@ -7560,7 +7584,7 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 </details>
 <details><summary><b><a href="https://github.com/Uniswap/docs">Uniswap/docs</a></b> (🥉15 ·  ⭐ 170) - Uniswap V3 docs website. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Uniswap/docs) (👨‍💻 90 · 🔀 290 · 📋 150 - 51% open · ⏱️ 25.05.2022):
+- [GitHub](https://github.com/Uniswap/docs) (👨‍💻 90 · 🔀 290 · 📋 150 - 52% open · ⏱️ 25.05.2022):
 
 	```
 	git clone https://github.com/Uniswap/docs
@@ -7568,7 +7592,7 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 </details>
 <details><summary><b><a href="https://github.com/Uniswap/v2-subgraph">v2-subgraph</a></b> (🥉14 ·  ⭐ 260 · 💤) - Uniswap V2 subgraph. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Uniswap/v2-subgraph) (👨‍💻 13 · 🔀 330 · 📋 63 - 39% open · ⏱️ 29.09.2021):
+- [GitHub](https://github.com/Uniswap/v2-subgraph) (👨‍💻 13 · 🔀 340 · 📋 63 - 39% open · ⏱️ 29.09.2021):
 
 	```
 	git clone https://github.com/Uniswap/v2-subgraph
@@ -7593,7 +7617,7 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 
 <br>
 
- _20 projects are hidden because they don't fulfill the minimal requirements._
+ _19 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -7603,7 +7627,7 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 ---
 <details><summary><b><a href="https://github.com/pancakeswap/pancake-frontend">pancake-frontend</a></b> (🥈23 ·  ⭐ 1.8K) - Pancake main features (farms, pools, IFO, lottery,.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/pancakeswap/pancake-frontend) (👨‍💻 80 · 🔀 2.6K · 📦 9 · 📋 350 - 12% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/pancakeswap/pancake-frontend) (👨‍💻 80 · 🔀 2.6K · 📦 9 · 📋 350 - 12% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/pancakeswap/pancake-frontend
@@ -7616,7 +7640,7 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 	```
 	git clone https://github.com/pancakeswap/pancake-swap-sdk
 	```
-- [npm](https://www.npmjs.com/package/@mysafety/sdk) (📥 5 / month · ⏱️ 04.01.2022):
+- [npm](https://www.npmjs.com/package/@mysafety/sdk) (📥 6 / month · ⏱️ 04.01.2022):
 	```
 	npm install @mysafety/sdk
 	```
@@ -7628,7 +7652,7 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 	```
 	git clone https://github.com/pancakeswap/pancake-toolkit
 	```
-- [npm](https://www.npmjs.com/package/@svcongnghe/eslint-config-pancake) (📥 6 / month · ⏱️ 07.07.2021):
+- [npm](https://www.npmjs.com/package/@svcongnghe/eslint-config-pancake) (📥 5 / month · ⏱️ 07.07.2021):
 	```
 	npm install @svcongnghe/eslint-config-pancake
 	```
@@ -7641,7 +7665,7 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 	git clone https://github.com/pancakeswap/pancake-swap-interface-v1
 	```
 </details>
-<details><summary><b><a href="https://github.com/pancakeswap/pancake-subgraph">pancake-subgraph</a></b> (🥉12 ·  ⭐ 210) - Pancake subgraph (blocks, profile, prediction, NFTs, ...). <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/pancakeswap/pancake-subgraph">pancake-subgraph</a></b> (🥉11 ·  ⭐ 210) - Pancake subgraph (blocks, profile, prediction, NFTs, ...). <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/pancakeswap/pancake-subgraph) (👨‍💻 6 · 🔀 420 · 📋 46 - 60% open · ⏱️ 22.06.2022):
 
@@ -7656,13 +7680,13 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/sushiswap">SUSHI - Sushi</a></b> (🥉34 ·  ⭐ 3K) - DeFi protocol that is completely community-driven, serving up.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/sushiswap">SUSHI - Sushi</a></b> (🥉34 ·  ⭐ 3.1K) - DeFi protocol that is completely community-driven, serving up.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/sushiswap/sushiswap">sushiswap</a></b> (🥇29 ·  ⭐ 1.5K) - Sushi 2.0. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sushiswap/sushiswap) (👨‍💻 24 · 🔀 1.2K · 📦 14 · 📋 60 - 5% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/sushiswap/sushiswap) (👨‍💻 24 · 🔀 1.2K · 📦 14 · 📋 64 - 9% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/sushiswap/sushiswap
@@ -7674,7 +7698,7 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 </details>
 <details><summary><b><a href="https://github.com/sushiswap/sushiswap-interface">sushiswap-interface</a></b> (🥈18 ·  ⭐ 280) - An open source interface for the SushiSwap Protocol. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/sushiswap/sushiswap-interface) (👨‍💻 110 · 🔀 500 · 📋 170 - 22% open · ⏱️ 17.06.2022):
+- [GitHub](https://github.com/sushiswap/sushiswap-interface) (👨‍💻 110 · 🔀 500 · 📋 170 - 22% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/sushiswap/sushiswap-interface
@@ -7682,7 +7706,7 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 </details>
 <details><summary><b><a href="https://github.com/sushiswap/trident">trident</a></b> (🥈17 ·  ⭐ 210) - Rapid AMM Development Framework. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/sushiswap/trident) (👨‍💻 19 · 🔀 53 · 📦 80 · 📋 37 - 48% open · ⏱️ 06.06.2022):
+- [GitHub](https://github.com/sushiswap/trident) (👨‍💻 19 · 🔀 53 · 📦 81 · 📋 37 - 48% open · ⏱️ 06.06.2022):
 
 	```
 	git clone https://github.com/sushiswap/trident
@@ -7690,24 +7714,24 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 </details>
 <details><summary><b><a href="https://github.com/sushiswap/bentobox">bentobox</a></b> (🥈17 ·  ⭐ 170) - BentoBox. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
 
-- [GitHub](https://github.com/sushiswap/bentobox) (👨‍💻 16 · 🔀 77 · 📦 14 · 📋 20 - 50% open · ⏱️ 28.02.2022):
+- [GitHub](https://github.com/sushiswap/bentobox) (👨‍💻 16 · 🔀 78 · 📦 14 · 📋 20 - 50% open · ⏱️ 28.02.2022):
 
 	```
 	git clone https://github.com/sushiswap/bentobox
 	```
-- [npm](https://www.npmjs.com/package/@sushiswap/bentobox) (📥 28 / month · ⏱️ 15.10.2021):
+- [npm](https://www.npmjs.com/package/@sushiswap/bentobox) (📥 22 / month · ⏱️ 15.10.2021):
 	```
 	npm install @sushiswap/bentobox
 	```
 </details>
-<details><summary><b><a href="https://github.com/sushiswap/shoyu">shoyu</a></b> (🥈16 ·  ⭐ 160 · 💤) - Shoyu contracts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/sushiswap/shoyu">shoyu</a></b> (🥉16 ·  ⭐ 160 · 💤) - Shoyu contracts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/sushiswap/shoyu) (👨‍💻 3 · 🔀 50 · 📦 17 · 📋 7 - 57% open · ⏱️ 06.11.2021):
 
 	```
 	git clone https://github.com/sushiswap/shoyu
 	```
-- [npm](https://www.npmjs.com/package/@shoyunft/contracts) (📥 60 / month · ⏱️ 04.11.2021):
+- [npm](https://www.npmjs.com/package/@shoyunft/contracts) (📥 39 / month · ⏱️ 04.11.2021):
 	```
 	npm install @shoyunft/contracts
 	```
@@ -7719,14 +7743,26 @@ _Mechanisms used by most decentralized exchanges to facilitate permissionless tr
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/balancer-labs">BAL - Balancer</a></b> (🥉27 ·  ⭐ 1.1K) - Non-custodial portfolio manager, liquidity provider, and price.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/balancer-labs">BAL - Balancer</a></b> (🥉26 ·  ⭐ 1.1K) - Non-custodial portfolio manager, liquidity provider, and price.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
+<details><summary><b><a href="https://github.com/balancer-labs/balancer-v2-monorepo">balancer-v2-monorepo</a></b> (🥇25 ·  ⭐ 150 · 📈) - Balancer V2 Monorepo. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/balancer-labs/balancer-v2-monorepo) (👨‍💻 17 · 🔀 150 · 📦 52 · 📋 320 - 18% open · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/balancer-labs/balancer-v2-monorepo
+	```
+- [npm](https://www.npmjs.com/package/@balancer-labs/v2-standalone-utils) (📥 22 / month · ⏱️ 14.09.2021):
+	```
+	npm install @balancer-labs/v2-standalone-utils
+	```
+</details>
 
 <br>
 
- _10 projects are hidden because they don't fulfill the minimal requirements._
+ _9 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -7761,28 +7797,28 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 
 
 ---
-<details><summary><b><a href="https://github.com/ensdomains/ensjs">ensjs</a></b> (🥇25 ·  ⭐ 170) - Javascript bindings for the Ethereum Name Service. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/ensdomains/ens-contracts">ens-contracts</a></b> (🥇25 ·  ⭐ 190) - ENS contracts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ensdomains/ensjs) (👨‍💻 15 · 🔀 82 · 📦 8K · 📋 61 - 73% open · ⏱️ 18.03.2022):
-
-	```
-	git clone https://github.com/ensdomains/ensjs
-	```
-- [npm](https://www.npmjs.com/package/ethereum-ens) (📥 70K / month · 📦 110 · ⏱️ 30.01.2020):
-	```
-	npm install ethereum-ens
-	```
-</details>
-<details><summary><b><a href="https://github.com/ensdomains/ens-contracts">ens-contracts</a></b> (🥇24 ·  ⭐ 190) - ENS contracts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/ensdomains/ens-contracts) (👨‍💻 11 · 🔀 110 · 📦 240 · 📋 24 - 75% open · ⏱️ 07.06.2022):
+- [GitHub](https://github.com/ensdomains/ens-contracts) (👨‍💻 11 · 🔀 110 · 📦 250 · 📋 26 - 69% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/ensdomains/ens-contracts
 	```
-- [npm](https://www.npmjs.com/package/@ensdomains/ens-contracts) (📥 11K / month · ⏱️ 07.03.2022):
+- [npm](https://www.npmjs.com/package/@ensdomains/ens-contracts) (📥 12K / month · ⏱️ 07.03.2022):
 	```
 	npm install @ensdomains/ens-contracts
+	```
+</details>
+<details><summary><b><a href="https://github.com/ensdomains/ensjs">ensjs</a></b> (🥇25 ·  ⭐ 170) - Javascript bindings for the Ethereum Name Service. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+
+- [GitHub](https://github.com/ensdomains/ensjs) (👨‍💻 16 · 🔀 89 · 📦 8.2K · 📋 63 - 74% open · ⏱️ 18.03.2022):
+
+	```
+	git clone https://github.com/ensdomains/ensjs
+	```
+- [npm](https://www.npmjs.com/package/ethereum-ens) (📥 72K / month · 📦 110 · ⏱️ 30.01.2020):
+	```
+	npm install ethereum-ens
 	```
 </details>
 <details><summary><b><a href="https://github.com/ensdomains/ens-app">ens-app</a></b> (🥈21 ·  ⭐ 160) - ENS manager app. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
@@ -7800,25 +7836,37 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/onflow">FLOW - Flow</a></b> (🥇37 ·  ⭐ 3K) - Fast, decentralized, and developer-friendly blockchain, designed as the..</summary>
+<details><summary><b><a href="https://github.com/onflow">FLOW - Flow</a></b> (🥇37 ·  ⭐ 3.1K) - Fast, decentralized, and developer-friendly blockchain, designed as the..</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/onflow/fcl-js">fcl-js</a></b> (🥇31 ·  ⭐ 280) - FCL (Flow Client Library) - The best tool for building JavaScript.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/onflow/fcl-js) (👨‍💻 55 · 🔀 98 · 📦 3.4K · 📋 320 - 10% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/onflow/fcl-js) (👨‍💻 56 · 🔀 98 · 📦 3.4K · 📋 320 - 10% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/onflow/fcl-js
 	```
-- [npm](https://www.npmjs.com/package/@onflow/types) (📥 81K / month · 📦 49 · ⏱️ 16.06.2022):
+- [npm](https://www.npmjs.com/package/@onflow/types) (📥 62K / month · 📦 49 · ⏱️ 24.06.2022):
 	```
 	npm install @onflow/types
 	```
 </details>
+<details><summary><b><a href="https://github.com/onflow/flow-go">flow-go</a></b> (🥇26 ·  ⭐ 420) - A fast, secure, and developer-friendly blockchain built to support.. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/onflow/flow-go) (👨‍💻 80 · 🔀 120 · 📦 180 · 📋 300 - 60% open · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/onflow/flow-go
+	```
+- [Go](https://pkg.go.dev/github.com/onflow/flow-go) (📦 16 · ⏱️ 27.06.2022):
+	```
+	go install github.com/onflow/flow-go
+	```
+</details>
 <details><summary><b><a href="https://github.com/onflow/flow-go-sdk">flow-go-sdk</a></b> (🥇26 ·  ⭐ 190) - Tools for building Go applications on Flow. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/onflow/flow-go-sdk) (👨‍💻 42 · 🔀 54 · 📦 320 · 📋 95 - 26% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/onflow/flow-go-sdk) (👨‍💻 44 · 🔀 54 · 📦 330 · 📋 95 - 26% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/onflow/flow-go-sdk
@@ -7828,49 +7876,37 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 	go install github.com/onflow/flow-go-sdk
 	```
 </details>
-<details><summary><b><a href="https://github.com/onflow/flow-go">flow-go</a></b> (🥇25 ·  ⭐ 420) - A fast, secure, and developer-friendly blockchain built to support.. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/onflow/flow-go) (👨‍💻 79 · 🔀 120 · 📦 170 · 📋 280 - 62% open · ⏱️ 22.06.2022):
-
-	```
-	git clone https://github.com/onflow/flow-go
-	```
-- [Go](https://pkg.go.dev/github.com/onflow/flow-go) (📦 15 · ⏱️ 21.06.2022):
-	```
-	go install github.com/onflow/flow-go
-	```
-</details>
 <details><summary><b><a href="https://github.com/onflow/cadence">cadence</a></b> (🥇25 ·  ⭐ 390) - Cadence, the resource-oriented smart contract programming language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/onflow/cadence) (👨‍💻 81 · 🔀 97 · 📋 540 - 34% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/onflow/cadence) (👨‍💻 82 · 🔀 97 · 📋 540 - 34% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/onflow/cadence
 	```
-- [npm](https://www.npmjs.com/package/@onflow/cadence-docgen) (📥 7 / month · ⏱️ 03.12.2021):
+- [npm](https://www.npmjs.com/package/@onflow/cadence-docgen) (📥 5 / month · ⏱️ 03.12.2021):
 	```
 	npm install @onflow/cadence-docgen
 	```
-- [Go](https://pkg.go.dev/github.com/onflow/cadence) (📦 32 · ⏱️ 17.06.2022):
+- [Go](https://pkg.go.dev/github.com/onflow/cadence) (📦 33 · ⏱️ 24.06.2022):
 	```
 	go install github.com/onflow/cadence
 	```
 </details>
 <details><summary><b><a href="https://github.com/onflow/flow-cli">flow-cli</a></b> (🥇25 ·  ⭐ 170) - The Flow CLI is a command-line interface that provides useful.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/onflow/flow-cli) (👨‍💻 37 · 🔀 31 · 📦 41 · 📋 200 - 13% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/onflow/flow-cli) (👨‍💻 37 · 🔀 31 · 📦 44 · 📋 210 - 15% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/onflow/flow-cli
 	```
-- [Go](https://pkg.go.dev/github.com/onflow/flow-cli) (📦 5 · ⏱️ 16.06.2022):
+- [Go](https://pkg.go.dev/github.com/onflow/flow-cli) (📦 5 · ⏱️ 22.06.2022):
 	```
 	go install github.com/onflow/flow-cli
 	```
 </details>
 <details><summary><b><a href="https://github.com/onflow/flow">flow</a></b> (🥈23 ·  ⭐ 310) - Flow is a fast, secure, and developer-friendly blockchain built to.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/onflow/flow) (👨‍💻 85 · 🔀 110 · 📦 53 · 📋 240 - 37% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/onflow/flow) (👨‍💻 86 · 🔀 110 · 📦 53 · 📋 240 - 37% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/onflow/flow
@@ -7888,21 +7924,21 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 	go install github.com/onflow/flow/protobuf/go/flow
 	```
 </details>
-<details><summary><b><a href="https://github.com/onflow/kitty-items">kitty-items</a></b> (🥈20 ·  ⭐ 380) - Kitty Items: CryptoKitties Sample App. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/onflow/kitty-items">kitty-items</a></b> (🥈19 ·  ⭐ 380) - Kitty Items: CryptoKitties Sample App. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/onflow/kitty-items) (👨‍💻 30 · 🔀 200 · 📋 120 - 26% open · ⏱️ 11.06.2022):
+- [GitHub](https://github.com/onflow/kitty-items) (👨‍💻 30 · 🔀 200 · 📋 120 - 27% open · ⏱️ 11.06.2022):
 
 	```
 	git clone https://github.com/onflow/kitty-items
 	```
-- [npm](https://www.npmjs.com/package/kitty-items) (📥 3 / month · ⏱️ 16.10.2021):
+- [npm](https://www.npmjs.com/package/kitty-items) (📥 4 / month · ⏱️ 16.10.2021):
 	```
 	npm install kitty-items
 	```
 </details>
-<details><summary><b><a href="https://github.com/onflow/flow-nft">flow-nft</a></b> (🥈16 ·  ⭐ 390) - The non-fungible token standard on the Flow blockchain. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
+<details><summary><b><a href="https://github.com/onflow/flow-nft">flow-nft</a></b> (🥉16 ·  ⭐ 390) - The non-fungible token standard on the Flow blockchain. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
 
-- [GitHub](https://github.com/onflow/flow-nft) (👨‍💻 19 · 🔀 120 · 📦 16 · 📋 40 - 42% open · ⏱️ 17.06.2022):
+- [GitHub](https://github.com/onflow/flow-nft) (👨‍💻 20 · 🔀 130 · 📦 16 · 📋 40 - 35% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/onflow/flow-nft
@@ -7915,7 +7951,7 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/decentraland">MANA - Decentraland</a></b> (🥇35 ·  ⭐ 2.3K) - Decentraland will be a virtual reality platform powered.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/decentraland">MANA - Decentraland</a></b> (🥇35 ·  ⭐ 2.4K) - Decentraland will be a virtual reality platform powered.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
@@ -7926,27 +7962,27 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 	```
 	git clone https://github.com/decentraland/ui
 	```
-- [npm](https://www.npmjs.com/package/decentraland-ui) (📥 3.4K / month · 📦 10 · ⏱️ 15.06.2022):
+- [npm](https://www.npmjs.com/package/decentraland-ui) (📥 3.9K / month · 📦 10 · ⏱️ 15.06.2022):
 	```
 	npm install decentraland-ui
 	```
 </details>
 <details><summary><b><a href="https://github.com/decentraland/marketplace">marketplace</a></b> (🥈20 ·  ⭐ 850) - Decentralands NFT Marketplace. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/decentraland/marketplace) (👨‍💻 17 · 🔀 480 · 📦 3 · 📋 300 - 28% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/decentraland/marketplace) (👨‍💻 17 · 🔀 480 · 📦 4 · 📋 300 - 28% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/decentraland/marketplace
 	```
 </details>
-<details><summary><b><a href="https://github.com/decentraland/dappeteer">dappeteer</a></b> (🥈16 ·  ⭐ 220 · 💤) - E2E testing for dApps using Puppeteer + MetaMask. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/decentraland/dappeteer">dappeteer</a></b> (🥉16 ·  ⭐ 220 · 💤) - E2E testing for dApps using Puppeteer + MetaMask. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/decentraland/dappeteer) (👨‍💻 11 · 🔀 52 · 📦 50 · 📋 26 - 80% open · ⏱️ 27.10.2021):
 
 	```
 	git clone https://github.com/decentraland/dappeteer
 	```
-- [npm](https://www.npmjs.com/package/@nodefactory/dappeteer) (📥 17 / month · ⏱️ 01.07.2021):
+- [npm](https://www.npmjs.com/package/@nodefactory/dappeteer) (📥 12 / month · ⏱️ 01.07.2021):
 	```
 	npm install @nodefactory/dappeteer
 	```
@@ -7958,52 +7994,13 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/AudiusProject">AUDIO - Audius</a></b> (🥇27 ·  ⭐ 1.1K) - Native platform token of the Audius streaming protocol. AUDIO is.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-<details><summary><b><a href="https://github.com/AudiusProject/audius-protocol">audius-protocol</a></b> (🥇24 ·  ⭐ 440) - The Audius Protocol - Freedom to share, monetize, and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/AudiusProject/audius-protocol) (👨‍💻 26 · 🔀 77 · 📦 2 · 📋 77 - 76% open · ⏱️ 22.06.2022):
-
-	```
-	git clone https://github.com/AudiusProject/audius-protocol
-	```
-- [npm](https://www.npmjs.com/package/@audius/libs) (📥 4.9K / month · 📦 2 · ⏱️ 27.05.2022):
-	```
-	npm install @audius/libs
-	```
-</details>
-<details><summary><b><a href="https://github.com/AudiusProject/audius-client">audius-client</a></b> (🥈19 ·  ⭐ 150) - The Audius client monorepo. <code>Unlicensed</code></summary>
-
-- [GitHub](https://github.com/AudiusProject/audius-client) (👨‍💻 22 · 🔀 35 · 📥 1.7K · 📋 21 - 71% open · ⏱️ 22.06.2022):
-
-	```
-	git clone https://github.com/AudiusProject/audius-client
-	```
-</details>
-<details><summary><b><a href="https://github.com/AudiusProject/hedgehog">hedgehog</a></b> (🥉12 ·  ⭐ 400 · 💤) - Build DApps like Apps -- A Metamask alternative that empowers you to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/AudiusProject/hedgehog) (👨‍💻 5 · 🔀 45 · 📦 39 · 📋 6 - 33% open · ⏱️ 22.10.2021):
-
-	```
-	git clone https://github.com/AudiusProject/hedgehog
-	```
-</details>
-
-<br>
-
- _2 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
 <details><summary><b><a href="https://github.com/planetarium">WNCG - Wrapped NCG</a></b> (🥇27 ·  ⭐ 660) - Open source, decentralized RPG network powered by the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/planetarium/libplanet">libplanet</a></b> (🥇27 ·  ⭐ 430) - Distributed ledger core in C#/.NET for decentralized online games. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">LGPL-2.1</a></code></summary>
+<details><summary><b><a href="https://github.com/planetarium/libplanet">libplanet</a></b> (🥇27 ·  ⭐ 440) - Distributed ledger core in C#/.NET for decentralized online games. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">LGPL-2.1</a></code></summary>
 
-- [GitHub](https://github.com/planetarium/libplanet) (👨‍💻 54 · 🔀 120 · 📥 33K · 📦 28 · 📋 610 - 34% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/planetarium/libplanet) (👨‍💻 54 · 🔀 120 · 📥 34K · 📦 28 · 📋 610 - 34% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/planetarium/libplanet
@@ -8015,12 +8012,51 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 </details>
 <details><summary><b><a href="https://github.com/planetarium/NineChronicles">NineChronicles</a></b> (🥈18 ·  ⭐ 220) - Unity client application for Nine Chronicles, a fully.. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/planetarium/NineChronicles) (👨‍💻 29 · 🔀 94 · 📋 210 - 71% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/planetarium/NineChronicles) (👨‍💻 30 · 🔀 95 · 📋 210 - 71% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/planetarium/NineChronicles
 	```
 </details>
+
+---
+</details>
+<details><summary><b><a href="https://github.com/AudiusProject">AUDIO - Audius</a></b> (🥈26 ·  ⭐ 1.1K) - Native platform token of the Audius streaming protocol. AUDIO is.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+<details><summary><b><a href="https://github.com/AudiusProject/audius-protocol">audius-protocol</a></b> (🥇24 ·  ⭐ 440) - The Audius Protocol - Freedom to share, monetize, and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/AudiusProject/audius-protocol) (👨‍💻 26 · 🔀 77 · 📦 3 · 📋 77 - 76% open · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/AudiusProject/audius-protocol
+	```
+- [npm](https://www.npmjs.com/package/@audius/libs) (📥 3.1K / month · 📦 2 · ⏱️ 27.05.2022):
+	```
+	npm install @audius/libs
+	```
+</details>
+<details><summary><b><a href="https://github.com/AudiusProject/audius-client">audius-client</a></b> (🥈19 ·  ⭐ 150) - The Audius client monorepo. <code>Unlicensed</code></summary>
+
+- [GitHub](https://github.com/AudiusProject/audius-client) (👨‍💻 22 · 🔀 35 · 📥 1.7K · 📋 21 - 71% open · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/AudiusProject/audius-client
+	```
+</details>
+<details><summary><b><a href="https://github.com/AudiusProject/hedgehog">hedgehog</a></b> (🥉12 ·  ⭐ 400 · 💤) - Build DApps like Apps -- A Metamask alternative that empowers you to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/AudiusProject/hedgehog) (👨‍💻 5 · 🔀 45 · 📦 41 · 📋 6 - 33% open · ⏱️ 22.10.2021):
+
+	```
+	git clone https://github.com/AudiusProject/hedgehog
+	```
+</details>
+
+<br>
+
+ _2 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -8046,42 +8082,11 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/0xcert">ZXC - 0xcert</a></b> (🥈23 ·  ⭐ 1.3K) - Open source, permission-less protocol for certified non-fungible.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-<details><summary><b><a href="https://github.com/0xcert/framework">framework</a></b> (🥈22 ·  ⭐ 330) - 0xcert Framework - JavaScript framework for building decentralized.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/0xcert/framework) (👨‍💻 14 · 🔀 56 · 📦 59 · 📋 110 - 5% open · ⏱️ 07.12.2021):
-
-	```
-	git clone https://github.com/0xcert/framework
-	```
-- [npm](https://www.npmjs.com/package/@0xcert/cert) (📥 4K / month · 📦 9 · ⏱️ 15.03.2021):
-	```
-	npm install @0xcert/cert
-	```
-</details>
-<details><summary><b><a href="https://github.com/nibbstack/erc721">erc721</a></b> (🥈20 ·  ⭐ 960) - The reference implementation of the ERC-721 non-fungible token standard. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/nibbstack/erc721) (👨‍💻 11 · 🔀 350 · 📦 14 · 📋 130 - 4% open · ⏱️ 27.02.2022):
-
-	```
-	git clone https://github.com/nibbstack/erc721
-	```
-- [npm](https://www.npmjs.com/package/@0xcert/ethereum-erc721) (📥 220 / month · 📦 8 · ⏱️ 24.11.2021):
-	```
-	npm install @0xcert/ethereum-erc721
-	```
-</details>
-
----
-</details>
 <details><summary><b><a href="https://github.com/originprotocol">OGN - Origin Protocol</a></b> (🥈23 ·  ⭐ 1.2K) - Enabling true peer-to-peer commerce. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/OriginProtocol/origin">OriginProtocol/origin</a></b> (🥈22 ·  ⭐ 640) - Monorepo for our developer tools and decentralized.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/OriginProtocol/origin">OriginProtocol/origin</a></b> (🥈22 ·  ⭐ 650) - Monorepo for our developer tools and decentralized.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/OriginProtocol/origin) (👨‍💻 190 · 🔀 200 · 📋 1.5K - 26% open · ⏱️ 04.05.2022):
 
@@ -8100,13 +8105,55 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/syscoin">SYS - Syscoin</a></b> (🥈20 ·  ⭐ 150 · 💤) - Syscoin Platform (SYS) is presented as a decentralized scalable..</summary>
+<details><summary><b><a href="https://github.com/0xcert">ZXC - 0xcert</a></b> (🥈22 ·  ⭐ 1.3K) - Open source, permission-less protocol for certified non-fungible.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/syscoin/syscoin">syscoin</a></b> (🥇24 ·  ⭐ 150 · 💤) - Syscoin is a crypto currency that is universally merge-mineable and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/0xcert/framework">framework</a></b> (🥈22 ·  ⭐ 330) - 0xcert Framework - JavaScript framework for building decentralized.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/syscoin/syscoin) (👨‍💻 570 · 🔀 65 · 📥 180K · 📋 270 - 1% open · ⏱️ 24.11.2021):
+- [GitHub](https://github.com/0xcert/framework) (👨‍💻 14 · 🔀 56 · 📦 59 · 📋 110 - 5% open · ⏱️ 07.12.2021):
+
+	```
+	git clone https://github.com/0xcert/framework
+	```
+- [npm](https://www.npmjs.com/package/@0xcert/cert) (📥 3.4K / month · 📦 9 · ⏱️ 15.03.2021):
+	```
+	npm install @0xcert/cert
+	```
+</details>
+<details><summary><b><a href="https://github.com/nibbstack/erc721">erc721</a></b> (🥈20 ·  ⭐ 960) - The reference implementation of the ERC-721 non-fungible token standard. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/nibbstack/erc721) (👨‍💻 11 · 🔀 350 · 📦 14 · 📋 130 - 4% open · ⏱️ 27.02.2022):
+
+	```
+	git clone https://github.com/nibbstack/erc721
+	```
+- [npm](https://www.npmjs.com/package/@0xcert/ethereum-erc721) (📥 190 / month · 📦 8 · ⏱️ 24.11.2021):
+	```
+	npm install @0xcert/ethereum-erc721
+	```
+</details>
+
+---
+</details>
+<details><summary><b><a href="https://github.com/rmrk-team">RMRK - RMRK</a></b> (🥈21 ·  ⭐ 150) - Most advanced nft system in the world, adding eternal liquidity and multi..</summary>
+
+
+---
+
+<br>
+
+ _2 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/syscoin">SYS - Syscoin</a></b> (🥈20 ·  ⭐ 160 · 💤) - Syscoin Platform (SYS) is presented as a decentralized scalable..</summary>
+
+
+---
+<details><summary><b><a href="https://github.com/syscoin/syscoin">syscoin</a></b> (🥇24 ·  ⭐ 160 · 💤) - Syscoin is a crypto currency that is universally merge-mineable and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/syscoin/syscoin) (👨‍💻 570 · 🔀 65 · 📥 180K · 📋 270 - 2% open · ⏱️ 24.11.2021):
 
 	```
 	git clone https://github.com/syscoin/syscoin
@@ -8136,7 +8183,7 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 ---
 <details><summary><b><a href="https://github.com/darwinia-network/darwinia">darwinia</a></b> (🥈22 ·  ⭐ 210) - Universal cross-chain message network. | We are hiring,.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/darwinia-network/darwinia) (👨‍💻 24 · 🔀 49 · 📥 6.3K · 📋 400 - 6% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/darwinia-network/darwinia) (👨‍💻 24 · 🔀 49 · 📥 6.6K · 📋 400 - 6% open · ⏱️ 15.06.2022):
 
 	```
 	git clone https://github.com/darwinia-network/darwinia
@@ -8149,7 +8196,7 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 
 
 ---
-<details><summary><b><a href="https://github.com/thetatoken/theta-protocol-ledger">theta-protocol-ledger</a></b> (🥈17 ·  ⭐ 330) - Reference implementation of the Theta Blockchain.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/thetatoken/theta-protocol-ledger">theta-protocol-ledger</a></b> (🥈17 ·  ⭐ 340) - Reference implementation of the Theta Blockchain.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/thetatoken/theta-protocol-ledger) (👨‍💻 9 · 🔀 73 · 📋 60 - 60% open · ⏱️ 30.04.2022):
 
@@ -8174,7 +8221,7 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 ---
 <details><summary><b><a href="https://github.com/CryptoBlades/cryptoblades">cryptoblades</a></b> (🥈18 ·  ⭐ 560) -  <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/CryptoBlades/cryptoblades) (👨‍💻 59 · 🔀 260 · 📋 580 - 17% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/CryptoBlades/cryptoblades) (👨‍💻 59 · 🔀 260 · 📋 580 - 17% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/CryptoBlades/cryptoblades
@@ -8194,24 +8241,36 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/hellobloom">BLT - Blocto Token</a></b> (🥉17 ·  ⭐ 330) - Cross-chain, integrated smart contract wallet service.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/hellobloom">BLT - Blocto Token</a></b> (🥉17 ·  ⭐ 340) - Cross-chain, integrated smart contract wallet service.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
+<details><summary><b><a href="https://github.com/portto/solana-go-sdk">solana-go-sdk</a></b> (🥈19 ·  ⭐ 150) - Solana Golang SDK. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/portto/solana-go-sdk) (👨‍💻 7 · 🔀 31 · 📦 96 · 📋 38 - 23% open · ⏱️ 15.06.2022):
+
+	```
+	git clone https://github.com/portto/solana-go-sdk
+	```
+- [Go](https://pkg.go.dev/github.com/portto/solana-go-sdk) (📦 3 · ⏱️ 15.06.2022):
+	```
+	go install github.com/portto/solana-go-sdk
+	```
+</details>
 
 <br>
 
- _4 projects are hidden because they don't fulfill the minimal requirements._
+ _3 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/aavegotchi">GHST - Aavegotchi</a></b> (🥉16 ·  ⭐ 260) - Eco-governance token of Aavegotchi. Use GHST to purchase.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/aavegotchi">GHST - Aavegotchi</a></b> (🥉16 ·  ⭐ 270) - Eco-governance token of Aavegotchi. Use GHST to purchase.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/aavegotchi/aavegotchi-contracts">aavegotchi-contracts</a></b> (🥈17 ·  ⭐ 200) - Aavegotchi diamond and its facets, deployment and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/aavegotchi/aavegotchi-contracts) (👨‍💻 15 · 🔀 92 · 📋 84 - 15% open · ⏱️ 13.06.2022):
+- [GitHub](https://github.com/aavegotchi/aavegotchi-contracts) (👨‍💻 15 · 🔀 94 · 📋 84 - 15% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/aavegotchi/aavegotchi-contracts
@@ -8230,12 +8289,12 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 ---
 <details><summary><b><a href="https://github.com/bepronetwork/bepro-js">bepro-js</a></b> (🥈17 ·  ⭐ 160) - The repository contains a comprehensive documentation of the.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/bepronetwork/bepro-js) (👨‍💻 14 · 🔀 92 · 📦 14 · 📋 56 - 62% open · ⏱️ 01.05.2022):
+- [GitHub](https://github.com/bepronetwork/bepro-js) (👨‍💻 14 · 🔀 93 · 📦 14 · 📋 56 - 62% open · ⏱️ 01.05.2022):
 
 	```
 	git clone https://github.com/bepronetwork/bepro-js
 	```
-- [npm](https://www.npmjs.com/package/bepro-js) (📥 43 / month · ⏱️ 06.08.2021):
+- [npm](https://www.npmjs.com/package/bepro-js) (📥 44 / month · ⏱️ 06.08.2021):
 	```
 	npm install bepro-js
 	```
@@ -8262,26 +8321,25 @@ _Blockchains related to Metaverse, NFTs & Gaming._
 
 ---
 </details>
-<details><summary>Show 21 hidden projects...</summary>
+<details><summary>Show 20 hidden projects...</summary>
 
-- <b><a href="https://github.com/rmrk-team">RMRK - RMRK</a></b> (🥈21 ·  ⭐ 150) - Most advanced nft system in the world, adding eternal liquidity and multi..
 - <b><a href="https://github.com/FeatherCoin">FTC - Feathercoin</a></b> (🥉17 ·  ⭐ 130 · 💤) - Upgraded and customised version of Bitcoin. Feathercoin was..
 - <b><a href="https://github.com/HTMLCOIN">HTML - HTMLCOIN</a></b> (🥉17 ·  ⭐ 120 · 💤) - The HTMLCOIN Foundation drives innovation by empowering users to..
 - <b><a href="https://github.com/cocos-bcx">COCOS - COCOS BCX</a></b> (🥉16 ·  ⭐ 7K · 💀) - Cocos-BCX is a decentralized gaming and digital assets.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/fioprotocol">FIO - FIO Protocol</a></b> (🥉15 ·  ⭐ 45) - Making Crypto Products Easier So Anyone Can Use Them. FIO Protocol..
 - <b><a href="https://github.com/SINOVATEblockchain">SIN - Sin City</a></b> (🥉14 ·  ⭐ 62) - SUQA created its own brand new X22i POW algorithm for its.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bosonprotocol">BOSON - Boson Protocol</a></b> (🥉13 ·  ⭐ 65) - Trust minimised and cost minimised protocol that.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/pepeteam">MEME - Meme</a></b> (🥉10 ·  ⭐ 44 · 💀) - Native token to the exclusive digital art NFT platform.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/blocklords">CWS - Seascape Crowns</a></b> (🥉10 ·  ⭐ 79) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/pepeteam">MEME - Meme</a></b> (🥉10 ·  ⭐ 45 · 💀) - Native token to the exclusive digital art NFT platform.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/coschain">COS - Contentos</a></b> (🥉10 ·  ⭐ 43 · 💤) - Decentralized global content ecosystem invested by Binance.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/alchemistcoin">MIST - Alchemist</a></b> (🥉9 ·  ⭐ 240 · 💤) - New way to yield farm. It is a way to provide LP tokens to.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/allartprotocol">AART - ALL.ART</a></b> (🥉9 ·  ⭐ 220) - ALL.ART Protocol brings better NFT standards, proper ownership.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/blocklords">CWS - Seascape Crowns</a></b> (🥉9 ·  ⭐ 79) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/allartprotocol">AART - ALL.ART</a></b> (🥉9 ·  ⭐ 230) - ALL.ART Protocol brings better NFT standards, proper ownership.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/saitotech">SAITO - Saito</a></b> (🥉9 ·  ⭐ 59) - Web3 Foundation grant recipient that runs blockchain applications.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/nftfy">NFTFY - Nftfy</a></b> (🥉8 ·  ⭐ 63) - Decentralized Application that provides the fractionalization of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/nftfy">NFTFY - Nftfy</a></b> (🥉8 ·  ⭐ 64) - Decentralized Application that provides the fractionalization of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/dypfinance">DYP - DeFi Yield Protocol</a></b> (🥉6 ·  ⭐ 150 · 💤) - Why is DeFi Yield Protocol Unique? DeFi Yield.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/lukso-network">LYXE - LUKSO Token</a></b> (🥉6 ·  ⭐ 36 · 💀) - Blockchain platform specifically created for the lifestyle.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Domraider">DRT - DomRaider</a></b> (🥉6 ·  ⭐ 36 · 💀) - We aim at developing innovative solutions. DomRaider is the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/dopedao">PAPER - Dope Wars Paper</a></b> (🥉5 ·  ⭐ 97) - A DAO for the streets. Build a character and develop.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/dopedao">PAPER - Dope Wars Paper</a></b> (🥉5 ·  ⭐ 98) - A DAO for the streets. Build a character and develop.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/BakeryProject">BAKE - BakerySwap</a></b> (🥉4 ·  ⭐ 57 · 💀) - No description. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/universexyz">XYZ - Universe.XYZ</a></b> (🥉4 ·  ⭐ 49 · 💤) - Initiative, which grants voting rights to the $XYZ holders.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/hord">HORD - Hord</a></b> (🥉1 ·  ⭐ 6 · 💀) - Protocol to create and trade ETFs, also known are tokenized baskets... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
@@ -8300,12 +8358,12 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/iotaledger/iota.js">iota.js</a></b> (🥇27 ·  ⭐ 960) - IOTA JavaScript. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/iotaledger/iota.js) (👨‍💻 61 · 🔀 300 · 📥 62 · 📦 17 · 📋 230 - 3% open · ⏱️ 11.03.2022):
+- [GitHub](https://github.com/iotaledger/iota.js) (👨‍💻 61 · 🔀 300 · 📥 62 · 📦 17 · 📋 230 - 4% open · ⏱️ 11.03.2022):
 
 	```
 	git clone https://github.com/iotaledger/iota.js
 	```
-- [npm](https://www.npmjs.com/package/iota.lib.js) (📥 4.4K / month · 📦 260 · ⏱️ 28.04.2020):
+- [npm](https://www.npmjs.com/package/iota.lib.js) (📥 4K / month · 📦 260 · ⏱️ 28.04.2020):
 	```
 	npm install iota.lib.js
 	```
@@ -8320,56 +8378,56 @@ _Blockchains designed to facilitate the exchange of data and payment information
 </details>
 <details><summary><b><a href="https://github.com/iotaledger/goshimmer">goshimmer</a></b> (🥇27 ·  ⭐ 360) - Prototype implementation of IOTA 2.0. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/iotaledger/goshimmer) (👨‍💻 52 · 🔀 120 · 📥 14K · 📦 81 · 📋 710 - 12% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/iotaledger/goshimmer) (👨‍💻 52 · 🔀 120 · 📥 15K · 📦 81 · 📋 700 - 10% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/iotaledger/goshimmer
 	```
-- [Go](https://pkg.go.dev/github.com/iotaledger/goshimmer) (📦 7 · ⏱️ 16.06.2022):
+- [Go](https://pkg.go.dev/github.com/iotaledger/goshimmer) (📦 7 · ⏱️ 22.06.2022):
 	```
 	go install github.com/iotaledger/goshimmer
 	```
 </details>
-<details><summary><b><a href="https://github.com/iotaledger/iota.rs">iota.rs</a></b> (🥇26 ·  ⭐ 190) - Official IOTA Rust library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/iotaledger/iota.rs) (👨‍💻 51 · 🔀 74 · 📥 14K · 📦 57 · 📋 280 - 12% open · ⏱️ 17.06.2022):
-
-	```
-	git clone https://github.com/iotaledger/iota.rs
-	```
-- [npm](https://www.npmjs.com/package/@iota/client) (📥 150 / month · ⏱️ 10.01.2022):
-	```
-	npm install @iota/client
-	```
-- [Cargo](https://crates.io/crates/iota-client) (📥 710 / month · 📦 3 · ⏱️ 07.06.2022):
-	```
-	cargo install iota-client
-	```
-</details>
 <details><summary><b><a href="https://github.com/iotaledger/firefly">firefly</a></b> (🥇25 ·  ⭐ 360) - IOTAs New Wallet. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/iotaledger/firefly) (👨‍💻 31 · 🔀 80 · 📥 20K · 📋 1.8K - 21% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/iotaledger/firefly) (👨‍💻 31 · 🔀 80 · 📥 21K · 📋 1.9K - 20% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/iotaledger/firefly
 	```
 </details>
-<details><summary><b><a href="https://github.com/iotaledger/hornet">hornet</a></b> (🥇25 ·  ⭐ 250) - HORNET is a powerful IOTA fullnode software. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/iotaledger/hornet">hornet</a></b> (🥇25 ·  ⭐ 260) - HORNET is a powerful IOTA fullnode software. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/iotaledger/hornet) (👨‍💻 45 · 🔀 130 · 📥 38K · 📦 6 · 📋 420 - 5% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/iotaledger/hornet) (👨‍💻 45 · 🔀 130 · 📥 38K · 📦 6 · 📋 420 - 5% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/iotaledger/hornet
 	```
 </details>
+<details><summary><b><a href="https://github.com/iotaledger/iota.rs">iota.rs</a></b> (🥇25 ·  ⭐ 190) - Official IOTA Rust library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/iotaledger/iota.rs) (👨‍💻 51 · 🔀 73 · 📥 14K · 📦 58 · 📋 290 - 13% open · ⏱️ 28.06.2022):
+
+	```
+	git clone https://github.com/iotaledger/iota.rs
+	```
+- [npm](https://www.npmjs.com/package/@iota/client) (📥 210 / month · ⏱️ 27.06.2022):
+	```
+	npm install @iota/client
+	```
+- [Cargo](https://crates.io/crates/iota-client) (📥 700 / month · 📦 4 · ⏱️ 07.06.2022):
+	```
+	cargo install iota-client
+	```
+</details>
 <details><summary><b><a href="https://github.com/iotaledger/stronghold.rs">stronghold.rs</a></b> (🥇24 ·  ⭐ 380) - Stronghold is a secret management engine written in rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/iotaledger/stronghold.rs) (👨‍💻 23 · 🔀 37 · 📥 24 · 📋 69 - 24% open · ⏱️ 18.06.2022):
+- [GitHub](https://github.com/iotaledger/stronghold.rs) (👨‍💻 23 · 🔀 39 · 📥 24 · 📋 69 - 24% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/iotaledger/stronghold.rs
 	```
-- [Cargo](https://crates.io/crates/iota_stronghold) (📥 2.1K / month · 📦 1 · ⏱️ 17.06.2022):
+- [Cargo](https://crates.io/crates/iota_stronghold) (📥 2.3K / month · 📦 1 · ⏱️ 27.06.2022):
 	```
 	cargo install iota_stronghold
 	```
@@ -8381,7 +8439,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 	```
 	git clone https://github.com/iotaledger/bee
 	```
-- [Cargo](https://crates.io/crates/bee-ternary) (📥 7.8K / month · 📦 7 · ⏱️ 12.04.2022):
+- [Cargo](https://crates.io/crates/bee-ternary) (📥 7.7K / month · 📦 7 · ⏱️ 12.04.2022):
 	```
 	cargo install bee-ternary
 	```
@@ -8406,7 +8464,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 	git clone https://github.com/iotaledger/trinity-wallet
 	```
 </details>
-<details><summary><b><a href="https://github.com/iotaledger/streams">streams</a></b> (🥈16 ·  ⭐ 210) - IOTA Streams, a framework for cryptographic protocols called.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/iotaledger/streams">streams</a></b> (🥉16 ·  ⭐ 210) - IOTA Streams, a framework for cryptographic protocols called.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/iotaledger/streams) (👨‍💻 17 · 🔀 51 · 📥 12 · 📦 9 · 📋 120 - 46% open · ⏱️ 02.06.2022):
 
@@ -8431,7 +8489,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/iotexproject/iotex-core">iotex-core</a></b> (🥇29 ·  ⭐ 1.4K) - Official implementation of IoTeX blockchain protocol in Go. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/iotexproject/iotex-core) (👨‍💻 77 · 🔀 280 · 📥 63K · 📦 22 · 📋 1K - 11% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/iotexproject/iotex-core) (👨‍💻 77 · 🔀 280 · 📥 63K · 📦 22 · 📋 1K - 11% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/iotexproject/iotex-core
@@ -8454,7 +8512,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/vechain/thor">thor</a></b> (🥈23 ·  ⭐ 750) - A general purpose blockchain highly compatible with Ethereums ecosystem. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/vechain/thor) (👨‍💻 22 · 🔀 220 · 📦 10 · 📋 110 - 13% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/vechain/thor) (👨‍💻 22 · 🔀 220 · 📦 11 · 📋 110 - 13% open · ⏱️ 20.06.2022):
 
 	```
 	git clone https://github.com/vechain/thor
@@ -8475,9 +8533,9 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 
 ---
-<details><summary><b><a href="https://github.com/helium/miner">miner</a></b> (🥈23 ·  ⭐ 550) - Miner for the helium blockchain. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/helium/miner">miner</a></b> (🥈23 ·  ⭐ 560) - Miner for the helium blockchain. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/helium/miner) (👨‍💻 47 · 🔀 220 · 📋 550 - 34% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/helium/miner) (👨‍💻 47 · 🔀 220 · 📋 550 - 34% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/helium/miner
@@ -8485,7 +8543,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 </details>
 <details><summary><b><a href="https://github.com/helium/HIP">HIP</a></b> (🥈18 ·  ⭐ 460) - Helium Improvement Proposals. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/helium/HIP) (👨‍💻 110 · 🔀 290 · 📋 110 - 37% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/helium/HIP) (👨‍💻 110 · 🔀 290 · 📋 110 - 37% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/helium/HIP
@@ -8493,7 +8551,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 </details>
 <details><summary><b><a href="https://github.com/helium/blockchain-core">blockchain-core</a></b> (🥈18 ·  ⭐ 200) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/helium/blockchain-core) (👨‍💻 28 · 🔀 76 · 📋 100 - 36% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/helium/blockchain-core) (👨‍💻 28 · 🔀 76 · 📋 100 - 36% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/helium/blockchain-core
@@ -8550,12 +8608,12 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/iost-official/go-iost">go-iost</a></b> (🥈20 ·  ⭐ 550) - Official Go implementation of the IOST blockchain. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/iost-official/go-iost) (👨‍💻 52 · 🔀 110 · 📋 86 - 50% open · ⏱️ 17.06.2022):
+- [GitHub](https://github.com/iost-official/go-iost) (👨‍💻 52 · 🔀 110 · 📋 86 - 50% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/iost-official/go-iost
 	```
-- [Go](https://pkg.go.dev/github.com/iost-official/go-iost) (⏱️ 10.06.2022):
+- [Go](https://pkg.go.dev/github.com/iost-official/go-iost) (⏱️ 28.06.2022):
 	```
 	go install github.com/iost-official/go-iost
 	```
@@ -8573,7 +8631,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/airalab/robonomics">robonomics</a></b> (🥈20 ·  ⭐ 200) - Robonomics node implementation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/airalab/robonomics) (👨‍💻 25 · 🔀 53 · 📥 17K · 📋 160 - 11% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/airalab/robonomics) (👨‍💻 25 · 🔀 53 · 📥 17K · 📋 160 - 11% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/airalab/robonomics
@@ -8607,7 +8665,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/AlisProject/frontend-application">frontend-application</a></b> (🥈17 ·  ⭐ 180) - ALIS Media - Frontend Application. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/AlisProject/frontend-application) (👨‍💻 10 · 🔀 31 · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/AlisProject/frontend-application) (👨‍💻 10 · 🔀 31 · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/AlisProject/frontend-application
@@ -8641,12 +8699,12 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/ethersphere/bee">ethersphere/bee</a></b> (🥇32 ·  ⭐ 1.3K) - Bee is a Swarm client implemented in Go. Its the basic.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/ethersphere/bee) (👨‍💻 47 · 🔀 320 · 📥 260K · 📦 70 · 📋 1.2K - 6% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/ethersphere/bee) (👨‍💻 47 · 🔀 320 · 📥 260K · 📦 72 · 📋 1.2K - 6% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/ethersphere/bee
 	```
-- [Go](https://pkg.go.dev/github.com/ethersphere/bee) (📦 8 · ⏱️ 14.06.2022):
+- [Go](https://pkg.go.dev/github.com/ethersphere/bee) (📦 8 · ⏱️ 20.06.2022):
 	```
 	go install github.com/ethersphere/bee
 	```
@@ -8664,7 +8722,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/nimiq/qr-scanner">qr-scanner</a></b> (🥇28 ·  ⭐ 1.4K) - Lightweight Javascript QR Code Scanner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/nimiq/qr-scanner) (👨‍💻 14 · 🔀 370 · 📦 840 · 📋 150 - 27% open · ⏱️ 01.06.2022):
+- [GitHub](https://github.com/nimiq/qr-scanner) (👨‍💻 14 · 🔀 370 · 📦 860 · 📋 150 - 28% open · ⏱️ 01.06.2022):
 
 	```
 	git clone https://github.com/nimiq/qr-scanner
@@ -8689,7 +8747,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 	```
 	git clone https://github.com/nimiq/core-js
 	```
-- [npm](https://www.npmjs.com/package/@nimiq/core-web) (📥 2.1K / month · 📦 19 · ⏱️ 17.02.2021):
+- [npm](https://www.npmjs.com/package/@nimiq/core-web) (📥 1.6K / month · 📦 19 · ⏱️ 17.02.2021):
 	```
 	npm install @nimiq/core-web
 	```
@@ -8711,25 +8769,25 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/nervosnetwork/ckb">ckb</a></b> (🥇29 ·  ⭐ 990) - The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/nervosnetwork/ckb) (👨‍💻 41 · 🔀 180 · 📥 32K · 📋 310 - 2% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/nervosnetwork/ckb) (👨‍💻 41 · 🔀 180 · 📥 32K · 📋 310 - 2% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/nervosnetwork/ckb
 	```
-- [Cargo](https://crates.io/crates/ckb-jsonrpc-types) (📥 8.3K / month · 📦 23 · ⏱️ 11.04.2022):
+- [Cargo](https://crates.io/crates/ckb-jsonrpc-types) (📥 8.1K / month · 📦 23 · ⏱️ 11.04.2022):
 	```
 	cargo install ckb-jsonrpc-types
 	```
 </details>
 <details><summary><b><a href="https://github.com/nervosnetwork/ckb-vm">ckb-vm</a></b> (🥈17 ·  ⭐ 280) - CKBs vm, based on open source RISC-V ISA. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/nervosnetwork/ckb-vm) (👨‍💻 13 · 🔀 45 · 📋 32 - 31% open · ⏱️ 02.06.2022):
+- [GitHub](https://github.com/nervosnetwork/ckb-vm) (👨‍💻 13 · 🔀 45 · 📋 32 - 31% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/nervosnetwork/ckb-vm
 	```
 </details>
-<details><summary><b><a href="https://github.com/nervosnetwork/rfcs">rfcs</a></b> (🥈16 ·  ⭐ 230) - This repository contains proposals, standards and documentations related to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/nervosnetwork/rfcs">rfcs</a></b> (🥉16 ·  ⭐ 230) - This repository contains proposals, standards and documentations related to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/nervosnetwork/rfcs) (👨‍💻 49 · 🔀 140 · 📋 67 - 32% open · ⏱️ 01.06.2022):
 
@@ -8750,7 +8808,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/JoinColony/colonyNetwork">colonyNetwork</a></b> (🥈20 ·  ⭐ 430) - Colony Network smart contracts. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/JoinColony/colonyNetwork) (👨‍💻 37 · 🔀 85 · 📋 360 - 10% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/JoinColony/colonyNetwork) (👨‍💻 37 · 🔀 85 · 📋 360 - 10% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/JoinColony/colonyNetwork
@@ -8769,36 +8827,36 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/AleoHQ/snarkOS">snarkOS</a></b> (🥇25 ·  ⭐ 1.1K) - A Decentralized Operating System for Zero-Knowledge Applications. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/AleoHQ/snarkOS) (👨‍💻 48 · 🔀 200 · 📥 6.3K · 📋 420 - 14% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/AleoHQ/snarkOS) (👨‍💻 48 · 🔀 200 · 📥 6.3K · 📋 420 - 14% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/AleoHQ/snarkOS
 	```
-- [Cargo](https://crates.io/crates/snarkos-metrics) (📥 390 / month · 📦 5 · ⏱️ 13.02.2022):
+- [Cargo](https://crates.io/crates/snarkos-metrics) (📥 400 / month · 📦 5 · ⏱️ 13.02.2022):
 	```
 	cargo install snarkos-metrics
 	```
 </details>
 <details><summary><b><a href="https://github.com/AleoHQ/snarkVM">snarkVM</a></b> (🥇25 ·  ⭐ 190) - A Virtual Machine for Zero-Knowledge Executions. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/AleoHQ/snarkVM) (👨‍💻 22 · 🔀 64 · 📋 120 - 47% open · ⏱️ 07.06.2022):
+- [GitHub](https://github.com/AleoHQ/snarkVM) (👨‍💻 22 · 🔀 65 · 📋 120 - 47% open · ⏱️ 07.06.2022):
 
 	```
 	git clone https://github.com/AleoHQ/snarkVM
 	```
-- [Cargo](https://crates.io/crates/snarkvm-parameters) (📥 6.8K / month · 📦 8 · ⏱️ 11.02.2022):
+- [Cargo](https://crates.io/crates/snarkvm-parameters) (📥 6.4K / month · 📦 8 · ⏱️ 11.02.2022):
 	```
 	cargo install snarkvm-parameters
 	```
 </details>
-<details><summary><b><a href="https://github.com/AleoHQ/leo">leo</a></b> (🥈21 ·  ⭐ 260) - The Leo Programming Language. A Functional, Statically-Typed Language for.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/AleoHQ/leo">leo</a></b> (🥈21 ·  ⭐ 270) - The Leo Programming Language. A Functional, Statically-Typed Language for.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/AleoHQ/leo) (👨‍💻 25 · 🔀 28 · 📥 17K · 📋 690 - 22% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/AleoHQ/leo) (👨‍💻 25 · 🔀 28 · 📥 17K · 📋 700 - 23% open · ⏱️ 20.06.2022):
 
 	```
 	git clone https://github.com/AleoHQ/leo
 	```
-- [Cargo](https://crates.io/crates/leo-imports) (📥 250 / month · 📦 4 · ⏱️ 30.07.2021):
+- [Cargo](https://crates.io/crates/leo-imports) (📥 260 / month · 📦 4 · ⏱️ 30.07.2021):
 	```
 	cargo install leo-imports
 	```
@@ -8822,13 +8880,13 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/klaytn">KLAY - Klaytn</a></b> (🥇31 ·  ⭐ 450) - Public blockchain platform of the leading South Korean mobile platform,..</summary>
+<details><summary><b><a href="https://github.com/klaytn">KLAY - Klaytn</a></b> (🥇31 ·  ⭐ 460) - Public blockchain platform of the leading South Korean mobile platform,..</summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/klaytn/klaytn">klaytn</a></b> (🥈23 ·  ⭐ 300) - Official Go implementation of the Klaytn protocol. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/klaytn/klaytn">klaytn</a></b> (🥇24 ·  ⭐ 300) - Official Go implementation of the Klaytn protocol. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/klaytn/klaytn) (👨‍💻 39 · 🔀 130 · 📦 38 · 📋 190 - 38% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/klaytn/klaytn) (👨‍💻 39 · 🔀 130 · 📦 40 · 📋 190 - 38% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/klaytn/klaytn
@@ -8856,32 +8914,13 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/MinaProtocol">MINA - Mina Protocol</a></b> (🥇29 ·  ⭐ 1.4K) - The worlds lightest blockchain, powered by participants. Mina..</summary>
-
-
----
-<details><summary><b><a href="https://github.com/MinaProtocol/mina">mina</a></b> (🥇32 ·  ⭐ 1.4K) - Mina is a new cryptocurrency with a constant size blockchain, improving.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/MinaProtocol/mina) (👨‍💻 77 · 🔀 300 · 📥 980 · 📦 31 · 📋 4.7K - 41% open · ⏱️ 22.06.2022):
-
-	```
-	git clone https://github.com/MinaProtocol/mina
-	```
-- [npm](https://www.npmjs.com/package/mina-signer) (📥 790 / month · ⏱️ 18.03.2022):
-	```
-	npm install mina-signer
-	```
-</details>
-
----
-</details>
 <details><summary><b><a href="https://github.com/AcalaNetwork">KAR - Karura</a></b> (🥇29 ·  ⭐ 780) - All-in-one DeFi hub of Kusama. Founded by the Acala Foundation, Karura..</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/AcalaNetwork/Acala">Acala</a></b> (🥈21 ·  ⭐ 660) - Acala - cross-chain DeFi hub and stablecoin based on Substrate for.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/AcalaNetwork/Acala) (👨‍💻 33 · 🔀 190 · 📥 4 · 📋 800 - 17% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/AcalaNetwork/Acala) (👨‍💻 33 · 🔀 190 · 📥 4 · 📋 800 - 16% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/AcalaNetwork/Acala
@@ -8891,6 +8930,25 @@ _Blockchains designed to facilitate the exchange of data and payment information
 <br>
 
  _2 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/MinaProtocol">MINA - Mina Protocol</a></b> (🥇28 ·  ⭐ 1.5K) - The worlds lightest blockchain, powered by participants. Mina..</summary>
+
+
+---
+<details><summary><b><a href="https://github.com/MinaProtocol/mina">mina</a></b> (🥇32 ·  ⭐ 1.5K) - Mina is a new cryptocurrency with a constant size blockchain, improving.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/MinaProtocol/mina) (👨‍💻 78 · 🔀 300 · 📥 980 · 📦 31 · 📋 4.7K - 41% open · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/MinaProtocol/mina
+	```
+- [npm](https://www.npmjs.com/package/mina-signer) (📥 460 / month · ⏱️ 18.03.2022):
+	```
+	npm install mina-signer
+	```
+</details>
 
 ---
 </details>
@@ -8905,28 +8963,13 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/superalgos">SA - Superalgos</a></b> (🥇26 ·  ⭐ 2.8K) - No description. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-<details><summary><b><a href="https://github.com/Superalgos/Superalgos">Superalgos</a></b> (🥇30 ·  ⭐ 2.8K) - Free, open-source crypto trading bot, automated bitcoin /.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/Superalgos/Superalgos) (👨‍💻 190 · 🔀 4.6K · 📥 5.6K · 📋 450 - 27% open · ⏱️ 06.04.2022):
-
-	```
-	git clone https://github.com/Superalgos/Superalgos
-	```
-</details>
-
----
-</details>
 <details><summary><b><a href="https://github.com/bitcoin-abc">XEC - eCash</a></b> (🥇26 ·  ⭐ 1.1K) - Derived from one of the most trusted names in the cryptocurrency space,..</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/Bitcoin-ABC/bitcoin-abc">bitcoin-abc</a></b> (🥇29 ·  ⭐ 1.1K) - This a mirror of the official Bitcoin-ABC repository. Please see.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Bitcoin-ABC/bitcoin-abc) (👨‍💻 820 · 🔀 650 · 📥 50K · 📋 350 - 19% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/Bitcoin-ABC/bitcoin-abc) (👨‍💻 820 · 🔀 650 · 📥 50K · 📋 350 - 19% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/Bitcoin-ABC/bitcoin-abc
@@ -8935,16 +8978,31 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/hummingbot">HBOT - Hummingbot</a></b> (🥇25 ·  ⭐ 4.3K) - The Hummingbot Governance Token (HBOT) is a standard ERC-20.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/hummingbot">HBOT - Hummingbot</a></b> (🥇25 ·  ⭐ 4.4K) - The Hummingbot Governance Token (HBOT) is a standard ERC-20.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/hummingbot/hummingbot">hummingbot/hummingbot</a></b> (🥇28 ·  ⭐ 4.3K) - Hummingbot is open source software that helps you.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/hummingbot/hummingbot">hummingbot/hummingbot</a></b> (🥇28 ·  ⭐ 4.4K) - Hummingbot is open source software that helps you.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/hummingbot/hummingbot) (👨‍💻 160 · 🔀 1.5K · 📥 26 · 📋 2.5K - 28% open · ⏱️ 31.05.2022):
 
 	```
 	git clone https://github.com/hummingbot/hummingbot
+	```
+</details>
+
+---
+</details>
+<details><summary><b><a href="https://github.com/superalgos">SA - Superalgos</a></b> (🥇25 ·  ⭐ 2.8K) - No description. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+<details><summary><b><a href="https://github.com/Superalgos/Superalgos">Superalgos</a></b> (🥇29 ·  ⭐ 2.8K) - Free, open-source crypto trading bot, automated bitcoin /.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/Superalgos/Superalgos) (👨‍💻 190 · 🔀 4.6K · 📥 5.7K · 📋 460 - 26% open · ⏱️ 06.04.2022):
+
+	```
+	git clone https://github.com/Superalgos/Superalgos
 	```
 </details>
 
@@ -8956,7 +9014,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/rsksmart/rskj">rskj</a></b> (🥈22 ·  ⭐ 650) - RSKj is a Java implementation of the RSK protocol. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/rsksmart/rskj) (👨‍💻 70 · 🔀 230 · 📥 7.9K · 📋 470 - 52% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/rsksmart/rskj) (👨‍💻 70 · 🔀 230 · 📥 7.9K · 📋 490 - 50% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/rsksmart/rskj
@@ -8975,7 +9033,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/spacemeshos/go-spacemesh">go-spacemesh</a></b> (🥇26 ·  ⭐ 580) - Go Implementation of the Spacemesh protocol full node. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/spacemeshos/go-spacemesh) (👨‍💻 63 · 🔀 130 · 📥 1.2K · 📦 24 · 📋 1.7K - 18% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/spacemeshos/go-spacemesh) (👨‍💻 64 · 🔀 130 · 📥 1.2K · 📦 24 · 📋 1.8K - 17% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/spacemeshos/go-spacemesh
@@ -8996,9 +9054,9 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 
 ---
-<details><summary><b><a href="https://github.com/namecoin/namecoin-core">namecoin-core</a></b> (🥇25 ·  ⭐ 420) - Namecoin full node + wallet based on the current Bitcoin Core.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/namecoin/namecoin-core">namecoin-core</a></b> (🥇26 ·  ⭐ 420) - Namecoin full node + wallet based on the current Bitcoin Core.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/namecoin/namecoin-core) (👨‍💻 1.1K · 🔀 140 · 📋 310 - 44% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/namecoin/namecoin-core) (👨‍💻 1.1K · 🔀 140 · 📋 310 - 44% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/namecoin/namecoin-core
@@ -9028,12 +9086,12 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/cardstack/cardstack">cardstack</a></b> (🥇29 ·  ⭐ 310) - The mono-repo for the core Cardstack framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/cardstack/cardstack) (👨‍💻 38 · 🔀 61 · 📋 530 - 2% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/cardstack/cardstack) (👨‍💻 38 · 🔀 62 · 📋 530 - 2% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/cardstack/cardstack
 	```
-- [npm](https://www.npmjs.com/package/@cardstack/eslint-config) (📥 460 / month · 📦 52 · ⏱️ 08.06.2022):
+- [npm](https://www.npmjs.com/package/@cardstack/eslint-config) (📥 210 / month · 📦 52 · ⏱️ 24.06.2022):
 	```
 	npm install @cardstack/eslint-config
 	```
@@ -9064,11 +9122,30 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
+<details><summary><b><a href="https://github.com/subquery">SQT - Squidgame Token</a></b> (🥇24 ·  ⭐ 240) - Online survival simulation game, where users can.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+<details><summary><b><a href="https://github.com/subquery/subql">subql</a></b> (🥇26 ·  ⭐ 240) - Indexer service in our @subql toolkit, can load users subquery then.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/subquery/subql) (👨‍💻 21 · 🔀 82 · 📦 3.7K · 📋 310 - 20% open · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/subquery/subql
+	```
+- [npm](https://www.npmjs.com/package/@subqlmono/node) (📥 13 / month · ⏱️ 15.07.2021):
+	```
+	npm install @subqlmono/node
+	```
+</details>
+
+---
+</details>
 <details><summary><b><a href="https://github.com/zeriontech">TBX - Tokenbox</a></b> (🥈23 ·  ⭐ 890) - Utility token that providing an access to the platforms services... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/zeriontech/defi-sdk">defi-sdk</a></b> (🥈16 ·  ⭐ 670) - DeFi SDK Makes Money Lego Work. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/zeriontech/defi-sdk">defi-sdk</a></b> (🥉16 ·  ⭐ 670) - DeFi SDK Makes Money Lego Work. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/zeriontech/defi-sdk) (👨‍💻 10 · 🔀 200 · 📋 55 - 54% open · ⏱️ 18.05.2022):
 
@@ -9089,7 +9166,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/ONEARMY/community-platform">community-platform</a></b> (🥇24 ·  ⭐ 470) - A platform to build useful communities that aim to tackle.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ONEARMY/community-platform) (👨‍💻 68 · 🔀 160 · 📋 670 - 10% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/ONEARMY/community-platform) (👨‍💻 69 · 🔀 160 · 📋 680 - 10% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/ONEARMY/community-platform
@@ -9102,32 +9179,13 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/unlock-protocol">UDT - Unlock Protocol</a></b> (🥈23 ·  ⭐ 660) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-<details><summary><b><a href="https://github.com/unlock-protocol/unlock">unlock</a></b> (🥇26 ·  ⭐ 660) - nlock is a protocol for memberships built on a blockchain. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/unlock-protocol/unlock) (👨‍💻 44 · 🔀 140 · 📋 1.6K - 7% open · ⏱️ 22.06.2022):
-
-	```
-	git clone https://github.com/unlock-protocol/unlock
-	```
-- [npm](https://www.npmjs.com/package/@unlock-protocol/unlock-js) (📥 640 / month · ⏱️ 11.04.2022):
-	```
-	npm install @unlock-protocol/unlock-js
-	```
-</details>
-
----
-</details>
 <details><summary><b><a href="https://github.com/gridcoin-community">GRC - Gridcoin</a></b> (🥈23 ·  ⭐ 550) - Cryptocurrency which rewards volunteer distributed computation..</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/gridcoin-community/Gridcoin-Research">Gridcoin-Research</a></b> (🥇25 ·  ⭐ 550) - Gridcoin-Research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/gridcoin-community/Gridcoin-Research) (👨‍💻 84 · 🔀 160 · 📥 65K · 📋 960 - 4% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/gridcoin-community/Gridcoin-Research) (👨‍💻 84 · 🔀 160 · 📥 65K · 📋 960 - 3% open · ⏱️ 26.06.2022):
 
 	```
 	git clone https://github.com/gridcoin-community/Gridcoin-Research
@@ -9142,7 +9200,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/FactomProject/factomd">factomd</a></b> (🥈23 ·  ⭐ 210) - Factom Daemon. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/FactomProject/factomd) (👨‍💻 94 · 🔀 93 · 📥 250 · 📦 39 · 📋 120 - 25% open · ⏱️ 21.02.2022):
+- [GitHub](https://github.com/FactomProject/factomd) (👨‍💻 94 · 🔀 93 · 📥 250 · 📦 40 · 📋 120 - 25% open · ⏱️ 21.02.2022):
 
 	```
 	git clone https://github.com/FactomProject/factomd
@@ -9165,7 +9223,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/regen-network/regen-ledger">regen-ledger</a></b> (🥇24 ·  ⭐ 160) - Blockchain for planetary regeneration. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/regen-network/regen-ledger) (👨‍💻 31 · 🔀 65 · 📥 940 · 📦 6 · 📋 550 - 18% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/regen-network/regen-ledger) (👨‍💻 31 · 🔀 66 · 📥 940 · 📦 6 · 📋 560 - 18% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/regen-network/regen-ledger
@@ -9188,12 +9246,12 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/okex/exchain">exchain</a></b> (🥇24 ·  ⭐ 350) - The Infrastructure of Decentralized Exchange. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/okex/exchain) (👨‍💻 46 · 🔀 120 · 📥 13 · 📦 27 · 📋 230 - 22% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/okex/exchain) (👨‍💻 46 · 🔀 120 · 📥 13 · 📦 28 · 📋 230 - 22% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/okex/exchain
 	```
-- [Go](https://pkg.go.dev/github.com/okex/exchain) (📦 6 · ⏱️ 17.06.2022):
+- [Go](https://pkg.go.dev/github.com/okex/exchain) (📦 6 · ⏱️ 22.06.2022):
 	```
 	go install github.com/okex/exchain
 	```
@@ -9219,7 +9277,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/rchain/rchain">rchain</a></b> (🥇25 ·  ⭐ 670) - Blockchain (smart contract) platform using CBC-Casper proof of stake +.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/rchain/rchain) (👨‍💻 100 · 🔀 180 · 📥 6.2K · 📋 250 - 43% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/rchain/rchain) (👨‍💻 100 · 🔀 190 · 📥 6.2K · 📋 250 - 42% open · ⏱️ 28.06.2022):
 
 	```
 	git clone https://github.com/rchain/rchain
@@ -9237,6 +9295,25 @@ _Blockchains designed to facilitate the exchange of data and payment information
 <br>
 
  _1 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/unlock-protocol">UDT - Unlock Protocol</a></b> (🥈22 ·  ⭐ 660) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+<details><summary><b><a href="https://github.com/unlock-protocol/unlock">unlock</a></b> (🥇26 ·  ⭐ 660) - nlock is a protocol for memberships built on a blockchain. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/unlock-protocol/unlock) (👨‍💻 45 · 🔀 140 · 📋 1.6K - 7% open · ⏱️ 29.06.2022):
+
+	```
+	git clone https://github.com/unlock-protocol/unlock
+	```
+- [npm](https://www.npmjs.com/package/@unlock-protocol/unlock-js) (📥 480 / month · ⏱️ 11.04.2022):
+	```
+	npm install @unlock-protocol/unlock-js
+	```
+</details>
 
 ---
 </details>
@@ -9301,7 +9378,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 	```
 	git clone https://github.com/dadi/api
 	```
-- [npm](https://www.npmjs.com/package/@dadi/api) (📥 260 / month · 📦 11 · ⏱️ 16.07.2021):
+- [npm](https://www.npmjs.com/package/@dadi/api) (📥 370 / month · 📦 11 · ⏱️ 16.07.2021):
 	```
 	npm install @dadi/api
 	```
@@ -9310,17 +9387,6 @@ _Blockchains designed to facilitate the exchange of data and payment information
 <br>
 
  _3 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
-<details><summary><b><a href="https://github.com/sentinel-official">DVPN - Sentinel</a></b> (🥈22 ·  ⭐ 460) - A modern VPN backed by blockchain anonymity and security. Share &..</summary>
-
-
----
-
-<br>
-
- _4 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -9347,25 +9413,6 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/subquery">SQT - Squidgame Token</a></b> (🥈22 ·  ⭐ 240) - Online survival simulation game, where users can.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-<details><summary><b><a href="https://github.com/subquery/subql">subql</a></b> (🥇24 ·  ⭐ 240) - Indexer service in our @subql toolkit, can load users subquery then.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/subquery/subql) (👨‍💻 20 · 🔀 80 · 📦 3.7K · 📋 300 - 19% open · ⏱️ 22.06.2022):
-
-	```
-	git clone https://github.com/subquery/subql
-	```
-- [npm](https://www.npmjs.com/package/@subqlmono/node) (📥 13 / month · ⏱️ 15.07.2021):
-	```
-	npm install @subqlmono/node
-	```
-</details>
-
----
-</details>
 <details><summary><b><a href="https://github.com/incognitochain">PRV - PrivacySwap</a></b> (🥈22 ·  ⭐ 200) - PrivacySwaps intention is to amass a community of hodlers,.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code></summary>
 
 
@@ -9383,7 +9430,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/dapphub/dapptools">dapptools</a></b> (🥈19 ·  ⭐ 1.6K) - Dapp, Seth, Hevm, and more. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/dapphub/dapptools) (👨‍💻 97 · 🔀 280 · 📥 380 · 📋 420 - 39% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/dapphub/dapptools) (👨‍💻 97 · 🔀 280 · 📥 380 · 📋 420 - 38% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/dapphub/dapptools
@@ -9405,9 +9452,9 @@ _Blockchains designed to facilitate the exchange of data and payment information
 	git clone https://github.com/dapphub/ds-proxy
 	```
 </details>
-<details><summary><b><a href="https://github.com/dapphub/ds-token">ds-token</a></b> (🥉10 ·  ⭐ 190) - A simple and sufficient ERC20 implementation. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/dapphub/ds-token">ds-token</a></b> (🥉10 ·  ⭐ 200) - A simple and sufficient ERC20 implementation. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/dapphub/ds-token) (👨‍💻 13 · 🔀 56 · 📋 16 - 25% open · ⏱️ 08.01.2022):
+- [GitHub](https://github.com/dapphub/ds-token) (👨‍💻 13 · 🔀 57 · 📋 16 - 25% open · ⏱️ 08.01.2022):
 
 	```
 	git clone https://github.com/dapphub/ds-token
@@ -9426,7 +9473,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/sunflower-land/sunflower-land">sunflower-farmers</a></b> (🥈22 ·  ⭐ 1.3K) -  <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/sunflower-land/sunflower-land) (👨‍💻 54 · 🔀 390 · 📋 570 - 3% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/sunflower-land/sunflower-land) (👨‍💻 55 · 🔀 390 · 📋 570 - 1% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/sunflower-farmers/sunflower-farmers
@@ -9435,34 +9482,41 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/aurora-is-near">AURORA - Aurora</a></b> (🥈21 ·  ⭐ 700) - EVM built on the NEAR Protocol, delivering a turn-key solution.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/dtube">DTUBE - Dtube Coin</a></b> (🥈21 ·  ⭐ 1.2K) - DTube Coin: a utility token for video, it enables people to.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/aurora-is-near/rainbow-bridge">rainbow-bridge</a></b> (🥈19 ·  ⭐ 250) - NEAR Ethereum Decentralized Bridge. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/dtube/dtube">dtube</a></b> (🥈17 ·  ⭐ 720) - d.tube app. A full-featured video sharing website, decentralized. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/aurora-is-near/rainbow-bridge) (👨‍💻 27 · 🔀 62 · 📦 4 · 📋 340 - 29% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/dtube/dtube) (👨‍💻 22 · 🔀 180 · 📋 280 - 38% open · ⏱️ 29.06.2022):
 
 	```
-	git clone https://github.com/aurora-is-near/rainbow-bridge
-	```
-- [npm](https://www.npmjs.com/package/rainbow-bridge-watchdog) (📥 7 / month · ⏱️ 27.10.2020):
-	```
-	npm install rainbow-bridge-watchdog
+	git clone https://github.com/dtube/dtube
 	```
 </details>
-<details><summary><b><a href="https://github.com/aurora-is-near/aurora-engine">aurora-engine</a></b> (🥈16 ·  ⭐ 220) - Aurora Engine implements an Ethereum Virtual Machine (EVM) on.. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">CC0-1.0</a></code></summary>
+<details><summary><b><a href="https://github.com/dtube/production">production</a></b> (🥉11 ·  ⭐ 370) - Production app for D.Tube. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/aurora-is-near/aurora-engine) (👨‍💻 10 · 🔀 41 · 📥 590 · 📋 140 - 45% open · ⏱️ 08.06.2022):
+- [GitHub](https://github.com/dtube/production) (👨‍💻 2 · 🔀 59 · 📋 48 - 33% open · ⏱️ 27.05.2022):
 
 	```
-	git clone https://github.com/aurora-is-near/aurora-engine
+	git clone https://github.com/dtube/production
 	```
 </details>
 
 <br>
 
- _5 projects are hidden because they don't fulfill the minimal requirements._
+ _2 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/sentinel-official">DVPN - Sentinel</a></b> (🥈21 ·  ⭐ 470) - A modern VPN backed by blockchain anonymity and security. Share &..</summary>
+
+
+---
+
+<br>
+
+ _4 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -9488,7 +9542,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 </details>
 <details><summary><b><a href="https://github.com/DemocracyEarth/ubi">ubi</a></b> (🥉14 ·  ⭐ 210) - Universal Basic Income token. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/DemocracyEarth/ubi) (👨‍💻 13 · 🔀 32 · ⏱️ 18.04.2022):
+- [GitHub](https://github.com/DemocracyEarth/ubi) (👨‍💻 13 · 🔀 32 · 📋 11 - 9% open · ⏱️ 18.04.2022):
 
 	```
 	git clone https://github.com/DemocracyEarth/ubi
@@ -9501,30 +9555,45 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/dtube">DTUBE - Dtube Coin</a></b> (🥈20 ·  ⭐ 1.2K) - DTube Coin: a utility token for video, it enables people to.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/aurora-is-near">AURORA - Aurora</a></b> (🥈20 ·  ⭐ 700) - EVM built on the NEAR Protocol, delivering a turn-key solution.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/dtube/dtube">dtube</a></b> (🥈17 ·  ⭐ 720) - d.tube app. A full-featured video sharing website, decentralized. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/aurora-is-near/rainbow-bridge">rainbow-bridge</a></b> (🥈19 ·  ⭐ 250) - NEAR Ethereum Decentralized Bridge. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/dtube/dtube) (👨‍💻 22 · 🔀 180 · 📋 280 - 38% open · ⏱️ 27.05.2022):
+- [GitHub](https://github.com/aurora-is-near/rainbow-bridge) (👨‍💻 27 · 🔀 63 · 📦 4 · 📋 340 - 29% open · ⏱️ 25.06.2022):
 
 	```
-	git clone https://github.com/dtube/dtube
+	git clone https://github.com/aurora-is-near/rainbow-bridge
+	```
+- [npm](https://www.npmjs.com/package/rainbow-bridge-watchdog) (📥 6 / month · ⏱️ 27.10.2020):
+	```
+	npm install rainbow-bridge-watchdog
 	```
 </details>
-<details><summary><b><a href="https://github.com/dtube/production">production</a></b> (🥉11 ·  ⭐ 370) - Production app for D.Tube. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/aurora-is-near/aurora-engine">aurora-engine</a></b> (🥈17 ·  ⭐ 220) - Aurora Engine implements an Ethereum Virtual Machine (EVM) on.. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">CC0-1.0</a></code></summary>
 
-- [GitHub](https://github.com/dtube/production) (👨‍💻 2 · 🔀 59 · 📋 48 - 33% open · ⏱️ 27.05.2022):
+- [GitHub](https://github.com/aurora-is-near/aurora-engine) (👨‍💻 10 · 🔀 44 · 📥 600 · 📋 130 - 42% open · ⏱️ 23.06.2022):
 
 	```
-	git clone https://github.com/dtube/production
+	git clone https://github.com/aurora-is-near/aurora-engine
 	```
 </details>
 
 <br>
 
- _2 projects are hidden because they don't fulfill the minimal requirements._
+ _5 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/Neufund">NEU - Neumark</a></b> (🥈20 ·  ⭐ 450 · 💤) - Neumarks (NEU) are Neufunds protocol tokens which participants.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+
+<br>
+
+ _4 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -9543,9 +9612,9 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 
 ---
-<details><summary><b><a href="https://github.com/starcoinorg/starcoin">starcoin</a></b> (🥇24 ·  ⭐ 350) - A Layered Cryptocurrency and Decentralized Blockchain System. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/starcoinorg/starcoin">starcoin</a></b> (🥇24 ·  ⭐ 350) - Starcoin - A smart contract blockchain network that scales by.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/starcoinorg/starcoin) (👨‍💻 42 · 🔀 98 · 📥 7.2K · 📋 850 - 14% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/starcoinorg/starcoin) (👨‍💻 42 · 🔀 98 · 📥 7.3K · 📋 860 - 14% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/starcoinorg/starcoin
@@ -9560,12 +9629,12 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/kleros/kleros">kleros</a></b> (🥈21 ·  ⭐ 200) - Kleros smart contracts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/kleros/kleros) (👨‍💻 23 · 🔀 56 · 📦 39 · 📋 70 - 20% open · ⏱️ 13.01.2022):
+- [GitHub](https://github.com/kleros/kleros) (👨‍💻 23 · 🔀 61 · 📦 39 · 📋 70 - 20% open · ⏱️ 13.01.2022):
 
 	```
 	git clone https://github.com/kleros/kleros
 	```
-- [npm](https://www.npmjs.com/package/@kleros/kleros) (📥 810 / month · 📦 4 · ⏱️ 10.05.2020):
+- [npm](https://www.npmjs.com/package/@kleros/kleros) (📥 860 / month · 📦 4 · ⏱️ 10.05.2020):
 	```
 	npm install @kleros/kleros
 	```
@@ -9599,27 +9668,43 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/DistributedCollective">SOV - Sovryn</a></b> (🥈20 ·  ⭐ 150) - X16r GPU minable crypto with masternodes. Premine: 850 000 SOV. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-
-<br>
-
- _2 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
 <details><summary><b><a href="https://github.com/ibax-io">IBXC</a></b> (🥈19 ·  ⭐ 7.5K) - No description.</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/IBAX-io/go-ibax">go-ibax</a></b> (🥈22 ·  ⭐ 7.5K) - An innovative Blockchain Protocol Platform, which everyone can.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/IBAX-io/go-ibax) (👨‍💻 6 · 🔀 6.3K · 📦 3 · 📋 260 - 31% open · ⏱️ 22.06.2022):
+- [GitHub](https://github.com/IBAX-io/go-ibax) (👨‍💻 6 · 🔀 6.3K · 📦 3 · 📋 260 - 31% open · ⏱️ 29.06.2022):
 
 	```
 	git clone https://github.com/IBAX-io/go-ibax
+	```
+</details>
+
+---
+</details>
+<details><summary><b><a href="https://github.com/chain">CHN - Chain</a></b> (🥈19 ·  ⭐ 1.8K) - Cloud blockchain infrastructure that enables organizations to build.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+
+
+---
+<details><summary><b><a href="https://github.com/chain/chain">chain</a></b> (🥈20 ·  ⭐ 1.8K) - Chain Core - Open Source Ledger-as-a-Service. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/chain/chain) (👨‍💻 28 · 🔀 360 · 📦 4 · 📋 120 - 0% open · ⏱️ 05.05.2022):
+
+	```
+	git clone https://github.com/chain/chain
+	```
+- [npm](https://www.npmjs.com/package/chain-sdk) (📥 16 / month · 📦 11 · ⏱️ 12.05.2017):
+	```
+	npm install chain-sdk
+	```
+- [Maven](https://search.maven.org/artifact/com.chain/sequence-sdk) (⏱️ 18.09.2017):
+	```
+	<dependency>
+		<groupId>com.chain</groupId>
+		<artifactId>sequence-sdk</artifactId>
+		<version>[VERSION]</version>
+	</dependency>
 	```
 </details>
 
@@ -9640,18 +9725,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/Neufund">NEU - Neumark</a></b> (🥈19 ·  ⭐ 450 · 💤) - Neumarks (NEU) are Neufunds protocol tokens which participants.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
-
-
----
-
-<br>
-
- _4 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
-<details><summary><b><a href="https://github.com/likecoin">LIKE - LikeCoin</a></b> (🥈19 ·  ⭐ 230) - LikeCoin aims to reinvent the Like by realigning creativity and..</summary>
+<details><summary><b><a href="https://github.com/likecoin">LIKE - LikeCoin</a></b> (🥈19 ·  ⭐ 240) - LikeCoin aims to reinvent the Like by realigning creativity and..</summary>
 
 
 ---
@@ -9679,7 +9753,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/bitholla/hollaex-kit">hollaex-kit</a></b> (🥈21 ·  ⭐ 170) - Exchange Starter Kit to run your own Digital Asset Trading.. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/bitholla/hollaex-kit) (👨‍💻 28 · 🔀 160 · 📦 15 · 📋 46 - 63% open · ⏱️ 13.06.2022):
+- [GitHub](https://github.com/bitholla/hollaex-kit) (👨‍💻 29 · 🔀 160 · 📦 15 · 📋 47 - 61% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/bitholla/hollaex-kit
@@ -9688,30 +9762,37 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/chain">CHN - Chain</a></b> (🥈18 ·  ⭐ 1.8K) - Cloud blockchain infrastructure that enables organizations to build.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/DistributedCollective">SOV - Sovryn</a></b> (🥈19 ·  ⭐ 160) - X16r GPU minable crypto with masternodes. Premine: 850 000 SOV. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/chain/chain">chain</a></b> (🥈20 ·  ⭐ 1.8K) - Chain Core - Open Source Ledger-as-a-Service. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/chain/chain) (👨‍💻 28 · 🔀 360 · 📦 4 · 📋 120 - 0% open · ⏱️ 05.05.2022):
+<br>
+
+ _2 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/nemproject">LYL - LoyalCoin</a></b> (🥈18 ·  ⭐ 550) - Customer loyalty-oriented digital asset that is replacing and..</summary>
+
+
+---
+<details><summary><b><a href="https://github.com/NemProject/NanoWallet">NanoWallet</a></b> (🥈21 ·  ⭐ 280) - NanoWallet. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/NemProject/NanoWallet) (👨‍💻 39 · 🔀 4 · 📥 790K · 📋 500 - 22% open · ⏱️ 25.03.2022):
 
 	```
-	git clone https://github.com/chain/chain
+	git clone https://github.com/NemProject/NanoWallet
 	```
-- [npm](https://www.npmjs.com/package/chain-sdk) (📥 7 / month · 📦 11 · ⏱️ 12.05.2017):
+- [npm](https://www.npmjs.com/package/snapwallet) (📥 4 / month · ⏱️ 23.07.2017):
 	```
-	npm install chain-sdk
-	```
-- [Maven](https://search.maven.org/artifact/com.chain/sequence-sdk) (⏱️ 18.09.2017):
-	```
-	<dependency>
-		<groupId>com.chain</groupId>
-		<artifactId>sequence-sdk</artifactId>
-		<version>[VERSION]</version>
-	</dependency>
+	npm install snapwallet
 	```
 </details>
+
+<br>
+
+ _1 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
 </details>
@@ -9721,7 +9802,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/dappnode/DAppNode">DAppNode</a></b> (🥈20 ·  ⭐ 420) - General repository of the project dappnode. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/dappnode/DAppNode) (👨‍💻 15 · 🔀 48 · 📥 36K · 📋 340 - 24% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/dappnode/DAppNode) (👨‍💻 15 · 🔀 48 · 📥 36K · 📋 350 - 24% open · ⏱️ 20.06.2022):
 
 	```
 	git clone https://github.com/dappnode/DAppNode
@@ -9736,7 +9817,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/Aptoide/aptoide-client-v8">aptoide-client-v8</a></b> (🥈19 ·  ⭐ 220 · 💤) - All the Apps you need. Discover your new Android App.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Aptoide/aptoide-client-v8) (👨‍💻 32 · 🔀 67 · 📥 3.9K · 📋 38 - 39% open · ⏱️ 13.10.2021):
+- [GitHub](https://github.com/Aptoide/aptoide-client-v8) (👨‍💻 32 · 🔀 67 · 📥 4K · 📋 38 - 39% open · ⏱️ 13.10.2021):
 
 	```
 	git clone https://github.com/Aptoide/aptoide-client-v8
@@ -9749,7 +9830,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/BlocknetDX">ABLOCK - ANY Blocknet</a></b> (🥈18 ·  ⭐ 260) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/BlocknetDX">ABLOCK - ANY Blocknet</a></b> (🥈18 ·  ⭐ 270) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
@@ -9800,7 +9881,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 ---
 <details><summary><b><a href="https://github.com/Adamant-im/adamant-im">adamant-im</a></b> (🥈18 ·  ⭐ 240) - ADAMANT Decentralized Messenger. Progressive Web Application (PWA). <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Adamant-im/adamant-im) (👨‍💻 26 · 🔀 42 · 📥 7.3K · 📋 20 - 15% open · ⏱️ 22.05.2022):
+- [GitHub](https://github.com/Adamant-im/adamant-im) (👨‍💻 26 · 🔀 42 · 📥 7.4K · 📋 20 - 15% open · ⏱️ 22.05.2022):
 
 	```
 	git clone https://github.com/Adamant-im/adamant-im
@@ -9812,29 +9893,6 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 	```
 	git clone https://github.com/Adamant-im/adamant
-	```
-</details>
-
-<br>
-
- _1 projects are hidden because they don't fulfill the minimal requirements._
-
----
-</details>
-<details><summary><b><a href="https://github.com/nemproject">LYL - LoyalCoin</a></b> (🥈17 ·  ⭐ 550) - Customer loyalty-oriented digital asset that is replacing and..</summary>
-
-
----
-<details><summary><b><a href="https://github.com/NemProject/NanoWallet">NanoWallet</a></b> (🥈20 ·  ⭐ 280) - NanoWallet. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/NemProject/NanoWallet) (👨‍💻 39 · 🔀 4 · 📥 790K · 📋 500 - 22% open · ⏱️ 25.03.2022):
-
-	```
-	git clone https://github.com/NemProject/NanoWallet
-	```
-- [npm](https://www.npmjs.com/package/snapwallet) (📥 5 / month · ⏱️ 23.07.2017):
-	```
-	npm install snapwallet
 	```
 </details>
 
@@ -9859,7 +9917,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/ton-blockchain">GRAM - OpenGram</a></b> (🥈16 ·  ⭐ 1.5K) - The GRAM team is not the telegram official team. The goal of the..</summary>
+<details><summary><b><a href="https://github.com/ton-blockchain">GRAM - OpenGram</a></b> (🥉16 ·  ⭐ 1.5K) - The GRAM team is not the telegram official team. The goal of the..</summary>
 
 
 ---
@@ -9874,7 +9932,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/TP-Lab">TPT - Token Pocket</a></b> (🥈16 ·  ⭐ 540) - TPT stands for TokenPocket Token. It is a utility token.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/TP-Lab">TPT - Token Pocket</a></b> (🥉16 ·  ⭐ 540) - TPT stands for TokenPocket Token. It is a utility token.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code></summary>
 
 
 ---
@@ -9885,13 +9943,13 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/CosmosContracts">JUNO - Juno Network</a></b> (🥈16 ·  ⭐ 200) - No description.</summary>
+<details><summary><b><a href="https://github.com/CosmosContracts">JUNO - Juno Network</a></b> (🥉16 ·  ⭐ 200) - No description.</summary>
 
 
 ---
 <details><summary><b><a href="https://github.com/CosmosContracts/juno">juno</a></b> (🥈20 ·  ⭐ 200) - Open Source Platform for Interoperable Smart Contracts. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/CosmosContracts/juno) (👨‍💻 12 · 🔀 72 · 📥 1.8K · 📋 57 - 17% open · ⏱️ 20.06.2022):
+- [GitHub](https://github.com/CosmosContracts/juno) (👨‍💻 12 · 🔀 73 · 📥 1.8K · 📋 57 - 17% open · ⏱️ 20.06.2022):
 
 	```
 	git clone https://github.com/CosmosContracts/juno
@@ -9904,13 +9962,13 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/interlay">KINT - Kintsugi</a></b> (🥈16 ·  ⭐ 160) - ## What Is Kintsugi Network (KINT)? Kintsugi is Interlays canary..</summary>
+<details><summary><b><a href="https://github.com/interlay">KINT - Kintsugi</a></b> (🥉15 ·  ⭐ 160) - ## What Is Kintsugi Network (KINT)? Kintsugi is Interlays canary..</summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/interlay/interbtc">interbtc</a></b> (🥈20 ·  ⭐ 160) - interBTC: Trustless Bitcoin on Polkadot | kBTC: Trustless Bitcoin on.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/interlay/interbtc">interbtc</a></b> (🥈19 ·  ⭐ 160) - interBTC: Trustless Bitcoin on Polkadot | kBTC: Trustless Bitcoin on.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/interlay/interbtc) (👨‍💻 14 · 🔀 37 · 📥 940 · 📋 35 - 62% open · ⏱️ 21.06.2022):
+- [GitHub](https://github.com/interlay/interbtc) (👨‍💻 14 · 🔀 39 · 📥 960 · 📋 35 - 62% open · ⏱️ 27.06.2022):
 
 	```
 	git clone https://github.com/interlay/interbtc
@@ -10033,7 +10091,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 
 
 ---
-<details><summary><b><a href="https://github.com/mosaicnetworks/babble">babble</a></b> (🥈16 ·  ⭐ 430 · 💤) - Distributed Consensus Middleware. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/mosaicnetworks/babble">babble</a></b> (🥉16 ·  ⭐ 430 · 💤) - Distributed Consensus Middleware. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/mosaicnetworks/babble) (👨‍💻 14 · 🔀 87 · 📥 2.2K · 📦 1 · 📋 82 - 7% open · ⏱️ 10.07.2021):
 
@@ -10092,92 +10150,93 @@ _Blockchains designed to facilitate the exchange of data and payment information
 <details><summary>Show 163 hidden projects...</summary>
 
 - <b><a href="https://github.com/dev-protocol">DEV - Dev Protocol</a></b> (🥈22 ·  ⭐ 130) - Well decentralized network of Masternodes without.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/energywebfoundation">EWT - Energy Web Token</a></b> (🥈20 ·  ⭐ 82) - Native token of the Energy Web Chain, a public, Proof-of-..
+- <b><a href="https://github.com/energywebfoundation">EWT - Energy Web Token</a></b> (🥈20 ·  ⭐ 83) - Native token of the Energy Web Chain, a public, Proof-of-..
 - <b><a href="https://github.com/musicoin">MUSIC - NFTMusic.ai</a></b> (🥈19 ·  ⭐ 270 · 💀) - Music streaming platform built on the blockchain that.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/iov-one">IOV - Starname</a></b> (🥈19 ·  ⭐ 200 · 💀) - Vertical application of blockchain technology in the field of..
 - <b><a href="https://github.com/umee-network">UMEE - Umee</a></b> (🥈19 ·  ⭐ 140) - Cross chain DeFi hub that interconnects between blockchains. As a base..
 - <b><a href="https://github.com/pokt-network">POKT - Pocket Network</a></b> (🥈18 ·  ⭐ 120) - Blockchain data platform built for applications that uses..
+- <b><a href="https://github.com/alephium">ALPH - Alephium</a></b> (🥈18 ·  ⭐ 83) - First operational sharded blockchain bringing scalability, ETH-..
 - <b><a href="https://github.com/gobytecoin">GBX - GoByte</a></b> (🥈18 ·  ⭐ 35) - Innovative cryptocurrency. A form of digital currency secured by..
 - <b><a href="https://github.com/zeitgeistpm">ZTG</a></b> (🥈17 ·  ⭐ 130) - No description.
 - <b><a href="https://github.com/emercoin">EMC - EmerCoin</a></b> (🥈17 ·  ⭐ 110) - Emercoin - Distributed blockchain services for business and personal..
-- <b><a href="https://github.com/alephium">ALPH - Alephium</a></b> (🥈17 ·  ⭐ 82) - First operational sharded blockchain bringing scalability, ETH-..
-- <b><a href="https://github.com/qortal">QORT</a></b> (🥈17 ·  ⭐ 44) - No description.
-- <b><a href="https://github.com/DAVFoundation">DAV - DAV Network</a></b> (🥈16 ·  ⭐ 330 · 💀) - Open source Software platform that allows anyone to buy.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/primecoin">XPM - Primecoin</a></b> (🥈16 ·  ⭐ 320 · 💀) - Innovative cryptocurrency, a form of digital currency secured by..
-- <b><a href="https://github.com/galacticcouncil">XHDX - HydraDX</a></b> (🥈16 ·  ⭐ 110) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/qlcchain">QLC - QLC Chain</a></b> (🥈16 ·  ⭐ 99) - Qlink will be a decentralized mobile network, is dedicated to..
-- <b><a href="https://github.com/effectai">EFX - Effect Network</a></b> (🥈16 ·  ⭐ 98) - Effect Network is ought to be a decentralized platform for..
-- <b><a href="https://github.com/graft-project">GRFT - Graft Blockchain</a></b> (🥈16 ·  ⭐ 80 · 💤) - Accept cryptocurrency at the Point of Sale Merchants..
-- <b><a href="https://github.com/duality-solutions">DYN - Dynamic</a></b> (🥈16 ·  ⭐ 60 · 💤) - Dynamic enables fast, secure, verifiable transfers of data using..
-- <b><a href="https://github.com/SelfKeyFoundation">KEY - SelfKey</a></b> (🥈16 ·  ⭐ 49 · 💤) - Blockchain based identity network that allows individuals and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/ainblockchain">AIN - AI Network</a></b> (🥈16 ·  ⭐ 49) - AINORI develops various platforms such as Mining, Staking,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/effectai">EFX - Effect Network</a></b> (🥈17 ·  ⭐ 98) - Effect Network is ought to be a decentralized platform for..
+- <b><a href="https://github.com/qortal">QORT</a></b> (🥈17 ·  ⭐ 47) - No description.
+- <b><a href="https://github.com/DAVFoundation">DAV - DAV Network</a></b> (🥉16 ·  ⭐ 330 · 💀) - Open source Software platform that allows anyone to buy.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/primecoin">XPM - Primecoin</a></b> (🥉16 ·  ⭐ 320 · 💀) - Innovative cryptocurrency, a form of digital currency secured by..
+- <b><a href="https://github.com/galacticcouncil">XHDX - HydraDX</a></b> (🥉16 ·  ⭐ 110) - No description. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/qlcchain">QLC - QLC Chain</a></b> (🥉16 ·  ⭐ 99) - Qlink will be a decentralized mobile network, is dedicated to..
+- <b><a href="https://github.com/graft-project">GRFT - Graft Blockchain</a></b> (🥉16 ·  ⭐ 80 · 💤) - Accept cryptocurrency at the Point of Sale Merchants..
+- <b><a href="https://github.com/duality-solutions">DYN - Dynamic</a></b> (🥉16 ·  ⭐ 60 · 💤) - Dynamic enables fast, secure, verifiable transfers of data using..
+- <b><a href="https://github.com/SelfKeyFoundation">KEY - SelfKey</a></b> (🥉16 ·  ⭐ 49 · 💤) - Blockchain based identity network that allows individuals and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/ainblockchain">AIN - AI Network</a></b> (🥉16 ·  ⭐ 49) - AINORI develops various platforms such as Mining, Staking,.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/TokenMarketNet">AMLT - AMLT Network</a></b> (🥉15 ·  ⭐ 1.4K · 💀) - The Coinfirm AML/CTF Platform and its AMLT Network.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/OpenST">OST - OST</a></b> (🥉15 ·  ⭐ 120 · 💀) - Protocol for consumer-app tokenization and an ERC-20 utility token.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/novacoin-project">NVC - Novacoin</a></b> (🥉15 ·  ⭐ 110) - Coin of the feature. Its unique way of utilizing both Proof-of-Work..
 - <b><a href="https://github.com/astroport-fi">ASTRO - Astroport</a></b> (🥉15 ·  ⭐ 99) - Next generation AMM on Terra chain. It offers multiple pool.. <code><img src="https://git.io/J9cOg" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/SmartCash">SMART - SmartCash</a></b> (🥉15 ·  ⭐ 87) - Self-funded cryptocurrency focused on daily payments, fast..
 - <b><a href="https://github.com/CoinBlack">BLK - BlackCoin</a></b> (🥉15 ·  ⭐ 81 · 💀) - Peer-to-peer cryptocurrency, which uses only proof-of-stake..
 - <b><a href="https://github.com/wagerr">WGR - Wagerr</a></b> (🥉15 ·  ⭐ 69 · 💤) - Wagerr (WGR), a fully decentralized sports betting blockchain... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/safex">SFT - Safety</a></b> (🥉15 ·  ⭐ 65 · 💤) - Safex describes itself as a privacy-focused open-source.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/bloxapp">SSV - SSV Network</a></b> (🥉15 ·  ⭐ 59) - SSV promotes decentralization, security, and liveness across.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/bloxapp">SSV - SSV Network</a></b> (🥉15 ·  ⭐ 61) - SSV promotes decentralization, security, and liveness across.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/qitmeer">PMEER</a></b> (🥉15 ·  ⭐ 52) - No description.
 - <b><a href="https://github.com/myriadteam">XMY - Myriad</a></b> (🥉15 ·  ⭐ 47 · 💀) - Myriad - A Coin For Everyone. Myriad is the first Multi-Algo coin...
-- <b><a href="https://github.com/hermeznetwork">HEZ - Hermez Network</a></b> (🥉15 ·  ⭐ 46 · 💤) - Decentralized zk-rollup focused on scaling payments.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/TokenMarketNet">AMLT - AMLT Network</a></b> (🥉14 ·  ⭐ 1.4K · 💀) - The Coinfirm AML/CTF Platform and its AMLT Network.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/ChorusOne">STSOL - Lido Staked SOL</a></b> (🥉14 ·  ⭐ 150) - Lido-DAO governed liquid staking protocol for the.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/limxtec">BTDX - Bitcloud</a></b> (🥉14 ·  ⭐ 140) - BITCLOUD - DIGITAL CURRENCY.
 - <b><a href="https://github.com/capsule-corp-ternoa">CAPS - Ternoa</a></b> (🥉14 ·  ⭐ 140) - Memories are an essential part of who we are. If memory plays an.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/exchangeunion">XUC - Exchange Union</a></b> (🥉14 ·  ⭐ 120 · 💀) - Open source project, developing the XU node software... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/SmartCash">SMART - SmartCash</a></b> (🥉14 ·  ⭐ 87) - Self-funded cryptocurrency focused on daily payments, fast..
-- <b><a href="https://github.com/PalletOne">PTN - PalletOneToken</a></b> (🥉14 ·  ⭐ 86) - Cross-chain project which is also the widely discussed.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/windingtree">LIF - Lif</a></b> (🥉14 ·  ⭐ 59 · 💀) - Blockchain-based distribution platform for the travel industry. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/hermeznetwork">HEZ - Hermez Network</a></b> (🥉14 ·  ⭐ 46 · 💤) - Decentralized zk-rollup focused on scaling payments.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/etherzero-org">ETZ - Ether Zero</a></b> (🥉14 ·  ⭐ 45) - New generation of smart contract platform (public chain) initiated..
 - <b><a href="https://github.com/joystream">JOYSTREAM</a></b> (🥉14 ·  ⭐ 43) - No description.
 - <b><a href="https://github.com/pigeoncoin">PGN - Pigeoncoin</a></b> (🥉14 ·  ⭐ 38) - Software startup that is using our mineable cryptocurrency and our..
+- <b><a href="https://github.com/aurarad">AUR - Auroracoin</a></b> (🥉14 ·  ⭐ 33) - Peer-to-peer cryptocurrency launched on January 24, 2014 as an..
 - <b><a href="https://github.com/saddle-finance">SDL - Saddle Finance</a></b> (🥉13 ·  ⭐ 140) - Decentralized automated market maker (AMM) on the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/MASQ-Project">MASQ - MASQ</a></b> (🥉13 ·  ⭐ 140) - Foundation for the internet of the future. MASQ is much more than.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/integritee-network">TEER - Integritee</a></b> (🥉13 ·  ⭐ 130) - The Integritee platform enables firms and dApps to process their..
 - <b><a href="https://github.com/HausDAO">HAUS - DAOhaus</a></b> (🥉13 ·  ⭐ 120) - This HAUS doesnt build itself It takes a community, and HausDAO.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/fundrequest">FND - Fundum</a></b> (🥉13 ·  ⭐ 110 · 💀) - FundRequest introduces an easy and secure way to reward.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/PalletOne">PTN - PalletOneToken</a></b> (🥉13 ·  ⭐ 86) - Cross-chain project which is also the widely discussed.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/semuxproject">SEM - Semux</a></b> (🥉13 ·  ⭐ 75 · 💀) - Innovative high-performance blockchain platform, powered by Semux BFT..
-- <b><a href="https://github.com/PascalCoin">PASC - Pascal</a></b> (🥉13 ·  ⭐ 61) - PascalCoin pioneers a new tier of scalability suitable for planetary-..
+- <b><a href="https://github.com/PascalCoin">PASC - Pascal</a></b> (🥉13 ·  ⭐ 60) - PascalCoin pioneers a new tier of scalability suitable for planetary-..
 - <b><a href="https://github.com/vcashorg">VCASH - VCash Token</a></b> (🥉13 ·  ⭐ 47 · 💀) - Product that implements MimbleWimble technology with..
-- <b><a href="https://github.com/Medibloc">MED - Medibloc</a></b> (🥉13 ·  ⭐ 46) - MediBlocs healthcare information platform is a personal data ecosystem..
-- <b><a href="https://github.com/pegnet">PEG - PegNet</a></b> (🥉13 ·  ⭐ 42 · 💀) - Fully decentralized stablecoin / synthetic asset platform. Users can..
-- <b><a href="https://github.com/aurarad">AUR - Auroracoin</a></b> (🥉13 ·  ⭐ 33) - Peer-to-peer cryptocurrency launched on January 24, 2014 as an..
-- <b><a href="https://github.com/presearchofficial">PRE - Presearch</a></b> (🥉12 ·  ⭐ 140) - Decentralized search engine, powered by the community. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/pegnet">PEG - PegNet</a></b> (🥉13 ·  ⭐ 41 · 💀) - Fully decentralized stablecoin / synthetic asset platform. Users can..
+- <b><a href="https://github.com/vitaeteam">VITAE - Vitae</a></b> (🥉13 ·  ⭐ 37) - Growing Global Prosperity! Premine: 1 000 000 coins.
 - <b><a href="https://github.com/mesg-foundation">MESG - MESG</a></b> (🥉12 ·  ⭐ 120 · 💀) - Decentralized building platform for apps and businesses where..
-- <b><a href="https://github.com/fundrequest">FND - Fundum</a></b> (🥉12 ·  ⭐ 110 · 💀) - FundRequest introduces an easy and secure way to reward.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/litentry">LIT - LIT</a></b> (🥉12 ·  ⭐ 74) - Second layer protocol and infrastructure based on Substrate. It focuses.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/cybermiles">CMT - CyberMiles</a></b> (🥉12 ·  ⭐ 74 · 💤) - CyberMiles is Empowering the Decentralization of E-commerce. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/commerceblock">WDGLD - Wrapped-DGLD</a></b> (🥉12 ·  ⭐ 64) - First ERC-20 token pegged one-to-one with DGLD, the worlds.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/aphtoken">APH - APHolding Coin</a></b> (🥉12 ·  ⭐ 56 · 💀) - Aphelion is supposed to be P2P trading platform (DEX) built..
 - <b><a href="https://github.com/project-bitmark">MARKS - Bitmark</a></b> (🥉12 ·  ⭐ 48 · 💀) - Initiative to create an every day use alternative currency. Its..
+- <b><a href="https://github.com/Medibloc">MED - Medibloc</a></b> (🥉12 ·  ⭐ 47) - MediBlocs healthcare information platform is a personal data ecosystem..
 - <b><a href="https://github.com/jsecoin">JSE - JSECOIN</a></b> (🥉12 ·  ⭐ 47 · 💀) - Every other industry across the globe is moving towards greener..
 - <b><a href="https://github.com/bityuan">BTY</a></b> (🥉12 ·  ⭐ 44) - No description.
 - <b><a href="https://github.com/kifoundation">XKI - KI</a></b> (🥉12 ·  ⭐ 43) - Ki Foundations mission is about bridging the gap between CeFi and DeFi... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/vitaeteam">VITAE - Vitae</a></b> (🥉12 ·  ⭐ 37) - Growing Global Prosperity! Premine: 1 000 000 coins.
 - <b><a href="https://github.com/ixofoundation">IXO - IXO</a></b> (🥉12 ·  ⭐ 34) - The ixo protocol defines a new open standard for producing verifiable claims..
 - <b><a href="https://github.com/Remmeauth">REM - Remme</a></b> (🥉11 ·  ⭐ 140 · 💀) - No more passwords no more break-ins. REMME implements foolproof.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/cherrynetwork">CHER - Cherry Network</a></b> (🥉11 ·  ⭐ 73) - Decentralized Autonomous Organization developing a layer.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/octopus-network">OCT - Octopus Network</a></b> (🥉11 ·  ⭐ 68) - Oraclechain will be the worlds first face block chain.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/fractalplatform">FT - FToken</a></b> (🥉11 ·  ⭐ 67 · 💀) - Token of FCoin exchange.
-- <b><a href="https://github.com/bitsongofficial">BTSG - BitSong</a></b> (🥉11 ·  ⭐ 61) - The first decentralized music streaming platform. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/bitsongofficial">BTSG - BitSong</a></b> (🥉11 ·  ⭐ 63) - The first decentralized music streaming platform. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/owlchain">BOS - BOScoin</a></b> (🥉11 ·  ⭐ 58 · 💀) - BOScoin - self-evolving cryptocurrency platform. The Modified..
 - <b><a href="https://github.com/Scorum">SCR - Scorum</a></b> (🥉11 ·  ⭐ 55) - Blogging platform that rewards its active users.
 - <b><a href="https://github.com/bulwark-crypto">BWK - Bulwark</a></b> (🥉11 ·  ⭐ 55 · 💀) - Bulwark cryptocurrency (BWK) is a privacy oriented digital currency..
 - <b><a href="https://github.com/HathorNetwork">HTR - Hathor</a></b> (🥉11 ·  ⭐ 53) - Hathor arranges its transactions in a DAG - outside the blocks - which..
-- <b><a href="https://github.com/wrkzcoin">WRKZ - WrkzCoin</a></b> (🥉11 ·  ⭐ 51) - Cryptocurrency based on CryptoNote technology. Our goal is to build,..
-- <b><a href="https://github.com/Revolution-Populi">RVP - Revolution Populi</a></b> (🥉11 ·  ⭐ 49) - A decentralized user-controlled layer 1 blockchain.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/wrkzcoin">WRKZ - WrkzCoin</a></b> (🥉11 ·  ⭐ 52) - Cryptocurrency based on CryptoNote technology. Our goal is to build,..
+- <b><a href="https://github.com/Revolution-Populi">RVP - Revolution Populi</a></b> (🥉11 ·  ⭐ 50) - A decentralized user-controlled layer 1 blockchain.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/metahashorg">MHC - #MetaHash</a></b> (🥉11 ·  ⭐ 39) - #MetaHash is a Next-Generation Network based on the #TraceChain..
 - <b><a href="https://github.com/marscoin">MARS - Mars</a></b> (🥉11 ·  ⭐ 37) - The protocol consists of pBTC35A tokens and MARS tokens. Each pBTC35A.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/e-money">NGM - e-Money</a></b> (🥉11 ·  ⭐ 34) - E-Money stablecoins are a further stage in the development of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/e-money">NGM - e-Money</a></b> (🥉11 ·  ⭐ 36) - E-Money stablecoins are a further stage in the development of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/neutroncoin">NTRN - Neutron</a></b> (🥉11 ·  ⭐ 31) - Proof of Stake Cryptocurrency and Education Platform that pays..
 - <b><a href="https://github.com/everitoken">EVT - Elevation Token</a></b> (🥉10 ·  ⭐ 960 · 💀) - Worlds first token-customized public chain for token.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/matryx">MTX - MATRYX</a></b> (🥉10 ·  ⭐ 480 · 💀) - Decentralized VR platform on the blockchain. The Matryx Token.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/armors">ARM - Armours</a></b> (🥉10 ·  ⭐ 180 · 💀) - As the worlds leading blockchain security laboratory, Armors.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/presearchofficial">PRE - Presearch</a></b> (🥉10 ·  ⭐ 140 · 📉) - Decentralized search engine, powered by the community. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/flowchain">DEXG - Dextoken Governance</a></b> (🥉10 ·  ⭐ 140 · 💤) - Priceless automated market maker proposed by the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/yieldyak">YAK - Yield Yak</a></b> (🥉10 ·  ⭐ 130) - Easy-to-use tool to earn more yield from DeFi farming on the.. <code><img src="https://git.io/J9cOb" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/smart-chain-fr">CLAP - Cardashift</a></b> (🥉10 ·  ⭐ 84) - Community-run launchpad that raises funds, builds and accelerates..
 - <b><a href="https://github.com/automata-network">ATA - Automata</a></b> (🥉10 ·  ⭐ 80) - Decentralized service protocol that provides middleware-like.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/PositionExchange">POSI - Position Token</a></b> (🥉10 ·  ⭐ 59) - New Decentralized Trading Protocol, powered by a vAMM and.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/zenprotocol">ZP - Zen Protocol</a></b> (🥉10 ·  ⭐ 56) - New type of blockchain, written from scratch in F#, with a..
 - <b><a href="https://github.com/Nexusoft">NXS - Nexus</a></b> (🥉10 ·  ⭐ 55) - Innovative open source blockchain technology, designed to better the world..
 - <b><a href="https://github.com/chronologic">DAY - Chronologic</a></b> (🥉10 ·  ⭐ 49 · 💀) - Debt smart contracts & temporal innovation on Ethereum. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/arkadiko-dao">DIKO - Arkadiko</a></b> (🥉10 ·  ⭐ 49) - Governance token of Arkadiko. Arkadiko is a decentralized and non-..
@@ -10185,34 +10244,33 @@ _Blockchains designed to facilitate the exchange of data and payment information
 - <b><a href="https://github.com/VeriBlock">VBK - VeriBlock</a></b> (🥉10 ·  ⭐ 36) - VeriBlock.
 - <b><a href="https://github.com/gammastrategies">GAMMA - Gamma Strategies</a></b> (🥉9 ·  ⭐ 420) - Active Liquidity Management and discretionary.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/mydexchain">DXC - Dex-Trade Coin</a></b> (🥉9 ·  ⭐ 300) - DXC is not just a coin, it is a backbone payment unit of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/manifoldfinance">FOLD - Manifold Finance</a></b> (🥉9 ·  ⭐ 250) - Manifold Finance provides solutions encompassing the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/EveripediaNetwork">IQ - Everipedia</a></b> (🥉9 ·  ⭐ 150 · 💤) - The online encyclopedia reinvented for the modern age. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/defis-net">DFS - Fantasy Sports</a></b> (🥉9 ·  ⭐ 93 · 💀) - DIGITAL FANTASY SPORTS Innovative fantasy sports gaming.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/stakewise">SWISE - StakeWise</a></b> (🥉9 ·  ⭐ 87) - Liquid Ethereum staking protocol that tokenizes users deposits.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/stakewise">SWISE - StakeWise</a></b> (🥉9 ·  ⭐ 88) - Liquid Ethereum staking protocol that tokenizes users deposits.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/gscsocial">GSC - Global Social Chain</a></b> (🥉9 ·  ⭐ 76 · 💀) - GSC (Global Social Chain) wants to be the worlds.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/ultiledger">ULT - Ultiledger</a></b> (🥉9 ·  ⭐ 57 · 💀) - Ultiledger aims to help any organization (Contains.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/zenprotocol">ZP - Zen Protocol</a></b> (🥉9 ·  ⭐ 56) - New type of blockchain, written from scratch in F#, with a..
 - <b><a href="https://github.com/mfactory-lab">JSOL - JPool</a></b> (🥉9 ·  ⭐ 46) - Solana Stake Pool token issued by JPool. It represents the holders.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/unitprotocol">DUCK - DLP Duck Token</a></b> (🥉9 ·  ⭐ 43) - DuckDAO DeFi Market Maker protocol that will provide an.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/poseidon-network">QQQ - Poseidon Network</a></b> (🥉9 ·  ⭐ 43) - Launched on 15/01/2019 by Currency.com team based in.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/simplechain-org">SIMPLE - SIMPLE</a></b> (🥉9 ·  ⭐ 36 · 💀) - SimpleChain: Simple to use blockchain, chain up the world, is..
 - <b><a href="https://github.com/martexcoin">MXT - MarteXcoin</a></b> (🥉9 ·  ⭐ 34 · 💀) - No description.
 - <b><a href="https://github.com/xtblock">XTT-B20 - XTblock Token</a></b> (🥉8 ·  ⭐ 1.2K) - A hyper-capable network, XTblock aims to deliver not.. <code><img src="https://git.io/J9cOd" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/manifoldfinance">FOLD - Manifold Finance</a></b> (🥉8 ·  ⭐ 250) - Manifold Finance provides solutions encompassing the.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/ttceco">MARO - Maro</a></b> (🥉8 ·  ⭐ 120 · 💤) - TTC provides a decentralized and token-incentivized blockcahin.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/UlordChain">UT - Ulord</a></b> (🥉8 ·  ⭐ 98 · 💀) - Peer-to-peer value transfer public blockchain. Through building its..
 - <b><a href="https://github.com/polkafoundry">PKF - PolkaFoundry</a></b> (🥉8 ·  ⭐ 93 · 💀) - What Is PolkaFoundry (PKF)? PolkaFoundry is a platform for.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/clover-network">CLV - Clover Finance</a></b> (🥉8 ·  ⭐ 78) - Substrate-based DeFi service platform built on Polkadot... <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/ref-finance">REF - Ref Finance</a></b> (🥉8 ·  ⭐ 74) - RefToken, a decentralised affiliate marketing platform on the..
-- <b><a href="https://github.com/linkpoolio">LPL - LinkPool</a></b> (🥉8 ·  ⭐ 44 · 💀) - Leading Chainlink node service provider with the goal of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/linkpoolio">LPL - LinkPool</a></b> (🥉8 ·  ⭐ 45 · 💀) - Leading Chainlink node service provider with the goal of.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/team-hycon">HYC - Hycon</a></b> (🥉8 ·  ⭐ 41 · 💀) - HYCON, which stands for Hyperconnected Coin, is the digital asset built..
 - <b><a href="https://github.com/projectchicago">GST2 - GasToken</a></b> (🥉7 ·  ⭐ 650 · 💀) - New, cutting-edge Ethereum contract that allows users to.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/cruzbit">CRUZ - Cruzbit</a></b> (🥉7 ·  ⭐ 120 · 💀) - New decentralized peer-to-peer ledger designed to be as simple as..
-- <b><a href="https://github.com/essentiaone">ESS - Essentia</a></b> (🥉7 ·  ⭐ 110 · 💀) - Masternoded multi-chained set of protocols connecting.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/essentiaone">ESS - Essentia</a></b> (🥉7 ·  ⭐ 120 · 💀) - Masternoded multi-chained set of protocols connecting.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/sealchain-project">SEAL - Sealchain</a></b> (🥉7 ·  ⭐ 95 · 💀) - No description.
 - <b><a href="https://github.com/ongridsystems">CNP - Cryptonia Poker</a></b> (🥉7 ·  ⭐ 93 · 💀) - Play poker online with cryptocurrency. This.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/bismuthfoundation">BIS - Bismuth</a></b> (🥉7 ·  ⭐ 36 · 💤) - New blockchain protocol and a platform at the same time. It has an..
+- <b><a href="https://github.com/bismuthfoundation">BIS - Bismuth</a></b> (🥉7 ·  ⭐ 37 · 💤) - New blockchain protocol and a platform at the same time. It has an..
 - <b><a href="https://github.com/2key">2KEY - 2key.network</a></b> (🥉7 ·  ⭐ 35 · 💤) - REAL technology. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/skyward-finance">SKYWARD - Skyward Finance</a></b> (🥉6 ·  ⭐ 810 · 💤) - Fully permissionless open sourced launchpad that..
+- <b><a href="https://github.com/skyward-finance">SKYWARD - Skyward Finance</a></b> (🥉6 ·  ⭐ 800 · 💤) - Fully permissionless open sourced launchpad that..
 - <b><a href="https://github.com/sparkleloyalty">SPRKL - Sparkle Loyalty</a></b> (🥉6 ·  ⭐ 220 · 💀) - Brand new, mobile all-in-one application that helps.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bc-game-project">JB</a></b> (🥉6 ·  ⭐ 160 · 💀) - No description.
 - <b><a href="https://github.com/fibosio">FO - FIBOS</a></b> (🥉6 ·  ⭐ 150 · 💀) - Platform for creating and developing blockchain application ecosystems..
@@ -10235,7 +10293,8 @@ _Blockchains designed to facilitate the exchange of data and payment information
 - <b><a href="https://github.com/coinversation">CTO - Coinversation</a></b> (🥉4 ·  ⭐ 310) - Lite version of Bitcoin using Lyra2RE as a proof-of-work.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/quras-official">XQC - Quras Token</a></b> (🥉4 ·  ⭐ 170 · 💀) - Genuine secret contract platform that fulfills various.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/sonar-watch">SONAR - SonarWatch</a></b> (🥉4 ·  ⭐ 73 · 💤) - Tracking tool on Solana Blockchain that aim to show on a.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/scryptachain">LYRA - Lyra Finance</a></b> (🥉4 ·  ⭐ 69) - Distributed platform aiming to redefine business models and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/scryptachain">LYRA - Lyra Finance</a></b> (🥉4 ·  ⭐ 71) - Distributed platform aiming to redefine business models and.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/mediafoundation">MEDIA - Media Network</a></b> (🥉4 ·  ⭐ 59) - New protocol that bypasses traditional CDN providers.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/AngleProtocol">ANGLE - ANGLE</a></b> (🥉4 ·  ⭐ 54) - Governance token of the Angle Protocol. The Angle Protocol is a.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/cycloneprotocol">CYC - Cyclone Protocol</a></b> (🥉4 ·  ⭐ 49 · 💀) - Multi-chain, non-custodial, privacy-preserving protocol...
 - <b><a href="https://github.com/raid-guild">RAID - Raid Token</a></b> (🥉4 ·  ⭐ 43 · 💀) - Decentralized collective of mercenaries ready to slay your Web3..
@@ -10243,14 +10302,13 @@ _Blockchains designed to facilitate the exchange of data and payment information
 - <b><a href="https://github.com/libonomy">LBY - Libonomy</a></b> (🥉4 ·  ⭐ 37 · 💀) - Open-source platform to create decentralized solutions. Libonomy..
 - <b><a href="https://github.com/vntchain">VNT - InventoryClub</a></b> (🥉4 ·  ⭐ 35 · 💀) - VNT Chain is supported by the worlds leading blockchain.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/mailchain">MAILCHAIN</a></b> (🥉4 ·  ⭐ 34) - No description.
-- <b><a href="https://github.com/mediafoundation">MEDIA - Media Network</a></b> (🥉3 ·  ⭐ 59) - New protocol that bypasses traditional CDN providers.. <code><img src="https://git.io/J9cOa" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/Steemhunt">HUNT - HUNT</a></b> (🥉3 ·  ⭐ 58) - HUNT is an incentivising community platform on top of Steem Blockchain.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/euler-xyz">EUL</a></b> (🥉3 ·  ⭐ 71 · 💤) - No description.
+- <b><a href="https://github.com/Steemhunt">HUNT - HUNT</a></b> (🥉3 ·  ⭐ 57) - HUNT is an incentivising community platform on top of Steem Blockchain.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/zilpay">ZLP - ZilPay Wallet</a></b> (🥉3 ·  ⭐ 40 · 💀) - ZLP the official ZIlPay wallet token, ZLP is using in the..
 - <b><a href="https://github.com/tombfinance">TSHARE - Tomb Shares</a></b> (🥉3 ·  ⭐ 4 · 💤) - No description. <code><img src="https://git.io/J9cOi" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/thinkiumgroup">TKM - Thinkium</a></b> (🥉2 ·  ⭐ 100 · 💤) - Thinkium uses a multi-chain layered multi-level system..
-- <b><a href="https://github.com/euler-xyz">EUL</a></b> (🥉2 ·  ⭐ 72 · 💤) - No description.
 - <b><a href="https://github.com/mylivn-gmbh">MLVC - Mylivn Coin</a></b> (🥉2 ·  ⭐ 52) - Token that has been designed to be the universal currency for.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/entropyfi">ERP - Entropyfi</a></b> (🥉2 ·  ⭐ 40 · 💀) - Lossless prediction market providing user a safer platform to.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/entropyfi">ERP - Entropyfi</a></b> (🥉2 ·  ⭐ 39 · 💀) - Lossless prediction market providing user a safer platform to.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bumoproject">BU - BUMO</a></b> (🥉1 ·  ⭐ 2 · 💀) - Next-generation commercial-grade public Blockchain for ubiquitous and..
 - <b><a href="https://github.com/sw-dao">SWD - SW DAO</a></b> (🥉1) - Global community that will launch and maintain the worlds most sophisticated.. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/manta-network">MANTA</a></b> (🥉1) - No description.
