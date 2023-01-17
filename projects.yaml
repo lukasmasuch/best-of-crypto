@@ -79,6 +79,12 @@ labels:
 
 projects:
   - group: true
+    group_id: forta
+    name: Forta Network
+    homepage: https://github.com/forta-network
+    description: The leading decentralized security & operational monitoring network for Web3 infrastructure, developers, and investors.
+    category: web3
+  - group: true
     group_id: eth
     name: ETH - Ethereum
     homepage: https://github.com/ethereum
