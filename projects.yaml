@@ -14676,7 +14676,7 @@ projects:
   - name: aleph-js
     github_id: aleph-im/aleph-js
     group_id: aleph
-  - name: aion
+  - name: aionnetwork/aion
     github_id: aionnetwork/aion
     group_id: aion
   - name: aionnetwork/Desktop-Wallet
@@ -14736,7 +14736,7 @@ projects:
   - name: nuls-v2
     github_id: nuls-io/nuls-v2
     group_id: nuls
-  - name: firo
+  - name: firoorg/firo
     github_id: firoorg/firo
     group_id: firo
   - name: solidity-BigNumber
@@ -14781,7 +14781,7 @@ projects:
   - name: web3-wallets-kit
     github_id: akropolisio/web3-wallets-kit
     group_id: akro
-  - name: beam
+  - name: BeamMW/beam
     github_id: BeamMW/beam
     group_id: beam
   - name: android-wallet
