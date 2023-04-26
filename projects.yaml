@@ -307,6 +307,12 @@ projects:
       currently trading on..
     category: privacy-coins
   - group: true
+    group_id: xkr
+    name: XKR - Kryptokrona
+    homepage: https://github.com/kryptokrona
+    description: Private, fast and secure cryptocurrency from the nordic region.
+    category: privacy-coins
+  - group: true
     group_id: icx
     name: ICX - ICON
     homepage: https://github.com/icon-project
