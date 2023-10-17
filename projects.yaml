@@ -3064,13 +3064,13 @@ projects:
   - group: true
     group_id: xor
     name: XOR - Sora
-    homepage: https://github.com/soramitsu
+    homepage: https://github.com/sora-xor
     description: Supranational world economic system and decentralized and democratic
       governance structure. SORA is both a new economic system that decentralizes the
       concept of a central bank as well as a network in the Polkadot ecosystem that
       will connect to the..
     category: cryptocurrency
-    labels: ["eth"]
+    labels: ["dot"]
   - group: true
     group_id: mcb
     name: MCB - MCDex
