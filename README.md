@@ -5558,6 +5558,11 @@ _Blockchains designed to facilitate the exchange of data and payment information
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
 <details><summary><b><a href="https://github.com/AleoHQ">ALEO - aleo.org</a></b> (🥇37 ·  ⭐ 11K) - No description.</summary>
+---
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/bitquery">Bitquery - bitquery.io</a></b> Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool.</summary>
 
 
 ---
