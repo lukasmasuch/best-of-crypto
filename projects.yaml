@@ -7951,6 +7951,15 @@ projects:
       28.43 over the last 24..
     category: None
     labels: ["bsc"]
+  - group: true
+    group_id: ambire
+    name: Ambire
+    homepage: https://github.com/AmbireTech/wallet
+    description: The first hybrid Account abstraction wallet to support Basic (EOA)
+      and Smart accounts, improving security and user experience.
+    category: web3
+    labels: ["eth"]
+
 
   # Projects
   - name: vyper
